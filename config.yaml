@@ -39,7 +39,7 @@ platforms:
     # 注意先收集mesh条目，再收集tiab
     # mesh也许对最新文献不够及时，tiab是精确匹配，mesh是词义匹配，二者互补（mesh适合长期）
     query: >
-      ( "PCDH gene"[tiab] )
+      ( "PCDH"[tiab] )
   arxiv:
     # arXiv 原生布尔：写 all: 字段形式原样透传（无 : 的纯词会被强制全 AND，OR 失效）
     # 实测：IDP/LLPS 之类缩写容易与非声明科学类撞词，导致假阳性检索
@@ -48,7 +48,7 @@ platforms:
     # ⚠️ 另外 加了互作限定之后，arXiv 相关性候选数大幅下降，也许会一周都没有，但是本topic本来就是搜集互作项，即使命中少，也要保留
     max_results: 100
     query: > 
-      ("PCDH gene")
+      ("PCDH")
   biorxiv:
     # 与 arXiv 同构的括号三段式（对象×互作×方法，纯短语、无字段前缀）
     # 实测（2026-09-07）：
@@ -61,12 +61,12 @@ platforms:
     #  biorxiv/medrxiv 由 Europe PMC 严格补上，仅 chemrxiv 暴露（窗内近 0）
     # 3. 目前策略: Europe PMC 严格 + Crossref 超集 + 每周 Zotero 人工筛选 = 最优，维持括号三段式
     query: >
-      ("PCDH gene")
+      ("PCDH")
   medrxiv:
     # 与 bioRxiv 同串（同一 BioRxivFetcher，platform=medrxiv）
     # 双平台混合：Europe PMC 严格 + Crossref 超集
     query: >
-      ("PCDH gene")
+      ("PCDH")
   chemrxiv:
     # 与 bioRxiv 同串（ChemRxiv Crossref prefix 10.26434）
     # chemRxiv 只有 Crossref，Europe PMC 不收录
@@ -74,4 +74,4 @@ platforms:
     # （deep learning / biomolecular condensate / interface / rosetta）在 Crossref 客户端会漏，但窗内近 0
     # 目前策略：维持三段式语义对齐、接受噪声，每周 Zotero 筛
     query: >
-      ("PCDH gene")
+      ("PCDH")
