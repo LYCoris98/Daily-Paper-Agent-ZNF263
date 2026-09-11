@@ -1,90 +1,103 @@
 ## Review setup
 - **Input scope** Full manuscript (including main text, figures, methods, and supplementary materials)
-- **Assessment boundary** Scientific validity, technical soundness, and clarity of claims based on the provided evidence
-- **Shared manuscript claim summary** The manuscript uses HiRES (joint single-cell Hi-C and RNA-seq) to study CTCF depletion in mouse ESCs, finding that TAD-like domain (TLD) boundaries become more variable, A compartment interactions weaken, and per-cell transcriptional output decreases. The authors develop SALTAFinder to identify higher-order TLD clusters (SALTAs) and show that active SALTAs are destabilized upon CTCF loss, correlating with reduced expression of highly active genes.
-- **Visible evidence base** Full text, figures (1–5), supplementary figures (S1–S9), supplementary tables (S1–S3), and detailed methods
-- **Missing materials affecting confidence** None identified; all key data and code are deposited or provided
+- **Assessment boundary** Scientific content only; no assessment of formatting, language, or editorial fit
+- **Shared manuscript claim summary** The manuscript reports that CTCF depletion in mouse embryonic stem cells does not eliminate TAD-like domains (TLDs) in single cells but redistributes their boundary positions, weakens A compartment interactions, and reduces per-cell transcriptional capacity. The authors develop SALTAFinder to identify higher-order TLD assemblies (SALTAs) and show that active SALTAs are destabilized upon CTCF loss, correlating with reduced expression of genes within them.
+- **Visible evidence base** Full text, figures (1–5), supplementary figures (S1–S9), supplementary tables (S1–S3), and detailed Materials and Methods
+- **Missing materials affecting confidence** No missing materials identified; all data and code are deposited and accessible
 
 ## Reviewer
-- **Overall assessment** This is a technically impressive and conceptually important study that leverages a powerful single-cell multiomic approach (HiRES) to dissect the role of CTCF in 3D genome organization and transcription. The key findings—that CTCF loss does not eliminate TLDs but redistributes their boundaries, and that it destabilizes higher-order active chromatin clusters (SALTAs) while reducing per-cell transcriptional capacity—are novel and well-supported by the data. The development of SALTAFinder is a methodological advance. However, several major concerns regarding the causal interpretation of the transcriptional decline, the robustness of SALTA identification, and the statistical rigor of some comparisons need to be addressed before the case is fully established.
-- **Who would be interested in the results, and why** Researchers in 3D genome biology, gene regulation, chromatin architecture, and single-cell genomics. The study provides mechanistic insights into how a key architectural protein (CTCF) shapes genome organization at single-cell resolution and links structural changes to global transcriptional output, which is of broad interest to the chromatin and transcription fields.
-- **Major strengths** 1. The use of HiRES to jointly profile chromatin contacts and RNA from the same nucleus is a powerful and appropriate approach, enabling direct correlation between structural and transcriptional changes. 2. The quantification of TLD boundary probabilities across single cells and the demonstration that CTCF loss redistributes rather than eliminates boundaries is a clear and important refinement of the bulk Hi-C view. 3. The development of SALTAFinder to identify higher-order TLD assemblies from single-cell Hi-C data is a novel and potentially valuable computational framework. 4. The orthogonal validation of reduced per-cell transcriptional output (flow cytometry, spike-in RNA-seq) strengthens the claim of a global transcriptional decline.
+- **Overall assessment** This is a technically impressive and conceptually important study that leverages a powerful single-cell multiomic approach (HiRES) to dissect the role of CTCF in genome organization and transcription at unprecedented resolution. The development of SALTAFinder to identify higher-order chromatin assemblies from single-cell Hi-C data is a notable methodological advance. The central finding—that CTCF loss does not eliminate domains but rather redistributes boundary positions and destabilizes active chromatin clusters—provides a refined and mechanistically insightful view of CTCF function. The evidence is generally strong, with multiple orthogonal validations. However, several concerns regarding statistical rigor, causal inference, and the interpretation of the SALTA analysis need to be addressed before the conclusions can be fully established.
+- **Who would be interested in the results, and why** Chromatin biologists, epigenomics researchers, and computational biologists interested in 3D genome organization, single-cell technologies, and the role of architectural proteins. The study provides a new framework for analyzing single-cell chromatin conformation data and offers mechanistic insights into how CTCF maintains genome architecture and transcriptional capacity.
+- **Major strengths** 1. The use of HiRES to jointly profile chromatin contacts and RNA from the same nucleus is a powerful and well-executed approach that enables direct correlation between structural and transcriptional changes. 2. The development of SALTAFinder is a significant methodological contribution that allows systematic identification of higher-order chromatin assemblies from single-cell Hi-C data. 3. The finding that CTCF loss redistributes TLD boundaries rather than eliminating them is a conceptually important refinement of the current understanding. 4. The study provides multiple orthogonal validations (flow cytometry, spike-in RNA-seq, published datasets) that strengthen the key conclusions.
 - **Major Concerns**
     - **Concern ID** R1-M1
     - **Severity** Major
     - **Blocking** Yes
-    - **Axis** Causal inference / interpretation
-    - **Claim pointer** The manuscript claims that CTCF depletion causes a reduction in per-cell transcriptional capacity, and that this is associated with the destabilization of active SALTAs and weakened A compartment interactions.
-    - **Evidence pointer** Figures 1B-C, 2F-I, 4D-G, and Discussion
-    - **Concern** The manuscript presents a correlative link between structural changes (SALTA destabilization, A compartment weakening) and reduced transcriptional output, but does not establish causality. The authors acknowledge this in the Discussion ("The causal relationship between these changes remains unresolved"), yet the abstract and results sections frame the findings in a strongly causal language (e.g., "CTCF contributes to the coordinated regulation...", "stabilization of long-range active chromatin clusters"). The key question is whether the structural changes drive the transcriptional decline, or whether reduced transcription (e.g., due to loss of CTCF at promoters) secondarily alters chromatin organization. The data cannot distinguish these possibilities.
-    - **Why it matters** The central claim of the paper—that CTCF stabilizes active chromatin clusters to support transcription—hinges on the direction of causality. Without causal evidence, the study remains a descriptive correlation, which is less impactful for a high-profile journal.
-    - **Resolution test** The authors should either (a) perform an experiment to test causality (e.g., tethering CTCF to a specific locus to see if it restores SALTA formation and transcription, or using an orthogonal perturbation that affects transcription without altering CTCF binding), or (b) substantially temper the causal language throughout the manuscript and explicitly frame the findings as correlative. A clear statement of the unresolved causality in the abstract and results is essential.
+    - **Axis** Statistical rigor / causal inference
+    - **Claim pointer** "CTCF depletion reduces per-cell transcriptional capacity" (Abstract, Results, Discussion)
+    - **Evidence pointer** Fig. 1B-C, Fig. 2F-I, Fig. 4F-G
+    - **Concern** The manuscript claims that CTCF depletion causes a reduction in per-cell transcriptional capacity, but the evidence for causality is correlational. The observed reduction in RNA output could be a consequence of cell stress, cell cycle arrest, or indirect effects of CTCF loss on cellular physiology, rather than a direct result of chromatin reorganization. The authors acknowledge this limitation in the Discussion but do not adequately address it. The flow cytometry and spike-in RNA-seq experiments show a reduction in RNA, but they do not distinguish between reduced transcription and increased RNA degradation. Furthermore, the correlation between SALTA disassembly and gene expression changes (Fig. 4F) is modest (Pearson r not reported, only P = 0.017) and does not establish causality.
+    - **Why it matters** The claim that CTCF directly regulates global transcriptional capacity through chromatin organization is a central conclusion of the paper. If the observed reduction in RNA is due to indirect effects, the mechanistic link between CTCF, SALTAs, and transcription is weakened.
+    - **Resolution test** 1. Report the Pearson correlation coefficient for Fig. 4F. 2. Perform RNA stability assays (e.g., actinomycin D chase) to rule out increased degradation. 3. Use a more direct measure of transcription, such as nascent RNA sequencing (e.g., Bru-seq or PRO-seq), to confirm that the reduction is at the level of transcription. 4. Consider whether cell cycle analysis could explain the reduced RNA output (e.g., if CTCF depletion causes G1 arrest, cells would have less time to accumulate RNA).
+
     - **Concern ID** R1-M2
     - **Severity** Major
-    - **Blocking** No
+    - **Blocking** Yes
     - **Axis** Methodological validation / robustness
-    - **Claim pointer** SALTAFinder identifies "spatially aggregated long-distance TLD assemblies" that represent genuine spatial clusters, not artifacts of sparse single-cell Hi-C sampling.
-    - **Evidence pointer** Figures 3A-G, S7B-L, and Methods
-    - **Concern** The validation of SALTAFinder relies heavily on comparisons to shuffled/randomized controls and to bulk multiway datasets (GAM, SPRITE). However, the robustness of SALTA identification to the choice of TLD-calling algorithm is not tested. The authors use Higashi for TLD calling, but only show that boundary redistribution is reproducible with DeDoc2 (fig. S4G-I). It is unclear whether SALTA composition and properties (e.g., A/B compartment bias, response to CTCF depletion) are sensitive to the TLD-calling method. Additionally, the downsampling analysis (fig. S7H-L) shows that SALTA features are stable across contact numbers, but the ARI and WS values at lower contact numbers (e.g., 10,000–50,000) are not reported; these are critical for assessing the method's reliability in sparse data regimes.
-    - **Why it matters** SALTAFinder is a central methodological contribution. If its results are not robust to the choice of TLD-calling algorithm or to realistic variations in data sparsity, the conclusions about SALTA destabilization upon CTCF loss may be compromised.
-    - **Resolution test** The authors should repeat the SALTA identification using an alternative TLD-calling method (e.g., DeDoc2) and report whether the key findings (e.g., SALTA size, A/B bias, response to CTCF depletion) are consistent. They should also report the ARI and WS values for the downsampling analysis at all tested contact numbers, not just the range where they are stable.
+    - **Claim pointer** "SALTAs represent genuine spatial aggregates of distantly located TLDs" (Results, Fig. 3)
+    - **Evidence pointer** Fig. 3G, Fig. S7B-E, Fig. S7F-G
+    - **Concern** The validation of SALTAs as genuine spatial structures relies heavily on comparisons with shuffled/shifted controls and comparisons with bulk multiway interaction datasets (GAM, SPRITE). However, the shuffled controls may not adequately account for the inherent biases in single-cell Hi-C data, such as the distance-dependent contact probability and the sparsity of contacts. The comparison with GAM/SPRITE is based on a small subset of domain triplets (11,097) and shows only modest overlap (fraction of alleles where all three domains are in the same SALTA). The authors do not report the absolute overlap fraction, making it difficult to assess the biological significance. Additionally, the downsampling analysis (Fig. S7H-L) shows that SALTA features are stable across a range of contact numbers, but the ARI and WS scores are not reported for the lowest contact numbers (e.g., 10,000), where sparsity is most severe.
+    - **Why it matters** If SALTAs are not robustly identified or are artifacts of the computational method, the subsequent analysis of their changes upon CTCF depletion is undermined.
+    - **Resolution test** 1. Report the absolute overlap fraction between SALTA-containing alleles and GAM/SPRITE triplets, not just the relative enrichment. 2. Provide ARI and WS scores for all downsampling levels, including the lowest (10,000 contacts). 3. Perform additional validation using independent single-cell Hi-C datasets or imaging-based approaches (e.g., DNA FISH) to confirm the spatial clustering of TLDs within SALTAs. 4. Test the sensitivity of SALTAFinder to the modularity threshold and the requirement for at least three TLDs.
+
     - **Concern ID** R1-M3
     - **Severity** Major
     - **Blocking** No
-    - **Axis** Statistical rigor / multiple testing
-    - **Claim pointer** "CTCF depletion caused a marked shift in the overall distribution of SALTA types: The proportion of the most active C1 and C2 SALTAs decreased, whereas C3 to C5 SALTAs...showed a modest but reproducible increase" (Figure 4D).
-    - **Evidence pointer** Figure 4D, and associated text
-    - **Concern** The statistical significance of the shift in SALTA type proportions is not reported. The text describes the changes as "marked" and "reproducible," but no p-values, confidence intervals, or effect sizes are provided for the comparison between control and CTCF-depleted cells. Given that SALTAs are identified per cell, a statistical test (e.g., a permutation test or a mixed-effects model accounting for cell-to-cell variability) is needed to assess whether the observed shifts are significant.
-    - **Why it matters** The claim that active SALTAs are specifically destabilized by CTCF loss is a key result. Without statistical support, the reader cannot assess whether the observed changes are robust or could be due to random variation.
-    - **Resolution test** The authors should perform a statistical test comparing the distribution of SALTA types (C1–C7) between control and CTCF-depleted cells, reporting p-values and effect sizes. A permutation test (e.g., shuffling treatment labels across cells) or a multinomial regression would be appropriate.
+    - **Axis** Interpretation / overclaim
+    - **Claim pointer** "CTCF stabilizes long-range active chromatin clusters" (Title, Abstract, Discussion)
+    - **Evidence pointer** Fig. 4A-G, Fig. S8, Fig. S9
+    - **Concern** The manuscript concludes that CTCF "stabilizes" active SALTAs, but the evidence only shows that active SALTAs are less prevalent and more expanded upon CTCF loss. The term "stabilization" implies a direct structural role, but the observed changes could be secondary to reduced transcription or other indirect effects. The authors acknowledge this in the Discussion but the title and abstract present a more definitive claim. Furthermore, the classification of SALTAs into active, mixed, and inactive categories (C1-C7) is based on ChromHMM states from bulk data, which may not accurately reflect the chromatin state in individual cells. The K-means clustering of SALTAs is also sensitive to the number of clusters chosen, and the optimal number is not clearly justified.
+    - **Why it matters** Overstating the causal role of CTCF in stabilizing SALTAs could mislead the field. A more nuanced interpretation is warranted.
+    - **Resolution test** 1. Rephrase the title and abstract to reflect that CTCF loss is "associated with" destabilization of active SALTAs, rather than claiming direct stabilization. 2. Provide a more rigorous justification for the number of SALTA clusters (e.g., using the elbow method or silhouette analysis). 3. Consider using single-cell chromatin state data (if available) or at least discuss the limitations of using bulk ChromHMM states for single-cell analysis.
+
     - **Concern ID** R1-M4
     - **Severity** Major
     - **Blocking** No
-    - **Axis** Data interpretation / overstatement
-    - **Claim pointer** "Genes whose TSSs lost access to active SALTAs tended to exhibit greater expression decreases" (Figure 4F).
-    - **Evidence pointer** Figure 4F, and associated text
-    - **Concern** The correlation in Figure 4F is modest (Pearson r = 0.017, P = 0.017). While statistically significant, the effect size is very small, and the scatter plot appears to show substantial scatter. The text describes this as a "significant correlation," but the biological relevance of such a weak correlation is questionable. The authors should discuss the magnitude of the effect and whether it is meaningful in the context of the global transcriptional decline.
-    - **Why it matters** This correlation is used to link SALTA destabilization to gene expression changes. Overstating a weak correlation could mislead readers about the strength of the evidence.
-    - **Resolution test** The authors should (a) report the effect size (e.g., R²) and discuss its biological significance, (b) perform a sensitivity analysis (e.g., removing outliers), and (c) consider whether alternative explanations (e.g., direct CTCF binding at promoters) could account for the expression changes.
+    - **Axis** Statistical rigor / multiple testing
+    - **Claim pointer** "1947 bins showed significantly reduced PTLD-B and 1833 showed increases" (Results)
+    - **Evidence pointer** Fig. S4J, table S3
+    - **Concern** The identification of bins with significantly changed TLD boundary probability (PTLD-B) is a key result, but the statistical method is not clearly described. The authors state that they used a "Wilcoxon test with FDR < 0.05" for compartment scores (Methods), but it is unclear if the same test was used for PTLD-B. Given the large number of bins tested (genome-wide at 50-kb resolution), multiple testing correction is critical. The authors do not report the number of tests or the FDR threshold used.
+    - **Why it matters** Without proper statistical rigor, the list of significantly changed bins may contain false positives, undermining the conclusion that boundaries are redistributed rather than lost.
+    - **Resolution test** 1. Clearly describe the statistical test used for PTLD-B analysis, including the number of tests and the FDR threshold. 2. Provide a volcano plot or similar visualization showing the distribution of P-values and effect sizes. 3. Consider using a more stringent threshold (e.g., FDR < 0.01) to ensure robustness.
+
 - **Minor Comments**
     - **Concern ID** R1-m1
     - **Severity** Minor
     - **Axis** Clarity / presentation
-    - **Affected element** Figure 1K
-    - **Evidence pointer** Figure 1K
-    - **Issue** The color scheme (gray for decreased, yellow for increased) is not intuitive. A diverging color scale (e.g., blue-white-red) would more clearly show the direction and magnitude of change.
-    - **Required correction** Change the color scheme to a diverging palette.
+    - **Affected element** Fig. 1K
+    - **Evidence pointer** Fig. 1K
+    - **Issue** The color scale for the heatmap in Fig. 1K is not intuitive. The text describes "gray" for decreased PTLD-B and "yellow" for increased, but the heatmap uses a continuous color scale that makes it difficult to distinguish the magnitude of change.
+    - **Required correction** Use a diverging color scale (e.g., blue-white-red) with clear annotations for the direction and magnitude of change.
+
     - **Concern ID** R1-m2
     - **Severity** Minor
-    - **Axis** Data availability
-    - **Affected element** Data deposition
-    - **Evidence pointer** Data and code availability section
-    - **Issue** The code is deposited on Zenodo and GitHub, but the specific version used for the analysis is not clearly linked to the paper. The Zenodo DOI is provided, but it is not clear if this is a permanent archive.
-    - **Required correction** Ensure the Zenodo record is a permanent, versioned archive and explicitly state that the code used for the paper is the version deposited.
+    - **Axis** Completeness
+    - **Affected element** Fig. 4F
+    - **Evidence pointer** Fig. 4F
+    - **Issue** The Pearson correlation coefficient (r) is not reported for the correlation in Fig. 4F. Only the P-value is given.
+    - **Required correction** Report the Pearson r value alongside the P-value.
+
     - **Concern ID** R1-m3
     - **Severity** Minor
-    - **Axis** Statistical reporting
-    - **Affected element** Figure 2G-H
-    - **Evidence pointer** Figure 2G-H
-    - **Issue** The flow cytometry data (Figure 2G-H) show a clear reduction in RNA-derived fluorescence, but the statistical test (Wilcoxon rank sum test) is reported only in the text. The figure should include the p-value and effect size (e.g., median fluorescence ratio).
-    - **Required correction** Add the p-value and effect size to the figure or its legend.
+    - **Axis** Clarity
+    - **Affected element** Methods
+    - **Evidence pointer** "SALTA identification" section
+    - **Issue** The description of the modified fast-greedy algorithm for modularity optimization is somewhat unclear. The authors state that they "started with a state that there are m groups in the graph, where m is the number of TLDs on the chromosome." This implies that each TLD is initially its own group, but the algorithm then merges groups. It would be helpful to clarify that the algorithm is agglomerative.
+    - **Required correction** Rewrite the description to explicitly state that the algorithm is agglomerative and that the initial state has each TLD as a separate group.
+
     - **Concern ID** R1-m4
     - **Severity** Minor
-    - **Axis** Terminology
-    - **Affected element** Abstract and Results
-    - **Evidence pointer** Abstract, Results (e.g., "stabilizes long-range active chromatin clusters")
-    - **Issue** The term "stabilizes" implies a direct, active role for CTCF in maintaining SALTA integrity. The data show a correlation, not causation. The language should be more cautious (e.g., "is associated with the stabilization of").
-    - **Required correction** Replace "stabilizes" with "is associated with the stabilization of" or similar cautious phrasing throughout the manuscript.
-- **Technical failings that need to be addressed before the case is established** R1-M1 (causality), R1-M2 (SALTA robustness to TLD-calling method), R1-M3 (statistical support for SALTA type shift)
-- **Assessment against Nature-style criteria** 
-    - **Originality**: High. The study provides a novel single-cell view of CTCF function, revealing that TLD boundaries are redistributed rather than lost, and introduces a new method (SALTAFinder) to identify higher-order chromatin assemblies. This goes beyond previous bulk Hi-C studies.
-    - **Scientific importance**: High. Understanding how architectural proteins like CTCF shape genome organization and transcription is a fundamental question in gene regulation. The findings have implications for development, disease, and the interpretation of 3D genome data.
-    - **Interdisciplinary readership**: Moderate to high. The topic is of interest to molecular biologists, geneticists, and computational biologists. The methods (HiRES, SALTAFinder) may also appeal to method developers. However, the level of detail may be challenging for a general biological audience.
-    - **Technical soundness**: Generally high, but with notable concerns. The HiRES data generation and processing appear rigorous. The SALTAFinder method is clever but requires further validation (R1-M2). The statistical support for some key claims (R1-M3) is insufficient.
-    - **Readability for nonspecialists**: Moderate. The manuscript is well-written but dense with technical jargon (e.g., TLD, SALTA, HiRES, compartment scores). The figures are complex. A nonspecialist would need to invest significant effort to understand the key messages.
-- **Recommendation posture** Supportive if technical concerns are resolved. The core findings are novel and important, but the manuscript overstates causal claims and lacks sufficient validation for the SALTAFinder method. Addressing R1-M1 (causal framing), R1-M2 (SALTA robustness), and R1-M3 (statistical rigor) is essential before the paper can be considered for a high-impact journal.
+    - **Axis** Reproducibility
+    - **Affected element** Methods
+    - **Evidence pointer** "SALTA identification" section
+    - **Issue** The authors state that SALTAs with a clustering coefficient of 0 are removed, but the rationale for this threshold is not explained. A clustering coefficient of 0 could occur for a SALTA with only two TLDs (which are already removed by the "at least three TLDs" criterion) or for a SALTA with a star-like topology.
+    - **Required correction** Provide a brief justification for removing SALTAs with a clustering coefficient of 0, or consider whether this filter is redundant with the "at least three TLDs" criterion.
 
-## Risk / unsupported claims
-- The claim that CTCF "stabilizes" long-range active chromatin clusters (SALTAs) is not supported by causal evidence; the data only show correlation.
-- The claim that the shift in SALTA type distribution upon CTCF depletion is "marked" and "reproducible" is not supported by statistical testing.
-- The claim that genes losing access to active SALTAs "tend to exhibit greater expression decreases" is based on a very weak correlation (R² ≈ 0.0003) and is overstated.
+    - **Concern ID** R1-m5
+    - **Severity** Minor
+    - **Axis** Interpretation
+    - **Affected element** Discussion
+    - **Evidence pointer** Discussion
+    - **Issue** The Discussion mentions that "the frequency of TLD boundary occurrence at bulk TAD boundaries is likely underestimated" due to limited contact numbers. This is an important caveat that should be mentioned earlier, perhaps in the Results section where PTLD-B is first introduced.
+    - **Required correction** Add a sentence in the Results section (where PTLD-B is first discussed) acknowledging that the absolute boundary frequencies are likely conservative estimates due to the sparsity of single-cell Hi-C data.
+
+- **Technical failings that need to be addressed before the case is established** R1-M1 (causal link between CTCF loss and transcriptional reduction), R1-M2 (robustness of SALTA validation), R1-M4 (statistical rigor of PTLD-B analysis)
+
+- **Assessment against Nature-style criteria** 
+  - **Originality:** High. The study provides a novel single-cell perspective on CTCF function and introduces a new computational method (SALTAFinder) for identifying higher-order chromatin assemblies. The finding that CTCF loss redistributes rather than eliminates domain boundaries is a significant conceptual advance.
+  - **Scientific importance:** High. CTCF is a central architectural protein, and understanding its role in genome organization and transcription is a fundamental question in chromatin biology. The study has implications for development, disease, and the interpretation of bulk Hi-C data.
+  - **Interdisciplinary readership:** Moderate to high. The study will be of interest to chromatin biologists, computational biologists, and cell biologists. The methodological aspects (HiRES, SALTAFinder) may also appeal to a broader audience interested in single-cell technologies.
+  - **Technical soundness:** Generally high, but with notable concerns. The HiRES data generation and processing are rigorous. The SALTAFinder method is well-described but requires stronger validation. The statistical analysis of PTLD-B changes needs clarification. The causal inference regarding transcriptional reduction is the weakest link.
+  - **Readability for nonspecialists:** Good. The manuscript is well-written and the figures are clear. The abstract and introduction provide sufficient background. However, the Methods section is dense and may be challenging for nonspecialists.
+
+- **Recommendation posture** Supportive if technical concerns are resolved. The study has the potential to be a high-impact contribution, but the concerns regarding causal inference, SALTA validation, and statistical rigor must be addressed before the conclusions can be fully accepted.

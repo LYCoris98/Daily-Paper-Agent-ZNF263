@@ -9,10 +9,10 @@
     "start": "2026-09-04",
     "end": "2026-09-10"
   },
-  "score": 8,
+  "score": 9,
   "one_liner_zh": "该研究通过单细胞HiRES技术揭示CTCF缺失如何影响TAD边界稳定性和长距离活性染色质簇，与cpcdh基因家族在染色质结构调控中的潜在角色高度相关。",
   "abstract": "CCCTC-binding factor (CTCF) is a key architectural protein in the three-dimensional (3D) genome, yet how its loss reshapes chromatin structure and transcription at single-cell resolution remains unclear. Using HiRES, which jointly profiles chromatin contacts and RNA from the same nucleus, we examined genome-wide effects of CTCF depletion. Topologically associating domain (TAD)-like domains (TLDs) across single cells remained largely unchanged in number and size after CTCF loss, but their boundaries became more variably positioned, and pseudobulk analyses revealed reduced interactions within A compartments. We also developed SALTAFinder to identify Spatially Aggregated Long-distance TLD Assemblies (SALTAs), clusters of TLDs occupying shared 3D space within single cells. A subset of SALTAs is enriched for highly expressed genes and super-enhancers and declines upon CTCF depletion. This structural reorganization coincided with a global reduction in per-cell RNA output, as indicated by HiRES and orthogonal measurements. Together, these findings suggest that CTCF contributes to the coordinated regulation of chromatin organization and transcriptional capacity and is associated with stabilization of long-range active chromatin clusters.",
-  "abstract_zh": "CCCTC结合因子（CTCF）是三维（3D）基因组中的关键结构蛋白，但其缺失如何在单细胞分辨率下重塑染色质结构和转录仍不清楚。利用HiRES（同时从同一细胞核中分析染色质接触和RNA的方法），我们研究了CTCF缺失对全基因组的影响。在CTCF缺失后，单细胞中的拓扑关联结构域（TAD）样结构域（TLDs）在数量和大小上基本保持不变，但其边界位置变得更加可变，且伪批量分析显示A区室内的相互作用减少。我们还开发了SALTAFinder，用于识别空间聚集的长距离TLD组装体（SALTAs），即单细胞中共享3D空间的TLD簇。部分SALTAs富集了高表达基因和超级增强子，并在CTCF缺失后减少。这种结构重组与每个细胞RNA输出的整体下降同时发生，如HiRES和正交测量所示。综合来看，这些发现表明CTCF有助于染色质组织和转录能力的协调调控，并与长距离活性染色质簇的稳定化相关。",
+  "abstract_zh": "CCCTC结合因子（CTCF）是三维（3D）基因组中的关键结构蛋白，但其缺失如何在单细胞分辨率下重塑染色质结构和转录仍不清楚。利用HiRES（HiRES）技术，该技术可同时从同一细胞核中分析染色质接触和RNA，我们研究了CTCF缺失的全基因组效应。在CTCF缺失后，单细胞中的拓扑关联结构域（TAD）样结构域（TLD）在数量和大小上基本保持不变，但其边界位置变得更加可变，且伪批量分析显示A区室内的相互作用减少。我们还开发了SALTAFinder（SALTAFinder）来识别空间聚集的长距离TLD组装体（SALTA），即单细胞中共享3D空间的TLD簇。部分SALTA富集了高表达基因和超级增强子，并在CTCF缺失后减少。这种结构重组与每个细胞RNA输出的整体下降同时发生，如HiRES和正交测量所示。综合来看，这些发现表明CTCF有助于染色质组织和转录能力的协调调控，并与长距离活性染色质簇的稳定化相关。",
   "has_fulltext": true,
   "fulltext_source": "pmc",
   "fulltext_path": "fulltext.md",
