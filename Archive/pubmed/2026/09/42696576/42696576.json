@@ -1,0 +1,317 @@
+{
+  "identity": {
+    "pmid": "42696576",
+    "doi": "10.1126/sciadv.aee2863",
+    "title": "CTCF aligns single-cell TAD-like domain boundaries and stabilizes long-range active chromatin clusters."
+  },
+  "content": {
+    "abstract": "CCCTC-binding factor (CTCF) is a key architectural protein in the three-dimensional (3D) genome, yet how its loss reshapes chromatin structure and transcription at single-cell resolution remains unclear. Using HiRES, which jointly profiles chromatin contacts and RNA from the same nucleus, we examined genome-wide effects of CTCF depletion. Topologically associating domain (TAD)-like domains (TLDs) across single cells remained largely unchanged in number and size after CTCF loss, but their boundaries became more variably positioned, and pseudobulk analyses revealed reduced interactions within A compartments. We also developed SALTAFinder to identify Spatially Aggregated Long-distance TLD Assemblies (SALTAs), clusters of TLDs occupying shared 3D space within single cells. A subset of SALTAs is enriched for highly expressed genes and super-enhancers and declines upon CTCF depletion. This structural reorganization coincided with a global reduction in per-cell RNA output, as indicated by HiRES and orthogonal measurements. Together, these findings suggest that CTCF contributes to the coordinated regulation of chromatin organization and transcriptional capacity and is associated with stabilization of long-range active chromatin clusters.",
+    "keywords": [],
+    "mesh_terms": [
+      "*CCCTC-Binding Factor/metabolism/genetics",
+      "*Chromatin/metabolism/genetics/chemistry",
+      "*Single-Cell Analysis",
+      "Humans",
+      "Animals",
+      "Protein Binding",
+      "Chromatin Assembly and Disassembly"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Ziyin",
+        "Li, Xuan",
+        "Dai, Yunpeng",
+        "Shao, Kaiwen",
+        "Sun, Haolun",
+        "Wu, Nan",
+        "Yan, Jian",
+        "Zhang, Yanxiao",
+        "Yu, Miao"
+      ],
+      "short_names": [
+        "Chen Z",
+        "Li X",
+        "Dai Y",
+        "Shao K",
+        "Sun H",
+        "Wu N",
+        "Yan J",
+        "Zhang Y",
+        "Yu M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5760-4177",
+        "ORCID: 0000-0002-9444-1127",
+        "ORCID: 0000-0002-9939-9810",
+        "ORCID: 0000-0002-1267-2870",
+        "ORCID: 0000-0001-9618-637X",
+        "ORCID: 0009-0003-2147-3413"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, China.",
+        "School of Life Sciences, Westlake University, Hangzhou, China.",
+        "State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China.",
+        "Department of Urology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.",
+        "Department of Biomedical Sciences, College of Biomedicine; The Tung Biomedical Sciences Centre, City University of Hong Kong, Hong Kong SAR, China.",
+        "Department of Urology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.",
+        "Department of Biomedical Sciences, College of Biomedicine; The Tung Biomedical Sciences Centre, City University of Hong Kong, Hong Kong SAR, China.",
+        "Department of Precision Diagnostic and Therapeutic Technology, The City University of Hong Kong Shenzhen Research Institute, Shenzhen, China.",
+        "Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, China.",
+        "School of Life Sciences, Westlake University, Hangzhou, China.",
+        "State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Ziyin",
+        "short_name": "Chen Z",
+        "identifiers": [
+          "0000-0002-5760-4177"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xuan",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Yunpeng",
+        "short_name": "Dai Y",
+        "identifiers": [
+          "0000-0002-9444-1127"
+        ],
+        "affiliations": [
+          "Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, China.",
+          "School of Life Sciences, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Shao, Kaiwen",
+        "short_name": "Shao K",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Haolun",
+        "short_name": "Sun H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Nan",
+        "short_name": "Wu N",
+        "identifiers": [
+          "0000-0002-9939-9810"
+        ],
+        "affiliations": [
+          "Department of Urology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.",
+          "Department of Biomedical Sciences, College of Biomedicine; The Tung Biomedical Sciences Centre, City University of Hong Kong, Hong Kong SAR, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Jian",
+        "short_name": "Yan J",
+        "identifiers": [
+          "0000-0002-1267-2870"
+        ],
+        "affiliations": [
+          "Department of Urology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.",
+          "Department of Biomedical Sciences, College of Biomedicine; The Tung Biomedical Sciences Centre, City University of Hong Kong, Hong Kong SAR, China.",
+          "Department of Precision Diagnostic and Therapeutic Technology, The City University of Hong Kong Shenzhen Research Institute, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yanxiao",
+        "short_name": "Zhang Y",
+        "identifiers": [
+          "0000-0001-9618-637X"
+        ],
+        "affiliations": [
+          "Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, China.",
+          "School of Life Sciences, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Miao",
+        "short_name": "Yu M",
+        "identifiers": [
+          "0009-0003-2147-3413"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Sep 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 17:40",
+    "fetched_at": "2026-09-11 07:57:58"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42696576",
+      "31911579",
+      "32680543",
+      "31910870",
+      "34453048",
+      "41145704",
+      "42639792",
+      "34245617",
+      "30031214",
+      "41277030",
+      "41622199",
+      "41080543",
+      "41430607",
+      "40921733",
+      "41983545",
+      "33091336",
+      "40874617",
+      "31177910",
+      "34931241",
+      "34253239",
+      "31522988",
+      "30709849",
+      "35180428",
+      "30361340",
+      "33626344",
+      "28693562",
+      "34002095",
+      "36650052",
+      "32213323",
+      "34764232",
+      "30086769",
+      "41482819",
+      "34033138",
+      "35090532",
+      "37000624",
+      "33398174",
+      "34311744",
+      "39312688",
+      "31831055",
+      "31522987",
+      "39545685",
+      "29757144",
+      "28388437",
+      "30738580",
+      "31533978",
+      "28536180",
+      "29593713",
+      "38643244",
+      "39993185",
+      "35867573",
+      "30456521",
+      "30213272",
+      "40374602",
+      "29561703",
+      "30414923",
+      "31801998",
+      "36790927",
+      "39777468",
+      "36037342",
+      "30717603",
+      "33581110",
+      "32782014",
+      "31878887",
+      "31266973",
+      "38062010",
+      "27437574",
+      "28737770",
+      "34429148",
+      "35726060",
+      "31665434",
+      "36011294",
+      "29199022",
+      "27219007",
+      "37146570",
+      "42463888",
+      "38697116",
+      "41097099",
+      "34518536",
+      "39169755",
+      "28863138",
+      "31649247",
+      "40022213",
+      "31264253",
+      "29760161",
+      "30595451",
+      "24335803",
+      "34981210",
+      "40360814",
+      "31491387",
+      "31127282",
+      "36325618",
+      "32334414",
+      "30940740",
+      "34711654",
+      "35145304",
+      "37076620",
+      "31266948",
+      "35502750",
+      "41296854",
+      "40598900"
+    ],
+    "review": [
+      "42696576",
+      "30031214",
+      "41277030",
+      "30456521",
+      "36011294",
+      "39169755",
+      "31264253"
+    ],
+    "pmc": [
+      "13544238"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aee2863?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42696576/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

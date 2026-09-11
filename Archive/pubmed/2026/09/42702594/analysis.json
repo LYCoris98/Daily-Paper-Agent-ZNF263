@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42702594",
+  "title": "Allele-specific chromatin architecture shapes imprinted domains and coordinates a distal enhancer and antisense transcription at the mouse Mest-Copg2 domain.",
+  "authors": "Bae, Bongmin; Gu, Katherine; Loftus, Daniel; Whipple, Amanda J",
+  "journal": "Nature communications",
+  "published_date": "2026-09-07",
+  "window": {
+    "start": "2026-09-04",
+    "end": "2026-09-10"
+  },
+  "score": 8,
+  "one_liner_zh": "该文研究小鼠Mest-Copg2印记域中等位基因特异性染色质结构如何调控印记基因表达，与cpcdh基因家族在印记调控机制上具有高度相关性，可借鉴其三维基因组分析方法。",
+  "abstract": "Genomic imprinting results in parent-of-origin-dependent gene expression, but how three-dimensional genome organization contributes to imprinted gene regulation remains unclear. Using Capture Hi-C in mouse cortex and primary cortical neurons, we identified parental allele-specific chromatin architectures across multiple imprinted domains. These architectures largely originate from imprinting control regions and correlate with DNA methylation-sensitive CTCF binding. Active and inactive alleles of imprinted genes show distinct promoter interaction profiles and differential engagement with distal regulatory elements in both contact frequency and the epigenetic state of distal regions. A CRISPR interference screen identified a distal enhancer that regulates Mest-Copg2 imprinted expression through allele-specific chromatin interactions. In neurons, this enhancer activates Copg2 on the maternal allele, whereas on the paternal allele it drives Mest isoforms transcribed antisense to Copg2 and contributes to Copg2 repression. In summary, we show that allele-specific chromatin architecture coordinates maternal enhancer activity and paternal antisense transcription to control imprinted expression in neurons.",
+  "abstract_zh": "基因组印记导致基因表达具有亲本来源依赖性，但三维基因组组织如何参与印记基因调控仍不清楚。通过在小鼠皮层和原代皮层神经元中使用Capture Hi-C技术，我们鉴定了多个印记结构域中亲本等位基因特异性的染色质结构。这些结构主要起源于印记控制区，并与DNA甲基化敏感的CTCF结合相关。印记基因的活性等位基因和非活性等位基因在启动子相互作用谱上表现出差异，并且在接触频率和远端区域的表观遗传状态上，与远端调控元件的结合程度也不同。CRISPR干扰筛选鉴定出一个远端增强子，该增强子通过等位基因特异性染色质相互作用调控Mest-Copg2印记表达。在神经元中，该增强子在母本等位基因上激活Copg2，而在父本等位基因上则驱动与Copg2反义转录的Mest异构体，并参与Copg2的抑制。总之，我们表明等位基因特异性染色质结构协调母本增强子活性和父本反义转录，以控制神经元中的印记表达。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42702594/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42702594/",
+  "paper_page_path": "papers/pubmed/42702594/index.html"
+}

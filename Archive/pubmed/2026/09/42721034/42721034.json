@@ -1,0 +1,120 @@
+{
+  "identity": {
+    "pmid": "42721034",
+    "doi": "10.1016/j.celrep.2026.117980",
+    "title": "Selective control of HLA-DRB1 and HLA-DQA1 transcription through DR/DQ super enhancer microelements."
+  },
+  "content": {
+    "abstract": "MHC-II gene expression requires promoter-proximal and distal organizing elements. A super enhancer located between the HLA-DR and -DQ genes was dissected into five microdomains (regions A-E) to define its mechanism of action. Regions A and B were required for maximal expression of HLA-DQA1. Region A facilitated HLA-DQA1 expression and substituted for region B in its absence, as well as mediating longer-range interactions with distal CTCF sites. Region D modulated HLA-DRB1 through specific 3D chromatin interactions, whereas a local insulator element (XL9) broadly interacted with the SE. Through deletion of HLA-DRB1 proximal-promoter elements, HLA-DQ expression increased by co-opting interactions with region D, indicating that competition between microelements regulates the absolute levels of MHC-II genes. Together, these data define an additional layer of control for MHC-II genes encoded in one of the most polymorphic and disease-associated regions of the human genome.",
+    "keywords": [
+      "CP: immunology",
+      "MHC-II",
+      "chromatin conformation",
+      "gene regulation",
+      "super enhancers"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Majumder, Parimal",
+        "Lee, Joshua",
+        "Butler, Royce",
+        "Scharer, Christopher D",
+        "Boss, Jeremy M"
+      ],
+      "short_names": [
+        "Majumder P",
+        "Lee J",
+        "Butler R",
+        "Scharer CD",
+        "Boss JM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Microbiology and Immunology, Emory University School of Medicine, Atlanta, GA 30033, USA.",
+        "Department of Microbiology and Immunology, Emory University School of Medicine, Atlanta, GA 30033, USA.",
+        "Department of Microbiology and Immunology, Emory University School of Medicine, Atlanta, GA 30033, USA.",
+        "Department of Microbiology and Immunology, Emory University School of Medicine, Atlanta, GA 30033, USA.",
+        "Department of Microbiology and Immunology, Emory University School of Medicine, Atlanta, GA 30033, USA. Electronic address: jmboss@emory.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Majumder, Parimal",
+        "short_name": "Majumder P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Emory University School of Medicine, Atlanta, GA 30033, USA."
+        ]
+      },
+      {
+        "full_name": "Lee, Joshua",
+        "short_name": "Lee J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Emory University School of Medicine, Atlanta, GA 30033, USA."
+        ]
+      },
+      {
+        "full_name": "Butler, Royce",
+        "short_name": "Butler R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Emory University School of Medicine, Atlanta, GA 30033, USA."
+        ]
+      },
+      {
+        "full_name": "Scharer, Christopher D",
+        "short_name": "Scharer CD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Emory University School of Medicine, Atlanta, GA 30033, USA."
+        ]
+      },
+      {
+        "full_name": "Boss, Jeremy M",
+        "short_name": "Boss JM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Emory University School of Medicine, Atlanta, GA 30033, USA. Electronic address: jmboss@emory.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports"
+    ],
+    "journal_abbrev": [
+      "Cell Rep"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 17:42",
+    "fetched_at": "2026-09-11 07:57:58"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42721034"
+    ],
+    "review": [
+      "42721034"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

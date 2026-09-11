@@ -1,0 +1,250 @@
+{
+  "identity": {
+    "pmid": "42702594",
+    "doi": "10.1038/s41467-026-76506-3",
+    "title": "Allele-specific chromatin architecture shapes imprinted domains and coordinates a distal enhancer and antisense transcription at the mouse Mest-Copg2 domain."
+  },
+  "content": {
+    "abstract": "Genomic imprinting results in parent-of-origin-dependent gene expression, but how three-dimensional genome organization contributes to imprinted gene regulation remains unclear. Using Capture Hi-C in mouse cortex and primary cortical neurons, we identified parental allele-specific chromatin architectures across multiple imprinted domains. These architectures largely originate from imprinting control regions and correlate with DNA methylation-sensitive CTCF binding. Active and inactive alleles of imprinted genes show distinct promoter interaction profiles and differential engagement with distal regulatory elements in both contact frequency and the epigenetic state of distal regions. A CRISPR interference screen identified a distal enhancer that regulates Mest-Copg2 imprinted expression through allele-specific chromatin interactions. In neurons, this enhancer activates Copg2 on the maternal allele, whereas on the paternal allele it drives Mest isoforms transcribed antisense to Copg2 and contributes to Copg2 repression. In summary, we show that allele-specific chromatin architecture coordinates maternal enhancer activity and paternal antisense transcription to control imprinted expression in neurons.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Genomic Imprinting/genetics",
+      "*Chromatin/metabolism/genetics",
+      "Mice",
+      "Alleles",
+      "*Enhancer Elements, Genetic/genetics",
+      "Neurons/metabolism",
+      "DNA Methylation",
+      "CCCTC-Binding Factor/metabolism",
+      "Transcription, Genetic",
+      "Promoter Regions, Genetic",
+      "Female",
+      "Male",
+      "Cerebral Cortex/metabolism/cytology",
+      "Mice, Inbred C57BL"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bae, Bongmin",
+        "Gu, Katherine",
+        "Loftus, Daniel",
+        "Whipple, Amanda J"
+      ],
+      "short_names": [
+        "Bae B",
+        "Gu K",
+        "Loftus D",
+        "Whipple AJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9544-3466",
+        "ORCID: 0009-0007-3879-6891",
+        "ORCID: 0000-0002-7000-2453"
+      ],
+      "affiliations": [
+        "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA, USA.",
+        "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA, USA.",
+        "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA, USA.",
+        "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA, USA. amanda_whipple@fas.harvard.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bae, Bongmin",
+        "short_name": "Bae B",
+        "identifiers": [
+          "0000-0002-9544-3466"
+        ],
+        "affiliations": [
+          "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Gu, Katherine",
+        "short_name": "Gu K",
+        "identifiers": [
+          "0009-0007-3879-6891"
+        ],
+        "affiliations": [
+          "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Loftus, Daniel",
+        "short_name": "Loftus D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Whipple, Amanda J",
+        "short_name": "Whipple AJ",
+        "identifiers": [
+          "0000-0002-7000-2453"
+        ],
+        "affiliations": [
+          "Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA, USA. amanda_whipple@fas.harvard.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 05:35",
+    "fetched_at": "2026-09-11 07:57:58"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42702594",
+      "41531811",
+      "38775198",
+      "18039862",
+      "31831055",
+      "40880432",
+      "37821107",
+      "22053079",
+      "38297831",
+      "16314537",
+      "32299027",
+      "23804403",
+      "17126526",
+      "29903724",
+      "26400168",
+      "31639176",
+      "28854270",
+      "1383088",
+      "12595547",
+      "21124827",
+      "12879359",
+      "11163765",
+      "37333073",
+      "11773001",
+      "22496793",
+      "9774690",
+      "17181776",
+      "11115847",
+      "12897124",
+      "26908643",
+      "22456293",
+      "31329595",
+      "17242189",
+      "21321082",
+      "28320934",
+      "29958543",
+      "22907496",
+      "39045627",
+      "41622199",
+      "24094292",
+      "26728555",
+      "21600199",
+      "10839546",
+      "7690336",
+      "26025256",
+      "39910084",
+      "33398174",
+      "32249388",
+      "24009515",
+      "10788617",
+      "8565330",
+      "19762339",
+      "27152123",
+      "32680543",
+      "21092170",
+      "8661130",
+      "17967893",
+      "29138238",
+      "27095822",
+      "19502804",
+      "9465295",
+      "41080543",
+      "17901046",
+      "20693536",
+      "11108251",
+      "19141673",
+      "34107024",
+      "20351169",
+      "40804526",
+      "16449639",
+      "41139207",
+      "10198258",
+      "18662993",
+      "28180295",
+      "19542493",
+      "12670997",
+      "17329968",
+      "32238933",
+      "9722161",
+      "17101788",
+      "10839547",
+      "16575181",
+      "35993175",
+      "11056047",
+      "30374068",
+      "34099014",
+      "36108632",
+      "9234689",
+      "23028363",
+      "35710138",
+      "34273410",
+      "36869353",
+      "16815976",
+      "23221643",
+      "28723896",
+      "22723905",
+      "10072422",
+      "14570570",
+      "12034494",
+      "16760423"
+    ],
+    "review": [
+      "42702594",
+      "38775198",
+      "32299027",
+      "9722161",
+      "16575181",
+      "35993175"
+    ],
+    "pmc": [
+      "13547231"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76506-3",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42702594/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
