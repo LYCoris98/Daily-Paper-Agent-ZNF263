@@ -1,0 +1,240 @@
+{
+  "identity": {
+    "pmid": "42724058",
+    "doi": "10.52225/narra.v6i2.3126",
+    "title": "Nanoliposomal curcumin as a potential pro-apoptotic agent for cervical cancer: Evidence from Bcl-2 and Bax modulation in HeLa cells."
+  },
+  "content": {
+    "abstract": "Cervical cancer remains a major cause of cancer-related mortality, and treatment effectiveness is often limited by drug resistance and systemic toxicity. Curcumin has shown anticancer activity, but its clinical translation is constrained by poor solubility and low bioavailability. Nanoliposomal curcumin (Cur-NLPs) may improve intracellular delivery; however, its dose-dependent effect on apoptosis-related proteins in cervical cancer cells remains insufficiently defined. This study evaluated the dose-dependent modulation of Bcl-2 and Bax protein expression by Cur-NLPs in HeLa cells. HeLa cells were assigned to five groups: negative control, cisplatin 5 microg/mL as positive control, and Cur-NLPs at 100, 150, and 200 microg/mL. After 24 hours of treatment, Bcl-2 and Bax expression were assessed by immunofluorescence and quantified as corrected total cell fluorescence (CTCF). Data were analyzed using one-way ANOVA, Tukey HSD post hoc test, Pearson correlation, and linear regression. Significant between-group differences were observed for both Bcl-2 (F=8.99; p=0.002) and Bax (F=132.38; p<0.001). Cur-NLPs progressively reduced Bcl-2 expression and increased Bax expression, with the most pronounced effect observed at 200 microg/mL. Bcl-2 expression at 200 microg/mL and Bax expression at 150-200 microg/mL were significantly altered compared with the negative control, while the 200 microg/mL dose showed no significant difference from cisplatin for either marker. Cur-NLPs concentration showed a strong negative correlation with Bcl-2 expression (r=-0.847; p<0.001) and a strong positive correlation with Bax expression (r=0.942; p<0.001). Linear regression further confirmed dose-dependent effects, with Cur-NLPs concentration explaining 79.6% and 88.8% of the variance in Bcl-2 and Bax expression, respectively. These findings indicate that Cur-NLPs can shift the Bcl-2/Bax balance toward a pro-apoptotic profile in HeLa cells, supporting its potential as a curcumin-based nanodelivery strategy for cervical cancer. Further studies using functional apoptosis assays, additional cervical cancer cell lines, and in vivo models are needed to confirm its translational relevance.",
+    "keywords": [
+      "Bax",
+      "Bcl-2",
+      "Cervical cancer",
+      "apoptosis",
+      "nanoliposomal curcumin"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Curcumin/pharmacology/administration & dosage",
+      "Female",
+      "*bcl-2-Associated X Protein/drug effects/metabolism",
+      "HeLa Cells",
+      "*Uterine Cervical Neoplasms/drug therapy",
+      "*Proto-Oncogene Proteins c-bcl-2/drug effects/metabolism",
+      "*Apoptosis/drug effects",
+      "Liposomes",
+      "*Antineoplastic Agents/pharmacology",
+      "Nanoparticles"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Subandi, Subandi",
+        "Aisyah, Oktalia N",
+        "Lestari, Bayu"
+      ],
+      "short_names": [
+        "Subandi S",
+        "Aisyah ON",
+        "Lestari B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Midwifery, Faculty of Medicine, Universitas Brawijaya, Malang, Indonesia.",
+        "Master Program in Midwifery, Faculty of Medicine, Universitas Brawijaya, Malang, Indonesia.",
+        "Department of Pharmacology, Faculty of Medicine, Universitas Brawijaya, Malang, Indonesia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Subandi, Subandi",
+        "short_name": "Subandi S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Midwifery, Faculty of Medicine, Universitas Brawijaya, Malang, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Aisyah, Oktalia N",
+        "short_name": "Aisyah ON",
+        "identifiers": [],
+        "affiliations": [
+          "Master Program in Midwifery, Faculty of Medicine, Universitas Brawijaya, Malang, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Lestari, Bayu",
+        "short_name": "Lestari B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Faculty of Medicine, Universitas Brawijaya, Malang, Indonesia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Narra J"
+    ],
+    "journal_abbrev": [
+      "Narra J"
+    ],
+    "pub_date": "2026 Aug",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 11:38",
+    "fetched_at": "2026-09-14 15:56:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42724058",
+      "40845427",
+      "32767955",
+      "24815470",
+      "40440957",
+      "40352175",
+      "33857585",
+      "34773965",
+      "33283585",
+      "41285842",
+      "15661804",
+      "26464676",
+      "29587277",
+      "19821098",
+      "32718121",
+      "38667315",
+      "15566959",
+      "30776589",
+      "23917396",
+      "41034297",
+      "18412143",
+      "40698351",
+      "10557064",
+      "39909177",
+      "37157900",
+      "36738519",
+      "40426123",
+      "39092501",
+      "40156420",
+      "22074157",
+      "42108873",
+      "21698669",
+      "37875424",
+      "41915119",
+      "41975193",
+      "20633539",
+      "34181325",
+      "23803073",
+      "41679479",
+      "34080212",
+      "23867903",
+      "31568920",
+      "42218307",
+      "22340042",
+      "37831114",
+      "23489691",
+      "34825002",
+      "38415544",
+      "21223758",
+      "29960166",
+      "28446399",
+      "31406217",
+      "26474854",
+      "37076638",
+      "41291614",
+      "23863966",
+      "25770771",
+      "25980682",
+      "19288022",
+      "32128952",
+      "18480997",
+      "35566271",
+      "31911391",
+      "27496212",
+      "26837852",
+      "31279711",
+      "26985864",
+      "14662026",
+      "35266425",
+      "34623595",
+      "25556484",
+      "33040787",
+      "37598145",
+      "37524306",
+      "37432531",
+      "26494582",
+      "28987329",
+      "15205359",
+      "41047434",
+      "31819366",
+      "21317920",
+      "19723056",
+      "35617878",
+      "26281601",
+      "22078453",
+      "22285227",
+      "11925121",
+      "12717832",
+      "34577000",
+      "14750167",
+      "24521149",
+      "40849703",
+      "29484272",
+      "31328459",
+      "42484766",
+      "39715290",
+      "30599894",
+      "24083709",
+      "41749157",
+      "31583572"
+    ],
+    "review": [
+      "42724058"
+    ],
+    "pmc": [
+      "13558877"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cervicalcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cervical Cancer"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42724058/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-BAX-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/cervicalcancer.html",
+        "provider": "MedlinePlus Consumer Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cervical Cancer"
+      }
+    ],
+    "text_mined": []
+  }
+}

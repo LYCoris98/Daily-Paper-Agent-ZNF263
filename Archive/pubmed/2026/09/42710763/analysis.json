@@ -6,13 +6,13 @@
   "journal": "International journal of biological macromolecules",
   "published_date": "2026-09-08",
   "window": {
-    "start": "2026-09-04",
-    "end": "2026-09-10"
+    "start": "2026-09-07",
+    "end": "2026-09-13"
   },
   "score": 0,
-  "one_liner_zh": "该文研究circCTCF环状RNA通过ACSL5-mTOR轴调控三阴性乳腺癌脂质代谢，与cpcdh基因家族无关。",
+  "one_liner_zh": "该文研究circCTCF在乳腺癌中调控脂质代谢和mTOR信号，与cpcdh基因家族无直接关联。",
   "abstract": "Triple-negative breast cancer (TNBC) is an aggressive subtype with limited therapeutic options. While metabolic reprogramming is a hallmark of cancer, most studies have focused on cell-intrinsic alterations in glucose and amino acid metabolism, with comparatively little attention paid to how cancer cells sense and respond to extracellular lipid availability. Here, through an unbiased transcriptomic and circRNA profiling screen under lipoprotein-deprived conditions, we identify circCTCF, a circular RNA derived from the CTCF gene, as a lipoprotein-responsive regulator of lipid metabolism and proliferation in TNBC. circCTCF is significantly downregulated upon lipid withdrawal, and its depletion impairs cell growth while promoting lipid droplet accumulation. Conversely, circCTCF overexpression enhances proliferation and suppresses lipid storage. Mechanistically, circCTCF binds the RNA-binding protein G3BP2 through its back-splice junction sequence to stabilize ACSL5 mRNA, thereby sustaining ACSL5 expression, phosphatidic acid (PA) levels, and mTOR signaling. ACSL5 overexpression rescues PA and mTOR activity in circCTCF-deficient cells, establishing a linear circCTCF-ACSL5-PA-mTOR axis. Furthermore, circCTCF associates with G3BP2-positive stress granules upon heat shock, suggesting a potential link between this metabolic axis and stress-induced RNA regulatory networks. Collectively, these findings establish circCTCF as a critical node coupling extracellular lipid cues to intracellular metabolic control and identify the circCTCF-ACSL5-PA-mTOR axis as a potential therapeutic vulnerability in TNBC.",
-  "abstract_zh": "三阴性乳腺癌（triple-negative breast cancer, TNBC）是一种侵袭性亚型，治疗选择有限。尽管代谢重编程是癌症的标志，但大多数研究聚焦于葡萄糖和氨基酸代谢的细胞内在改变，相对较少关注癌细胞如何感知和响应细胞外脂质的可用性。在此，通过在脂蛋白剥夺条件下进行无偏倚的转录组和circRNA谱筛选，我们鉴定出circCTCF——一种源自CTCF基因的环状RNA——作为TNBC中脂质代谢和增殖的脂蛋白响应性调控因子。circCTCF在脂质剥夺后显著下调，其缺失会损害细胞生长，同时促进脂滴积累。相反，circCTCF过表达增强增殖并抑制脂质储存。机制上，circCTCF通过其反向剪接连接序列结合RNA结合蛋白G3BP2，以稳定ACSL5 mRNA，从而维持ACSL5表达、磷脂酸（phosphatidic acid, PA）水平和mTOR信号传导。ACSL5过表达可恢复circCTCF缺陷细胞中的PA和mTOR活性，建立一条线性的circCTCF-ACSL5-PA-mTOR轴。此外，circCTCF在热休克后与G3BP2阳性应激颗粒结合，提示该代谢轴与应激诱导的RNA调控网络之间存在潜在联系。总之，这些发现将circCTCF确立为连接细胞外脂质信号与细胞内代谢控制的关键节点，并确定circCTCF-ACSL5-PA-mTOR轴是TNBC中潜在的治疗脆弱性。",
+  "abstract_zh": "三阴性乳腺癌（triple-negative breast cancer, TNBC）是一种侵袭性亚型，治疗选择有限。尽管代谢重编程是癌症的一个标志，但大多数研究聚焦于葡萄糖和氨基酸代谢的细胞内在改变，相对较少关注癌细胞如何感知和响应细胞外脂质可用性。在此，通过在脂蛋白剥夺条件下进行无偏转录组和circRNA谱筛选，我们鉴定出circCTCF——一种源自CTCF基因的环状RNA——作为TNBC中脂质代谢和增殖的脂蛋白响应性调控因子。circCTCF在脂质剥夺后显著下调，其缺失会损害细胞生长，同时促进脂滴积累。相反，circCTCF过表达增强增殖并抑制脂质储存。机制上，circCTCF通过其反向剪接连接序列结合RNA结合蛋白G3BP2，以稳定ACSL5 mRNA，从而维持ACSL5表达、磷脂酸（phosphatidic acid, PA）水平和mTOR信号传导。ACSL5过表达可恢复circCTCF缺陷细胞中的PA和mTOR活性，建立一条线性的circCTCF-ACSL5-PA-mTOR轴。此外，circCTCF在热休克下与G3BP2阳性应激颗粒结合，提示该代谢轴与应激诱导的RNA调控网络之间存在潜在联系。总体而言，这些发现确立了circCTCF作为耦合细胞外脂质信号与细胞内代谢控制的关键节点，并确定circCTCF-ACSL5-PA-mTOR轴是TNBC中一个潜在的治疗脆弱点。",
   "has_fulltext": false,
   "fulltext_source": "abstract",
   "fulltext_path": "fulltext.md",

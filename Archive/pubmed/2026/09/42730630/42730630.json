@@ -1,0 +1,208 @@
+{
+  "identity": {
+    "pmid": "42730630",
+    "doi": "10.1093/bioinformatics/btag636",
+    "title": "dcHiChIP: A comprehensive Nextflow-based pipeline for multiscale analysis of chromatin architecture from HiChIP data."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Despite the growing use of HiChIP to investigate protein-directed chromatin architecture, a comprehensive and reproducible pipeline for analyzing these datasets-from raw reads to multiscale 3D genome features-remains lacking. Existing tools often focus on isolated components, such as loop calling or matrix generation, but fall short in integrating structural annotation, functional enrichment, and spatial modeling within a unified framework. To address this gap, we developed dcHiChIP, a modular, scalable Nextflow-based workflow that streamlines the analysis of HiChIP data, enabling both routine processing and in-depth exploration of chromatin organization and regulatory interactions. RESULTS: dcHiChIP enables robust and reproducible analysis of HiChIP datasets across multiple scales of chromatin architecture. It accepts raw sequencing data as input and generates high-quality loop calls, domain annotations, and 3D genome models. It also performs functional annotation and motif enrichment analyses. Applied to benchmark CTCF HiChIP datasets, dcHiChIP identifies major chromatin architectural features such as TADs/CCDs, A/B compartments, and chromatin stripes, and offers efficient, end-to-end execution with support for batch processing and workflow resumability. AVAILABILITY: dcHiChIP is publicly available on GitHub at https://github.com/SFGLab/dcHiChIP, with documentation at https://sfglab.github.io/dcHiChIP/. The software version used in this study is archived at Zenodo: https://doi.org/10.5281/zenodo.22030542. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Agarwal, Abhishek",
+        "Al Bkhetan, Ziad",
+        "Plewczynski, Dariusz"
+      ],
+      "short_names": [
+        "Agarwal A",
+        "Al Bkhetan Z",
+        "Plewczynski D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "University of Warsaw, Centre of New Technologies, Laboratory of Functional and Structural Genomics, Warsaw, Poland.",
+        "Australian BioCommons, The University of Melbourne, North Melbourne, Vic. 3051, Australia.",
+        "University of Warsaw, Centre of New Technologies, Laboratory of Functional and Structural Genomics, Warsaw, Poland.",
+        "Warsaw University of Technology, Faculty of Mathematics and Information Science, Laboratory of Bioinformatics and Computational Genomics, Warsaw, Poland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Agarwal, Abhishek",
+        "short_name": "Agarwal A",
+        "identifiers": [],
+        "affiliations": [
+          "University of Warsaw, Centre of New Technologies, Laboratory of Functional and Structural Genomics, Warsaw, Poland."
+        ]
+      },
+      {
+        "full_name": "Al Bkhetan, Ziad",
+        "short_name": "Al Bkhetan Z",
+        "identifiers": [],
+        "affiliations": [
+          "Australian BioCommons, The University of Melbourne, North Melbourne, Vic. 3051, Australia."
+        ]
+      },
+      {
+        "full_name": "Plewczynski, Dariusz",
+        "short_name": "Plewczynski D",
+        "identifiers": [],
+        "affiliations": [
+          "University of Warsaw, Centre of New Technologies, Laboratory of Functional and Structural Genomics, Warsaw, Poland.",
+          "Warsaw University of Technology, Faculty of Mathematics and Information Science, Laboratory of Bioinformatics and Computational Genomics, Warsaw, Poland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Bioinformatics"
+    ],
+    "pub_date": "2026 Sep 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 00:50",
+    "fetched_at": "2026-09-14 15:56:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42730630",
+      "40082674",
+      "32207529",
+      "25128017",
+      "31504161",
+      "41726976",
+      "41639613",
+      "28056762",
+      "31192347",
+      "38213897",
+      "35193506",
+      "40655196",
+      "41692967",
+      "41509217",
+      "42477873",
+      "41923360",
+      "42704662",
+      "39498488",
+      "40691818",
+      "42544764",
+      "32306927",
+      "36238687",
+      "38716230",
+      "35451453",
+      "40489639",
+      "30986246",
+      "42475469",
+      "35997565",
+      "42658653",
+      "32051612",
+      "38718209",
+      "36699347",
+      "40666973",
+      "42057295",
+      "35441669",
+      "36215037",
+      "42320030",
+      "42178345",
+      "42104046",
+      "36069454",
+      "39565903",
+      "27716038",
+      "42405192",
+      "41324558",
+      "34284136",
+      "42097292",
+      "26034063",
+      "36469333",
+      "42625378",
+      "40397077",
+      "37465398",
+      "29949986",
+      "40862515",
+      "39283448",
+      "34900230",
+      "26561344",
+      "41712762",
+      "32998764",
+      "41399633",
+      "41607695",
+      "35258562",
+      "40542429",
+      "41423796",
+      "42678358",
+      "38735595",
+      "35867248",
+      "41581117",
+      "41507775",
+      "36342203",
+      "34928392",
+      "36173306",
+      "42087325",
+      "40845158",
+      "35488276",
+      "42683156",
+      "34563051",
+      "41573168",
+      "42185947",
+      "35900151",
+      "41585413",
+      "28416945",
+      "28789639",
+      "38212989",
+      "37540173",
+      "34415538",
+      "42635245",
+      "38746164",
+      "41805929",
+      "38281134",
+      "29244056",
+      "31086982",
+      "38532317",
+      "42640826",
+      "42671311",
+      "41222189",
+      "42277027",
+      "41002268",
+      "41734268",
+      "39411512",
+      "32357829"
+    ],
+    "review": [
+      "42730630"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btag636",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

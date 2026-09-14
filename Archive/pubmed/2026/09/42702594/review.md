@@ -1,94 +1,121 @@
 ## Review setup
-- **Input scope** Full manuscript (including Abstract, Introduction, Results, Discussion, Methods, and Supplementary information)
+- **Input scope** Full manuscript (including Abstract, Introduction, Results, Discussion, Methods, and Supplementary Information)
 - **Assessment boundary** Scientific content, experimental design, data analysis, and interpretation as presented in the provided text
-- **Shared manuscript claim summary** The authors report that allele-specific chromatin architecture is a common feature of imprinted domains in the mouse brain, driven by methylation-sensitive CTCF binding at imprinting control regions. They identify a distal enhancer (E105) at the Mest-Copg2 domain that engages different promoters on each parental allele and, together with the antisense transcript MestXL, coordinates maternal activation and paternal repression of Copg2 in neurons.
+- **Shared manuscript claim summary** The authors report that allele-specific chromatin architecture is a common feature of imprinted domains in the mouse brain, shaped by methylation-sensitive CTCF binding at imprinting control regions. They identify a distal enhancer (E105) at the Mest-Copg2 domain that engages different promoters on each parental allele, and show that Copg2 imprinted expression in neurons is regulated by both enhancer-mediated activation on the maternal allele and antisense transcription (MestXL)-mediated repression on the paternal allele.
 - **Visible evidence base** Capture Hi-C, CUT&Tag, ATAC-seq, RNA-seq, CRISPRi screen, ASO knockdown, RT-ddPCR, FISH, DNMTi treatment, ChromHMM analysis
-- **Missing materials affecting confidence** Raw sequencing data, processed data files, and analysis code are not provided for review. Supplementary figures and tables are referenced but not included. The preprint cited in the Discussion (ref 44) is not accessible.
+- **Missing materials affecting confidence** Supplementary Figures 1–14 and Supplementary Tables 1–2 are referenced but not provided for review. Source data files are not provided. Code repository URL is given but not accessible in this format.
 
 ## Reviewer
-- **Overall assessment** This manuscript presents a comprehensive and technically rigorous analysis of allele-specific chromatin architecture at imprinted domains in the mouse brain. The combination of Capture Hi-C, functional perturbation, and allele-specific readouts provides a compelling case for the role of 3D genome organization in imprinted gene regulation. The identification of a distal enhancer (E105) that engages different promoters on each parental allele, together with the demonstration that MestXL represses paternal Copg2, represents a significant advance in understanding how imprinted expression is established and maintained. The work is well-executed, the conclusions are largely supported by the data, and the manuscript is clearly written. However, several technical concerns and missing details need to be addressed before the case is fully established.
-- **Who would be interested in the results, and why** Researchers in genomic imprinting, 3D genome organization, gene regulation, and neuroepigenetics will find this work of high interest. The systematic analysis of allele-specific chromatin architecture across multiple imprinted domains, the functional identification of a distal enhancer, and the integration of enhancer activity with antisense transcription provide a mechanistic framework that extends beyond the specific locus studied. The findings are also relevant to those studying long-range gene regulation, CTCF-mediated insulation, and the interplay between transcriptional and architectural mechanisms in establishing parent-of-origin-specific expression.
-- **Major strengths** 1. Systematic and high-resolution allele-specific chromatin contact maps across eight imprinted domains, providing a comprehensive resource. 2. Rigorous use of reciprocal crosses to control for strain-of-origin effects. 3. Functional validation of a distal enhancer (E105) through CRISPRi screening, Cas9-mediated deletion, and AAV delivery in vivo. 4. Integration of enhancer activity with antisense transcription to explain neuron-specific Copg2 allelic bias. 5. Clear and well-structured presentation of complex data.
+- **Overall assessment** This manuscript presents a comprehensive and technically rigorous analysis of allele-specific chromatin architecture at imprinted domains in the mouse brain. The study is well-motivated, the experimental design is thoughtful, and the findings are largely supported by the data presented. The identification of a distal enhancer (E105) that exhibits allele-specific promoter engagement and the integration of enhancer activity with antisense transcription at the Mest-Copg2 domain represent significant advances. However, several concerns regarding the specificity of perturbations, the strength of causal claims, and the generalizability of the model require attention.
+- **Who would be interested in the results, and why** Researchers in genomic imprinting, 3D genome organization, gene regulation, and neuroepigenetics will find this work of high interest. The systematic analysis of allele-specific chromatin architecture across multiple imprinted domains and the functional dissection of the Mest-Copg2 regulatory logic provide mechanistic insights that extend beyond individual loci.
+- **Major strengths** 1. Systematic and high-resolution allele-specific chromatin contact mapping across eight imprinted domains, with reciprocal crosses to control for strain effects. 2. Integration of multiple orthogonal approaches (Capture Hi-C, CUT&Tag, ATAC-seq, CRISPRi, ASO, FISH) to build a coherent mechanistic model. 3. Functional identification of a distal enhancer (E105) through a CRISPRi screen, with validation by Cas9-mediated deletion and in vivo AAV delivery. 4. Clear demonstration that the enhancer engages different promoters on the two parental alleles, providing a structural basis for allele-specific regulation. 5. Elegant dissection of the dual regulatory logic (enhancer activation + antisense repression) at the Mest-Copg2 domain.
 - **Major Concerns**
-    - **Concern ID** R1-M1
-    - **Severity** Major
-    - **Blocking** Yes
-    - **Axis** Data availability and reproducibility
-    - **Claim pointer** The manuscript claims that allele-specific chromatin architectures are a common feature of imprinted domains and that E105 is a distal enhancer regulating Mest-Copg2 imprinted expression.
-    - **Evidence pointer** All figures and supplementary figures
-    - **Concern** The manuscript states that "Custom analysis scripts are available at github.com/Whipple-Lab/capture-hic-imprinting" and that "Source data are provided as a Source Data file." However, the raw sequencing data, processed data files (e.g., Hi-C contact matrices, bigWig tracks), and the complete analysis code are not provided for review. Without access to these materials, it is impossible to independently verify the key computational analyses, including the allele-specific contact matrix generation, loop calling, pile-up analysis, and virtual 4C profiles.
-    - **Why it matters** Reproducibility is a cornerstone of scientific rigor. The central claims of the paper rely heavily on computational analysis of high-throughput sequencing data. The inability to inspect the underlying data and code prevents a thorough evaluation of the analysis pipeline, quality control, and statistical methods.
-    - **Resolution test** Provide access to raw sequencing data (e.g., via GEO or SRA), processed data files (e.g., Hi-C contact matrices in .hic or .cool format, bigWig tracks for CUT&Tag and ATAC-seq), and the complete analysis scripts (e.g., as a GitHub repository with a clear README) for review.
-    - **Concern ID** R1-M2
-    - **Severity** Major
-    - **Blocking** Yes
-    - **Axis** Statistical rigor and multiple testing
-    - **Claim pointer** The CRISPRi screen identified E105 as a distal enhancer that significantly reduces Mest expression and alters Copg2 allelic bias.
-    - **Evidence pointer** Figure 5c, d; Methods: "CRISPRi screening"
-    - **Concern** The CRISPRi screen tested 25 gRNA pools targeting individual ATAC-seq peaks. The manuscript reports that only E105 targeting significantly reduced Mest expression (Figure 5c). However, the statistical analysis for this screen is not clearly described. It is unclear whether a multiple testing correction was applied to account for the 25 comparisons. The Methods state that "Relative expression was calculated using the ddCt method" and that "***p < 0.001 (Two-sided Dunnett's post hoc test)" was used, but the context of this test (e.g., compared to all other gRNAs or only to scrambled control) is ambiguous. If no correction was applied, the single significant hit out of 25 tests could be a false positive.
-    - **Why it matters** The identification of E105 is a central finding of the paper. If the statistical evidence for its selection is weak, the entire functional validation and subsequent mechanistic studies are undermined.
-    - **Resolution test** Clearly describe the statistical framework for the CRISPRi screen, including the number of comparisons, the specific test used, and whether a multiple testing correction (e.g., Bonferroni, FDR) was applied. Provide the full list of p-values for all 25 gRNA pools. If no correction was applied, re-analyze the data with an appropriate correction and report whether E105 remains significant.
-    - **Concern ID** R1-M3
-    - **Severity** Major
-    - **Blocking** No
-    - **Axis** Causal relationship between chromatin architecture and gene expression
-    - **Claim pointer** "E105 acts as a long-range enhancer that promotes maternal Copg2 expression through allele-specific chromatin interactions" (Discussion).
-    - **Evidence pointer** Figure 6b; Virtual 4C profiles
-    - **Concern** The virtual 4C profiles (Figure 6b) show that E105 has preferential contacts with the Mest promoter on the paternal allele and the Copg2 promoter on the maternal allele. This is correlative evidence. The manuscript then shows that CRISPRi of E105 reduces maternal Copg2 expression and increases paternal Copg2 expression. However, the causal link between the *allele-specific chromatin interaction* and the *allele-specific gene expression change* is not directly demonstrated. It is possible that E105 regulates both promoters through a different mechanism (e.g., by affecting a common regulatory hub or by altering local chromatin state) and that the observed allele-specific contacts are a consequence, rather than a cause, of the expression change. The authors acknowledge that "E105 was not the highest frequency contact for either promoter," which further complicates the interpretation.
-    - **Why it matters** The paper's central model (Figure 6g) posits that allele-specific chromatin architecture *coordinates* enhancer activity and antisense transcription. While the data are consistent with this model, the evidence for a direct causal role of the specific chromatin interactions in mediating the enhancer's effect is correlative.
-    - **Resolution test** To strengthen the causal link, the authors could perform an experiment that disrupts the specific chromatin loop (e.g., by deleting the CTCF site at the loop anchor) and measure the effect on E105-mediated regulation. Alternatively, they could use an allele-specific enhancer-blocking assay (e.g., using a dCas9-CTCF fusion) to test whether the interaction is required for the enhancer's function. A more modest resolution would be to explicitly discuss this limitation and the correlative nature of the evidence.
-    - **Concern ID** R1-M4
-    - **Severity** Major
-    - **Blocking** No
-    - **Axis** Specificity of MestXL perturbation
-    - **Claim pointer** "Mest/MestXL contributes to repression of paternal Copg2" (Results).
-    - **Evidence pointer** Figure 6e, f; Methods: "Antisense oligonucleotide treatment"
-    - **Concern** The ASO targeting the MestXL extended 3' UTR reduced MestXL by >93% but also partially reduced total Mest RNA by ~50% (Figure 6e). The authors acknowledge this and refer to the perturbation as "Mest/MestXL knockdown." This confound makes it difficult to attribute the observed increase in paternal Copg2 expression specifically to the loss of the MestXL isoform, as it could also be due to the reduction of canonical Mest. The authors attempt to address this by stating that "Mest is exclusively expressed from the paternal allele," but this does not rule out a role for the Mest protein or the Mest RNA itself in regulating Copg2.
-    - **Why it matters** The model proposes that MestXL, a specific isoform, is the repressive agent. If the effect is due to loss of total Mest, the mechanism would be different (e.g., loss of a Mest-dependent signaling pathway).
-    - **Resolution test** To specifically test the role of MestXL, the authors could perform a rescue experiment by expressing MestXL (but not canonical Mest) in the knockdown background. Alternatively, they could use a CRISPRi approach that specifically targets the MestXL promoter or the extended 3' UTR without affecting canonical Mest transcription. A more targeted ASO design that only affects the extended exon could also be attempted.
+
+- **Concern ID** R1-M1
+- **Severity** Major
+- **Blocking** No
+- **Axis** Causal inference / perturbation specificity
+- **Claim pointer** "Mest/MestXL then contributes to repression of paternal Copg2, likely through transcriptional interference, although a direct repressive role of the RNA cannot be excluded."
+- **Evidence pointer** Figure 6e, f; Results section "Copg2 is regulated by both a distal enhancer and MestXL transcription"
+- **Concern** The ASO targeting the MestXL extended 3' UTR reduces MestXL by >93% but also reduces total Mest RNA by ~50%. The authors acknowledge this and refer to the perturbation as "Mest/MestXL knockdown." However, the claim that MestXL specifically represses paternal Copg2 is weakened by the inability to separate the effects of MestXL from those of canonical Mest. The ASO may also affect other Mest isoforms or have off-target effects. The FISH data showing MestXL localization at the Copg2 transcription site is suggestive but does not establish a causal or mechanistic link.
+- **Why it matters** The central model of the paper posits that MestXL is the specific repressive agent on the paternal allele. If the observed effects are due to loss of canonical Mest or other isoforms, the model would need substantial revision. The distinction between transcriptional interference by the act of transcription versus a repressive function of the RNA product itself is also unresolved.
+- **Resolution test** 1. Perform a more specific perturbation, such as inserting a polyA signal or transcription terminator within the MestXL-specific exon to truncate the transcript without affecting canonical Mest. 2. Alternatively, use a CRISPRi approach targeting the MestXL-specific promoter or first exon. 3. Provide evidence that the ASO does not affect the stability or transcription of other Mest isoforms by RT-qPCR with isoform-specific primers. 4. If the RNA itself is repressive, tethering MestXL RNA to the Copg2 locus in trans could be tested, though technically challenging.
+
+- **Concern ID** R1-M2
+- **Severity** Major
+- **Blocking** No
+- **Axis** Specificity of enhancer function / pleiotropic effects
+- **Claim pointer** "E105 acts as a long-range enhancer that promotes maternal Copg2 expression through allele-specific chromatin interactions, while on the paternal allele it engages the Mest/MestXL promoter to drive transcription."
+- **Evidence pointer** Figure 5c–g, Figure 6b, f; Results section "CRISPRi screening reveals a distal enhancer for the Mest-Copg2 domain"
+- **Concern** The CRISPRi screen targeted 25 accessible chromatin peaks, and only E105 showed a significant effect on Mest expression. However, the authors note that gRNA efficiency was variable (Supplementary Fig. 13m), and E111 did not induce H3K9me3. This raises the possibility that other regulatory elements were missed due to inefficient targeting. Furthermore, the E105 perturbation reduces Mest expression and alters Copg2 allelic bias, but the effect on total Copg2 levels is not significant. The model posits that E105 is a "distal enhancer" for both genes, but the evidence for direct enhancer activity on Copg2 is indirect (allelic bias change without total expression change). The enhancer could be primarily a Mest enhancer, with the Copg2 effect being an indirect consequence of altered Mest/MestXL transcription.
+- **Why it matters** The claim that E105 is a shared enhancer with allele-specific target selection is a key conceptual advance. If E105 primarily regulates Mest, and the Copg2 effect is secondary, the model is less novel and more consistent with known mechanisms of antisense-mediated repression.
+- **Resolution test** 1. Perform a more comprehensive screen with validated gRNAs for all candidate regions, or use a tiling approach. 2. Test whether E105 can activate a reporter construct in an enhancer assay (e.g., luciferase or STARR-seq) in a cell-type-specific manner. 3. Use a more direct readout of enhancer activity, such as H3K27ac HiChIP or PLAC-seq, to confirm that E105 contacts the Copg2 promoter on the maternal allele with active chromatin marks. 4. Perform an allelic CUT&Tag for H3K27ac at the Copg2 promoter following E105 perturbation to see if maternal H3K27ac is specifically reduced.
+
+- **Concern ID** R1-M3
+- **Severity** Major
+- **Blocking** No
+- **Axis** Generalizability / statistical rigor
+- **Claim pointer** "Across the eight imprinted domains examined... most domains exhibited clear allele-specific chromatin architectures"
+- **Evidence pointer** Figure 1a–p, Supplementary Figures 2–9
+- **Concern** The claim that "most" domains exhibit allele-specific architectures is qualitative. The authors state that the magnitude of differences varies between loci, but no quantitative metric (e.g., an allele-specific insulation score, correlation coefficient, or statistical test) is provided to support this claim across all eight domains. The visual inspection of contact matrices is subjective, and some domains may show more subtle differences than others. The pile-up analysis (Figure 2a, b) is only shown for gDMRs and sDMRs collectively, not for individual domains.
+- **Why it matters** The systematic nature of the analysis is a stated strength of the paper. Without quantitative metrics, the reader cannot assess the extent or consistency of allele-specific architecture across domains. This weakens the generalizability of the conclusions.
+- **Resolution test** 1. Provide a quantitative measure of allele-specific architecture for each domain, such as an allele-specific insulation score, the number of allele-specific loops, or a correlation coefficient between maternal and paternal contact matrices. 2. Perform a statistical test (e.g., a permutation test) to determine whether the observed allelic differences are significant for each domain. 3. Present these metrics in a summary table or figure.
+
+- **Concern ID** R1-M4
+- **Severity** Major
+- **Blocking** No
+- **Axis** Causal inference / DNMTi experiment
+- **Claim pointer** "Loss of DNA methylation leads to biallelic CTCF binding, increased insulation at normally methylated alleles, and disruption of allele-specific chromatin organization, accompanied by reduced allelic expression bias."
+- **Evidence pointer** Figure 2d–g; Results section "Methylation-sensitive CTCF at ICRs shapes allelic architecture"
+- **Concern** The DNMTi experiment is performed in mESCs, which the authors acknowledge show partial loss of imprinting even under control conditions ("many imprinted genes maintained moderate-to-strong allelic bias (≥60% expression from one allele), likely reflecting partial loss of DNA methylation at DMRs in cultured mESCs"). This baseline instability complicates interpretation. Furthermore, DNMTi induces genome-wide demethylation, so the observed effects on chromatin architecture and gene expression could be indirect consequences of global epigenetic disruption rather than direct effects at ICRs. The authors acknowledge this limitation but do not provide a control experiment to address it.
+- **Why it matters** The causal link between DNA methylation, CTCF binding, chromatin architecture, and imprinted expression is a central tenet of the paper. The DNMTi experiment is the primary evidence for this causal chain, but its interpretability is compromised by the cell system and the global nature of the perturbation.
+- **Resolution test** 1. Perform a more specific perturbation, such as CRISPR-mediated demethylation of individual ICRs using dCas9-TET1, to test causality at specific loci. 2. Alternatively, use a conditional knockout of a maintenance methyltransferase (e.g., UHRF1 or DNMT1) in a more relevant cell type (e.g., neurons) to avoid the baseline instability of mESCs. 3. At minimum, provide a more detailed analysis of the mESC baseline, including the extent of methylation loss at ICRs under control conditions and a comparison of the DNMTi effect on imprinted versus non-imprinted genes.
+
+- **Concern ID** R1-M5
+- **Severity** Major
+- **Blocking** No
+- **Axis** Statistical rigor / multiple testing
+- **Claim pointer** "E105 inhibition significantly reduced the maternal-to-paternal expression ratio of Copg2 (Fig. 5d)"
+- **Evidence pointer** Figure 5d; Results section "CRISPRi screening reveals a distal enhancer for the Mest-Copg2 domain"
+- **Concern** The CRISPRi screen tested 25 gRNA pools targeting 25 different regions. The authors then performed RT-ddPCR for Copg2 allelic ratio only for the E105-targeting condition. It is unclear whether the other 24 conditions were also tested for allelic effects, or if only E105 was followed up. If only E105 was tested, the statistical significance of the allelic effect cannot be properly evaluated in the context of the full screen, as multiple testing correction was not applied across all 25 targets. The p-value reported (p = 0.0022, Dunnett's test) appears to be from a post-hoc comparison within the E105 experiment, not corrected for the initial screen.
+- **Why it matters** The identification of E105 as a regulator of Copg2 allelic bias is a key finding. If the statistical analysis does not account for the multiple comparisons inherent in the screen, the finding may be a false positive.
+- **Resolution test** 1. Report the results of the allelic analysis for all 25 targets, or clearly state that only E105 was tested. 2. Apply a multiple testing correction (e.g., Bonferroni or FDR) to the initial screen results. 3. If only E105 was tested for allelic effects, acknowledge this limitation and consider the finding as hypothesis-generating rather than confirmatory, pending validation with independent methods (which is partially provided by the Cas9 deletion and AAV experiments).
+
 - **Minor Comments**
-    - **Concern ID** R1-m1
-    - **Severity** Minor
-    - **Axis** Clarity and presentation
-    - **Affected element** Figure 1
-    - **Evidence pointer** Figure 1a-p
-    - **Issue** The figure legend states that "Contact matrices were normalized using the square root vanilla coverage method." However, the main text and Methods mention using "VC_SQRT normalization" for HICCUPS loop calling. It is unclear if the same normalization was used for the contact matrices in Figure 1.
-    - **Required correction** Clarify in the figure legend and Methods which normalization method was used for the contact matrices shown in Figure 1 and whether it is the same as used for loop calling.
-    - **Concern ID** R1-m2
-    - **Severity** Minor
-    - **Axis** Data interpretation
-    - **Affected element** Figure 2a, b
-    - **Evidence pointer** Figure 2a, b; Results: "Pile-up analysis across all gDMRs..."
-    - **Issue** The insulation scores are reported as 0.90 (methylated) and 1.87 (unmethylated) for gDMRs, and 1.21 and 1.42 for sDMRs. The text states that "unmethylated alleles exhibited strong local insulation (insulation score = 1.87)." However, a higher insulation score typically indicates *less* insulation (more cross-boundary contacts). The authors should clarify the directionality of their insulation score metric.
-    - **Required correction** Define the insulation score metric explicitly in the Methods and clarify in the Results whether a higher score indicates stronger or weaker insulation.
-    - **Concern ID** R1-m3
-    - **Severity** Minor
-    - **Axis** Completeness of analysis
-    - **Affected element** Figure 4e
-    - **Evidence pointer** Figure 4e; Results: "Active and inactive alleles engage distinct regulatory landscapes"
-    - **Issue** The analysis in Figure 4e shows that for non-DMR imprinted genes, the active allele preferentially contacts active enhancers. However, the number of non-DMR imprinted genes analyzed is not stated. If the number is very small (e.g., 1-2), the statistical significance (p = 0.029) may be driven by a single gene.
-    - **Required correction** Report the number of non-DMR imprinted genes included in the analysis. If the number is small, discuss the limitation of this analysis.
-    - **Concern ID** R1-m4
-    - **Severity** Minor
-    - **Axis** Technical detail
-    - **Affected element** Methods: "Capture Hi-C analysis"
-    - **Evidence pointer** Methods
-    - **Issue** The Methods state that "reads from reciprocal crosses were merged by parent-of-origin." It is not clear how the merging was performed (e.g., simple concatenation of BAM files, or a more sophisticated approach to handle potential batch effects).
-    - **Required correction** Provide more detail on the merging strategy, including any normalization steps taken to account for differences in sequencing depth or library complexity between the two crosses.
-    - **Concern ID** R1-m5
-    - **Severity** Minor
-    - **Axis** Data presentation
-    - **Affected element** Figure 5c
-    - **Evidence pointer** Figure 5c
-    - **Issue** The y-axis label is "Relative expression (normalized to Scrb)." It is unclear if the data are presented as fold-change or as a percentage of control.
-    - **Required correction** Clarify the y-axis label (e.g., "Relative expression (fold-change vs. Scrb)").
-    - **Concern ID** R1-m6
-    - **Severity** Minor
-    - **Axis** Interpretation of DNMTi experiment
-    - **Affected element** Figure 2d-g; Results
-    - **Evidence pointer** Figure 2d-g
-    - **Issue** The DNMTi experiment in mESCs shows that demethylation leads to loss of allele-specific architecture and reduced allelic bias. However, the authors note that "many imprinted genes maintained moderate-to-strong allelic bias... likely reflecting partial loss of DNA methylation at DMRs in cultured mESCs." This suggests that the baseline imprinting status in mESCs is already compromised, which weakens the interpretability of the DNMTi effect.
-    - **Required correction** Acknowledge this limitation more explicitly in the Discussion and consider whether the observed effects are truly due to loss of imprinting or to a more general effect of global demethylation on gene expression.
-- **Technical failings that need to be addressed before the case is established** R1-M1 (data availability), R1-M2 (statistical rigor of CRISPRi screen)
-- **Assessment against Nature-style criteria** **Originality:** High. The systematic, allele-specific analysis of chromatin architecture across multiple imprinted domains, combined with functional identification of a distal enhancer and its integration with antisense transcription, is novel and extends beyond previous locus-specific studies. **Scientific importance:** High. The work provides a mechanistic framework for understanding how 3D genome organization, enhancer activity, and antisense transcription cooperate to establish parent-of-origin-specific gene expression, a fundamental question in epigenetics. **Interdisciplinary readership:** Moderate to high. The findings will be of primary interest to researchers in epigenetics, gene regulation, and neurobiology. The broader implications for long-range regulation may also attract interest from the chromatin and genome architecture community. **Technical soundness:** Generally high, but with significant concerns about data availability and the statistical rigor of the CRISPRi screen that need to be resolved. The experimental design, use of reciprocal crosses, and combination of multiple orthogonal approaches are strengths. **Readability for nonspecialists:** Good. The manuscript is well-structured, the figures are clear, and the narrative is logical. The abstract and discussion effectively summarize the key findings and their significance.
-- **Recommendation posture** Supportive if technical concerns are resolved. The core findings are potentially important and well-supported by the majority of the data. However, the inability to review the raw data and the statistical ambiguity of the CRISPRi screen are blocking issues that must be addressed before the manuscript can be accepted.
+
+- **Concern ID** R1-m1
+- **Severity** Minor
+- **Axis** Clarity / presentation
+- **Affected element** Figure 2a, b
+- **Evidence pointer** Figure 2a, b
+- **Issue** The insulation scores reported in the pile-up analysis (0.90 vs 1.87 for gDMRs; 1.21 vs 1.42 for sDMRs) are described in the text as "insulation score," but the interpretation is confusing. A higher insulation score is said to indicate "strong local insulation" (Figure 2a, unmethylated allele), but in the Methods, the authors state that "regions with higher numbers of cross-boundary contacts were considered less insulated (higher insulation score)." This is contradictory.
+- **Required correction** Clarify the definition of the insulation score. If a higher score indicates stronger insulation (fewer cross-boundary contacts), correct the Methods description. If a higher score indicates weaker insulation (more cross-boundary contacts), correct the Results text and figure legend. Ensure consistency throughout.
+
+- **Concern ID** R1-m2
+- **Severity** Minor
+- **Axis** Data presentation
+- **Affected element** Figure 4b, c
+- **Evidence pointer** Figure 4b, c
+- **Issue** The fraction of TSS-anchored contacts per allele is shown for non-imprinted and imprinted genes. The statistical test used is not clearly stated in the figure legend or the main text. The p-value in Figure 4e is reported (p = 0.029, Wilcoxon rank-sum test), but the test for Figure 4b is not specified.
+- **Required correction** Clearly state the statistical test used for each panel in the figure legend. If no test was performed, state this explicitly and describe the data as descriptive.
+
+- **Concern ID** R1-m3
+- **Severity** Minor
+- **Axis** Completeness
+- **Affected element** Results section "Neural-specific chromatin organization at the Meg3 locus"
+- **Evidence pointer** Figure 3a–c
+- **Concern** The observation at the Meg3 locus is interesting but underdeveloped. The authors attribute the allele-specific organization to "transcription-associated mechanisms" based on H3K36me3 enrichment, but no functional perturbation is performed to test this. The section feels incomplete and does not contribute to the main narrative of the paper.
+- **Required correction** Either provide functional data (e.g., transcription inhibition) to support the claim, or reframe this section as a descriptive observation that highlights the diversity of mechanisms, with a clear statement that the mechanism remains to be tested.
+
+- **Concern ID** R1-m4
+- **Severity** Minor
+- **Axis** Clarity
+- **Affected element** Results section "CRISPRi screening reveals a distal enhancer for the Mest-Copg2 domain"
+- **Evidence pointer** Figure 5c
+- **Issue** The RT-qPCR data in Figure 5c shows that E105 inhibition reduces Mest expression but does not change total Copg2 levels. However, the allelic analysis (Figure 5d) shows a change in the maternal-to-paternal ratio. The authors should explicitly state that the total Copg2 level is unchanged, and that the allelic effect is therefore due to a redistribution of expression between alleles (decreased maternal, increased paternal).
+- **Required correction** Add a sentence in the Results section clarifying that the total Copg2 level is unchanged, and that the allelic effect reflects a change in the relative contribution of each allele.
+
+- **Concern ID** R1-m5
+- **Severity** Minor
+- **Axis** Reproducibility
+- **Affected element** Methods section "Capture Hi-C analysis"
+- **Evidence pointer** Methods
+- **Issue** The description of the custom script for filtering read pairs to capture regions and the custom analysis scripts is vague. The code repository URL is provided, but the specific scripts used for key analyses (e.g., pile-up analysis, insulation score calculation, virtual 4C) should be more clearly referenced.
+- **Required correction** Provide a more detailed description of the custom scripts, including the specific functions and parameters used. Ensure the code repository is well-documented and contains all scripts necessary to reproduce the key analyses.
+
+- **Technical failings that need to be addressed before the case is established** R1-M1 (specificity of MestXL perturbation), R1-M2 (specificity of E105 function), R1-M3 (quantitative assessment of allele-specific architecture), R1-M4 (causal inference from DNMTi experiment), R1-M5 (multiple testing in CRISPRi screen)
+
+- **Assessment against Nature-style criteria** 
+  - **Originality**: High. The systematic analysis of allele-specific chromatin architecture across multiple imprinted domains and the functional dissection of the Mest-Copg2 regulatory logic are novel. The integration of enhancer activity and antisense transcription into a unified model is a conceptual advance.
+  - **Scientific importance**: High. The study addresses a fundamental question in gene regulation (how parent-of-origin expression is established and maintained) and provides mechanistic insights that are likely relevant to other imprinted and monoallelically expressed loci.
+  - **Interdisciplinary readership**: Moderate to high. The topic is of broad interest to molecular biologists, geneticists, and neuroscientists. The clear writing and well-structured figures make the work accessible to nonspecialists, though some technical details (e.g., Capture Hi-C analysis) may be challenging.
+  - **Technical soundness**: Generally high, but several concerns need to be addressed (see Major Concerns). The experimental design is rigorous, with appropriate controls (reciprocal crosses, biological replicates). The data analysis is largely appropriate, but some statistical and interpretational issues remain.
+  - **Readability for nonspecialists**: Good. The abstract and introduction provide sufficient background. The results are presented in a logical order, and the figures are well-designed. The discussion effectively summarizes the key findings and places them in context.
+
+- **Recommendation posture** Supportive if technical concerns are resolved. The manuscript presents a significant advance in the field, but the specificity of the perturbations (MestXL, E105), the quantitative rigor of the architectural analysis, and the causal inference from the DNMTi experiment need to be strengthened. The authors should also address the multiple testing issue in the CRISPRi screen.
+
+## Risk / unsupported claims
+- The claim that MestXL specifically represses paternal Copg2 through transcriptional interference is not fully supported, as the ASO perturbation also affects canonical Mest. The mechanism of repression (transcriptional interference vs. RNA-mediated repression) is unresolved.
+- The claim that E105 is a shared enhancer that directly activates both Mest and Copg2 is not fully supported, as the effect on total Copg2 levels is not significant. The enhancer may primarily regulate Mest, with the Copg2 effect being indirect.
+- The claim that the Meg3 locus exhibits allele-specific chromatin organization due to "transcription-associated mechanisms" is not supported by functional data and should be presented as a hypothesis.
+- The claim that "most" imprinted domains exhibit allele-specific chromatin architectures is not quantitatively supported.

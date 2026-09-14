@@ -6,13 +6,13 @@
   "journal": "Cell reports",
   "published_date": "2026-09-10",
   "window": {
-    "start": "2026-09-04",
-    "end": "2026-09-10"
+    "start": "2026-09-07",
+    "end": "2026-09-13"
   },
-  "score": 0,
-  "one_liner_zh": "该文研究MHC-II基因座中HLA-DRB1和HLA-DQA1的转录调控机制，与cpcdh基因家族无关。",
+  "score": 2,
+  "one_liner_zh": "该文研究MHC-II基因的转录调控，与cpcdh基因家族无关，但涉及基因表达调控机制可借鉴。",
   "abstract": "MHC-II gene expression requires promoter-proximal and distal organizing elements. A super enhancer located between the HLA-DR and -DQ genes was dissected into five microdomains (regions A-E) to define its mechanism of action. Regions A and B were required for maximal expression of HLA-DQA1. Region A facilitated HLA-DQA1 expression and substituted for region B in its absence, as well as mediating longer-range interactions with distal CTCF sites. Region D modulated HLA-DRB1 through specific 3D chromatin interactions, whereas a local insulator element (XL9) broadly interacted with the SE. Through deletion of HLA-DRB1 proximal-promoter elements, HLA-DQ expression increased by co-opting interactions with region D, indicating that competition between microelements regulates the absolute levels of MHC-II genes. Together, these data define an additional layer of control for MHC-II genes encoded in one of the most polymorphic and disease-associated regions of the human genome.",
-  "abstract_zh": "MHC-II基因表达需要启动子近端和远端的组织元件。位于HLA-DR和-DQ基因之间的一个超级增强子被解析为五个微结构域（区域A-E），以定义其作用机制。区域A和B是HLA-DQA1最大表达所必需的。区域A促进HLA-DQA1表达，并在区域B缺失时替代其功能，同时介导与远端CTCF位点的更长程相互作用。区域D通过特定的3D染色质相互作用调节HLA-DRB1，而一个局部绝缘子元件（XL9）与SE广泛相互作用。通过删除HLA-DRB1近端启动子元件，HLA-DQ表达通过共选区域D的相互作用而增加，表明微元件之间的竞争调节MHC-II基因的绝对水平。综合来看，这些数据定义了人类基因组中最多态性和疾病相关区域之一编码的MHC-II基因的额外调控层。",
+  "abstract_zh": "MHC-II基因表达需要启动子近端和远端的组织元件。位于HLA-DR和-DQ基因之间的超级增强子被分解为五个微结构域（区域A-E），以明确其作用机制。区域A和B是HLA-DQA1最大表达所必需的。区域A促进HLA-DQA1表达，并在区域B缺失时替代其功能，同时介导与远端CTCF位点的更长程相互作用。区域D通过特定的3D染色质相互作用调节HLA-DRB1，而一个局部绝缘子元件（XL9）与SE广泛相互作用。通过删除HLA-DRB1近端启动子元件，HLA-DQ表达通过共选区域D的相互作用而增加，表明微元件之间的竞争调节MHC-II基因的绝对水平。综合来看，这些数据定义了人类基因组中一个最具多态性和疾病关联区域中编码的MHC-II基因的额外调控层。",
   "has_fulltext": false,
   "fulltext_source": "abstract",
   "fulltext_path": "fulltext.md",

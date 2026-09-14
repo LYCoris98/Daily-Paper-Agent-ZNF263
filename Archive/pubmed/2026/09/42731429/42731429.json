@@ -1,0 +1,299 @@
+{
+  "identity": {
+    "pmid": "42731429",
+    "doi": "10.1016/j.ijfoodmicro.2026.112039",
+    "title": "Fermentation of mulberry leaf extract by Aspergillus chevalieri CTCF-AC-1 for flavor improvement and enhanced hypoglycemic activity."
+  },
+  "content": {
+    "abstract": "Mulberry leaf extract (MLE) is rich in bioactive compounds with potent hypoglycemic activity, but is constrained by its sensory drawbacks. In this study, Aspergillus chevalieri CTCF-AC-1, isolated from Fu brick tea, was employed to ferment MLE for improving both its flavor profile and functional efficacy. Fermentation dynamically remodeled MLE composition: total phenolic acids decreased from 859.8 to 566.5 mg/mL, while total amino acid content increased dramatically from 322.13 mg/mL to 570.31 mg/mL with methionine and cysteine increased by 111.5-fold and 5.4-fold, respectively. The content of 1-deoxynojirimycin (1-DNJ) remained stable (0.27-0.29 mg/g). Headspace-gas chromatography-ion mobility spectrometry (HS-GC-IMS) analysis identified 62 volatile compounds, revealing a reduction in bitter/astringent notes (2,3,5-trimethylpyrazine, butyric acid, etc.) and an increase in compounds associated with fruity and sweet aromas (d-3-hexanone, 2,3-dimethylpyrazine etc.). Furthermore, the fermented MLE (FMLE) exhibited significantly enhanced in vitro antioxidant activity and inhibitory effects on alpha-amylase and alpha-glucosidase. In a zebrafish hyperglycemia model, FMLE showed lower acute toxicity (LC(1) = 1109 mug/mL vs. 609 mug/mL for MLE) and superior efficacy in promoting pancreatic glucose uptake in a dose-dependent manner. Transcriptomic and QPCR analyses elucidated that FMLE's hypoglycemic mechanism involves regulation of key genes (fut9d, irg1l, mmp9, gck) implicated in glucose metabolism and immune response. These findings demonstrate that fermentation with A. chevalieri effectively alleviates the sensory limitations of MLE while enhancing its hypoglycemic potency and biocompatibility, providing a scientific basis for its use in functional foods and nutraceuticals.",
+    "keywords": [
+      "Aspergillus chevalieri",
+      "Fermentation",
+      "Hypoglycemic activity",
+      "Mulberry leaf extract",
+      "Transcriptomics",
+      "Volatile compounds",
+      "Zebrafish model"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Xuezhen",
+        "He, Fatao",
+        "Lv, Xuqiang",
+        "Ma, Yanrui",
+        "Meng, Yuan",
+        "Lu, Xueyao",
+        "Zhao, Yan",
+        "Tian, Jiewei",
+        "Liu, Guangpeng",
+        "Wu, Maoyu"
+      ],
+      "short_names": [
+        "Li X",
+        "He F",
+        "Lv X",
+        "Ma Y",
+        "Meng Y",
+        "Lu X",
+        "Zhao Y",
+        "Tian J",
+        "Liu G",
+        "Wu M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China.",
+        "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China.",
+        "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China.",
+        "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China.",
+        "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China.",
+        "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China.",
+        "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China.",
+        "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China; College of Biological and Chemical Engineering, Guangxi University of Science and Technology, Liuzhou, Guangxi, 545006, China. Electronic address: tjw0824@126.com.",
+        "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China. Electronic address: liuguangpeng99@163.com.",
+        "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China. Electronic address: wmy-72@tom.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Xuezhen",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China."
+        ]
+      },
+      {
+        "full_name": "He, Fatao",
+        "short_name": "He F",
+        "identifiers": [],
+        "affiliations": [
+          "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China."
+        ]
+      },
+      {
+        "full_name": "Lv, Xuqiang",
+        "short_name": "Lv X",
+        "identifiers": [],
+        "affiliations": [
+          "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Yanrui",
+        "short_name": "Ma Y",
+        "identifiers": [],
+        "affiliations": [
+          "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China."
+        ]
+      },
+      {
+        "full_name": "Meng, Yuan",
+        "short_name": "Meng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Xueyao",
+        "short_name": "Lu X",
+        "identifiers": [],
+        "affiliations": [
+          "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yan",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Jiewei",
+        "short_name": "Tian J",
+        "identifiers": [],
+        "affiliations": [
+          "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China; College of Biological and Chemical Engineering, Guangxi University of Science and Technology, Liuzhou, Guangxi, 545006, China. Electronic address: tjw0824@126.com."
+        ]
+      },
+      {
+        "full_name": "Liu, Guangpeng",
+        "short_name": "Liu G",
+        "identifiers": [],
+        "affiliations": [
+          "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China. Electronic address: liuguangpeng99@163.com."
+        ]
+      },
+      {
+        "full_name": "Wu, Maoyu",
+        "short_name": "Wu M",
+        "identifiers": [],
+        "affiliations": [
+          "Jinan Fruit Research Institute, China Federation of Supply and Marketing Co-operatives, Jinan, Shandong, 250200, China. Electronic address: wmy-72@tom.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of food microbiology"
+    ],
+    "journal_abbrev": [
+      "Int J Food Microbiol"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 00:50",
+    "fetched_at": "2026-09-14 15:56:41"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42731429",
+      "40333611",
+      "40104817",
+      "42039884",
+      "41409723",
+      "36268133",
+      "36230199",
+      "41795534",
+      "42480482",
+      "36855010",
+      "36360085",
+      "41185346",
+      "41539810",
+      "40232039",
+      "39630468",
+      "21370820",
+      "42270232",
+      "41112726",
+      "42208385",
+      "38087418",
+      "42219551",
+      "42215076",
+      "41606899",
+      "38928750",
+      "38833862",
+      "39548696",
+      "41352793",
+      "42358250",
+      "39568725",
+      "42632701",
+      "39315209",
+      "39386052",
+      "37693241",
+      "21631361",
+      "41664546",
+      "36726371",
+      "39644119",
+      "38360381",
+      "41624583",
+      "39147494",
+      "36187805",
+      "41895955",
+      "22849553",
+      "42227411",
+      "40980277",
+      "39150724",
+      "40361713",
+      "40790653",
+      "40825385",
+      "31784075",
+      "30769776",
+      "42163047",
+      "42279766",
+      "40774191",
+      "41652747",
+      "42105254",
+      "40899564",
+      "38840807",
+      "27054886",
+      "41683147",
+      "40086952",
+      "41268619",
+      "39517196",
+      "40948330",
+      "24843505",
+      "40989778",
+      "36965545",
+      "41596923",
+      "39345858",
+      "40660489",
+      "40486068",
+      "41074744",
+      "39849731",
+      "41097561",
+      "35316313",
+      "41675126",
+      "40154056",
+      "41895936",
+      "40253190",
+      "42466147",
+      "37959125",
+      "39643362",
+      "42325386",
+      "38167751",
+      "39147485",
+      "37051132",
+      "41271340",
+      "20838571",
+      "31678068",
+      "20098579",
+      "41515216",
+      "34071857",
+      "36063678",
+      "32083310",
+      "40282786",
+      "42158390",
+      "36596121",
+      "36014355",
+      "39549516",
+      "34023693"
+    ],
+    "review": [
+      "42731429",
+      "39150724"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0168-1605(26)00420-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-862",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S0168-1605(26)00420-4",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
