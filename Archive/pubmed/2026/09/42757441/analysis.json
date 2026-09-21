@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42757441",
+  "title": "Transcription and Three-Dimensional Genome Organization: Cause, Consequence, or Coordination?",
+  "authors": "Yang, Dagyeong; Lei, Elissa P",
+  "journal": "BioEssays : news and reviews in molecular, cellular and developmental biology",
+  "published_date": "2026-09-18",
+  "window": {
+    "start": "2026-09-14",
+    "end": "2026-09-20"
+  },
+  "score": 5,
+  "one_liner_zh": "该文综述转录与三维基因组组织的因果关系，虽未直接涉及cpcdh基因家族，但其对染色质结构与基因表达调控的机制探讨可为该家族研究提供借鉴。",
+  "abstract": "Transcription and three-dimensional (3D) genome organization are closely coupled, but their precise relationship remains unresolved. Evidence from perturbation, imaging, and modeling studies suggests that transcription is not strictly required for the establishment of large-scale genome features such as compartments and topologically associating domains (TADs). Instead, transcription seems to exert more prominent effects at finer spatial scales, where it influences enhancer-promoter interactions, local chromatin loops, and microcompartments. RNA molecules, polymerase-driven supercoiling, and R-loop formation may further modulate chromatin organization at the gene level. At the same time, many architectural proteins and transcriptional regulators operate with functional overlap, complicating efforts to disentangle cause and consequence. Together, these observations suggest that genome architecture provides a relatively stable framework for regulated gene expression, while transcription and associated factors refine chromatin organization in a context-dependent manner. Understanding how these processes are integrated will require systematic, multi-scale perturbations across different biological and biochemical systems.",
+  "abstract_zh": "转录与三维（3D）基因组组织紧密耦合，但二者之间的精确关系仍未明确。来自扰动、成像和建模研究的证据表明，转录并非严格意义上建立区室和拓扑关联结构域（TADs）等大规模基因组特征所必需。相反，转录似乎在更精细的空间尺度上发挥更显著的作用，影响增强子-启动子相互作用、局部染色质环和微区室。RNA分子、聚合酶驱动的超螺旋以及R-loop形成可能进一步在基因水平调节染色质组织。同时，许多结构蛋白和转录调节因子在功能上存在重叠，这使得厘清因果关系变得复杂。综合来看，这些观察结果表明，基因组结构为调控基因表达提供了一个相对稳定的框架，而转录及相关因子则以情境依赖的方式细化染色质组织。理解这些过程如何整合，将需要在不同生物学和生物化学系统中进行系统性的多尺度扰动研究。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42757441/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42757441/",
+  "paper_page_path": "papers/pubmed/42757441/index.html"
+}

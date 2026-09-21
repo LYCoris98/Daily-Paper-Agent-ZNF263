@@ -1,0 +1,240 @@
+{
+  "identity": {
+    "pmid": "42737490",
+    "doi": "10.3390/ijms27177588",
+    "title": "DNAM-1-Stimulated NK-92 Cells Exert Preferential Cytotoxic and Apoptosis-Associated Effects on Hormone-Independent Solid Tumor Cell Lines."
+  },
+  "content": {
+    "abstract": "Anti-CD226 antibody-mediated stimulation of NK-92 cells (sNK-92) represents a potential immunotherapeutic approach; however, its cytotoxic and apoptosis-associated effects in hormone-independent solid tumors remain insufficiently characterized. This study investigated the activity of sNK-92 cells against PC3 castration-resistant prostate cancer and SH-SY5Y neuroblastoma cell lines, using PNT1A normal prostate epithelial and BJ normal dermal fibroblast cells as non-malignant controls. Cytotoxicity was assessed by CCK-8 assay at target-to-effector (T:E) ratios of 1:1, 1:5, and 1:10, and markers historically associated with the intrinsic (BAX, caspase-9), extrinsic (caspase-8), and executioner (caspase-3) apoptotic pathways were evaluated quantitatively by ImageJ-based corrected total cell fluorescence (CTCF) analysis. sNK-92 cells produced significant ratio-dependent cytotoxicity against PC3 and SH-SY5Y cells, reaching 23.76% and 26.29%, respectively, at the 1:10 T:E ratio, with sNK-92 producing significantly greater cytotoxicity than unstimulated NK-92 at this ratio in both cell lines and additionally at the 1:5 ratio in SH-SY5Y cells; no significant reduction in CCK-8 viability was detected in PNT1A or BJ cells at any ratio. Quantitative immunofluorescence analysis demonstrated substantially increased relative fluorescence intensity of all four apoptosis-associated markers in sNK-92-treated PC3 and SH-SY5Y cells compared with their corresponding controls and, in most comparisons, with NK-92-treated cells, whereas changes observed in the PNT1A and BJ non-malignant models examined were markedly smaller. These findings provide preliminary quantitative evidence that anti-CD226-stimulated NK-92 cells exert a preferential cytotoxic effect on the tumor cell models examined, relative to the non-malignant models tested, and induce changes in apoptosis-associated markers consistent with engagement of apoptotic signaling. Further orthogonal validation is warranted.",
+    "keywords": [
+      "CD226",
+      "DNAM-1",
+      "NK-92 cells",
+      "apoptosis",
+      "extrinsic pathway",
+      "hormone-independent solid tumors",
+      "immunofluorescence",
+      "intrinsic pathway",
+      "neuroblastoma",
+      "prostate cancer"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Apoptosis/drug effects",
+      "*Killer Cells, Natural/immunology/metabolism",
+      "Cell Line, Tumor",
+      "T Lineage-Specific Activation Antigen 1",
+      "*Antigens, Differentiation, T-Lymphocyte/immunology/metabolism",
+      "Male",
+      "Prostatic Neoplasms/immunology",
+      "*Neuroblastoma/pathology/immunology/metabolism",
+      "PC-3 Cells"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dastouri, Mohammadreza",
+        "Elmusa, Fatima"
+      ],
+      "short_names": [
+        "Dastouri M",
+        "Elmusa F"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3882-0728",
+        "ORCID: 0000-0001-6645-5487"
+      ],
+      "affiliations": [
+        "Department of Medical Biology, School of Medicine, Ankara Medipol University, Ankara 06570, Turkiye.",
+        "Department of Molecular Biology, Institution of Graduate Schools, Eskisehir Technical University, Eskisehir 26470, Turkiye."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dastouri, Mohammadreza",
+        "short_name": "Dastouri M",
+        "identifiers": [
+          "0000-0003-3882-0728"
+        ],
+        "affiliations": [
+          "Department of Medical Biology, School of Medicine, Ankara Medipol University, Ankara 06570, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Elmusa, Fatima",
+        "short_name": "Elmusa F",
+        "identifiers": [
+          "0000-0001-6645-5487"
+        ],
+        "affiliations": [
+          "Department of Molecular Biology, Institution of Graduate Schools, Eskisehir Technical University, Eskisehir 26470, Türkiye."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-21 06:26:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42737490",
+      "32082316",
+      "37410214",
+      "42353218",
+      "22516232",
+      "25541298",
+      "17663991",
+      "33303573",
+      "21821703",
+      "37027073",
+      "23824039",
+      "26674967",
+      "32849519",
+      "19349689",
+      "20848094",
+      "33452207",
+      "40421025",
+      "23504627",
+      "21969815",
+      "41694338",
+      "23440424",
+      "30761160",
+      "40440957",
+      "39835114",
+      "40877180",
+      "23036052",
+      "40869333",
+      "23719242",
+      "40750437",
+      "42193125",
+      "12632069",
+      "40234092",
+      "23404459",
+      "20438825",
+      "9815772",
+      "41462946",
+      "41903590",
+      "41751774",
+      "27821809",
+      "38966207",
+      "15604290",
+      "17219050",
+      "37068442",
+      "10663635",
+      "27433920",
+      "27716850",
+      "38646521",
+      "15661884",
+      "41058706",
+      "20542985",
+      "31839047",
+      "22766766",
+      "22507272",
+      "37866465",
+      "23400852",
+      "34452926",
+      "14648068",
+      "27816613",
+      "11384670",
+      "40489497",
+      "41386972",
+      "28819459",
+      "42446101",
+      "16988947",
+      "41186276",
+      "30504141",
+      "39754720",
+      "42667307",
+      "40888643",
+      "32591463",
+      "30541743",
+      "26552706",
+      "32830112",
+      "27626490",
+      "25752436",
+      "35696531",
+      "10226524",
+      "22882676",
+      "27809287",
+      "42119480",
+      "30502331",
+      "37580402",
+      "32768881",
+      "40944676",
+      "12471618",
+      "18188563",
+      "23453308",
+      "19777160",
+      "1354203",
+      "29866023",
+      "38875515",
+      "19029380",
+      "26883876",
+      "42157284",
+      "30991627",
+      "23192659",
+      "18657862",
+      "25274283",
+      "18392823",
+      "17617419"
+    ],
+    "review": [
+      "42737490"
+    ],
+    "pmc": [
+      "13565935"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27177588",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/neuroblastoma.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Neuroblastoma"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42737490/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-BAX-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

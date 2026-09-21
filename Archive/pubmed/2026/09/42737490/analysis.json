@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42737490",
+  "title": "DNAM-1-Stimulated NK-92 Cells Exert Preferential Cytotoxic and Apoptosis-Associated Effects on Hormone-Independent Solid Tumor Cell Lines.",
+  "authors": "Dastouri, Mohammadreza; Elmusa, Fatima",
+  "journal": "International journal of molecular sciences",
+  "published_date": "2026-09-15",
+  "window": {
+    "start": "2026-09-14",
+    "end": "2026-09-20"
+  },
+  "score": 3,
+  "one_liner_zh": "该文研究抗CD226刺激的NK-92细胞对激素非依赖性实体瘤的细胞毒作用，与cpcdh基因家族无直接关联，仅涉及CD226（与cpcdh名称相似但不同），可借鉴其凋亡检测方法。",
+  "abstract": "Anti-CD226 antibody-mediated stimulation of NK-92 cells (sNK-92) represents a potential immunotherapeutic approach; however, its cytotoxic and apoptosis-associated effects in hormone-independent solid tumors remain insufficiently characterized. This study investigated the activity of sNK-92 cells against PC3 castration-resistant prostate cancer and SH-SY5Y neuroblastoma cell lines, using PNT1A normal prostate epithelial and BJ normal dermal fibroblast cells as non-malignant controls. Cytotoxicity was assessed by CCK-8 assay at target-to-effector (T:E) ratios of 1:1, 1:5, and 1:10, and markers historically associated with the intrinsic (BAX, caspase-9), extrinsic (caspase-8), and executioner (caspase-3) apoptotic pathways were evaluated quantitatively by ImageJ-based corrected total cell fluorescence (CTCF) analysis. sNK-92 cells produced significant ratio-dependent cytotoxicity against PC3 and SH-SY5Y cells, reaching 23.76% and 26.29%, respectively, at the 1:10 T:E ratio, with sNK-92 producing significantly greater cytotoxicity than unstimulated NK-92 at this ratio in both cell lines and additionally at the 1:5 ratio in SH-SY5Y cells; no significant reduction in CCK-8 viability was detected in PNT1A or BJ cells at any ratio. Quantitative immunofluorescence analysis demonstrated substantially increased relative fluorescence intensity of all four apoptosis-associated markers in sNK-92-treated PC3 and SH-SY5Y cells compared with their corresponding controls and, in most comparisons, with NK-92-treated cells, whereas changes observed in the PNT1A and BJ non-malignant models examined were markedly smaller. These findings provide preliminary quantitative evidence that anti-CD226-stimulated NK-92 cells exert a preferential cytotoxic effect on the tumor cell models examined, relative to the non-malignant models tested, and induce changes in apoptosis-associated markers consistent with engagement of apoptotic signaling. Further orthogonal validation is warranted.",
+  "abstract_zh": "抗CD226抗体介导的NK-92细胞（sNK-92）刺激代表了一种潜在的免疫治疗方法；然而，其在激素非依赖性实体瘤中的细胞毒性和凋亡相关效应仍未得到充分表征。本研究调查了sNK-92细胞对PC3去势抵抗性前列腺癌和SH-SY5Y神经母细胞瘤细胞系的活性，使用PNT1A正常前列腺上皮细胞和BJ正常真皮成纤维细胞作为非恶性对照。通过CCK-8实验在靶细胞与效应细胞（T:E）比例为1:1、1:5和1:10时评估细胞毒性，并通过基于ImageJ的校正总细胞荧光（CTCF）分析定量评估历史上与内源性（BAX、caspase-9）、外源性（caspase-8）和效应子（caspase-3）凋亡通路相关的标志物。sNK-92细胞对PC3和SH-SY5Y细胞产生显著的比例依赖性细胞毒性，在1:10 T:E比例下分别达到23.76%和26.29%，且在此比例下，sNK-92在两种细胞系中均比未刺激的NK-92产生显著更高的细胞毒性，并在SH-SY5Y细胞中额外在1:5比例下也显著更高；在PNT1A或BJ细胞中，任何比例下均未检测到CCK-8活力的显著降低。定量免疫荧光分析显示，与相应对照组相比，sNK-92处理的PC3和SH-SY5Y细胞中所有四种凋亡相关标志物的相对荧光强度显著增加，且在大多数比较中，与NK-92处理的细胞相比也显著增加，而在所检查的PNT1A和BJ非恶性模型中观察到的变化明显较小。这些发现提供了初步的定量证据，表明抗CD226刺激的NK-92细胞对所检查的肿瘤细胞模型相对于所测试的非恶性模型表现出优先的细胞毒性效应，并诱导与凋亡信号传导参与一致的凋亡相关标志物变化。进一步的正交验证是有必要的。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42737490/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42737490/",
+  "paper_page_path": "papers/pubmed/42737490/index.html"
+}

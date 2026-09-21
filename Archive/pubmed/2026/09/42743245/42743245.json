@@ -1,0 +1,374 @@
+{
+  "identity": {
+    "pmid": "42743245",
+    "doi": "10.1158/0008-5472.CAN-26-0923",
+    "title": "PRMT1-Mediated Arginine Methylation Redirects SMAD4 Signaling to Promote Metastasis in Pancreatic Cancer."
+  },
+  "content": {
+    "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by early metastatic dissemination and poor clinical outcomes. Although SMAD4 is frequently altered in PDAC, the majority of tumors retain wild-type SMAD4, which paradoxically acquires pro-metastatic functions during disease progression. Uncovering how SMAD4 transcriptional output is reprogrammed to support metastasis in advanced PDAC could reveal strategies to prevent and treat metastasis. Here, we identified protein arginine methyltransferase 1 (PRMT1) as a critical modifier that mediates a metastasis-promoting transcriptional state of SMAD4. PRMT1 catalyzed asymmetric dimethylation of SMAD4 at arginine 272 (R272), a modification that did not alter SMAD4 expression but stabilized nuclear SMAD2/3-SMAD4 complexes and redirected SMAD4 chromatin engagement toward epithelial-mesenchymal transition (EMT) gene programs. Mechanistically, R272-methylated SMAD4 promoted the recruitment of a BRG1-CTCF transcriptional complex, enabling chromatin-dependent activation of pro-metastatic transcriptional outputs. Importantly, pharmacological inhibition of PRMT1, particularly in combination with BRG1 degradation, dismantled methylation-dependent SMAD4 transcriptional complexes, suppressed EMT programs, and markedly reduced liver metastasis in preclinical PDAC models. Together, these findings uncover a post-translational mechanism that governs SMAD4 transcriptional specificity and identify PRMT1-dependent methylation as a therapeutic vulnerability in SMAD4-wild-type pancreatic cancer.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Yizhou",
+        "Liang, Xueyi",
+        "Wei, Ruozheng",
+        "Peng, Yu",
+        "Qin, Gengdu",
+        "Liu, Jiaying",
+        "Zhao, Yuhan",
+        "Cai, Hongkun",
+        "Chen, Taoyu",
+        "Gou, Shanmiao",
+        "Yin, Tao",
+        "Wang, Bo",
+        "Wu, Heshui",
+        "Zhou, Yingke"
+      ],
+      "short_names": [
+        "Liu Y",
+        "Liang X",
+        "Wei R",
+        "Peng Y",
+        "Qin G",
+        "Liu J",
+        "Zhao Y",
+        "Cai H",
+        "Chen T",
+        "Gou S",
+        "Yin T",
+        "Wang B",
+        "Wu H",
+        "Zhou Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7141-9509",
+        "ORCID: 0009-0009-8366-0197",
+        "ORCID: 0000-0002-1053-5063",
+        "ORCID: 0009-0006-5520-4192",
+        "ORCID: 0000-0002-4287-4414",
+        "ORCID: 0000-0001-8108-8064",
+        "ORCID: 0000-0002-4729-1824",
+        "ORCID: 0000-0003-0056-2364",
+        "ORCID: 0009-0009-9527-0014",
+        "ORCID: 0000-0003-1988-0901",
+        "ORCID: 0000-0002-1902-6302",
+        "ORCID: 0009-0008-0570-6084",
+        "ORCID: 0000-0002-2268-7275",
+        "ORCID: 0000-0001-9632-2597"
+      ],
+      "affiliations": [
+        "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China.",
+        "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China.",
+        "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China.",
+        "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China.",
+        "Wuhan Union Hospital China. ROR: https://ror.org/0371fqr87",
+        "Wuhan Union Hospital China. ROR: https://ror.org/0371fqr87",
+        "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China.",
+        "Wuhan Union Hospital Wuhan China. ROR: https://ror.org/0371fqr87",
+        "Wuhan Union Hospital Wuhan China. ROR: https://ror.org/0371fqr87",
+        "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China.",
+        "Wuhan Union Hospital Wuhan, Hubei China. ROR: https://ror.org/0371fqr87",
+        "Wuhan Union Hospital China. ROR: https://ror.org/0371fqr87",
+        "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China.",
+        "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Yizhou",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0000-0002-7141-9509"
+        ],
+        "affiliations": [
+          "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China."
+        ]
+      },
+      {
+        "full_name": "Liang, Xueyi",
+        "short_name": "Liang X",
+        "identifiers": [
+          "0009-0009-8366-0197"
+        ],
+        "affiliations": [
+          "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China."
+        ]
+      },
+      {
+        "full_name": "Wei, Ruozheng",
+        "short_name": "Wei R",
+        "identifiers": [
+          "0000-0002-1053-5063"
+        ],
+        "affiliations": [
+          "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China."
+        ]
+      },
+      {
+        "full_name": "Peng, Yu",
+        "short_name": "Peng Y",
+        "identifiers": [
+          "0009-0006-5520-4192"
+        ],
+        "affiliations": [
+          "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China."
+        ]
+      },
+      {
+        "full_name": "Qin, Gengdu",
+        "short_name": "Qin G",
+        "identifiers": [
+          "0000-0002-4287-4414"
+        ],
+        "affiliations": [
+          "Wuhan Union Hospital China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jiaying",
+        "short_name": "Liu J",
+        "identifiers": [
+          "0000-0001-8108-8064"
+        ],
+        "affiliations": [
+          "Wuhan Union Hospital China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yuhan",
+        "short_name": "Zhao Y",
+        "identifiers": [
+          "0000-0002-4729-1824"
+        ],
+        "affiliations": [
+          "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China."
+        ]
+      },
+      {
+        "full_name": "Cai, Hongkun",
+        "short_name": "Cai H",
+        "identifiers": [
+          "0000-0003-0056-2364"
+        ],
+        "affiliations": [
+          "Wuhan Union Hospital Wuhan China."
+        ]
+      },
+      {
+        "full_name": "Chen, Taoyu",
+        "short_name": "Chen T",
+        "identifiers": [
+          "0009-0009-9527-0014"
+        ],
+        "affiliations": [
+          "Wuhan Union Hospital Wuhan China."
+        ]
+      },
+      {
+        "full_name": "Gou, Shanmiao",
+        "short_name": "Gou S",
+        "identifiers": [
+          "0000-0003-1988-0901"
+        ],
+        "affiliations": [
+          "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China."
+        ]
+      },
+      {
+        "full_name": "Yin, Tao",
+        "short_name": "Yin T",
+        "identifiers": [
+          "0000-0002-1902-6302"
+        ],
+        "affiliations": [
+          "Wuhan Union Hospital Wuhan, Hubei China."
+        ]
+      },
+      {
+        "full_name": "Wang, Bo",
+        "short_name": "Wang B",
+        "identifiers": [
+          "0009-0008-0570-6084"
+        ],
+        "affiliations": [
+          "Wuhan Union Hospital China."
+        ]
+      },
+      {
+        "full_name": "Wu, Heshui",
+        "short_name": "Wu H",
+        "identifiers": [
+          "0000-0002-2268-7275"
+        ],
+        "affiliations": [
+          "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Yingke",
+        "short_name": "Zhou Y",
+        "identifiers": [
+          "0000-0001-9632-2597"
+        ],
+        "affiliations": [
+          "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology Wuhan China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cancer research"
+    ],
+    "journal_abbrev": [
+      "Cancer Res"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 18:07",
+    "fetched_at": "2026-09-21 06:26:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42743245",
+      "40884268",
+      "37758734",
+      "33853662",
+      "31177911",
+      "27758883",
+      "39740539",
+      "37370109",
+      "31520395",
+      "37568607",
+      "34330913",
+      "24709776",
+      "17114584",
+      "36115074",
+      "41963612",
+      "29907569",
+      "23552743",
+      "38525105",
+      "39042374",
+      "32376602",
+      "41424019",
+      "25847239",
+      "40262100",
+      "38057506",
+      "33420374",
+      "42420589",
+      "32737864",
+      "37737256",
+      "40346625",
+      "31611300",
+      "38562717",
+      "40303346",
+      "24704720",
+      "32429474",
+      "33428605",
+      "42523618",
+      "30042387",
+      "40675804",
+      "35205719",
+      "27750041",
+      "42304476",
+      "32439219",
+      "39775984",
+      "27270440",
+      "41952208",
+      "40065368",
+      "26813495",
+      "41885390",
+      "33915173",
+      "38326807",
+      "33681386",
+      "31217189",
+      "41922577",
+      "24386371",
+      "21288898",
+      "33999432",
+      "35902557",
+      "35906484",
+      "24334458",
+      "26377474",
+      "24859161",
+      "40173041",
+      "36991117",
+      "27492861",
+      "24625091",
+      "33667543",
+      "38460517",
+      "30691517",
+      "31888763",
+      "37913894",
+      "32457840",
+      "33501895",
+      "33757206",
+      "38504385",
+      "41668296",
+      "19136629",
+      "40999053",
+      "40612681",
+      "41066593",
+      "26848620",
+      "40856537",
+      "22869556",
+      "28330868",
+      "38691454",
+      "14631847",
+      "40782428",
+      "28652407",
+      "34857888",
+      "41716413",
+      "41966513",
+      "28857308",
+      "31684910",
+      "31451547",
+      "42447266",
+      "31569425",
+      "35205666",
+      "38560567",
+      "35434944",
+      "40130992",
+      "30826432"
+    ],
+    "review": [
+      "42743245",
+      "31611300",
+      "32429474",
+      "42523618",
+      "35205719"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1367",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://aacrjournals.org/cancerres/article-lookup/doi/10.1158/0008-5472.CAN-26-0923",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

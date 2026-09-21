@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42749046",
+  "title": "Disruption of CTCF-mediated IGF2 repression promotes AKT-dependent mitochondrial oxidative stress and chondrocyte senescence in osteoarthritis.",
+  "authors": "Zhang, Chunpan; Xu, Fei; Wu, Jiangping; Zhu, Lixuan; Ning, Jie; Wu, Qishun",
+  "journal": "Life sciences",
+  "published_date": "2026-09-16",
+  "window": {
+    "start": "2026-09-14",
+    "end": "2026-09-20"
+  },
+  "score": 1,
+  "one_liner_zh": "该文研究CTCF-IGF2调控轴在骨关节炎软骨细胞衰老中的作用，与cpcdh基因家族无直接关联。",
+  "abstract": "AIMS: The upstream epigenetic mechanisms linking chronic inflammation to mitochondrial dysregulation and chondrocyte senescence in osteoarthritis (OA) remain incompletely defined. This study investigated whether inflammation-associated loss of CTCF occupancy at the IGF2-H19 intergenic region contributes to IGF2 upregulation, AKT-dependent mitochondrial oxidative stress, and chondrocyte senescence. MATERIALS AND METHODS: Integrative transcriptomic analysis of GSE114007 was performed using DESeq2, WGCNA, and protein-protein interaction network analysis. Key findings were examined in human OA cartilage and mechanistically investigated in cytokine-stimulated C28/I2 chondrocytes using chromatin immunoprecipitation, mitochondrial functional profiling, and senescence assays. Mechanistic studies combined CTCF gain- and loss-of-function approaches with pharmacological targeting of IGF2, AKT, and mitochondrial ROS. IGF2 neutralization was further evaluated in an ACLT murine model. KEY FINDINGS: IGF2 emerged as a transcriptomic hub gene associated with mitochondrial and senescence-related networks in OA. Inflammatory stimulation reduced CTCF expression and occupancy at the IGF2-H19 intergenic region, accompanied by increased IGF2 expression, AKT activation, mitochondrial respiratory activity, ROS production, matrix catabolism, and senescence-associated phenotypes. CTCF overexpression attenuated IGF2 upregulation and oxidative/senescence-associated phenotypes, whereas CTCF knockdown elicited complementary changes. Targeting IGF2, AKT, or mitochondrial ROS reduced oxidative stress and senescence-associated changes. In vivo, IGF2 neutralization attenuated cartilage degeneration, matrix catabolism, AKT activation, and senescence-associated alterations. SIGNIFICANCE: These findings support a functional regulatory framework linking CTCF-IGF2 dysregulation with AKT-dependent mitochondrial oxidative stress and chondrocyte senescence in OA, highlighting IGF2 signaling as a potential therapeutic target.",
+  "abstract_zh": "目的：在骨关节炎（OA）中，将慢性炎症与线粒体失调和软骨细胞衰老联系起来的上游表观遗传机制尚未完全明确。本研究探讨了炎症相关的CTCF在IGF2-H19基因间区域占据率丧失是否导致IGF2上调、AKT依赖性线粒体氧化应激及软骨细胞衰老。材料与方法：使用DESeq2、WGCNA和蛋白质-蛋白质相互作用网络分析对GSE114007进行整合转录组学分析。关键发现在人类OA软骨中进行了检测，并在细胞因子刺激的C28/I2软骨细胞中通过染色质免疫沉淀、线粒体功能分析和衰老测定进行了机制研究。机制研究结合了CTCF功能获得和功能丧失方法，以及针对IGF2、AKT和线粒体ROS的药理学靶向。在ACLT小鼠模型中进一步评估了IGF2中和作用。主要发现：IGF2被确定为与OA中线粒体和衰老相关网络相关的转录组枢纽基因。炎症刺激降低了CTCF在IGF2-H19基因间区域的表达和占据率，伴随IGF2表达增加、AKT激活、线粒体呼吸活性增强、ROS产生增多、基质分解代谢增强及衰老相关表型。CTCF过表达减弱了IGF2上调及氧化/衰老相关表型，而CTCF敲低则引发互补性变化。靶向IGF2、AKT或线粒体ROS可减少氧化应激和衰老相关变化。在体内，IGF2中和作用减轻了软骨退化、基质分解代谢、AKT激活及衰老相关改变。意义：这些发现支持一个功能调控框架，将CTCF-IGF2失调与OA中AKT依赖性线粒体氧化应激和软骨细胞衰老联系起来，突出IGF2信号作为潜在治疗靶点。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42749046/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42749046/",
+  "paper_page_path": "papers/pubmed/42749046/index.html"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42743245",
+  "title": "PRMT1-Mediated Arginine Methylation Redirects SMAD4 Signaling to Promote Metastasis in Pancreatic Cancer.",
+  "authors": "Liu, Yizhou; Liang, Xueyi; Wei, Ruozheng; Peng, Yu; Qin, Gengdu; Liu, Jiaying; Zhao, Yuhan; Cai, Hongkun; Chen, Taoyu; Gou, Shanmiao; Yin, Tao; Wang, Bo; Wu, Heshui; Zhou, Yingke",
+  "journal": "Cancer research",
+  "published_date": "2026-09-15",
+  "window": {
+    "start": "2026-09-14",
+    "end": "2026-09-20"
+  },
+  "score": 0,
+  "one_liner_zh": "该文研究PRMT1介导的SMAD4甲基化在胰腺癌转移中的作用，与cpcdh基因家族无直接关联。",
+  "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by early metastatic dissemination and poor clinical outcomes. Although SMAD4 is frequently altered in PDAC, the majority of tumors retain wild-type SMAD4, which paradoxically acquires pro-metastatic functions during disease progression. Uncovering how SMAD4 transcriptional output is reprogrammed to support metastasis in advanced PDAC could reveal strategies to prevent and treat metastasis. Here, we identified protein arginine methyltransferase 1 (PRMT1) as a critical modifier that mediates a metastasis-promoting transcriptional state of SMAD4. PRMT1 catalyzed asymmetric dimethylation of SMAD4 at arginine 272 (R272), a modification that did not alter SMAD4 expression but stabilized nuclear SMAD2/3-SMAD4 complexes and redirected SMAD4 chromatin engagement toward epithelial-mesenchymal transition (EMT) gene programs. Mechanistically, R272-methylated SMAD4 promoted the recruitment of a BRG1-CTCF transcriptional complex, enabling chromatin-dependent activation of pro-metastatic transcriptional outputs. Importantly, pharmacological inhibition of PRMT1, particularly in combination with BRG1 degradation, dismantled methylation-dependent SMAD4 transcriptional complexes, suppressed EMT programs, and markedly reduced liver metastasis in preclinical PDAC models. Together, these findings uncover a post-translational mechanism that governs SMAD4 transcriptional specificity and identify PRMT1-dependent methylation as a therapeutic vulnerability in SMAD4-wild-type pancreatic cancer.",
+  "abstract_zh": "胰腺导管腺癌（pancreatic ductal adenocarcinoma, PDAC）以早期转移播散和不良临床结局为特征。尽管SMAD4在PDAC中频繁发生改变，但大多数肿瘤保留野生型SMAD4，这矛盾地使其在疾病进展过程中获得促转移功能。揭示SMAD4转录输出如何在晚期PDAC中被重编程以支持转移，可能为预防和治疗转移提供策略。在此，我们鉴定了蛋白质精氨酸甲基转移酶1（protein arginine methyltransferase 1, PRMT1）作为关键修饰因子，介导SMAD4的促转移转录状态。PRMT1催化SMAD4在精氨酸272（R272）位点的非对称二甲基化，该修饰不改变SMAD4表达，但稳定核内SMAD2/3-SMAD4复合物，并将SMAD4染色质结合重定向至上皮-间质转化（epithelial-mesenchymal transition, EMT）基因程序。机制上，R272甲基化的SMAD4促进BRG1-CTCF转录复合物的招募，实现染色质依赖的促转移转录输出激活。重要的是，药理学抑制PRMT1，特别是与BRG1降解联合使用时，可瓦解甲基化依赖的SMAD4转录复合物，抑制EMT程序，并在临床前PDAC模型中显著减少肝转移。综上，这些发现揭示了一种调控SMAD4转录特异性的翻译后机制，并将PRMT1依赖性甲基化鉴定为SMAD4野生型胰腺癌的治疗脆弱点。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42743245/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42743245/",
+  "paper_page_path": "papers/pubmed/42743245/index.html"
+}

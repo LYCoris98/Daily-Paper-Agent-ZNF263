@@ -1,0 +1,24 @@
+{
+  "source": "biorxiv",
+  "id": "10.64898/2026.09.15.751728",
+  "title": "DiffDomain-Spectrum identifies structurally reorganized TADs from sparse aggregated single-cell Hi-C contact maps",
+  "authors": "Zhu J; Zhang H; Du Y; Zhang X; Zhou Y; Tian D",
+  "journal": "bioRxiv",
+  "published_date": "2026-09-17",
+  "window": {
+    "start": "2026-09-14",
+    "end": "2026-09-20"
+  },
+  "score": 0,
+  "one_liner_zh": "该文研究单细胞Hi-C数据中TAD结构域重组的统计方法，与cpcdh基因家族无关。",
+  "abstract": "Structurally reorganized topologically associating domains (TADs) capture condition- or cell-type-specific remodeling of chromatin contacts and are important for understanding genome organization in health and disease. Emerging single-cell Hi-C (scHi-C) technologies enable such comparisons across heterogeneous cell populations, but aggregated scHi-C contact maps remain sparse at biologically meaningful 25 kb resolution, limiting reliable TAD reorganization detection. Here we present DiffDomain-Spectrum, a spectral statistical framework for identifying reorganized TADs between conditions or cell types from aggregated raw scHi-C contact maps. It tests normalized TAD-level difference matrices without separately normalizing sparse maps or enhancing individual scHi-C contact maps. Comparison with a semicircle-law null integrates evidence across the full eigenvalue spectrum. Across multiple scHi-C platforms, DiffDomain-Spectrum balances false positive control and detection sensitivity relative to alternative bulk callers, and detects a substantially higher proportion of reference TADs as reorganized than the boundary-focused single-cell method scHiCluster. Detected TADs show coherent aggregate contact patterns and CTCF binding changes and are enriched for differentially expressed genes, supporting biological relevance. Together, these results establish DiffDomain-Spectrum as a statistically principled framework for comparative domain-level analysis of sparse aggregated scHi-C contact maps without single-cell map enhancement.",
+  "abstract_zh": "结构重组的拓扑关联结构域（TADs）捕捉条件或细胞类型特异性的染色质接触重塑，对于理解健康和疾病中的基因组组织至关重要。新兴的单细胞Hi-C（scHi-C）技术能够在异质细胞群体间进行此类比较，但聚合的scHi-C接触图谱在生物学意义的25 kb分辨率下仍显稀疏，限制了可靠的TAD重组检测。在此，我们提出DiffDomain-Spectrum，一种光谱统计框架，用于从聚合的原始scHi-C接触图谱中识别条件或细胞类型间重组的TADs。它直接检验归一化的TAD水平差异矩阵，无需单独归一化稀疏图谱或增强单个scHi-C接触图谱。与半圆律零假设的比较整合了全特征值谱的证据。在多个scHi-C平台上，DiffDomain-Spectrum相对于替代的批量调用器在假阳性控制和检测灵敏度之间取得平衡，并且检测到参考TADs中重组比例显著高于以边界为重点的单细胞方法scHiCluster。检测到的TADs显示出一致的聚合接触模式和CTCF结合变化，并富集差异表达基因，支持其生物学相关性。综合来看，这些结果确立了DiffDomain-Spectrum作为一种统计原则性框架，用于稀疏聚合scHi-C接触图谱的域级比较分析，而无需单细胞图谱增强。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.09.15.751728",
+  "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.15.751728",
+  "paper_page_path": "papers/biorxiv/10.64898_2026.09.15.751728/index.html"
+}

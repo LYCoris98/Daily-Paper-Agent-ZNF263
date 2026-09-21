@@ -1,0 +1,257 @@
+{
+  "identity": {
+    "pmid": "42757441",
+    "doi": "10.1002/bies.70182",
+    "title": "Transcription and Three-Dimensional Genome Organization: Cause, Consequence, or Coordination?"
+  },
+  "content": {
+    "abstract": "Transcription and three-dimensional (3D) genome organization are closely coupled, but their precise relationship remains unresolved. Evidence from perturbation, imaging, and modeling studies suggests that transcription is not strictly required for the establishment of large-scale genome features such as compartments and topologically associating domains (TADs). Instead, transcription seems to exert more prominent effects at finer spatial scales, where it influences enhancer-promoter interactions, local chromatin loops, and microcompartments. RNA molecules, polymerase-driven supercoiling, and R-loop formation may further modulate chromatin organization at the gene level. At the same time, many architectural proteins and transcriptional regulators operate with functional overlap, complicating efforts to disentangle cause and consequence. Together, these observations suggest that genome architecture provides a relatively stable framework for regulated gene expression, while transcription and associated factors refine chromatin organization in a context-dependent manner. Understanding how these processes are integrated will require systematic, multi-scale perturbations across different biological and biochemical systems.",
+    "keywords": [
+      "chromatin",
+      "cohesin",
+      "ctcf",
+      "drosophila",
+      "genome",
+      "genomic organization",
+      "insulator (genetics)",
+      "transcription (biology)"
+    ],
+    "mesh_terms": [
+      "*Transcription, Genetic",
+      "Animals",
+      "*Genome/genetics",
+      "Chromatin/genetics/metabolism",
+      "Humans",
+      "Chromatin Assembly and Disassembly",
+      "Gene Expression Regulation"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Dagyeong",
+        "Lei, Elissa P"
+      ],
+      "short_names": [
+        "Yang D",
+        "Lei EP"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-2471-9355",
+        "ORCID: 0000-0003-4894-0037"
+      ],
+      "affiliations": [
+        "Nuclear Organization and Gene Expression Section, Laboratory of Biochemistry and Genetics, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, Maryland, USA.",
+        "Program in Computational Biology, Bioinformatics, and Genomics, University of Maryland, College Park, Maryland, USA.",
+        "Nuclear Organization and Gene Expression Section, Laboratory of Biochemistry and Genetics, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Dagyeong",
+        "short_name": "Yang D",
+        "identifiers": [
+          "0009-0009-2471-9355"
+        ],
+        "affiliations": [
+          "Nuclear Organization and Gene Expression Section, Laboratory of Biochemistry and Genetics, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, Maryland, USA.",
+          "Program in Computational Biology, Bioinformatics, and Genomics, University of Maryland, College Park, Maryland, USA."
+        ]
+      },
+      {
+        "full_name": "Lei, Elissa P",
+        "short_name": "Lei EP",
+        "identifiers": [
+          "0000-0003-4894-0037"
+        ],
+        "affiliations": [
+          "Nuclear Organization and Gene Expression Section, Laboratory of Biochemistry and Genetics, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, Maryland, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BioEssays : news and reviews in molecular, cellular and developmental biology"
+    ],
+    "journal_abbrev": [
+      "Bioessays"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 12:25",
+    "fetched_at": "2026-09-21 06:26:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42757441",
+      "30367165",
+      "42475469",
+      "32213323",
+      "42068378",
+      "41622199",
+      "33854505",
+      "30886333",
+      "29077530",
+      "29967174",
+      "32680543",
+      "41151055",
+      "30795893",
+      "42228877",
+      "31197269",
+      "30239812",
+      "34099014",
+      "28863138",
+      "33497970",
+      "41910071",
+      "32249389",
+      "28137913",
+      "35867573",
+      "28826674",
+      "40436628",
+      "34957106",
+      "31362752",
+      "35180428",
+      "41145704",
+      "39946792",
+      "30157915",
+      "42648878",
+      "41277030",
+      "32199341",
+      "29217591",
+      "26852111",
+      "40874617",
+      "32616013",
+      "38451192",
+      "42468531",
+      "24002784",
+      "29858282",
+      "30263009",
+      "35551308",
+      "38810546",
+      "30875678",
+      "30031214",
+      "41258946",
+      "40490791",
+      "40804526",
+      "31264253",
+      "29757144",
+      "41407320",
+      "27634932",
+      "30709849",
+      "36582436",
+      "39366351",
+      "29379149",
+      "30523037",
+      "41044756",
+      "40953615",
+      "28424341",
+      "34149720",
+      "40629848",
+      "32518417",
+      "26760202",
+      "29175436",
+      "41009620",
+      "39498488",
+      "37865700",
+      "38775198",
+      "36075900",
+      "33626344",
+      "39555660",
+      "39827577",
+      "32895530",
+      "41430607",
+      "25218583",
+      "30865881",
+      "33284803",
+      "23912807",
+      "34234130",
+      "26632825",
+      "30940740",
+      "42144428",
+      "39709822",
+      "31216471",
+      "30086749",
+      "29272504",
+      "34453048",
+      "38944686",
+      "29273625",
+      "17913488",
+      "28388407",
+      "31177910",
+      "23416946",
+      "36011294",
+      "26013116",
+      "41642679",
+      "40887344"
+    ],
+    "review": [
+      "42757441",
+      "30367165",
+      "33854505",
+      "30886333",
+      "29077530",
+      "41151055",
+      "42228877",
+      "31197269",
+      "30239812",
+      "33497970",
+      "41910071",
+      "32249389",
+      "34957106",
+      "39946792",
+      "30157915",
+      "42648878",
+      "41277030",
+      "32199341",
+      "26852111",
+      "38451192",
+      "29858282",
+      "38810546",
+      "30875678",
+      "30031214",
+      "41258946",
+      "31264253",
+      "41407320",
+      "36582436",
+      "39366351",
+      "28424341",
+      "34149720",
+      "32518417",
+      "41009620",
+      "38775198",
+      "39827577",
+      "25218583",
+      "26632825",
+      "30940740",
+      "39709822",
+      "38944686",
+      "17913488",
+      "36011294"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/bies.70182",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

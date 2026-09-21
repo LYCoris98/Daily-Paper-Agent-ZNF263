@@ -1,0 +1,331 @@
+{
+  "identity": {
+    "pmid": "42743281",
+    "doi": "10.1073/pnas.2600693123",
+    "title": "Regulation of immune signal integration and memory by inflammation-induced chromosome conformation."
+  },
+  "content": {
+    "abstract": "Three-dimensional (3D) genome conformation is central to gene expression regulation, yet our understanding of its contribution to rapid transcriptional responses, signal integration, and memory in immune cells is limited. Here, we study the molecular regulation of the inflammatory response in primary macrophages using integrated transcriptomic, epigenomic, and chromosome conformation data, including base pair-resolution Micro Capture-C. We demonstrate that interleukin-4 (IL-4) primes the inflammatory response in macrophages by stably rewiring 3D genome conformation, juxtaposing endotoxin-, interferon-gamma-, and dexamethasone-responsive enhancers to their cognate gene promoters. CRISPR-based perturbations of enhancer-promoter contacts or CCCTC-binding factor (CTCF) boundary elements show that IL-4-driven conformation changes are required for enhanced and synergistic endotoxin-induced transcriptional responses, as well as transcriptional memory following stimulus removal. Moreover, transcriptional memory mediated by changes in chromosome conformation can occur in the absence of changes in chromatin accessibility or histone modifications. Collectively, these findings demonstrate that rapid and memory transcriptional responses to immunological stimuli are encoded in the 3D genome.",
+    "keywords": [
+      "3D genome",
+      "epigenome",
+      "innate immunity",
+      "memory"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Inflammation/genetics/immunology",
+      "Macrophages/immunology/metabolism",
+      "Mice",
+      "Interleukin-4/metabolism/immunology/genetics",
+      "Gene Expression Regulation",
+      "Signal Transduction",
+      "Trained Immunity",
+      "Chromatin",
+      "Interferon-gamma",
+      "CCCTC-Binding Factor/genetics/metabolism",
+      "Promoter Regions, Genetic",
+      "Enhancer Elements, Genetic",
+      "*Chromosomes",
+      "*Immunologic Memory",
+      "Transcription, Genetic"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Daniel, Bence",
+        "Chen, Andy Y",
+        "Sandor, Katalin",
+        "Zhang, Wenxi",
+        "Miao, Zhuang",
+        "Yost, Kathryn E",
+        "Lareau, Caleb A",
+        "Chang, Howard Y",
+        "Satpathy, Ansuman T"
+      ],
+      "short_names": [
+        "Daniel B",
+        "Chen AY",
+        "Sandor K",
+        "Zhang W",
+        "Miao Z",
+        "Yost KE",
+        "Lareau CA",
+        "Chang HY",
+        "Satpathy AT"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2410-8767",
+        "ORCID: 0000-0003-4179-4807",
+        "ORCID: 0000-0002-9459-4393",
+        "ORCID: 0000-0002-5167-537X"
+      ],
+      "affiliations": [
+        "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+        "Department of Pathology, Stanford University, Stanford, CA 94305. ROR: https://ror.org/00f54p054",
+        "Center for Personal Dynamic Regulomes, Stanford University, Stanford, CA 94305. ROR: https://ror.org/00f54p054",
+        "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+        "Department of Pathology, Stanford University, Stanford, CA 94305. ROR: https://ror.org/00f54p054",
+        "Department of Bioengineering, Stanford University, Stanford, CA 94305. ROR: https://ror.org/00f54p054",
+        "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+        "Department of Pathology, Stanford University, Stanford, CA 94305. ROR: https://ror.org/00f54p054",
+        "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+        "Department of Pathology, Stanford University, Stanford, CA 94305. ROR: https://ror.org/00f54p054",
+        "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+        "Department of Pathology, Stanford University, Stanford, CA 94305. ROR: https://ror.org/00f54p054",
+        "Center for Personal Dynamic Regulomes, Stanford University, Stanford, CA 94305. ROR: https://ror.org/00f54p054",
+        "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+        "Department of Pathology, Stanford University, Stanford, CA 94305. ROR: https://ror.org/00f54p054",
+        "Center for Personal Dynamic Regulomes, Stanford University, Stanford, CA 94305. ROR: https://ror.org/00f54p054",
+        "HHMI, Stanford University, Stanford, CA 94305. ROR: https://ror.org/00f54p054",
+        "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+        "Department of Pathology, Stanford University, Stanford, CA 94305. ROR: https://ror.org/00f54p054",
+        "Parker Institute for Cancer Immunotherapy, San Francisco, CA 94129. ROR: https://ror.org/0184qbg02"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Daniel, Bence",
+        "short_name": "Daniel B",
+        "identifiers": [
+          "0000-0002-2410-8767"
+        ],
+        "affiliations": [
+          "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+          "Department of Pathology, Stanford University, Stanford, CA 94305.",
+          "Center for Personal Dynamic Regulomes, Stanford University, Stanford, CA 94305."
+        ]
+      },
+      {
+        "full_name": "Chen, Andy Y",
+        "short_name": "Chen AY",
+        "identifiers": [],
+        "affiliations": [
+          "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+          "Department of Pathology, Stanford University, Stanford, CA 94305.",
+          "Department of Bioengineering, Stanford University, Stanford, CA 94305."
+        ]
+      },
+      {
+        "full_name": "Sandor, Katalin",
+        "short_name": "Sandor K",
+        "identifiers": [],
+        "affiliations": [
+          "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+          "Department of Pathology, Stanford University, Stanford, CA 94305."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wenxi",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+          "Department of Pathology, Stanford University, Stanford, CA 94305."
+        ]
+      },
+      {
+        "full_name": "Miao, Zhuang",
+        "short_name": "Miao Z",
+        "identifiers": [],
+        "affiliations": [
+          "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+          "Department of Pathology, Stanford University, Stanford, CA 94305."
+        ]
+      },
+      {
+        "full_name": "Yost, Kathryn E",
+        "short_name": "Yost KE",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Personal Dynamic Regulomes, Stanford University, Stanford, CA 94305."
+        ]
+      },
+      {
+        "full_name": "Lareau, Caleb A",
+        "short_name": "Lareau CA",
+        "identifiers": [
+          "0000-0003-4179-4807"
+        ],
+        "affiliations": [
+          "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+          "Department of Pathology, Stanford University, Stanford, CA 94305."
+        ]
+      },
+      {
+        "full_name": "Chang, Howard Y",
+        "short_name": "Chang HY",
+        "identifiers": [
+          "0000-0002-9459-4393"
+        ],
+        "affiliations": [
+          "Center for Personal Dynamic Regulomes, Stanford University, Stanford, CA 94305.",
+          "HHMI, Stanford University, Stanford, CA 94305."
+        ]
+      },
+      {
+        "full_name": "Satpathy, Ansuman T",
+        "short_name": "Satpathy AT",
+        "identifiers": [
+          "0000-0002-5167-537X"
+        ],
+        "affiliations": [
+          "4D Nucleome Consortium, National Institutes of Health, Bethesda, MD 20892.",
+          "Department of Pathology, Stanford University, Stanford, CA 94305.",
+          "Parker Institute for Cancer Immunotherapy, San Francisco, CA 94129."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 18:07",
+    "fetched_at": "2026-09-21 06:26:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42743281",
+      "38496446",
+      "41080543",
+      "34108683",
+      "41622199",
+      "40360814",
+      "32293525",
+      "32249388",
+      "32213323",
+      "31231385",
+      "41459752",
+      "34099014",
+      "38697116",
+      "38062010",
+      "17134490",
+      "30456521",
+      "41645061",
+      "37430065",
+      "11086058",
+      "34002095",
+      "25856589",
+      "31629814",
+      "39312688",
+      "40702585",
+      "32680543",
+      "33581110",
+      "33398174",
+      "39772531",
+      "41639407",
+      "42487124",
+      "30086769",
+      "40374602",
+      "32698000",
+      "30031212",
+      "35691341",
+      "17227910",
+      "26729620",
+      "28863138",
+      "42177279",
+      "15749884",
+      "22174696",
+      "28774779",
+      "27008857",
+      "20974955",
+      "35993175",
+      "39869645",
+      "30212590",
+      "23870825",
+      "30763343",
+      "12421951",
+      "41085167",
+      "41862973",
+      "31500627",
+      "30039577",
+      "33072127",
+      "30717603",
+      "29199022",
+      "32294452",
+      "33397967",
+      "39708803",
+      "34040254",
+      "33010223",
+      "27067007",
+      "10657616",
+      "41840057",
+      "34025350",
+      "14568984",
+      "25624452",
+      "34197738",
+      "35385732",
+      "39212383",
+      "30742094",
+      "39870618",
+      "28922390",
+      "28057215",
+      "41277030",
+      "28511927",
+      "23686490",
+      "23246696",
+      "41706052",
+      "36717694",
+      "25677180",
+      "15345588",
+      "42468527",
+      "28813657",
+      "32514124",
+      "29053968",
+      "39545685",
+      "38810546",
+      "40329044",
+      "32203470",
+      "35705546",
+      "10861061",
+      "30521384",
+      "31147463",
+      "27004515",
+      "19893639",
+      "25263595",
+      "29137603",
+      "39093600"
+    ],
+    "review": [
+      "42743281",
+      "30456521",
+      "30031212",
+      "35691341",
+      "35993175",
+      "41862973",
+      "39212383",
+      "28057215",
+      "41277030",
+      "23246696"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2600693123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

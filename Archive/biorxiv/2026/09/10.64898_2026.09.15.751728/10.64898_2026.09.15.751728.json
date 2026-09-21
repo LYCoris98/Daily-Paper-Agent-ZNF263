@@ -1,0 +1,119 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.15.751728",
+  "title": "DiffDomain-Spectrum identifies structurally reorganized TADs from sparse aggregated single-cell Hi-C contact maps",
+  "doi": "10.64898/2026.09.15.751728",
+  "abstract": "Structurally reorganized topologically associating domains (TADs) capture condition- or cell-type-specific remodeling of chromatin contacts and are important for understanding genome organization in health and disease. Emerging single-cell Hi-C (scHi-C) technologies enable such comparisons across heterogeneous cell populations, but aggregated scHi-C contact maps remain sparse at biologically meaningful 25 kb resolution, limiting reliable TAD reorganization detection. Here we present DiffDomain-Spectrum, a spectral statistical framework for identifying reorganized TADs between conditions or cell types from aggregated raw scHi-C contact maps. It tests normalized TAD-level difference matrices without separately normalizing sparse maps or enhancing individual scHi-C contact maps. Comparison with a semicircle-law null integrates evidence across the full eigenvalue spectrum. Across multiple scHi-C platforms, DiffDomain-Spectrum balances false positive control and detection sensitivity relative to alternative bulk callers, and detects a substantially higher proportion of reference TADs as reorganized than the boundary-focused single-cell method scHiCluster. Detected TADs show coherent aggregate contact patterns and CTCF binding changes and are enriched for differentially expressed genes, supporting biological relevance. Together, these results establish DiffDomain-Spectrum as a statistically principled framework for comparative domain-level analysis of sparse aggregated scHi-C contact maps without single-cell map enhancement.",
+  "authors": [
+    "Zhu J",
+    "Zhang H",
+    "Du Y",
+    "Zhang X",
+    "Zhou Y",
+    "Tian D"
+  ],
+  "published_date": "2026-09-17",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.15.751728",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.15.751728.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1322691",
+    "raw_record": {
+      "id": "PPR1322691",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.15.751728",
+      "title": "DiffDomain-Spectrum identifies structurally reorganized TADs from sparse aggregated single-cell Hi-C contact maps",
+      "authorString": "Zhu J, Zhang H, Du Y, Zhang X, Zhou Y, Tian D.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhu J",
+            "lastName": "Zhu",
+            "firstName": "Jiadi",
+            "initials": "J"
+          },
+          {
+            "fullName": "Zhang H",
+            "lastName": "Zhang",
+            "firstName": "Haishan",
+            "initials": "H"
+          },
+          {
+            "fullName": "Du Y",
+            "lastName": "Du",
+            "firstName": "Yanyi",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Zhang X",
+            "lastName": "Zhang",
+            "firstName": "Xiao",
+            "initials": "X"
+          },
+          {
+            "fullName": "Zhou Y",
+            "lastName": "Zhou",
+            "firstName": "Yan",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Tian D",
+            "lastName": "Tian",
+            "firstName": "Dechao",
+            "initials": "D"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Structurally reorganized topologically associating domains (TADs) capture condition- or cell-type-specific remodeling of chromatin contacts and are important for understanding genome organization in health and disease. Emerging single-cell Hi-C (scHi-C) technologies enable such comparisons across heterogeneous cell populations, but aggregated scHi-C contact maps remain sparse at biologically meaningful 25 kb resolution, limiting reliable TAD reorganization detection. Here we present DiffDomain-Spectrum, a spectral statistical framework for identifying reorganized TADs between conditions or cell types from aggregated raw scHi-C contact maps. It tests normalized TAD-level difference matrices without separately normalizing sparse maps or enhancing individual scHi-C contact maps. Comparison with a semicircle-law null integrates evidence across the full eigenvalue spectrum. Across multiple scHi-C platforms, DiffDomain-Spectrum balances false positive control and detection sensitivity relative to alternative bulk callers, and detects a substantially higher proportion of reference TADs as reorganized than the boundary-focused single-cell method scHiCluster. Detected TADs show coherent aggregate contact patterns and CTCF binding changes and are enriched for differentially expressed genes, supporting biological relevance. Together, these results establish DiffDomain-Spectrum as a statistically principled framework for comparative domain-level analysis of sparse aggregated scHi-C contact maps without single-cell map enhancement.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.15.751728"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-19",
+      "firstPublicationDate": "2026-09-17",
+      "firstIndexDate": "2026-09-19",
+      "hasEvaluations": "N"
+    }
+  }
+}
