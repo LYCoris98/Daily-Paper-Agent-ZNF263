@@ -2,6 +2,126 @@
   "version": 1,
   "documents": [
     {
+      "id": "pubmed:42800032",
+      "title": "Methyl-donor inhibitors relax 3D genome structures to promote totipotent reprogramming.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42800032/index.html",
+      "meta": [
+        "Yang, Tianchang; Li, Lincheng; Zhao, Jingru; Cheng, Ruoqi; Qi, Yueyao; Bu, Yifan; Chen, Hebing; Shi, Minglei; Xu, Jun; Deng, Hongkui; Li, Cheng",
+        "Cell reports",
+        "2026-09-27"
+      ],
+      "tags": [],
+      "summary": "该文研究甲基供体代谢抑制对3D基因组结构重塑及全能性重编程的影响，与cpcdh基因家族无直接关联，但涉及表观遗传和基因组结构调控，可借鉴其机制研究思路。",
+      "abstract": "The 3D genome safeguards cell identity while shaping developmental plasticity, yet its coordination with metabolism during cell fate transitions remains unclear. Here, we use a mouse totipotent stem cell induction system to dissect the role of methyl-donor metabolism in 3D genome remodeling and cell fate transitions. We show that inhibition of methyl-donor pathways enhances reprogramming toward a totipotent-like state and drives widespread relaxation of 3D genome architecture, characterized by reduced chromatin compaction and attenuated higher-order chromatin organization. Mechanistically, methyl-donor inhibitors induce pronounced DNA hypomethylation and modest reductions in histone methylation, accompanied by decreased chromatin binding of DNA methylation-associated chromatin regulators, with limited effects at CTCF-enriched regions, suggesting that methyl-donor inhibition enhances reprogramming by disrupting pre-existing 3D genome organization through largely CTCF-independent mechanisms. Together, our findings reveal metabolic-3D genome cooperation as a mechanism for lowering the barrier to totipotency and point to regenerative targets beyond canonical chromatin architectural proteins. 3D基因组在维护细胞身份的同时塑造发育可塑性，但其在细胞命运转变过程中与代谢的协调机制仍不清楚。在此，我们利用小鼠全能干细胞诱导系统，解析甲基供体代谢在3D基因组重塑和细胞命运转变中的作用。我们表明，抑制甲基供体途径可增强向全能样状态的重编程，并驱动3D基因组结构的广泛松弛，其特征为染色质压缩减少和高阶染色质组织减弱。机制上，甲基供体抑制剂诱导显著的DNA低甲基化和组蛋白甲基化的适度降低，伴随DNA甲基化相关染色质调节因子在染色质上的结合减少，而对CTCF富集区域的影响有限，提示甲基供体抑制通过主要不依赖CTCF的机制破坏预先存在的3D基因组组织，从而增强重编程。综上，我们的发现揭示了代谢-3D基因组协作作为降低全能性屏障的机制，并指向超越经典染色质结构蛋白的再生靶点。",
+      "date": "2026-09-27"
+    },
+    {
+      "id": "pubmed:42801620",
+      "title": "GSLR Drives Lung Adenocarcinoma as a Critical Regulator of Energy Homeostasis Through Creatine Kinase B Activation.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42801620/index.html",
+      "meta": [
+        "Qian, Xinyi; Yang, Juze; Ren, Jiayi; Mao, Xiaowei; Li, Jia; Sun, Tengfei; Dong, Liangliang; Chen, Enguo; Lu, Yan; Liu, Pengyuan",
+        "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+        "2026-09-27"
+      ],
+      "tags": [],
+      "summary": "该文研究lncRNA GSLR通过CKB调控肺癌能量代谢，与cpcdh基因家族无关。",
+      "abstract": "Lung cancer remains the leading cause of cancer-related mortality, with extremely high energy demands during progression. Long non-coding RNAs (lncRNAs) have emerged as crucial regulators in cancer metabolism; however, their role in reprogramming energy metabolism in lung cancer remains incompletely understood. In this study, we identify a glucose/glutamine sensitive lncRNA, GSLR, as a driver of lung adenocarcinoma (LUAD) progression. GSLR is markedly upregulated in LUAD, and its high expression is associated with poor patient prognosis. Nutrient restriction reduces chromatin accessibility at the GSLR locus via altered histone marks, whereas CTCF activates its transcription. Mechanistically, GSLR directly binds the RNA helicase DHX9 and recruits it to the creatine kinase B (CKB) promoter, arresting R-loop accumulation and thereby promoting CKB transcription. Elevated CKB expression sustains intracellular ATP homeostasis, thereby stabilizing mitochondrial membrane potential, preventing calcium overload, and reducing reactive oxygen species (ROS) accumulation. Collectively, our findings identify GSLR as a novel regulator of energy homeostasis that promotes lung cancer progression through the GSLR/DHX9/CKB axis. Targeting GSLR may thus represent a promising therapeutic strategy for LUAD. 肺癌仍然是癌症相关死亡的主要原因，其进展过程中具有极高的能量需求。长链非编码RNA（lncRNAs）已成为癌症代谢中的关键调控因子；然而，它们在肺癌能量代谢重编程中的作用仍未被完全理解。在本研究中，我们鉴定了一个葡萄糖/谷氨酰胺敏感的lncRNA，GSLR，作为肺腺癌（LUAD）进展的驱动因子。GSLR在LUAD中显著上调，其高表达与患者不良预后相关。营养限制通过改变组蛋白标记降低GSLR位点的染色质可及性，而CTCF则激活其转录。机制上，GSLR直接结合RNA解旋酶DHX9，并将其招募至肌酸激酶B（CKB）启动子，阻止R-loop积累，从而促进CKB转录。CKB表达升高维持细胞内ATP稳态，进而稳定线粒体膜电位，防止钙超载，并减少活性氧（ROS）积累。总体而言，我们的发现将GSLR鉴定为能量稳态的新型调控因子，通过GSLR/DHX9/CKB轴促进肺癌进展。因此，靶向GSLR可能代表一种有前景的LUAD治疗策略。",
+      "date": "2026-09-27"
+    },
+    {
+      "id": "pubmed:42792888",
+      "title": "A Genotype-Phenotype Analysis of Four Chinese Children Carrying Distinct Pathogenic Variants in the CTCF Gene.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42792888/index.html",
+      "meta": [
+        "Du, Juan; Li, Muhan; Liang, Aimin; Hei, Mingyan; Ren, Xiaotun",
+        "Genes",
+        "2026-09-26"
+      ],
+      "tags": [],
+      "summary": "该文研究CTCF基因变异导致的智力障碍，与cpcdh基因家族无关。",
+      "abstract": "Objective: The objective of this study was to analyze the clinical phenotypes and genetic variant characteristics of four unrelated Chinese children carrying pathogenic variants in the CTCF gene and to explore the genotype-phenotype heterogeneity of autosomal dominant intellectual disability type 21 (MRD21, OMIM 615,502). Methods: Four pediatric patients admitted to Beijing Children's Hospital, Capital Medical University, from 2020 to 2024 were enrolled in this retrospective study. All patients underwent medical history collection, physical examination, laboratory tests and high-throughput sequencing. Identified variants were verified in the probands and parents via Sanger sequencing or CNV-seq. Results: Four distinct heterozygous CTCF variants were identified: a missense variant c.1117C>T (p.His373Tyr); an 8.92 Mb microdeletion at 16q21-q22.1 (arr[GRCh37] 16q21q22.1(58,986,875-67,907,636)x1), encompassing the entire CTCF gene; a frameshift deletion c.615_618delGAAA (p.Lys206Profs*15); and an intragenic deletion of exons 8-10. Parental testing confirmed that all identified variants were of de novo origin. The missense variant and the frameshift deletion have been reported previously in ClinVar (VCV000521287.19 and VCV001308122.2), but the two deletions were not found in public databases. Three patients presented with global developmental delay consistent with MRD21, with variable additional features including autistic-like behavior and facial dysmorphism. Notably, two of these patients showed somatic overgrowth with height and weight above the 97th percentile, contrasting with the short stature classically emphasized in MRD21. The fourth patient was a preterm infant with neonatal chylothorax, cardiopulmonary failure, and multiple congenital cardiovascular malformations; developmental assessment at a corrected age of 11 months showed only mild lags. Conclusions: This study expands the spectrum of pathogenic CTCF variants in the Chinese population and underscores the marked phenotypic heterogeneity of CTCF-related disorders, ranging from benign developmental outcomes with complete catch-up to severe neonatal multisystem involvement. In neonates presenting with unexplained chylothorax and multisystem abnormalities, especially when accompanied by features suggestive of a neurodevelopmental syndrome, CTCF should be considered in the differential diagnosis. Given this heterogeneity, a broad genomic approach rather than targeted CTCF screening is recommended in patients with complex presentations. 目的：分析4例携带CTCF基因致病性变异的不相关中国患儿的临床表型及遗传变异特征，并探讨常染色体显性智力障碍21型（MRD21, OMIM 615,502）的基因型-表型异质性。方法：纳入2020年至2024年首都医科大学附属北京儿童医院收治的4例儿科患者进行回顾性研究。所有患者均接受病史采集、体格检查、实验室检查及高通量测序。通过Sanger测序或CNV-seq在先证者及其父母中验证所鉴定的变异。结果：共鉴定出4种不同的杂合CTCF变异：一个错义变异c.1117C>T（p.His373Tyr）；一个16q21-q22.1的8.92 Mb微缺失（arr[GRCh37] 16q21q22.1(58,986,875-67,907,636)x1），涵盖整个CTCF基因；一个移码缺失c.615_618delGAAA（p.Lys206Profs*15）；以及一个外显子8-10的基因内缺失。父母检测证实所有鉴定变异均为新生起源。错义变异和移码缺失此前已在ClinVar中报道（VCV000521287.19和VCV001308122.2），但两个缺失未在公共数据库中发现。3例患者表现为与MRD21一致的全面发育迟缓，并伴有可变的其他特征，包括自闭症样行为和面部畸形。值得注意的是，其中2例患者表现出躯体过度生长，身高和体重超过第97百分位，与MRD21中经典强调的矮小身材形成对比。第4例患者为早产儿，伴有新生儿乳糜胸、心肺衰竭及多种先天性心血管畸形；在校正年龄11个月时的发育评估仅显示轻度落后。结论：本研究扩展了中国人群中CTCF致病性变异的谱系，并强调了CTCF相关疾病显著的表型异质性，范围从完全追赶的良性发育结局到严重的新生儿多系统受累。在表现为不明原因乳糜胸及多系统异常的新生儿中，尤其是伴有提示神经发育综合征特征时，应考虑将CTCF纳入鉴别诊断。鉴于这种异质性，在复杂表现的患者中建议采用广泛的基因组方法而非靶向CTCF筛查。",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "pubmed:42788307",
+      "title": "Disruption of local CTCF binding impairs renin expression and blood pressure response in Dahl salt-sensitive rats.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42788307/index.html",
+      "meta": [
+        "Vanden Avond, Mark; Grzybowski, Michael N; Kurth, Terry; Yang, Chun; Klotz, Jason; Hantke Guixa, Ana; Greene, Andrew; Rao, Sridhar; Qiu, Qiongzi; Liu, Pengyuan; Liu, Yong; Liang, Mingyu; Cowley, Allen W Jr; Geurts, Aron M",
+        "Physiological genomics",
+        "2026-09-25"
+      ],
+      "tags": [],
+      "summary": "该文研究CTCF结合位点突变对肾素表达和血压的影响，与cpcdh基因家族无关。",
+      "abstract": "Most genetic variants associated with any complex trait are found in non-coding regions. Multiple studies have reported enrichment in single nucleotide polymorphisms (SNPs) found in specific sequences bound by CCCTCF-binding factor (CTCF). CTCF binds DNA to establish boundaries, mediate chromatin interactions and topological domains, and recruit factors to regulate local gene expression. Hypertension is one such disease with enrichment of SNPs in CTCF-binding sites; however, it is not clear whether disruption of CTCF binding to any specific site in the genome could be sufficient to alter blood pressure in vivo. We and others have shown the importance of CTCF-binding and local chromatin interactions governing the renal expression of renin, a critical regulator of systemic blood pressure. Here we developed a model with a mutation to a CTCF-binding motif within first intron of the Ren gene in the Dahl SS rat. CTCF-binding and local chromatin interactions were disrupted, and plasma renin activity (PRA) was impaired when animals were fed a salt-depleted diet in a sex-specific manner, specifically in males. Consistent with the attenuation of PRA, blood pressure was attenuated in male mutant rats during salt depletion. Isolated kidney tissue culture revealed a transcriptional attenuation of Ren expression, suggesting that disruption of CTCF binding within the first intron is critical for initially stabilizing the expression of Ren in response to an inducing stimulus. This is the first demonstration that a mutation to a CTCF-binding site is sufficient to alter a complex physiological trait such as blood pressure regulation, in a sex-specific manner. 大多数与任何复杂性状相关的遗传变异都位于非编码区域。多项研究报告称，在CCCTCF结合因子（CTCF）所结合的特定序列中，单核苷酸多态性（SNPs）存在富集现象。CTCF结合DNA以建立边界、介导染色质相互作用和拓扑结构域，并招募因子以调节局部基因表达。高血压是此类疾病之一，其SNPs在CTCF结合位点中富集；然而，尚不清楚破坏CTCF与基因组中任何特定位点的结合是否足以在体内改变血压。我们及他人已证明，CTCF结合和局部染色质相互作用在调控肾素（renin）的肾脏表达中至关重要，而肾素是全身血压的关键调节因子。在此，我们开发了一个模型，在Dahl SS大鼠的Ren基因第一内含子中引入CTCF结合基序的突变。CTCF结合和局部染色质相互作用被破坏，当动物喂食低盐饮食时，血浆肾素活性（PRA）以性别特异性方式受损，特别是在雄性中。与PRA减弱一致，雄性突变大鼠在低盐期间血压也减弱。分离的肾脏组织培养显示Ren表达转录减弱，表明第一内含子内CTCF结合的破坏对于响应诱导刺激初始稳定Ren表达至关重要。这是首次证明CTCF结合位点的突变足以以性别特异性方式改变诸如血压调节之类的复杂生理性状。",
+      "date": "2026-09-25"
+    },
+    {
+      "id": "pubmed:42778791",
+      "title": "Author Correction: Exhausted CD8(+) T cell fate is programmed by dynamic CTCF-mediated enhancer activation and invariant CTCF-imposed barriers.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42778791/index.html",
+      "meta": [
+        "Hu, Wei; Zhu, Shaoqi; Chen, Qing; Badovinac, Vladimir P; Peng, Weiqun; Xue, Hai-Hui",
+        "Nature immunology",
+        "2026-09-24"
+      ],
+      "tags": [],
+      "summary": "该文为关于CD8+ T细胞耗竭中CTCF介导增强子激活的更正，与cpcdh基因家族无关。",
+      "abstract": " ",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "pubmed:42779822",
+      "title": "Machine learning reveals sequence and genomic context features underlying Alu -specific effects on genome folding.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42779822/index.html",
+      "meta": [
+        "Zhang, Shu; Pollard, Katherine S",
+        "bioRxiv : the preprint server for biology",
+        "2026-09-24"
+      ],
+      "tags": [],
+      "summary": "该文研究Alu转座子对基因组折叠的影响，与cpcdh基因家族无直接关联，仅可作为基因组结构分析方法参考。",
+      "abstract": "The Alu transposable element is among the most abundant classes of mobile DNA in the human genome, and has been linked to gene regulation and chromatin organization. Yet how individual Alu insertions influence nearby chromatin interactions remains poorly understood. To investigate this, we used deep learning to perform a genome-wide in silico deletion screen of ~1.1 million Alus , predicting each element's importance to local genome folding. We identified a subset of high-scoring Alus that span multiple Alu subfamilies and are enriched in loci that are fast-evolving and gene-dense, especially loci encoding genes that are actively transcribed and/or related to Alu biology. We further found that polymorphic Alus preferentially occur in regions tolerant of sequence variation but predicted to be resistant to changes in chromatin structure. Targeted in silico mutagenesis showed that the importance of individual Alus to local chromatin interactions depends on both intrinsic Alu sequence properties and genomic context. Finally, we identified Alu sequences predicted to alter CTCF-mediated boundary strength and, in some cases, to promote the formation of new loops and boundaries. Together, these results position Alus as key modulators of genome architecture, while underscoring that the fate of a new Alu depends on where it inserts and how it interacts with other determinants of chromatin state and structure. Alu转座元件是人类基因组中最丰富的移动DNA类别之一，并与基因调控和染色质组织相关联。然而，单个Alu插入如何影响邻近染色质相互作用仍知之甚少。为探究此问题，我们利用深度学习对约110万个Alu进行了全基因组范围内的计算机模拟删除筛选，预测每个元件对局部基因组折叠的重要性。我们识别出一组高评分的Alu，这些Alu跨越多个Alu亚家族，并在快速进化和基因密集的位点中富集，尤其是编码活跃转录和/或与Alu生物学相关基因的位点。我们进一步发现，多态性Alu优先出现在对序列变异耐受但预测对染色质结构变化具有抵抗性的区域。靶向计算机模拟诱变显示，单个Alu对局部染色质相互作用的重要性既取决于Alu内在序列特性，也取决于基因组背景。最后，我们识别出预测能改变CTCF介导边界强度，并在某些情况下促进新环和边界形成的Alu序列。综合来看，这些结果将Alu定位为基因组架构的关键调节因子，同时强调新Alu的命运取决于其插入位置及其与其他染色质状态和结构决定因素的相互作用方式。",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "biorxiv:10.64898/2026.09.21.753283",
+      "title": "DNMT1-Mediated Epigenetic Reprogramming Drives KMT2A Amplifications and Rearrangements",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/biorxiv/10.64898_2026.09.21.753283/index.html",
+      "meta": [
+        "Lineberger MA; Gray ZH; Ferman BI; O’Donnell E; Smith RG; Schiela K; Udara A; Chetal K; Azadegan C; Toma MM; Sumner E; Santoro J; Miranda C; Ahmed M; Wilson J; Lautert-Dutra W; Li C; McKelvey A; Kaniskan HÜ; Zhang W; Jin J; Puddu F; Consugar M; Walsh M; Bellacosa A; Duy C; Lee H; Skorski T; Liu Y; Sadreyev RI; Whetstine JR",
+        "bioRxiv",
+        "2026-09-22"
+      ],
+      "tags": [],
+      "summary": "该文研究DNMT1介导的表观遗传重编程驱动KMT2A扩增和重排，与cpcdh基因家族无直接关联。",
+      "abstract": "<h4>ABSTRACT</h4> MLL/KMT2A amplifications and rearrangements are prevalent in infant, adult, and therapy-induced leukemia; however, the molecular contributors controlling these alterations remain elusive. Here, we reveal that rapid CTCF degradation generates local genome structure alterations at KMT2A and copy gains and rearrangements. We then established a conserved, coordinated interplay between DNA and histone methylation pathways that control CTCF occupancy, and in turn, KMT2A locus stability. For example, DNMT1 overexpression promotes increased H3K9 methylation, reduced CTCF occupancy, and causes KMT2A alterations. However, DNMT1 inhibition suppresses these events and KMT2A alterations caused by topoisomerase II inhibition. Locus-specific epigenome targeting demonstrated that DNA or H3K9 methylation promotes KMT2A copy gains and rearrangement, whereas targeted TET activity suppresses these events upon methylation perturbation or doxorubicin treatment. These findings identify a conserved, coordinated DNA–histone methylation axis governing KMT2A amplifications and rearrangement susceptibility, revealing biomarkers and therapeutic targets to predict and intercept these events in cancer. <h4>STATEMENT OF SIGNIFICANCE</h4> This study reveals a conserved DNA-histone methylation mechanism controlling the susceptibility of the KMT2A locus to copy gain and rearrange. These events can be generated or prevented by genetic, therapeutic or epigenome editing. Furthermore, DNMT1 inhibition blocks chemotherapy-induced KMT2A disruption, identifying a therapeutic strategy to intercept these oncogenic genomic alterations. <h4>摘要</h4> MLL/KMT2A扩增和重排常见于婴儿、成人及治疗相关白血病中；然而，控制这些改变的分子因素仍不明确。在此，我们揭示快速CTCF降解会在KMT2A位点产生局部基因组结构改变以及拷贝数增加和重排。随后，我们建立了DNA和组蛋白甲基化通路之间保守的协调相互作用，该作用控制CTCF占据，进而影响KMT2A位点稳定性。例如，DNMT1过表达促进H3K9甲基化增加、CTCF占据减少，并导致KMT2A改变。然而，DNMT1抑制可抑制这些事件以及由拓扑异构酶II抑制引起的KMT2A改变。位点特异性表观基因组靶向表明，DNA或H3K9甲基化促进KMT2A拷贝数增加和重排，而靶向TET活性在甲基化扰动或多柔比星处理下抑制这些事件。这些发现识别了一个保守的、协调的DNA-组蛋白甲基化轴，调控KMT2A扩增和重排易感性，揭示了预测和拦截癌症中这些事件的生物标志物和治疗靶点。 <h4>意义声明</h4> 本研究揭示了一种保守的DNA-组蛋白甲基化机制，控制KMT2A位点对拷贝数增加和重排的易感性。这些事件可通过遗传、治疗或表观基因组编辑产生或预防。此外，DNMT1抑制可阻断化疗诱导的KMT2A破坏，识别了一种拦截这些致癌基因组改变的治疗策略。",
+      "date": "2026-09-22"
+    },
+    {
+      "id": "pubmed:42767818",
+      "title": "Genomic imprinting of the metabolic regulator gene Klf14 is regulated by a paternal sub-TAD anchored at Mest.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42767818/index.html",
+      "meta": [
+        "Ha, Amanda; Hayashi, Natsuki; Bogutz, Aaron B; Moindrot, Benoit; Gomez, Laura; Harris, Juliette; Marcil, Alexandre; Court, Frank; Shindo, Miyuki; Arnaud, Philippe; Drouin, Jacques; Forne, Thierry; Noordermeer, Daan; Takada, Shuji; Nakabayashi, Kazuhiko; Lefebvre, Louis",
+        "Genes & development",
+        "2026-09-21"
+      ],
+      "tags": [],
+      "summary": "该文研究Klf14基因的基因组印记调控机制，与cpcdh基因家族无关。",
+      "abstract": "KLF14 acts as a master regulator of gene expression in adipose tissue and variants at the human KLF14 gene show reproducible association with type 2 diabetes and metabolic syndrome. Risk alleles are only pathological when maternally inherited, consistent with the observation that KLF14/Klf14 is a maternally expressed imprinted gene in human and mouse. However, how genomic imprinting is regulated at this important locus is currently unknown. In both species, KLF14/Klf14 is located  approximately 200 kb away from the paternally expressed imprinted gene MEST/Mest, regulated by a maternal gametic differentially methylated region (gDMR) at its promoter. Although the Klf14 promoter is unmethylated in most tissues, maternally inherited DNA methylation marks are paradoxically required for Klf14 expression. Here, we show that Mest and Klf14 reside within the same topologically associating domain (TAD) in embryonic stem cells (ESCs), defined by biallelic CTCF binding at the boundaries. Using allele-specific 4C-seq, we show that CTCF binding to the unmethylated Mest gDMR generates a paternal allele-specific sub-TAD encompassing Klf14 CRISPR-Cas9 deletions of the paternal Mest promoter region in ESCs and in vivo in mutant mice result in loss of Mest expression and acquisition of biallelic expression at Klf14 By analyzing epigenetic marks and chromatin looping in Klf14-expressing pituitary cells, we identify a putative enhancer element shared by Mest and Klf14, providing a mechanistic model for the regulation of Klf14 imprinting. This work defines a new role for the Mest maternally methylated gDMR, revealing that it exerts long-range effects via allele-specific modulation of TAD structures and acts as an imprinting control region in the regulation of Klf14 imprinting. KLF14在脂肪组织中充当基因表达的主调控因子，人类KLF14基因的变异与2型糖尿病和代谢综合征表现出可重复的关联。风险等位基因仅在母源遗传时具有致病性，这与KLF14/Klf14在人类和小鼠中作为母源表达印记基因的观察结果一致。然而，目前尚不清楚基因组印记如何在该重要位点被调控。在两个物种中，KLF14/Klf14位于父源表达印记基因MEST/Mest约200 kb处，后者由其启动子处的母源配子差异甲基化区域（gDMR）调控。尽管Klf14启动子在大多数组织中未甲基化，但母源遗传的DNA甲基化标记却悖论性地为Klf14表达所必需。在此，我们显示Mest和Klf14在胚胎干细胞（ESCs）中位于同一拓扑关联结构域（TAD）内，该结构域由边界处的双等位CTCF结合定义。利用等位基因特异性4C-seq，我们表明CTCF结合到未甲基化的Mest gDMR上，产生一个父源等位基因特异性的亚TAD，涵盖Klf14。在ESCs中及体内突变小鼠中，通过CRISPR-Cas9删除父源Mest启动子区域，导致Mest表达丧失，并在Klf14处获得双等位表达。通过分析Klf14表达垂体细胞中的表观遗传标记和染色质环化，我们识别出一个Mest和Klf14共享的推定增强子元件，为Klf14印记调控提供了机制模型。这项工作定义了Mest母源甲基化gDMR的新角色，揭示其通过等位基因特异性调节TAD结构发挥长程效应，并在Klf14印记调控中充当印记控制区域。",
+      "date": "2026-09-21"
+    },
+    {
       "id": "biorxiv:10.64898/2026.09.16.752217",
       "title": "Machine learning reveals sequence and genomic context features underlying Alu -specific effects on genome folding",
       "subtitle": "",

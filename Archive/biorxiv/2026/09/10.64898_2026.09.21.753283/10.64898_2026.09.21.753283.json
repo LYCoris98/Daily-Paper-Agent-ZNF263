@@ -1,0 +1,294 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.21.753283",
+  "title": "DNMT1-Mediated Epigenetic Reprogramming Drives KMT2A Amplifications and Rearrangements",
+  "doi": "10.64898/2026.09.21.753283",
+  "abstract": "<h4>ABSTRACT</h4> MLL/KMT2A amplifications and rearrangements are prevalent in infant, adult, and therapy-induced leukemia; however, the molecular contributors controlling these alterations remain elusive. Here, we reveal that rapid CTCF degradation generates local genome structure alterations at KMT2A and copy gains and rearrangements. We then established a conserved, coordinated interplay between DNA and histone methylation pathways that control CTCF occupancy, and in turn, KMT2A locus stability. For example, DNMT1 overexpression promotes increased H3K9 methylation, reduced CTCF occupancy, and causes KMT2A alterations. However, DNMT1 inhibition suppresses these events and KMT2A alterations caused by topoisomerase II inhibition. Locus-specific epigenome targeting demonstrated that DNA or H3K9 methylation promotes KMT2A copy gains and rearrangement, whereas targeted TET activity suppresses these events upon methylation perturbation or doxorubicin treatment. These findings identify a conserved, coordinated DNA–histone methylation axis governing KMT2A amplifications and rearrangement susceptibility, revealing biomarkers and therapeutic targets to predict and intercept these events in cancer. <h4>STATEMENT OF SIGNIFICANCE</h4> This study reveals a conserved DNA-histone methylation mechanism controlling the susceptibility of the KMT2A locus to copy gain and rearrange. These events can be generated or prevented by genetic, therapeutic or epigenome editing. Furthermore, DNMT1 inhibition blocks chemotherapy-induced KMT2A disruption, identifying a therapeutic strategy to intercept these oncogenic genomic alterations.",
+  "authors": [
+    "Lineberger MA",
+    "Gray ZH",
+    "Ferman BI",
+    "O’Donnell E",
+    "Smith RG",
+    "Schiela K",
+    "Udara A",
+    "Chetal K",
+    "Azadegan C",
+    "Toma MM",
+    "Sumner E",
+    "Santoro J",
+    "Miranda C",
+    "Ahmed M",
+    "Wilson J",
+    "Lautert-Dutra W",
+    "Li C",
+    "McKelvey A",
+    "Kaniskan HÜ",
+    "Zhang W",
+    "Jin J",
+    "Puddu F",
+    "Consugar M",
+    "Walsh M",
+    "Bellacosa A",
+    "Duy C",
+    "Lee H",
+    "Skorski T",
+    "Liu Y",
+    "Sadreyev RI",
+    "Whetstine JR"
+  ],
+  "published_date": "2026-09-22",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.21.753283",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.21.753283.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1326364",
+    "raw_record": {
+      "id": "PPR1326364",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.21.753283",
+      "title": "DNMT1-Mediated Epigenetic Reprogramming Drives  <i>KMT2A</i>  Amplifications and Rearrangements",
+      "authorString": "Lineberger MA, Gray ZH, Ferman BI, O’Donnell E, Smith RG, Schiela K, Udara A, Chetal K, Azadegan C, Toma MM, Sumner E, Santoro J, Miranda C, Ahmed M, Wilson J, Lautert-Dutra W, Li C, McKelvey A, Kaniskan HÜ, Zhang W, Jin J, Puddu F, Consugar M, Walsh M, Bellacosa A, Duy C, Lee H, Skorski T, Liu Y, Sadreyev RI, Whetstine JR.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Lineberger MA",
+            "lastName": "Lineberger",
+            "firstName": "Madison",
+            "initials": "MA"
+          },
+          {
+            "fullName": "Gray ZH",
+            "lastName": "Gray",
+            "firstName": "Zach",
+            "initials": "ZH"
+          },
+          {
+            "fullName": "Ferman BI",
+            "lastName": "Ferman",
+            "firstName": "Benjamin",
+            "initials": "BI"
+          },
+          {
+            "fullName": "O’Donnell E",
+            "lastName": "O’Donnell",
+            "firstName": "Erin",
+            "initials": "E"
+          },
+          {
+            "fullName": "Smith RG",
+            "lastName": "Smith",
+            "firstName": "Rebecca",
+            "initials": "RG"
+          },
+          {
+            "fullName": "Schiela K",
+            "lastName": "Schiela",
+            "firstName": "Kathleen",
+            "initials": "K"
+          },
+          {
+            "fullName": "Udara A",
+            "lastName": "Udara",
+            "firstName": "Anushka",
+            "initials": "A"
+          },
+          {
+            "fullName": "Chetal K",
+            "lastName": "Chetal",
+            "firstName": "Kashish",
+            "initials": "K"
+          },
+          {
+            "fullName": "Azadegan C",
+            "lastName": "Azadegan",
+            "firstName": "Chloe",
+            "initials": "C"
+          },
+          {
+            "fullName": "Toma MM",
+            "lastName": "Toma",
+            "firstName": "Monika Maria",
+            "initials": "MM"
+          },
+          {
+            "fullName": "Sumner E",
+            "lastName": "Sumner",
+            "firstName": "Ethan",
+            "initials": "E"
+          },
+          {
+            "fullName": "Santoro J",
+            "lastName": "Santoro",
+            "firstName": "John",
+            "initials": "J"
+          },
+          {
+            "fullName": "Miranda C",
+            "lastName": "Miranda",
+            "firstName": "Christopher",
+            "initials": "C"
+          },
+          {
+            "fullName": "Ahmed M",
+            "lastName": "Ahmed",
+            "firstName": "Manna",
+            "initials": "M"
+          },
+          {
+            "fullName": "Wilson J",
+            "lastName": "Wilson",
+            "firstName": "Jade",
+            "initials": "J"
+          },
+          {
+            "fullName": "Lautert-Dutra W",
+            "lastName": "Lautert-Dutra",
+            "firstName": "William",
+            "initials": "W"
+          },
+          {
+            "fullName": "Li C",
+            "lastName": "Li",
+            "firstName": "Chencheng",
+            "initials": "C"
+          },
+          {
+            "fullName": "McKelvey A",
+            "lastName": "McKelvey",
+            "firstName": "Aidan",
+            "initials": "A"
+          },
+          {
+            "fullName": "Kaniskan HÜ",
+            "lastName": "Kaniskan",
+            "firstName": "Ümit",
+            "initials": "HÜ"
+          },
+          {
+            "fullName": "Zhang W",
+            "lastName": "Zhang",
+            "firstName": "Wenyun",
+            "initials": "W"
+          },
+          {
+            "fullName": "Jin J",
+            "lastName": "Jin",
+            "firstName": "Jian",
+            "initials": "J"
+          },
+          {
+            "fullName": "Puddu F",
+            "lastName": "Puddu",
+            "firstName": "Fabio",
+            "initials": "F"
+          },
+          {
+            "fullName": "Consugar M",
+            "lastName": "Consugar",
+            "firstName": "Mark",
+            "initials": "M"
+          },
+          {
+            "fullName": "Walsh M",
+            "lastName": "Walsh",
+            "firstName": "Martin",
+            "initials": "M"
+          },
+          {
+            "fullName": "Bellacosa A",
+            "lastName": "Bellacosa",
+            "firstName": "Alfonso",
+            "initials": "A"
+          },
+          {
+            "fullName": "Duy C",
+            "lastName": "Duy",
+            "firstName": "Cihangir",
+            "initials": "C"
+          },
+          {
+            "fullName": "Lee H",
+            "lastName": "Lee",
+            "firstName": "Hayan",
+            "initials": "H"
+          },
+          {
+            "fullName": "Skorski T",
+            "lastName": "Skorski",
+            "firstName": "Tomasz",
+            "initials": "T"
+          },
+          {
+            "fullName": "Liu Y",
+            "lastName": "Liu",
+            "firstName": "Yu",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Sadreyev RI",
+            "lastName": "Sadreyev",
+            "firstName": "Ruslan",
+            "initials": "RI"
+          },
+          {
+            "fullName": "Whetstine JR",
+            "lastName": "Whetstine",
+            "firstName": "Johnathan",
+            "initials": "JR"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>ABSTRACT</h4>  MLL/KMT2A amplifications and rearrangements are prevalent in infant, adult, and therapy-induced leukemia; however, the molecular contributors controlling these alterations remain elusive. Here, we reveal that rapid CTCF degradation generates local genome structure alterations at  KMT2A and copy gains and rearrangements. We then established a conserved, coordinated interplay between DNA and histone methylation pathways that control CTCF occupancy, and in turn,  KMT2A locus stability. For example, DNMT1 overexpression promotes increased H3K9 methylation, reduced CTCF occupancy, and causes  KMT2A alterations. However, DNMT1 inhibition suppresses these events and  KMT2A alterations caused by topoisomerase II inhibition. Locus-specific epigenome targeting demonstrated that DNA or H3K9 methylation promotes  KMT2A copy gains and rearrangement, whereas targeted TET activity suppresses these events upon methylation perturbation or doxorubicin treatment. These findings identify a conserved, coordinated DNA–histone methylation axis governing  KMT2A amplifications and rearrangement susceptibility, revealing biomarkers and therapeutic targets to predict and intercept these events in cancer.  <h4>STATEMENT OF SIGNIFICANCE</h4>  This study reveals a conserved DNA-histone methylation mechanism controlling the susceptibility of the  KMT2A locus to copy gain and rearrange. These events can be generated or prevented by genetic, therapeutic or epigenome editing. Furthermore, DNMT1 inhibition blocks chemotherapy-induced  KMT2A disruption, identifying a therapeutic strategy to intercept these oncogenic genomic alterations.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.21.753283"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-24",
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-09-24",
+      "hasEvaluations": "N"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42767818",
+  "title": "Genomic imprinting of the metabolic regulator gene Klf14 is regulated by a paternal sub-TAD anchored at Mest.",
+  "authors": "Ha, Amanda; Hayashi, Natsuki; Bogutz, Aaron B; Moindrot, Benoit; Gomez, Laura; Harris, Juliette; Marcil, Alexandre; Court, Frank; Shindo, Miyuki; Arnaud, Philippe; Drouin, Jacques; Forne, Thierry; Noordermeer, Daan; Takada, Shuji; Nakabayashi, Kazuhiko; Lefebvre, Louis",
+  "journal": "Genes & development",
+  "published_date": "2026-09-21",
+  "window": {
+    "start": "2026-09-21",
+    "end": "2026-09-27"
+  },
+  "score": 0,
+  "one_liner_zh": "该文研究Klf14基因的基因组印记调控机制，与cpcdh基因家族无关。",
+  "abstract": "KLF14 acts as a master regulator of gene expression in adipose tissue and variants at the human KLF14 gene show reproducible association with type 2 diabetes and metabolic syndrome. Risk alleles are only pathological when maternally inherited, consistent with the observation that KLF14/Klf14 is a maternally expressed imprinted gene in human and mouse. However, how genomic imprinting is regulated at this important locus is currently unknown. In both species, KLF14/Klf14 is located  approximately 200 kb away from the paternally expressed imprinted gene MEST/Mest, regulated by a maternal gametic differentially methylated region (gDMR) at its promoter. Although the Klf14 promoter is unmethylated in most tissues, maternally inherited DNA methylation marks are paradoxically required for Klf14 expression. Here, we show that Mest and Klf14 reside within the same topologically associating domain (TAD) in embryonic stem cells (ESCs), defined by biallelic CTCF binding at the boundaries. Using allele-specific 4C-seq, we show that CTCF binding to the unmethylated Mest gDMR generates a paternal allele-specific sub-TAD encompassing Klf14 CRISPR-Cas9 deletions of the paternal Mest promoter region in ESCs and in vivo in mutant mice result in loss of Mest expression and acquisition of biallelic expression at Klf14 By analyzing epigenetic marks and chromatin looping in Klf14-expressing pituitary cells, we identify a putative enhancer element shared by Mest and Klf14, providing a mechanistic model for the regulation of Klf14 imprinting. This work defines a new role for the Mest maternally methylated gDMR, revealing that it exerts long-range effects via allele-specific modulation of TAD structures and acts as an imprinting control region in the regulation of Klf14 imprinting.",
+  "abstract_zh": "KLF14在脂肪组织中充当基因表达的主调控因子，人类KLF14基因的变异与2型糖尿病和代谢综合征表现出可重复的关联。风险等位基因仅在母源遗传时具有致病性，这与KLF14/Klf14在人类和小鼠中作为母源表达印记基因的观察结果一致。然而，目前尚不清楚基因组印记如何在该重要位点被调控。在两个物种中，KLF14/Klf14位于父源表达印记基因MEST/Mest约200 kb处，后者由其启动子处的母源配子差异甲基化区域（gDMR）调控。尽管Klf14启动子在大多数组织中未甲基化，但母源遗传的DNA甲基化标记却悖论性地为Klf14表达所必需。在此，我们显示Mest和Klf14在胚胎干细胞（ESCs）中位于同一拓扑关联结构域（TAD）内，该结构域由边界处的双等位CTCF结合定义。利用等位基因特异性4C-seq，我们表明CTCF结合到未甲基化的Mest gDMR上，产生一个父源等位基因特异性的亚TAD，涵盖Klf14。在ESCs中及体内突变小鼠中，通过CRISPR-Cas9删除父源Mest启动子区域，导致Mest表达丧失，并在Klf14处获得双等位表达。通过分析Klf14表达垂体细胞中的表观遗传标记和染色质环化，我们识别出一个Mest和Klf14共享的推定增强子元件，为Klf14印记调控提供了机制模型。这项工作定义了Mest母源甲基化gDMR的新角色，揭示其通过等位基因特异性调节TAD结构发挥长程效应，并在Klf14印记调控中充当印记控制区域。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42767818/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42767818/",
+  "paper_page_path": "papers/pubmed/42767818/index.html"
+}

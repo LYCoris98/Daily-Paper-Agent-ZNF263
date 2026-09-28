@@ -1,0 +1,267 @@
+{
+  "identity": {
+    "pmid": "42778791",
+    "doi": "10.1038/s41590-026-02694-1",
+    "title": "Author Correction: Exhausted CD8(+) T cell fate is programmed by dynamic CTCF-mediated enhancer activation and invariant CTCF-imposed barriers."
+  },
+  "content": {
+    "abstract": "",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Published Erratum"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Wei",
+        "Zhu, Shaoqi",
+        "Chen, Qing",
+        "Badovinac, Vladimir P",
+        "Peng, Weiqun",
+        "Xue, Hai-Hui"
+      ],
+      "short_names": [
+        "Hu W",
+        "Zhu S",
+        "Chen Q",
+        "Badovinac VP",
+        "Peng W",
+        "Xue HH"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7360-5700",
+        "ORCID: 0000-0003-3180-2439",
+        "ORCID: 0000-0001-5521-9091",
+        "ORCID: 0000-0002-9163-7669"
+      ],
+      "affiliations": [
+        "Center for Discovery and Innovation, Hackensack University Medical Center, Nutley, NJ, USA.",
+        "Department of Physics, The George Washington University, Washington DC, USA.",
+        "Molecular Cancer Research Center, Zhongshan School of Medicine, Sun Yat-Sen University Shenzhen Campus, Shenzhen, China.",
+        "Department of Physics, The George Washington University, Washington DC, USA.",
+        "Department of Pathology, University of Iowa, Iowa City, IA, USA.",
+        "Department of Physics, The George Washington University, Washington DC, USA.",
+        "Center for Discovery and Innovation, Hackensack University Medical Center, Nutley, NJ, USA. haihui.xue@hmh-cdi.org.",
+        "New Jersey Veterans Affairs Health Care System, East Orange, NJ, USA. haihui.xue@hmh-cdi.org."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Wei",
+        "short_name": "Hu W",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Discovery and Innovation, Hackensack University Medical Center, Nutley, NJ, USA."
+        ]
+      },
+      {
+        "full_name": "Zhu, Shaoqi",
+        "short_name": "Zhu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics, The George Washington University, Washington DC, USA.",
+          "Molecular Cancer Research Center, Zhongshan School of Medicine, Sun Yat-Sen University Shenzhen Campus, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Qing",
+        "short_name": "Chen Q",
+        "identifiers": [
+          "0000-0002-7360-5700"
+        ],
+        "affiliations": [
+          "Department of Physics, The George Washington University, Washington DC, USA."
+        ]
+      },
+      {
+        "full_name": "Badovinac, Vladimir P",
+        "short_name": "Badovinac VP",
+        "identifiers": [
+          "0000-0003-3180-2439"
+        ],
+        "affiliations": [
+          "Department of Pathology, University of Iowa, Iowa City, IA, USA."
+        ]
+      },
+      {
+        "full_name": "Peng, Weiqun",
+        "short_name": "Peng W",
+        "identifiers": [
+          "0000-0001-5521-9091"
+        ],
+        "affiliations": [
+          "Department of Physics, The George Washington University, Washington DC, USA."
+        ]
+      },
+      {
+        "full_name": "Xue, Hai-Hui",
+        "short_name": "Xue HH",
+        "identifiers": [
+          "0000-0002-9163-7669"
+        ],
+        "affiliations": [
+          "Center for Discovery and Innovation, Hackensack University Medical Center, Nutley, NJ, USA. haihui.xue@hmh-cdi.org.",
+          "New Jersey Veterans Affairs Health Care System, East Orange, NJ, USA. haihui.xue@hmh-cdi.org."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature immunology"
+    ],
+    "journal_abbrev": [
+      "Nat Immunol"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Published Erratum"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 05:37",
+    "fetched_at": "2026-09-28 07:00:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42778791",
+      "42409949",
+      "37040762",
+      "35882936",
+      "25183525",
+      "31353502",
+      "33512425",
+      "28938092",
+      "37060567",
+      "36752796",
+      "32086528",
+      "29943497",
+      "41254222",
+      "42778790",
+      "36828916",
+      "42694956",
+      "24174344",
+      "41459752",
+      "33335029",
+      "35977522",
+      "30012672",
+      "33249194",
+      "40165248",
+      "33613516",
+      "31606264",
+      "22538856",
+      "41254162",
+      "21980291",
+      "29593713",
+      "23516358",
+      "39869645",
+      "32759317",
+      "30711908",
+      "28636938",
+      "39605346",
+      "37602215",
+      "25404365",
+      "38762420",
+      "33398174",
+      "21895576",
+      "42222335",
+      "41139207",
+      "39289557",
+      "20404925",
+      "18809920",
+      "27789799",
+      "21383243",
+      "22160724",
+      "30542740",
+      "28082047",
+      "35774790",
+      "26240285",
+      "34434188",
+      "17617601",
+      "30778252",
+      "32249388",
+      "21795591",
+      "42749447",
+      "33633741",
+      "40825611",
+      "40974572",
+      "37039663",
+      "27613698",
+      "33397967",
+      "19955307",
+      "27004515",
+      "27638884",
+      "40628269",
+      "38697116",
+      "37325488",
+      "39877358",
+      "39647455",
+      "37582972",
+      "35385732",
+      "20110362",
+      "38129234",
+      "33117406",
+      "30310060",
+      "27986453",
+      "40914375",
+      "32293525",
+      "39900964",
+      "40387515",
+      "36997534",
+      "37931332",
+      "35685367",
+      "30814995",
+      "28306177",
+      "33351781",
+      "19056695",
+      "33187878",
+      "38986249",
+      "33627794",
+      "33398179",
+      "31315913",
+      "39033271",
+      "41662271",
+      "41081433",
+      "42412171",
+      "30714229"
+    ],
+    "review": [
+      "42778791",
+      "42694956",
+      "22538856",
+      "21895576",
+      "42222335",
+      "33633741",
+      "37582972",
+      "38129234",
+      "33117406",
+      "35685367",
+      "33187878",
+      "33627794"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41590-026-02694-1",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD8A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

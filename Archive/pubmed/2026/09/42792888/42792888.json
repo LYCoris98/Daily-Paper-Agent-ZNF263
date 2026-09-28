@@ -1,0 +1,269 @@
+{
+  "identity": {
+    "pmid": "42792888",
+    "doi": "10.3390/genes17090995",
+    "title": "A Genotype-Phenotype Analysis of Four Chinese Children Carrying Distinct Pathogenic Variants in the CTCF Gene."
+  },
+  "content": {
+    "abstract": "Objective: The objective of this study was to analyze the clinical phenotypes and genetic variant characteristics of four unrelated Chinese children carrying pathogenic variants in the CTCF gene and to explore the genotype-phenotype heterogeneity of autosomal dominant intellectual disability type 21 (MRD21, OMIM 615,502). Methods: Four pediatric patients admitted to Beijing Children's Hospital, Capital Medical University, from 2020 to 2024 were enrolled in this retrospective study. All patients underwent medical history collection, physical examination, laboratory tests and high-throughput sequencing. Identified variants were verified in the probands and parents via Sanger sequencing or CNV-seq. Results: Four distinct heterozygous CTCF variants were identified: a missense variant c.1117C>T (p.His373Tyr); an 8.92 Mb microdeletion at 16q21-q22.1 (arr[GRCh37] 16q21q22.1(58,986,875-67,907,636)x1), encompassing the entire CTCF gene; a frameshift deletion c.615_618delGAAA (p.Lys206Profs*15); and an intragenic deletion of exons 8-10. Parental testing confirmed that all identified variants were of de novo origin. The missense variant and the frameshift deletion have been reported previously in ClinVar (VCV000521287.19 and VCV001308122.2), but the two deletions were not found in public databases. Three patients presented with global developmental delay consistent with MRD21, with variable additional features including autistic-like behavior and facial dysmorphism. Notably, two of these patients showed somatic overgrowth with height and weight above the 97th percentile, contrasting with the short stature classically emphasized in MRD21. The fourth patient was a preterm infant with neonatal chylothorax, cardiopulmonary failure, and multiple congenital cardiovascular malformations; developmental assessment at a corrected age of 11 months showed only mild lags. Conclusions: This study expands the spectrum of pathogenic CTCF variants in the Chinese population and underscores the marked phenotypic heterogeneity of CTCF-related disorders, ranging from benign developmental outcomes with complete catch-up to severe neonatal multisystem involvement. In neonates presenting with unexplained chylothorax and multisystem abnormalities, especially when accompanied by features suggestive of a neurodevelopmental syndrome, CTCF should be considered in the differential diagnosis. Given this heterogeneity, a broad genomic approach rather than targeted CTCF screening is recommended in patients with complex presentations.",
+    "keywords": [
+      "CTCF gene",
+      "autosomal dominant intellectual disability type 21",
+      "chylothorax",
+      "copy number variation",
+      "de novo variant",
+      "developmental delay",
+      "genotype-phenotype correlation"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Female",
+      "*CCCTC-Binding Factor/genetics",
+      "Male",
+      "Child",
+      "Genetic Association Studies",
+      "Child, Preschool",
+      "*Intellectual Disability/genetics/pathology",
+      "Phenotype",
+      "Mutation, Missense",
+      "Retrospective Studies",
+      "Infant",
+      "Asian People/genetics",
+      "China",
+      "East Asian People"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Du, Juan",
+        "Li, Muhan",
+        "Liang, Aimin",
+        "Hei, Mingyan",
+        "Ren, Xiaotun"
+      ],
+      "short_names": [
+        "Du J",
+        "Li M",
+        "Liang A",
+        "Hei M",
+        "Ren X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Children's Health Care Center, Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing 100045, China.",
+        "Children's Health Care Center, Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing 100045, China.",
+        "Children's Health Care Center, Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing 100045, China.",
+        "Neonatal Center, Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing 100045, China.",
+        "Department of Neurology, Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing 100045, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Du, Juan",
+        "short_name": "Du J",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Health Care Center, Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing 100045, China."
+        ]
+      },
+      {
+        "full_name": "Li, Muhan",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Health Care Center, Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing 100045, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Aimin",
+        "short_name": "Liang A",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Health Care Center, Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing 100045, China."
+        ]
+      },
+      {
+        "full_name": "Hei, Mingyan",
+        "short_name": "Hei M",
+        "identifiers": [],
+        "affiliations": [
+          "Neonatal Center, Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing 100045, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Xiaotun",
+        "short_name": "Ren X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, Beijing Children's Hospital, Capital Medical University, National Center for Children's Health, Beijing 100045, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genes"
+    ],
+    "journal_abbrev": [
+      "Genes (Basel)"
+    ],
+    "pub_date": "2026 Aug 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-28 07:00:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42792888",
+      "42342638",
+      "42510805",
+      "41233135",
+      "30055086",
+      "41764152",
+      "41532374",
+      "36046249",
+      "39985057",
+      "39429079",
+      "41107984",
+      "38790056",
+      "40763965",
+      "41975533",
+      "41811047",
+      "39232803",
+      "41795723",
+      "30819258",
+      "42091191",
+      "41387281",
+      "41408900",
+      "42353881",
+      "41916888",
+      "41451494",
+      "41465181",
+      "40374357",
+      "37102286",
+      "42342639",
+      "36624491",
+      "33277604",
+      "34469078",
+      "30893510",
+      "37633153",
+      "42087735",
+      "40465813",
+      "28619046",
+      "39076169",
+      "42353817",
+      "34370157",
+      "31415821",
+      "31088393",
+      "34478686",
+      "41087309",
+      "41275302",
+      "42143199",
+      "27784475",
+      "31060130",
+      "36321557",
+      "41451491",
+      "39202393",
+      "41645371",
+      "34117072",
+      "40350394",
+      "41465129",
+      "39528278",
+      "39075495",
+      "31239556",
+      "33951195",
+      "38414442",
+      "42133085",
+      "40742416",
+      "42510869",
+      "40282376",
+      "32152250",
+      "42140583",
+      "39696517",
+      "41300732",
+      "39964375",
+      "40763966",
+      "42250153",
+      "36376392",
+      "33653342",
+      "40739497",
+      "39606973",
+      "39076172",
+      "42443919",
+      "42470352",
+      "41197257",
+      "32889669",
+      "30827496",
+      "20301575",
+      "39215511",
+      "42298746",
+      "38444259",
+      "38773911",
+      "29462647",
+      "40555655",
+      "30053089",
+      "37488749",
+      "38459409",
+      "42558297",
+      "40763970",
+      "38740982",
+      "39856360",
+      "20301303",
+      "40004505",
+      "41147347",
+      "42650143",
+      "31637876",
+      "42792905"
+    ],
+    "review": [
+      "42792888",
+      "40763965",
+      "41916888",
+      "41451494",
+      "41465181",
+      "37633153",
+      "42353817",
+      "34478686",
+      "31060130",
+      "36321557",
+      "41451491",
+      "40350394",
+      "39964375",
+      "42298746",
+      "38444259",
+      "37488749",
+      "40763970",
+      "41147347"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=genes17090995",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1474",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

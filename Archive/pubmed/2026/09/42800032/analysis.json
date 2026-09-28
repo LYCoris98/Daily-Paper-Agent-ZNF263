@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42800032",
+  "title": "Methyl-donor inhibitors relax 3D genome structures to promote totipotent reprogramming.",
+  "authors": "Yang, Tianchang; Li, Lincheng; Zhao, Jingru; Cheng, Ruoqi; Qi, Yueyao; Bu, Yifan; Chen, Hebing; Shi, Minglei; Xu, Jun; Deng, Hongkui; Li, Cheng",
+  "journal": "Cell reports",
+  "published_date": "2026-09-27",
+  "window": {
+    "start": "2026-09-21",
+    "end": "2026-09-27"
+  },
+  "score": 4,
+  "one_liner_zh": "该文研究甲基供体代谢抑制对3D基因组结构重塑及全能性重编程的影响，与cpcdh基因家族无直接关联，但涉及表观遗传和基因组结构调控，可借鉴其机制研究思路。",
+  "abstract": "The 3D genome safeguards cell identity while shaping developmental plasticity, yet its coordination with metabolism during cell fate transitions remains unclear. Here, we use a mouse totipotent stem cell induction system to dissect the role of methyl-donor metabolism in 3D genome remodeling and cell fate transitions. We show that inhibition of methyl-donor pathways enhances reprogramming toward a totipotent-like state and drives widespread relaxation of 3D genome architecture, characterized by reduced chromatin compaction and attenuated higher-order chromatin organization. Mechanistically, methyl-donor inhibitors induce pronounced DNA hypomethylation and modest reductions in histone methylation, accompanied by decreased chromatin binding of DNA methylation-associated chromatin regulators, with limited effects at CTCF-enriched regions, suggesting that methyl-donor inhibition enhances reprogramming by disrupting pre-existing 3D genome organization through largely CTCF-independent mechanisms. Together, our findings reveal metabolic-3D genome cooperation as a mechanism for lowering the barrier to totipotency and point to regenerative targets beyond canonical chromatin architectural proteins.",
+  "abstract_zh": "3D基因组在维护细胞身份的同时塑造发育可塑性，但其在细胞命运转变过程中与代谢的协调机制仍不清楚。在此，我们利用小鼠全能干细胞诱导系统，解析甲基供体代谢在3D基因组重塑和细胞命运转变中的作用。我们表明，抑制甲基供体途径可增强向全能样状态的重编程，并驱动3D基因组结构的广泛松弛，其特征为染色质压缩减少和高阶染色质组织减弱。机制上，甲基供体抑制剂诱导显著的DNA低甲基化和组蛋白甲基化的适度降低，伴随DNA甲基化相关染色质调节因子在染色质上的结合减少，而对CTCF富集区域的影响有限，提示甲基供体抑制通过主要不依赖CTCF的机制破坏预先存在的3D基因组组织，从而增强重编程。综上，我们的发现揭示了代谢-3D基因组协作作为降低全能性屏障的机制，并指向超越经典染色质结构蛋白的再生靶点。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42800032/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42800032/",
+  "paper_page_path": "papers/pubmed/42800032/index.html"
+}

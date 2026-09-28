@@ -1,0 +1,385 @@
+{
+  "identity": {
+    "pmid": "42767818",
+    "doi": "10.1101/gad.353948.126",
+    "title": "Genomic imprinting of the metabolic regulator gene Klf14 is regulated by a paternal sub-TAD anchored at Mest."
+  },
+  "content": {
+    "abstract": "KLF14 acts as a master regulator of gene expression in adipose tissue and variants at the human KLF14 gene show reproducible association with type 2 diabetes and metabolic syndrome. Risk alleles are only pathological when maternally inherited, consistent with the observation that KLF14/Klf14 is a maternally expressed imprinted gene in human and mouse. However, how genomic imprinting is regulated at this important locus is currently unknown. In both species, KLF14/Klf14 is located  approximately 200 kb away from the paternally expressed imprinted gene MEST/Mest, regulated by a maternal gametic differentially methylated region (gDMR) at its promoter. Although the Klf14 promoter is unmethylated in most tissues, maternally inherited DNA methylation marks are paradoxically required for Klf14 expression. Here, we show that Mest and Klf14 reside within the same topologically associating domain (TAD) in embryonic stem cells (ESCs), defined by biallelic CTCF binding at the boundaries. Using allele-specific 4C-seq, we show that CTCF binding to the unmethylated Mest gDMR generates a paternal allele-specific sub-TAD encompassing Klf14 CRISPR-Cas9 deletions of the paternal Mest promoter region in ESCs and in vivo in mutant mice result in loss of Mest expression and acquisition of biallelic expression at Klf14 By analyzing epigenetic marks and chromatin looping in Klf14-expressing pituitary cells, we identify a putative enhancer element shared by Mest and Klf14, providing a mechanistic model for the regulation of Klf14 imprinting. This work defines a new role for the Mest maternally methylated gDMR, revealing that it exerts long-range effects via allele-specific modulation of TAD structures and acts as an imprinting control region in the regulation of Klf14 imprinting.",
+    "keywords": [
+      "CTCF",
+      "DNA methylation",
+      "TAD",
+      "chromatin structure",
+      "epigenetics",
+      "genomic imprinting",
+      "mouse developmental epigenetics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ha, Amanda",
+        "Hayashi, Natsuki",
+        "Bogutz, Aaron B",
+        "Moindrot, Benoit",
+        "Gomez, Laura",
+        "Harris, Juliette",
+        "Marcil, Alexandre",
+        "Court, Frank",
+        "Shindo, Miyuki",
+        "Arnaud, Philippe",
+        "Drouin, Jacques",
+        "Forne, Thierry",
+        "Noordermeer, Daan",
+        "Takada, Shuji",
+        "Nakabayashi, Kazuhiko",
+        "Lefebvre, Louis"
+      ],
+      "short_names": [
+        "Ha A",
+        "Hayashi N",
+        "Bogutz AB",
+        "Moindrot B",
+        "Gomez L",
+        "Harris J",
+        "Marcil A",
+        "Court F",
+        "Shindo M",
+        "Arnaud P",
+        "Drouin J",
+        "Forne T",
+        "Noordermeer D",
+        "Takada S",
+        "Nakabayashi K",
+        "Lefebvre L"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3915-7892",
+        "ORCID: 0009-0007-1979-767X",
+        "ORCID: 0000-0003-0327-9708",
+        "ORCID: 0000-0002-7937-8764",
+        "ORCID: 0000-0001-8226-5691",
+        "ORCID: 0000-0002-9179-1551",
+        "ORCID: 0000-0002-9296-7002",
+        "ORCID: 0000-0003-2927-0963",
+        "ORCID: 0000-0001-5664-9480"
+      ],
+      "affiliations": [
+        "Department of Medical Genetics, Life Sciences Institute, University of British Columbia, Vancouver, British Columbia V6T 1Z3, Canada.",
+        "Department of Maternal-Fetal Biology, National Center for Child Health and Development, Tokyo 157-8535, Japan.",
+        "Department of Advanced Pediatric Medicine, Tohoku University School of Medicine, Miyagi 980-8575, Japan.",
+        "Department of Medical Genetics, Life Sciences Institute, University of British Columbia, Vancouver, British Columbia V6T 1Z3, Canada.",
+        "Universite Paris-Saclay, Commissariat a l'Energie Atomique et aux Energies Alternatives, Centre National de la Recherche Scientifique (CNRS), Institute for Integrative Biology of the Cell (I2BC), Gif-sur-Yvette 91198, France.",
+        "Institut de Genetique Moleculaire de Montpellier (IGMM), University of Montpellier, CNRS, Montpellier F-34293, France.",
+        "Laboratoire de Genetique Moleculaire, Institut de Recherches Cliniques de Montreal (IRCM), Montreal, Quebec H2W 1R7, Canada.",
+        "Laboratoire de Genetique Moleculaire, Institut de Recherches Cliniques de Montreal (IRCM), Montreal, Quebec H2W 1R7, Canada.",
+        "Genetics, Reproduction and Development Institute (iGReD), CNRS, Institut National de la Sante et de la Recherche Medicale, Universite Clermont Auvergne, Clermont-Ferrand 63000, France.",
+        "Division of Laboratory Animal Resources, National Center for Child Health and Development, Tokyo 157-8535, Japan.",
+        "Genetics, Reproduction and Development Institute (iGReD), CNRS, Institut National de la Sante et de la Recherche Medicale, Universite Clermont Auvergne, Clermont-Ferrand 63000, France.",
+        "Laboratoire de Genetique Moleculaire, Institut de Recherches Cliniques de Montreal (IRCM), Montreal, Quebec H2W 1R7, Canada.",
+        "Institut de Genetique Moleculaire de Montpellier (IGMM), University of Montpellier, CNRS, Montpellier F-34293, France.",
+        "Universite Paris-Saclay, Commissariat a l'Energie Atomique et aux Energies Alternatives, Centre National de la Recherche Scientifique (CNRS), Institute for Integrative Biology of the Cell (I2BC), Gif-sur-Yvette 91198, France.",
+        "Department of Systems Developmental Biology, National Center for Child Health and Development, Tokyo 157-8535, Japan.",
+        "Department of Maternal-Fetal Biology, National Center for Child Health and Development, Tokyo 157-8535, Japan; louis.lefebvre@ubc.ca nakabaya-k@ncchd.go.jp.",
+        "Integrated Center for Women's Health (ICWH), National Center for Child Health and Development, Tokyo 157-8535, Japan.",
+        "Department of Medical Genetics, Life Sciences Institute, University of British Columbia, Vancouver, British Columbia V6T 1Z3, Canada; louis.lefebvre@ubc.ca nakabaya-k@ncchd.go.jp."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ha, Amanda",
+        "short_name": "Ha A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Genetics, Life Sciences Institute, University of British Columbia, Vancouver, British Columbia V6T 1Z3, Canada."
+        ]
+      },
+      {
+        "full_name": "Hayashi, Natsuki",
+        "short_name": "Hayashi N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Maternal-Fetal Biology, National Center for Child Health and Development, Tokyo 157-8535, Japan.",
+          "Department of Advanced Pediatric Medicine, Tohoku University School of Medicine, Miyagi 980-8575, Japan."
+        ]
+      },
+      {
+        "full_name": "Bogutz, Aaron B",
+        "short_name": "Bogutz AB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Genetics, Life Sciences Institute, University of British Columbia, Vancouver, British Columbia V6T 1Z3, Canada."
+        ]
+      },
+      {
+        "full_name": "Moindrot, Benoit",
+        "short_name": "Moindrot B",
+        "identifiers": [
+          "0000-0003-3915-7892"
+        ],
+        "affiliations": [
+          "Université Paris-Saclay, Commissariat à l'Énergie Atomique et aux Énergies Alternatives, Centre National de la Recherche Scientifique (CNRS), Institute for Integrative Biology of the Cell (I2BC), Gif-sur-Yvette 91198, France."
+        ]
+      },
+      {
+        "full_name": "Gomez, Laura",
+        "short_name": "Gomez L",
+        "identifiers": [],
+        "affiliations": [
+          "Institut de Génétique Moléculaire de Montpellier (IGMM), University of Montpellier, CNRS, Montpellier F-34293, France."
+        ]
+      },
+      {
+        "full_name": "Harris, Juliette",
+        "short_name": "Harris J",
+        "identifiers": [
+          "0009-0007-1979-767X"
+        ],
+        "affiliations": [
+          "Laboratoire de Génétique Moléculaire, Institut de Recherches Cliniques de Montréal (IRCM), Montréal, Québec H2W 1R7, Canada."
+        ]
+      },
+      {
+        "full_name": "Marcil, Alexandre",
+        "short_name": "Marcil A",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratoire de Génétique Moléculaire, Institut de Recherches Cliniques de Montréal (IRCM), Montréal, Québec H2W 1R7, Canada."
+        ]
+      },
+      {
+        "full_name": "Court, Frank",
+        "short_name": "Court F",
+        "identifiers": [
+          "0000-0003-0327-9708"
+        ],
+        "affiliations": [
+          "Genetics, Reproduction and Development Institute (iGReD), CNRS, Institut National de la Santé et de la Recherche Médicale, Université Clermont Auvergne, Clermont-Ferrand 63000, France."
+        ]
+      },
+      {
+        "full_name": "Shindo, Miyuki",
+        "short_name": "Shindo M",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Laboratory Animal Resources, National Center for Child Health and Development, Tokyo 157-8535, Japan."
+        ]
+      },
+      {
+        "full_name": "Arnaud, Philippe",
+        "short_name": "Arnaud P",
+        "identifiers": [
+          "0000-0002-7937-8764"
+        ],
+        "affiliations": [
+          "Genetics, Reproduction and Development Institute (iGReD), CNRS, Institut National de la Santé et de la Recherche Médicale, Université Clermont Auvergne, Clermont-Ferrand 63000, France."
+        ]
+      },
+      {
+        "full_name": "Drouin, Jacques",
+        "short_name": "Drouin J",
+        "identifiers": [
+          "0000-0001-8226-5691"
+        ],
+        "affiliations": [
+          "Laboratoire de Génétique Moléculaire, Institut de Recherches Cliniques de Montréal (IRCM), Montréal, Québec H2W 1R7, Canada."
+        ]
+      },
+      {
+        "full_name": "Forné, Thierry",
+        "short_name": "Forné T",
+        "identifiers": [
+          "0000-0002-9179-1551"
+        ],
+        "affiliations": [
+          "Institut de Génétique Moléculaire de Montpellier (IGMM), University of Montpellier, CNRS, Montpellier F-34293, France."
+        ]
+      },
+      {
+        "full_name": "Noordermeer, Daan",
+        "short_name": "Noordermeer D",
+        "identifiers": [
+          "0000-0002-9296-7002"
+        ],
+        "affiliations": [
+          "Université Paris-Saclay, Commissariat à l'Énergie Atomique et aux Énergies Alternatives, Centre National de la Recherche Scientifique (CNRS), Institute for Integrative Biology of the Cell (I2BC), Gif-sur-Yvette 91198, France."
+        ]
+      },
+      {
+        "full_name": "Takada, Shuji",
+        "short_name": "Takada S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Systems Developmental Biology, National Center for Child Health and Development, Tokyo 157-8535, Japan."
+        ]
+      },
+      {
+        "full_name": "Nakabayashi, Kazuhiko",
+        "short_name": "Nakabayashi K",
+        "identifiers": [
+          "0000-0003-2927-0963"
+        ],
+        "affiliations": [
+          "Department of Maternal-Fetal Biology, National Center for Child Health and Development, Tokyo 157-8535, Japan; louis.lefebvre@ubc.ca nakabaya-k@ncchd.go.jp.",
+          "Integrated Center for Women's Health (ICWH), National Center for Child Health and Development, Tokyo 157-8535, Japan."
+        ]
+      },
+      {
+        "full_name": "Lefebvre, Louis",
+        "short_name": "Lefebvre L",
+        "identifiers": [
+          "0000-0001-5664-9480"
+        ],
+        "affiliations": [
+          "Department of Medical Genetics, Life Sciences Institute, University of British Columbia, Vancouver, British Columbia V6T 1Z3, Canada; louis.lefebvre@ubc.ca nakabaya-k@ncchd.go.jp."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genes & development"
+    ],
+    "journal_abbrev": [
+      "Genes Dev"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 23:33",
+    "fetched_at": "2026-09-28 07:00:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42767818",
+      "31831055",
+      "28854270",
+      "22522229",
+      "18039862",
+      "9931489",
+      "12095916",
+      "34971973",
+      "17480121",
+      "26908643",
+      "42702594",
+      "31675530",
+      "40418718",
+      "21124827",
+      "16575181",
+      "22496793",
+      "10839546",
+      "8565330",
+      "37952041",
+      "31633761",
+      "37333073",
+      "12595547",
+      "21575277",
+      "9192843",
+      "14624463",
+      "9722161",
+      "25482058",
+      "16006531",
+      "17101788",
+      "38297831",
+      "25300248",
+      "17182038",
+      "23087708",
+      "9465295",
+      "29931170",
+      "11944985",
+      "20301706",
+      "16815976",
+      "41531811",
+      "23295672",
+      "16219628",
+      "17126526",
+      "20610486",
+      "37821107",
+      "22763377",
+      "33319906",
+      "31874365",
+      "16331412",
+      "17048991",
+      "24667089",
+      "37925372",
+      "16314537",
+      "18372794",
+      "27152123",
+      "35140205",
+      "15352122",
+      "24324735",
+      "22394678",
+      "10995575",
+      "10839547",
+      "23804403",
+      "38613389",
+      "21166119",
+      "17166925",
+      "27095822",
+      "22053079",
+      "12461525",
+      "12466290",
+      "21072176",
+      "10198258",
+      "24589776",
+      "38915675",
+      "20351169",
+      "12975326",
+      "7690336",
+      "29958543",
+      "11588148",
+      "19502804",
+      "28296202",
+      "15811946",
+      "10495277",
+      "19141673",
+      "20838620",
+      "11689707",
+      "21282187",
+      "7607083",
+      "12937418",
+      "9302270",
+      "11017078",
+      "25918552",
+      "23028363",
+      "39468052",
+      "15182675",
+      "10556286",
+      "16037066",
+      "10679925",
+      "15652708",
+      "26400168",
+      "19200453",
+      "15492815"
+    ],
+    "review": [
+      "42767818",
+      "16575181",
+      "9722161",
+      "18372794"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "http://www.genesdev.org/cgi/pmidlookup?view=long&pmid=42767818",
+        "provider": "HighWire",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

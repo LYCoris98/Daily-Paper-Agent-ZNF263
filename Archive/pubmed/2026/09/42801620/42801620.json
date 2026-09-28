@@ -1,0 +1,194 @@
+{
+  "identity": {
+    "pmid": "42801620",
+    "doi": "10.1002/advs.77950",
+    "title": "GSLR Drives Lung Adenocarcinoma as a Critical Regulator of Energy Homeostasis Through Creatine Kinase B Activation."
+  },
+  "content": {
+    "abstract": "Lung cancer remains the leading cause of cancer-related mortality, with extremely high energy demands during progression. Long non-coding RNAs (lncRNAs) have emerged as crucial regulators in cancer metabolism; however, their role in reprogramming energy metabolism in lung cancer remains incompletely understood. In this study, we identify a glucose/glutamine sensitive lncRNA, GSLR, as a driver of lung adenocarcinoma (LUAD) progression. GSLR is markedly upregulated in LUAD, and its high expression is associated with poor patient prognosis. Nutrient restriction reduces chromatin accessibility at the GSLR locus via altered histone marks, whereas CTCF activates its transcription. Mechanistically, GSLR directly binds the RNA helicase DHX9 and recruits it to the creatine kinase B (CKB) promoter, arresting R-loop accumulation and thereby promoting CKB transcription. Elevated CKB expression sustains intracellular ATP homeostasis, thereby stabilizing mitochondrial membrane potential, preventing calcium overload, and reducing reactive oxygen species (ROS) accumulation. Collectively, our findings identify GSLR as a novel regulator of energy homeostasis that promotes lung cancer progression through the GSLR/DHX9/CKB axis. Targeting GSLR may thus represent a promising therapeutic strategy for LUAD.",
+    "keywords": [
+      "energy homeostasis",
+      "epigenetic regulation",
+      "long non-coding RNA",
+      "lung adenocarcinoma"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Qian, Xinyi",
+        "Yang, Juze",
+        "Ren, Jiayi",
+        "Mao, Xiaowei",
+        "Li, Jia",
+        "Sun, Tengfei",
+        "Dong, Liangliang",
+        "Chen, Enguo",
+        "Lu, Yan",
+        "Liu, Pengyuan"
+      ],
+      "short_names": [
+        "Qian X",
+        "Yang J",
+        "Ren J",
+        "Mao X",
+        "Li J",
+        "Sun T",
+        "Dong L",
+        "Chen E",
+        "Lu Y",
+        "Liu P"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6108-3386",
+        "ORCID: 0000-0003-2226-611X",
+        "ORCID: 0000-0003-2338-8610",
+        "ORCID: 0000-0002-5004-4656",
+        "ORCID: 0000-0002-8386-8416"
+      ],
+      "affiliations": [
+        "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Zhejiang Key Laboratory of Precision Diagnosis and Therapy for Major Gynecological Diseases, Department of Gynecologic Oncology, Women's Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Zhejiang Key Laboratory of Frontier Medical Research on Cancer Metabolism, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+        "Zhejiang Key Laboratory of Frontier Medical Research on Cancer Metabolism, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Qian, Xinyi",
+        "short_name": "Qian X",
+        "identifiers": [
+          "0000-0002-6108-3386"
+        ],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Juze",
+        "short_name": "Yang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Jiayi",
+        "short_name": "Ren J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Mao, Xiaowei",
+        "short_name": "Mao X",
+        "identifiers": [
+          "0000-0003-2226-611X"
+        ],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jia",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Tengfei",
+        "short_name": "Sun T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Liangliang",
+        "short_name": "Dong L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Enguo",
+        "short_name": "Chen E",
+        "identifiers": [
+          "0000-0003-2338-8610"
+        ],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Yan",
+        "short_name": "Lu Y",
+        "identifiers": [
+          "0000-0002-5004-4656"
+        ],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Precision Diagnosis and Therapy for Major Gynecological Diseases, Department of Gynecologic Oncology, Women's Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+          "Zhejiang Key Laboratory of Frontier Medical Research on Cancer Metabolism, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Pengyuan",
+        "short_name": "Liu P",
+        "identifiers": [
+          "0000-0002-8386-8416"
+        ],
+        "affiliations": [
+          "Department of Pulmonary and Critical Care Medicine, Regional Medical Center For National Institute of Respiratory Diseases, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China.",
+          "Zhejiang Key Laboratory of Frontier Medical Research on Cancer Metabolism, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Sep 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 17:31",
+    "fetched_at": "2026-09-28 07:00:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42801620"
+    ],
+    "review": [
+      "42801620"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

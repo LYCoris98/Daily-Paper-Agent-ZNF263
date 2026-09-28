@@ -1,0 +1,363 @@
+{
+  "identity": {
+    "pmid": "42788307",
+    "doi": "10.1152/physiolgenomics.00157.2026",
+    "title": "Disruption of local CTCF binding impairs renin expression and blood pressure response in Dahl salt-sensitive rats."
+  },
+  "content": {
+    "abstract": "Most genetic variants associated with any complex trait are found in non-coding regions. Multiple studies have reported enrichment in single nucleotide polymorphisms (SNPs) found in specific sequences bound by CCCTCF-binding factor (CTCF). CTCF binds DNA to establish boundaries, mediate chromatin interactions and topological domains, and recruit factors to regulate local gene expression. Hypertension is one such disease with enrichment of SNPs in CTCF-binding sites; however, it is not clear whether disruption of CTCF binding to any specific site in the genome could be sufficient to alter blood pressure in vivo. We and others have shown the importance of CTCF-binding and local chromatin interactions governing the renal expression of renin, a critical regulator of systemic blood pressure. Here we developed a model with a mutation to a CTCF-binding motif within first intron of the Ren gene in the Dahl SS rat. CTCF-binding and local chromatin interactions were disrupted, and plasma renin activity (PRA) was impaired when animals were fed a salt-depleted diet in a sex-specific manner, specifically in males. Consistent with the attenuation of PRA, blood pressure was attenuated in male mutant rats during salt depletion. Isolated kidney tissue culture revealed a transcriptional attenuation of Ren expression, suggesting that disruption of CTCF binding within the first intron is critical for initially stabilizing the expression of Ren in response to an inducing stimulus. This is the first demonstration that a mutation to a CTCF-binding site is sufficient to alter a complex physiological trait such as blood pressure regulation, in a sex-specific manner.",
+    "keywords": [
+      "Blood Pressure Regulation",
+      "CTCF",
+      "Chromatin Conformation",
+      "Non-coding mechanism",
+      "Salt-Sensitive Rats"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Vanden Avond, Mark",
+        "Grzybowski, Michael N",
+        "Kurth, Terry",
+        "Yang, Chun",
+        "Klotz, Jason",
+        "Hantke Guixa, Ana",
+        "Greene, Andrew",
+        "Rao, Sridhar",
+        "Qiu, Qiongzi",
+        "Liu, Pengyuan",
+        "Liu, Yong",
+        "Liang, Mingyu",
+        "Cowley, Allen W Jr",
+        "Geurts, Aron M"
+      ],
+      "short_names": [
+        "Vanden Avond M",
+        "Grzybowski MN",
+        "Kurth T",
+        "Yang C",
+        "Klotz J",
+        "Hantke Guixa A",
+        "Greene A",
+        "Rao S",
+        "Qiu Q",
+        "Liu P",
+        "Liu Y",
+        "Liang M",
+        "Cowley AW Jr",
+        "Geurts AM"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4872-1993",
+        "ORCID: 0000-0002-8115-2748",
+        "ORCID: 0000-0003-3307-1609",
+        "ORCID: 0000-0002-6970-989X",
+        "ORCID: 0000-0002-0801-6248",
+        "ORCID: 0000-0002-4347-2505"
+      ],
+      "affiliations": [
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "The Jackson Laboratory for Mammalian Genetics, Bar Harbor, ME, USA.",
+        "Department of Pediatrics, Division of Hematology, Oncology, and Bone Marrow Transplantation, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Versiti Blood Research Institute, Milwaukee, WI, USA.",
+        "Department of Cell Biology, Neurobiology and Anatomy, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Physiology, University of Arizona College of Medicine, Tucson, AZ, USA.",
+        "Department of Physiology, University of Arizona College of Medicine, Tucson, AZ, USA.",
+        "Department of Respiratory Medicine, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, China.",
+        "Cancer Center, Zhejiang University, Hangzhou, China.",
+        "Department of Physiology, University of Arizona College of Medicine, Tucson, AZ, USA.",
+        "Department of Physiology, University of Arizona College of Medicine, Tucson, AZ, USA.",
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Vanden Avond, Mark",
+        "short_name": "Vanden Avond M",
+        "identifiers": [
+          "0000-0003-4872-1993"
+        ],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Grzybowski, Michael N",
+        "short_name": "Grzybowski MN",
+        "identifiers": [
+          "0000-0002-8115-2748"
+        ],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Kurth, Terry",
+        "short_name": "Kurth T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Yang, Chun",
+        "short_name": "Yang C",
+        "identifiers": [
+          "0000-0003-3307-1609"
+        ],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Klotz, Jason",
+        "short_name": "Klotz J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Hantke Guixa, Ana",
+        "short_name": "Hantke Guixa A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Greene, Andrew",
+        "short_name": "Greene A",
+        "identifiers": [],
+        "affiliations": [
+          "The Jackson Laboratory for Mammalian Genetics, Bar Harbor, ME, USA."
+        ]
+      },
+      {
+        "full_name": "Rao, Sridhar",
+        "short_name": "Rao S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Division of Hematology, Oncology, and Bone Marrow Transplantation, Medical College of Wisconsin, Milwaukee, WI, USA.",
+          "Versiti Blood Research Institute, Milwaukee, WI, USA.",
+          "Department of Cell Biology, Neurobiology and Anatomy, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Qiu, Qiongzi",
+        "short_name": "Qiu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, University of Arizona College of Medicine, Tucson, AZ, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Pengyuan",
+        "short_name": "Liu P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, University of Arizona College of Medicine, Tucson, AZ, USA.",
+          "Department of Respiratory Medicine, Sir Run Run Shaw Hospital and Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, China.",
+          "Cancer Center, Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yong",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, University of Arizona College of Medicine, Tucson, AZ, USA."
+        ]
+      },
+      {
+        "full_name": "Liang, Mingyu",
+        "short_name": "Liang M",
+        "identifiers": [
+          "0000-0002-6970-989X"
+        ],
+        "affiliations": [
+          "Department of Physiology, University of Arizona College of Medicine, Tucson, AZ, USA."
+        ]
+      },
+      {
+        "full_name": "Cowley, Allen W",
+        "short_name": "Cowley AW",
+        "identifiers": [
+          "0000-0002-0801-6248"
+        ],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Geurts, Aron M",
+        "short_name": "Geurts AM",
+        "identifiers": [
+          "0000-0002-4347-2505"
+        ],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Physiological genomics"
+    ],
+    "journal_abbrev": [
+      "Physiol Genomics"
+    ],
+    "pub_date": "2026 Sep 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 11:45",
+    "fetched_at": "2026-09-28 07:00:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42788307",
+      "9040448",
+      "42390335",
+      "29437926",
+      "31666380",
+      "32619009",
+      "31500627",
+      "29521603",
+      "24335803",
+      "34340197",
+      "31522988",
+      "19516179",
+      "24741094",
+      "32774342",
+      "11984003",
+      "40874617",
+      "42178304",
+      "9680296",
+      "17242304",
+      "37979036",
+      "11471547",
+      "11230305",
+      "29437965",
+      "38813592",
+      "37552993",
+      "42222933",
+      "23804403",
+      "27582050",
+      "31902252",
+      "8567976",
+      "24634495",
+      "29570433",
+      "30985763",
+      "2565535",
+      "42475469",
+      "34484563",
+      "10994763",
+      "10564122",
+      "30212590",
+      "32680543",
+      "30039577",
+      "29793448",
+      "28490592",
+      "8621206",
+      "29898989",
+      "40025499",
+      "41277030",
+      "34328102",
+      "10100098",
+      "12488510",
+      "37318990",
+      "24362533",
+      "41811151",
+      "28737770",
+      "28388437",
+      "32933554",
+      "29760161",
+      "34002095",
+      "9201991",
+      "31522987",
+      "28957321",
+      "16140943",
+      "12452334",
+      "27219007",
+      "42595520",
+      "30738580",
+      "38415447",
+      "34429148",
+      "27443990",
+      "31285261",
+      "10968200",
+      "23193294",
+      "41622199",
+      "42201978",
+      "12461525",
+      "37408191",
+      "35993175",
+      "34259014",
+      "31910870",
+      "26644237",
+      "25703332",
+      "41139207",
+      "36108053",
+      "15060168",
+      "23933634",
+      "40118069",
+      "20147611",
+      "31864373",
+      "26929370",
+      "40897451",
+      "20142563",
+      "33512425",
+      "15731119",
+      "23650640",
+      "33232622",
+      "41676599",
+      "32293525",
+      "37040762",
+      "23753405",
+      "1325316"
+    ],
+    "review": [
+      "42788307",
+      "41277030",
+      "37408191",
+      "35993175"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.physiology.org/doi/10.1152/physiolgenomics.00157.2026?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-Calcyclin-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

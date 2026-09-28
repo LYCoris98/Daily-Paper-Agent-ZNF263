@@ -1,0 +1,322 @@
+{
+  "identity": {
+    "pmid": "42800032",
+    "doi": "10.1016/j.celrep.2026.118048",
+    "title": "Methyl-donor inhibitors relax 3D genome structures to promote totipotent reprogramming."
+  },
+  "content": {
+    "abstract": "The 3D genome safeguards cell identity while shaping developmental plasticity, yet its coordination with metabolism during cell fate transitions remains unclear. Here, we use a mouse totipotent stem cell induction system to dissect the role of methyl-donor metabolism in 3D genome remodeling and cell fate transitions. We show that inhibition of methyl-donor pathways enhances reprogramming toward a totipotent-like state and drives widespread relaxation of 3D genome architecture, characterized by reduced chromatin compaction and attenuated higher-order chromatin organization. Mechanistically, methyl-donor inhibitors induce pronounced DNA hypomethylation and modest reductions in histone methylation, accompanied by decreased chromatin binding of DNA methylation-associated chromatin regulators, with limited effects at CTCF-enriched regions, suggesting that methyl-donor inhibition enhances reprogramming by disrupting pre-existing 3D genome organization through largely CTCF-independent mechanisms. Together, our findings reveal metabolic-3D genome cooperation as a mechanism for lowering the barrier to totipotency and point to regenerative targets beyond canonical chromatin architectural proteins.",
+    "keywords": [
+      "3D genome",
+      "CP: molecular biology",
+      "CP: stem cell research",
+      "DNA methylation",
+      "cell fate transition",
+      "chromatin organization",
+      "chromatin relaxation",
+      "methyl-donor inhibition",
+      "methyl-donor metabolism",
+      "totipotent reprogramming"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Tianchang",
+        "Li, Lincheng",
+        "Zhao, Jingru",
+        "Cheng, Ruoqi",
+        "Qi, Yueyao",
+        "Bu, Yifan",
+        "Chen, Hebing",
+        "Shi, Minglei",
+        "Xu, Jun",
+        "Deng, Hongkui",
+        "Li, Cheng"
+      ],
+      "short_names": [
+        "Yang T",
+        "Li L",
+        "Zhao J",
+        "Cheng R",
+        "Qi Y",
+        "Bu Y",
+        "Chen H",
+        "Shi M",
+        "Xu J",
+        "Deng H",
+        "Li C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Life Sciences, Center for Bioinformatics, Center for Statistical Science, Peking University, Beijing 100871, China.",
+        "Academy of Military Medical Sciences, Beijing 100850, China.",
+        "MOE Key Laboratory of Cell Proliferation and Differentiation, School of Life Sciences and MOE Engineering Research Center of Regenerative Medicine, School of Basic Medical Sciences, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Peking-Tsinghua Center for Life Sciences, Peking University, Beijing 100871, China.",
+        "School of Life Sciences, Center for Bioinformatics, Center for Statistical Science, Peking University, Beijing 100871, China.",
+        "School of Life Sciences, Center for Bioinformatics, Center for Statistical Science, Peking University, Beijing 100871, China.",
+        "School of Life Sciences, Center for Bioinformatics, Center for Statistical Science, Peking University, Beijing 100871, China.",
+        "Academy of Military Medical Sciences, Beijing 100850, China. Electronic address: chb-1012@163.com.",
+        "Breast Center, Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Peking University Cancer Hospital and Institute, Beijing 100142, China. Electronic address: shiml79@hsc.pku.edu.cn.",
+        "Department of Cell Biology, School of Basic Medical Sciences, Peking University Stem Cell Research Center, Peking University Health Science Center, Peking University, Beijing 100191, China. Electronic address: jun_xu@bjmu.edu.cn.",
+        "MOE Key Laboratory of Cell Proliferation and Differentiation, School of Life Sciences and MOE Engineering Research Center of Regenerative Medicine, School of Basic Medical Sciences, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Peking-Tsinghua Center for Life Sciences, Peking University, Beijing 100871, China; Changping Laboratory, Beijing 102206, China. Electronic address: hongkui_deng@pku.edu.cn.",
+        "School of Life Sciences, Center for Bioinformatics, Center for Statistical Science, Peking University, Beijing 100871, China. Electronic address: cheng_li@pku.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Tianchang",
+        "short_name": "Yang T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Center for Bioinformatics, Center for Statistical Science, Peking University, Beijing 100871, China."
+        ]
+      },
+      {
+        "full_name": "Li, Lincheng",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Military Medical Sciences, Beijing 100850, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Jingru",
+        "short_name": "Zhao J",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Cell Proliferation and Differentiation, School of Life Sciences and MOE Engineering Research Center of Regenerative Medicine, School of Basic Medical Sciences, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Peking-Tsinghua Center for Life Sciences, Peking University, Beijing 100871, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Ruoqi",
+        "short_name": "Cheng R",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Center for Bioinformatics, Center for Statistical Science, Peking University, Beijing 100871, China."
+        ]
+      },
+      {
+        "full_name": "Qi, Yueyao",
+        "short_name": "Qi Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Center for Bioinformatics, Center for Statistical Science, Peking University, Beijing 100871, China."
+        ]
+      },
+      {
+        "full_name": "Bu, Yifan",
+        "short_name": "Bu Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Center for Bioinformatics, Center for Statistical Science, Peking University, Beijing 100871, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Hebing",
+        "short_name": "Chen H",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Military Medical Sciences, Beijing 100850, China. Electronic address: chb-1012@163.com."
+        ]
+      },
+      {
+        "full_name": "Shi, Minglei",
+        "short_name": "Shi M",
+        "identifiers": [],
+        "affiliations": [
+          "Breast Center, Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Peking University Cancer Hospital and Institute, Beijing 100142, China. Electronic address: shiml79@hsc.pku.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Xu, Jun",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, School of Basic Medical Sciences, Peking University Stem Cell Research Center, Peking University Health Science Center, Peking University, Beijing 100191, China. Electronic address: jun_xu@bjmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Deng, Hongkui",
+        "short_name": "Deng H",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory of Cell Proliferation and Differentiation, School of Life Sciences and MOE Engineering Research Center of Regenerative Medicine, School of Basic Medical Sciences, State Key Laboratory of Natural and Biomimetic Drugs, Peking University Health Science Center, Peking-Tsinghua Center for Life Sciences, Peking University, Beijing 100871, China; Changping Laboratory, Beijing 102206, China. Electronic address: hongkui_deng@pku.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Cheng",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Center for Bioinformatics, Center for Statistical Science, Peking University, Beijing 100871, China. Electronic address: cheng_li@pku.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports"
+    ],
+    "journal_abbrev": [
+      "Cell Rep"
+    ],
+    "pub_date": "2026 Sep 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 02:27",
+    "fetched_at": "2026-09-28 07:00:55"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42800032",
+      "42275767",
+      "42777255",
+      "41654129",
+      "35560026",
+      "34791385",
+      "25218583",
+      "30257850",
+      "38375873",
+      "39537822",
+      "42426342",
+      "36260992",
+      "42225060",
+      "31722211",
+      "40390095",
+      "35385732",
+      "40764058",
+      "41832971",
+      "42103737",
+      "41703099",
+      "32286279",
+      "36484643",
+      "33187878",
+      "42475469",
+      "24831699",
+      "42617736",
+      "39180406",
+      "30031214",
+      "29335803",
+      "39605346",
+      "37592325",
+      "38499830",
+      "42427660",
+      "42538936",
+      "35977522",
+      "36727112",
+      "32579944",
+      "41430607",
+      "35508506",
+      "37000624",
+      "38167730",
+      "40009678",
+      "25703332",
+      "23804403",
+      "40226918",
+      "36011294",
+      "23706625",
+      "32249389",
+      "40666907",
+      "36539553",
+      "40011786",
+      "22782851",
+      "22388813",
+      "30414923",
+      "26686651",
+      "36303566",
+      "37851578",
+      "37408191",
+      "40806343",
+      "33720012",
+      "32680543",
+      "37021556",
+      "25448353",
+      "34437813",
+      "42201978",
+      "42493643",
+      "33113380",
+      "26582788",
+      "31197269",
+      "23748610",
+      "41721019",
+      "41700022",
+      "39463926",
+      "32616013",
+      "41642679",
+      "34551299",
+      "28621329",
+      "41036476",
+      "26980186",
+      "35127534",
+      "33075237",
+      "33801596",
+      "35143761",
+      "42249089",
+      "28692904",
+      "29217127",
+      "34957106",
+      "41277030",
+      "35563711",
+      "41910071",
+      "31849178",
+      "41258946",
+      "41554740",
+      "42490451",
+      "26659182",
+      "32220807",
+      "41167193",
+      "23333102",
+      "42539080",
+      "41354937"
+    ],
+    "review": [
+      "42800032",
+      "42275767",
+      "25218583",
+      "30257850",
+      "38375873",
+      "36484643",
+      "33187878",
+      "30031214",
+      "38499830",
+      "36727112",
+      "36011294",
+      "32249389",
+      "36539553",
+      "22782851",
+      "36303566",
+      "37408191",
+      "25448353",
+      "34437813",
+      "26582788",
+      "31197269",
+      "41036476",
+      "26980186",
+      "33075237",
+      "33801596",
+      "42249089",
+      "28692904",
+      "29217127",
+      "34957106",
+      "41277030",
+      "35563711",
+      "41910071",
+      "41258946",
+      "32220807"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}
