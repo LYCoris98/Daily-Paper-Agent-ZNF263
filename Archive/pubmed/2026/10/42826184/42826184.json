@@ -1,0 +1,250 @@
+{
+  "identity": {
+    "pmid": "42826184",
+    "doi": "10.1126/sciadv.aeg1622",
+    "title": "Aging-associated SATB1 deficiency remodels 3D genome architecture and transcriptional programs in naive CD4(+) T cells."
+  },
+  "content": {
+    "abstract": "Precise three-dimensional (3D) genome organization is crucial for regulating gene expression during development, yet its role in age-related transcriptional changes and physiological decline remains elusive. Here, we show that aging reshapes chromatin architecture and gene regulation in murine naive CD4(+) T cells, a quiescent T cell population essential for adaptive immunity. Aged naive CD4(+) T cells exhibit intrinsic transcriptional reprogramming marked by increased expression of inflammatory and T cell activation-related genes, rendering them more prone to activation. Intriguingly, these changes are accompanied by pronounced alterations in 3D genome organization, including widespread weakening of topologically associating domain (TAD) boundaries and extensive enhancer-promoter rewiring. Mechanistically, we demonstrate that these age-associated structural changes can be partly attributed to the diminished expression of chromatin organizer SATB1. SATB1 colocalizes with CCCTC-binding factor (CTCF) in young naive T cells to spatially constrain CTCF-binding sites. Its decline with age extends the range of CTCF-mediated interactions without altering CTCF occupancy, leading to remodeling of chromatin architecture and up-regulation of proinflammatory and proactivation genes. Conditional SATB1 deletion in naive T cells recapitulates the 3D genome and transcriptional changes observed in aging. Our findings reveal a critical role for SATB1 in maintaining 3D genome integrity in naive T cells and suggest that the dysregulation of genome architecture contributes to immune and organismal aging.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Matrix Attachment Region Binding Proteins/genetics/deficiency/metabolism",
+      "*CD4-Positive T-Lymphocytes/metabolism/immunology",
+      "Mice",
+      "*Aging/genetics",
+      "CCCTC-Binding Factor/metabolism/genetics",
+      "*Genome",
+      "Chromatin/metabolism/genetics",
+      "Gene Expression Regulation",
+      "*Transcription, Genetic",
+      "Chromatin Assembly and Disassembly",
+      "Lymphocyte Activation/genetics",
+      "Promoter Regions, Genetic"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Bao",
+        "Ji, Luzhang",
+        "Bian, Qian"
+      ],
+      "short_names": [
+        "Wang B",
+        "Ji L",
+        "Bian Q"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-8987-9545",
+        "ORCID: 0000-0001-7022-2213"
+      ],
+      "affiliations": [
+        "Shanghai Institute of Precision Medicine, Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200125, China.",
+        "Shanghai Key Laboratory of Reproductive Medicine, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+        "Shanghai Institute of Precision Medicine, Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200125, China.",
+        "Shanghai Key Laboratory of Reproductive Medicine, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+        "Shanghai Institute of Precision Medicine, Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200125, China.",
+        "Shanghai Key Laboratory of Reproductive Medicine, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Bao",
+        "short_name": "Wang B",
+        "identifiers": [
+          "0009-0005-8987-9545"
+        ],
+        "affiliations": [
+          "Shanghai Institute of Precision Medicine, Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200125, China.",
+          "Shanghai Key Laboratory of Reproductive Medicine, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ]
+      },
+      {
+        "full_name": "Ji, Luzhang",
+        "short_name": "Ji L",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute of Precision Medicine, Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200125, China.",
+          "Shanghai Key Laboratory of Reproductive Medicine, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ]
+      },
+      {
+        "full_name": "Bian, Qian",
+        "short_name": "Bian Q",
+        "identifiers": [
+          "0000-0001-7022-2213"
+        ],
+        "affiliations": [
+          "Shanghai Institute of Precision Medicine, Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200125, China.",
+          "Shanghai Key Laboratory of Reproductive Medicine, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 17:30",
+    "fetched_at": "2026-10-05 07:08:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42826184",
+      "37000624",
+      "41459752",
+      "39394451",
+      "41080543",
+      "38944686",
+      "32392347",
+      "36376298",
+      "41622199",
+      "21841785",
+      "32680543",
+      "42696576",
+      "34002095",
+      "19124743",
+      "29593713",
+      "30086769",
+      "21930775",
+      "40874617",
+      "41036778",
+      "32086528",
+      "32213323",
+      "35812421",
+      "35713361",
+      "41277030",
+      "40022213",
+      "36138028",
+      "33436846",
+      "31911579",
+      "24634495",
+      "42636801",
+      "34453048",
+      "41145704",
+      "40764058",
+      "31665634",
+      "33398174",
+      "42202530",
+      "42448570",
+      "17057718",
+      "20522714",
+      "39820353",
+      "35180428",
+      "39682078",
+      "31910870",
+      "38062010",
+      "29561703",
+      "33187878",
+      "34033138",
+      "39545685",
+      "40360814",
+      "39312688",
+      "39993185",
+      "28494867",
+      "36997534",
+      "33356851",
+      "30717603",
+      "34583974",
+      "37040762",
+      "30940740",
+      "32203470",
+      "36037342",
+      "35726060",
+      "33581110",
+      "30031214",
+      "20126258",
+      "37193606",
+      "38643172",
+      "38085779",
+      "38697116",
+      "29760161",
+      "28137913",
+      "37544964",
+      "40847243",
+      "28938092",
+      "38244545",
+      "40598900",
+      "26422397",
+      "36011294",
+      "28737770",
+      "39302339",
+      "42177279",
+      "31001272",
+      "40804526",
+      "10716941",
+      "12692553",
+      "30996085",
+      "41430607",
+      "33626344",
+      "42065963",
+      "27067007",
+      "40796890",
+      "36469845",
+      "41258946",
+      "40921733",
+      "28863138",
+      "31177910",
+      "42225060",
+      "41139207",
+      "28693562",
+      "31629814",
+      "27219007"
+    ],
+    "review": [
+      "42826184",
+      "38944686",
+      "35812421",
+      "41277030",
+      "33187878",
+      "33356851",
+      "30940740",
+      "30031214",
+      "36011294"
+    ],
+    "pmc": [
+      "13632734"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aeg1622?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/olderadulthealth.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Older Adult Health"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

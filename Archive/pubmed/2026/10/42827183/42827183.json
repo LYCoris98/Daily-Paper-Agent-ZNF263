@@ -1,0 +1,501 @@
+{
+  "identity": {
+    "pmid": "42827183",
+    "doi": "10.1038/s41588-026-02776-8",
+    "title": "Single-allele nanoscale mapping of regulatory variants."
+  },
+  "content": {
+    "abstract": "Millions of genetic variants are linked to human disease but identifying underlying mechanisms is challenging because most variants are noncausal and lie within the noncoding genome. We developed a Micro Capture-C variant-to-function platform (MCCv) based on analysis of single-allele chromatin structure. This can identify changes in nanoscale chromatin architecture and link variants in cis-regulatory elements to target genes. Furthermore, MCCv can phase other heterozygous variants within a locus to link regulatory variants to allelically imbalanced gene expression and directly read out variant effects on chromatin interactions after genome editing. With this approach, we investigated 405 cis-regulatory elements linked to immune-mediated inflammatory disease in CD4(+) T cells. We uncovered a previously undescribed gain-of-function mechanism, which increases risk of autoimmunity through creation of a neo-CTCF motif that blocks super-enhancer contacts with the SESN3 promoter. We showed that SESN3 regulates mammalian target of rapamycin by sensing tryptophan and demonstrated its role in autoimmunity using mouse models.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hamley, Joseph C",
+        "Zhang, Weijiao",
+        "Willmott, Daniel",
+        "Chen, Lucia Y",
+        "Sharlandjieva, Vassilena",
+        "Li, Hangpeng",
+        "Dalgleish, James L T",
+        "Denny, Nicholas",
+        "Agarwal, Gaurav",
+        "Hentges, Lance",
+        "Ozcan, Bora",
+        "Doll, Roman M",
+        "Wei, Ye",
+        "Riva, Simone G",
+        "Venkatesh, Samvida S",
+        "Arachi, Marta",
+        "Agarwal, Devika",
+        "Akkuratov, Evgeny E",
+        "Baxter, Matthew",
+        "Sauka-Spengler, Tatjana",
+        "Dendrou, Calliope A",
+        "Milne, Thomas A",
+        "Hughes, Jim R",
+        "Davies, James O J"
+      ],
+      "short_names": [
+        "Hamley JC",
+        "Zhang W",
+        "Willmott D",
+        "Chen LY",
+        "Sharlandjieva V",
+        "Li H",
+        "Dalgleish JLT",
+        "Denny N",
+        "Agarwal G",
+        "Hentges L",
+        "Ozcan B",
+        "Doll RM",
+        "Wei Y",
+        "Riva SG",
+        "Venkatesh SS",
+        "Arachi M",
+        "Agarwal D",
+        "Akkuratov EE",
+        "Baxter M",
+        "Sauka-Spengler T",
+        "Dendrou CA",
+        "Milne TA",
+        "Hughes JR",
+        "Davies JOJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6524-1257",
+        "ORCID: 0000-0001-9275-7817",
+        "ORCID: 0009-0008-4682-815X",
+        "ORCID: 0000-0002-2053-8786",
+        "ORCID: 0000-0002-5351-9581",
+        "ORCID: 0000-0001-6327-6774",
+        "ORCID: 0009-0002-3675-3920",
+        "ORCID: 0009-0003-1842-5867",
+        "ORCID: 0009-0009-1427-8920",
+        "ORCID: 0000-0002-0413-4271",
+        "ORCID: 0000-0002-8955-7256",
+        "ORCID: 0000-0002-4108-4357"
+      ],
+      "affiliations": [
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "National Institute of Health Research Blood and Transplant Research Unit in Precision Cellular Therapeutics, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "National Institute of Health Research Blood and Transplant Research Unit in Precision Cellular Therapeutics, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC WIMM Centre for Computational Biology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "Division of Hematology/Oncology, Boston Children's Hospital, Harvard Medical School, Boston, MA, USA.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC WIMM Centre for Computational Biology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "National Institute of Health Research Blood and Transplant Research Unit in Precision Cellular Therapeutics, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC WIMM Centre for Computational Biology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC WIMM Centre for Computational Biology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC WIMM Centre for Computational Biology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "Kennedy Institute of Rheumatology, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+        "Kennedy Institute of Rheumatology, University of Oxford, Oxford, UK.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK. thomas.milne@imm.ox.ac.uk.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK. jim.hughes@imm.ox.ac.uk.",
+        "Division of Hematology/Oncology, Boston Children's Hospital, Harvard Medical School, Boston, MA, USA. jim.hughes@imm.ox.ac.uk.",
+        "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK. james.davies@imm.ox.ac.uk.",
+        "National Institute of Health Research Blood and Transplant Research Unit in Precision Cellular Therapeutics, Oxford, UK. james.davies@imm.ox.ac.uk.",
+        "Oxford National Institute of Health Research Biomedical Research Centre, University of Oxford, Oxford, UK. james.davies@imm.ox.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hamley, Joseph C",
+        "short_name": "Hamley JC",
+        "identifiers": [
+          "0000-0002-6524-1257"
+        ],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Zhang, Weijiao",
+        "short_name": "Zhang W",
+        "identifiers": [
+          "0000-0001-9275-7817"
+        ],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+          "National Institute of Health Research Blood and Transplant Research Unit in Precision Cellular Therapeutics, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Willmott, Daniel",
+        "short_name": "Willmott D",
+        "identifiers": [
+          "0009-0008-4682-815X"
+        ],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+          "National Institute of Health Research Blood and Transplant Research Unit in Precision Cellular Therapeutics, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Chen, Lucia Y",
+        "short_name": "Chen LY",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Sharlandjieva, Vassilena",
+        "short_name": "Sharlandjieva V",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Li, Hangpeng",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Dalgleish, James L T",
+        "short_name": "Dalgleish JLT",
+        "identifiers": [
+          "0000-0002-2053-8786"
+        ],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+          "MRC WIMM Centre for Computational Biology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Denny, Nicholas",
+        "short_name": "Denny N",
+        "identifiers": [
+          "0000-0002-5351-9581"
+        ],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Agarwal, Gaurav",
+        "short_name": "Agarwal G",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+          "Division of Hematology/Oncology, Boston Children's Hospital, Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Hentges, Lance",
+        "short_name": "Hentges L",
+        "identifiers": [
+          "0000-0001-6327-6774"
+        ],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+          "MRC WIMM Centre for Computational Biology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Ozcan, Bora",
+        "short_name": "Ozcan B",
+        "identifiers": [
+          "0009-0002-3675-3920"
+        ],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+          "National Institute of Health Research Blood and Transplant Research Unit in Precision Cellular Therapeutics, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Doll, Roman M",
+        "short_name": "Doll RM",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Wei, Ye",
+        "short_name": "Wei Y",
+        "identifiers": [
+          "0009-0003-1842-5867"
+        ],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+          "MRC WIMM Centre for Computational Biology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Riva, Simone G",
+        "short_name": "Riva SG",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+          "MRC WIMM Centre for Computational Biology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Venkatesh, Samvida S",
+        "short_name": "Venkatesh SS",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK.",
+          "MRC WIMM Centre for Computational Biology, MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Arachi, Marta",
+        "short_name": "Arachi M",
+        "identifiers": [
+          "0009-0009-1427-8920"
+        ],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Agarwal, Devika",
+        "short_name": "Agarwal D",
+        "identifiers": [],
+        "affiliations": [
+          "Kennedy Institute of Rheumatology, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Akkuratov, Evgeny E",
+        "short_name": "Akkuratov EE",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Baxter, Matthew",
+        "short_name": "Baxter M",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Sauka-Spengler, Tatjana",
+        "short_name": "Sauka-Spengler T",
+        "identifiers": [],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Dendrou, Calliope A",
+        "short_name": "Dendrou CA",
+        "identifiers": [],
+        "affiliations": [
+          "Kennedy Institute of Rheumatology, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Milne, Thomas A",
+        "short_name": "Milne TA",
+        "identifiers": [
+          "0000-0002-0413-4271"
+        ],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK. thomas.milne@imm.ox.ac.uk."
+        ]
+      },
+      {
+        "full_name": "Hughes, Jim R",
+        "short_name": "Hughes JR",
+        "identifiers": [
+          "0000-0002-8955-7256"
+        ],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK. jim.hughes@imm.ox.ac.uk.",
+          "Division of Hematology/Oncology, Boston Children's Hospital, Harvard Medical School, Boston, MA, USA. jim.hughes@imm.ox.ac.uk."
+        ]
+      },
+      {
+        "full_name": "Davies, James O J",
+        "short_name": "Davies JOJ",
+        "identifiers": [
+          "0000-0002-4108-4357"
+        ],
+        "affiliations": [
+          "MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford, UK. james.davies@imm.ox.ac.uk.",
+          "National Institute of Health Research Blood and Transplant Research Unit in Precision Cellular Therapeutics, Oxford, UK. james.davies@imm.ox.ac.uk.",
+          "Oxford National Institute of Health Research Biomedical Research Centre, University of Oxford, Oxford, UK. james.davies@imm.ox.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature genetics"
+    ],
+    "journal_abbrev": [
+      "Nat Genet"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/03 05:33",
+    "fetched_at": "2026-10-05 07:08:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42827183",
+      "29056226",
+      "39606421",
+      "42794823",
+      "40421528",
+      "39930543",
+      "36160011",
+      "42475469",
+      "35887306",
+      "31367015",
+      "42281968",
+      "41477821",
+      "38358392",
+      "42636801",
+      "42523508",
+      "29528523",
+      "33626337",
+      "39302339",
+      "36245280",
+      "42366973",
+      "19732864",
+      "38948854",
+      "27067007",
+      "40205616",
+      "41959153",
+      "37292820",
+      "41169613",
+      "42395488",
+      "32248749",
+      "38308274",
+      "29351903",
+      "38369936",
+      "36544209",
+      "41959477",
+      "31500558",
+      "38948875",
+      "39341862",
+      "42619906",
+      "40409268",
+      "33627123",
+      "33155827",
+      "31804013",
+      "33982894",
+      "38373841",
+      "28870212",
+      "27096366",
+      "30315781",
+      "31969149",
+      "32239644",
+      "41096905",
+      "31421124",
+      "38760655",
+      "35773720",
+      "40447495",
+      "41197626",
+      "42816628",
+      "32732423",
+      "42234579",
+      "39796169",
+      "25835000",
+      "30039577",
+      "26446758",
+      "26340055",
+      "35681201",
+      "29335803",
+      "38571402",
+      "33910361",
+      "42457959",
+      "41616807",
+      "31936698",
+      "35575404",
+      "39741348",
+      "37645863",
+      "31635067",
+      "27863249",
+      "40846081",
+      "31500627",
+      "30786239",
+      "40968290",
+      "23328127",
+      "41361473",
+      "39312688",
+      "41168720",
+      "25363779",
+      "30429326",
+      "36768794",
+      "29625024",
+      "32850739",
+      "37066327",
+      "39487555",
+      "41494241",
+      "37749132",
+      "26966274",
+      "42136963",
+      "42731767",
+      "32249388",
+      "33828297",
+      "39386487",
+      "36869052",
+      "28273065"
+    ],
+    "review": [
+      "42827183",
+      "40447495",
+      "26446758",
+      "41616807"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41588-026-02776-8",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

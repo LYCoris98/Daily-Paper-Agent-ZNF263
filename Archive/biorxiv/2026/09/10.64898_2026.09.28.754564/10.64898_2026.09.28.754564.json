@@ -1,0 +1,182 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.28.754564",
+  "title": "Ctcf deficiency in myofibers induces pathological genome reprogramming toward the spontaneous development of myopathy",
+  "doi": "10.64898/2026.09.28.754564",
+  "abstract": "How perennial, postmitotic multinucleated tissues, such as skeletal myofibers, maintain their identity and transcriptional adaptation to homeostatic perturbations through adult life is an outstanding question. To address this issue, we investigated the consequences of loss of 3D-genome architecture in skeletal muscles by generating myofiber-specific Ctcf- deficient ( Ctcf mKO ) mice. Ctcf mKO mice did not exhibit muscular phenotype at birth but spontaneously developed a severe myopathy. Integrated analysis of snRNAseq, ATACseq and promoter-capture Hi-C revealed both common and fiber-type specific patterns of dysregulated gene expression associated with alterations in chromatin accessibility and promoter-based interactions in Ctcf-deficient myonuclei at distinct stages of myopathy development. Decreased chromatin accessibility at promoters and changes in their connectivity with distal elements were observed across all myonuclei as a direct consequence of Ctcf deficiency at early stages and associated with downregulation of genes implicated in myofiber contraction and anabolism, metabolism, adhesion and neuromuscular transmission. Conversely, at later stages, upregulation of genes leading to persistent activation of ER stress/UPR and catabolism resulted from global reconfiguration of chromatin structure and connectivity, partly as indirect consequence of Ctcf deficiency. Notably, type-IIB myonuclei exhibited specific alterations in gene expression that culminated in loss of fiber-type identity and ectopic expression of inflammatory genes. These results reveal a requirement of Ctcf for maintenance of fiber-type identity and transcriptional adaptation in vivo , through multilayered control of 3D genome integrity. They also indicate an unprecedented association between Ctcf deficiency in myofibers and susceptibility to develop myopathies, whereby Ctcf dispensability for developmental myogenesis confers vulnerability to develop myopathic syndromes.",
+  "authors": [
+    "Massenet J",
+    "Nicoletti C",
+    "Caputo L",
+    "Hüttner SS",
+    "Nicolau M",
+    "Barajas JR",
+    "Rossi M",
+    "Yang Y",
+    "Ancel S",
+    "Wang YX",
+    "Malfatti E",
+    "Cheung TH",
+    "Witcher M",
+    "Crist C",
+    "Puri PL"
+  ],
+  "published_date": "2026-09-29",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.28.754564",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.28.754564.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1330720",
+    "raw_record": {
+      "id": "PPR1330720",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.28.754564",
+      "title": "Ctcf deficiency in myofibers induces pathological genome reprogramming toward the spontaneous development of myopathy",
+      "authorString": "Massenet J, Nicoletti C, Caputo L, Hüttner SS, Nicolau M, Barajas JR, Rossi M, Yang Y, Ancel S, Wang YX, Malfatti E, Cheung TH, Witcher M, Crist C, Puri PL.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Massenet J",
+            "lastName": "Massenet",
+            "firstName": "Jimmy",
+            "initials": "J"
+          },
+          {
+            "fullName": "Nicoletti C",
+            "lastName": "Nicoletti",
+            "firstName": "Chiara",
+            "initials": "C"
+          },
+          {
+            "fullName": "Caputo L",
+            "lastName": "Caputo",
+            "firstName": "Luca",
+            "initials": "L"
+          },
+          {
+            "fullName": "Hüttner SS",
+            "lastName": "Hüttner",
+            "firstName": "Sören",
+            "initials": "SS"
+          },
+          {
+            "fullName": "Nicolau M",
+            "lastName": "Nicolau",
+            "firstName": "Monica",
+            "initials": "M"
+          },
+          {
+            "fullName": "Barajas JR",
+            "lastName": "Barajas",
+            "firstName": "Jesus",
+            "initials": "JR"
+          },
+          {
+            "fullName": "Rossi M",
+            "lastName": "Rossi",
+            "firstName": "Maira",
+            "initials": "M"
+          },
+          {
+            "fullName": "Yang Y",
+            "lastName": "Yang",
+            "firstName": "Yuqing",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Ancel S",
+            "lastName": "Ancel",
+            "firstName": "Sara",
+            "initials": "S"
+          },
+          {
+            "fullName": "Wang YX",
+            "lastName": "Wang",
+            "firstName": "Yu Xin",
+            "initials": "YX"
+          },
+          {
+            "fullName": "Malfatti E",
+            "lastName": "Malfatti",
+            "firstName": "Edoardo",
+            "initials": "E"
+          },
+          {
+            "fullName": "Cheung TH",
+            "lastName": "Cheung",
+            "firstName": "Tom",
+            "initials": "TH"
+          },
+          {
+            "fullName": "Witcher M",
+            "lastName": "Witcher",
+            "firstName": "Michael",
+            "initials": "M"
+          },
+          {
+            "fullName": "Crist C",
+            "lastName": "Crist",
+            "firstName": "Colin",
+            "initials": "C"
+          },
+          {
+            "fullName": "Puri PL",
+            "lastName": "Puri",
+            "firstName": "Pier Lorenzo",
+            "initials": "PL"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "How perennial, postmitotic multinucleated tissues, such as skeletal myofibers, maintain their identity and transcriptional adaptation to homeostatic perturbations through adult life is an outstanding question. To address this issue, we investigated the consequences of loss of 3D-genome architecture in skeletal muscles by generating myofiber-specific  Ctcf- deficient (  Ctcf mKO ) mice.  Ctcf mKO mice did not exhibit muscular phenotype at birth but spontaneously developed a severe myopathy. Integrated analysis of snRNAseq, ATACseq and promoter-capture Hi-C revealed both common and fiber-type specific patterns of dysregulated gene expression associated with alterations in chromatin accessibility and promoter-based interactions in Ctcf-deficient myonuclei at distinct stages of myopathy development. Decreased chromatin accessibility at promoters and changes in their connectivity with distal elements were observed across all myonuclei as a direct consequence of  Ctcf deficiency at early stages and associated with downregulation of genes implicated in myofiber contraction and anabolism, metabolism, adhesion and neuromuscular transmission. Conversely, at later stages, upregulation of genes leading to persistent activation of ER stress/UPR and catabolism resulted from global reconfiguration of chromatin structure and connectivity, partly as indirect consequence of  Ctcf deficiency. Notably, type-IIB myonuclei exhibited specific alterations in gene expression that culminated in loss of fiber-type identity and ectopic expression of inflammatory genes. These results reveal a requirement of Ctcf for maintenance of fiber-type identity and transcriptional adaptation  in vivo , through multilayered control of 3D genome integrity. They also indicate an unprecedented association between  Ctcf deficiency in myofibers and susceptibility to develop myopathies, whereby  Ctcf dispensability for developmental myogenesis confers vulnerability to develop myopathic syndromes.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.28.754564"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-30",
+      "firstPublicationDate": "2026-09-29",
+      "firstIndexDate": "2026-09-30",
+      "hasEvaluations": "N"
+    }
+  }
+}

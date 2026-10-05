@@ -2,6 +2,156 @@
   "version": 1,
   "documents": [
     {
+      "id": "pubmed:42827183",
+      "title": "Single-allele nanoscale mapping of regulatory variants.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42827183/index.html",
+      "meta": [
+        "Hamley, Joseph C; Zhang, Weijiao; Willmott, Daniel; Chen, Lucia Y; Sharlandjieva, Vassilena; Li, Hangpeng; Dalgleish, James L T; Denny, Nicholas; Agarwal, Gaurav; Hentges, Lance; Ozcan, Bora; Doll, Roman M; Wei, Ye; Riva, Simone G; Venkatesh, Samvida S; Arachi, Marta; Agarwal, Devika; Akkuratov, Evgeny E; Baxter, Matthew; Sauka-Spengler, Tatjana; Dendrou, Calliope A; Milne, Thomas A; Hughes, Jim R; Davies, James O J",
+        "Nature genetics",
+        "2026-10-03"
+      ],
+      "tags": [],
+      "summary": "该文开发了单等位基因染色质结构分析平台MCCv，用于定位调控变异与靶基因，虽不直接研究cpcdh基因家族，但其变异-功能解析方法可借鉴于该家族调控机制研究。",
+      "abstract": "Millions of genetic variants are linked to human disease but identifying underlying mechanisms is challenging because most variants are noncausal and lie within the noncoding genome. We developed a Micro Capture-C variant-to-function platform (MCCv) based on analysis of single-allele chromatin structure. This can identify changes in nanoscale chromatin architecture and link variants in cis-regulatory elements to target genes. Furthermore, MCCv can phase other heterozygous variants within a locus to link regulatory variants to allelically imbalanced gene expression and directly read out variant effects on chromatin interactions after genome editing. With this approach, we investigated 405 cis-regulatory elements linked to immune-mediated inflammatory disease in CD4(+) T cells. We uncovered a previously undescribed gain-of-function mechanism, which increases risk of autoimmunity through creation of a neo-CTCF motif that blocks super-enhancer contacts with the SESN3 promoter. We showed that SESN3 regulates mammalian target of rapamycin by sensing tryptophan and demonstrated its role in autoimmunity using mouse models. 数百万遗传变异与人类疾病相关，但识别其潜在机制颇具挑战，因为大多数变异并非致病性，且位于非编码基因组中。我们开发了一种基于单等位基因染色质结构分析的微捕获C变体到功能平台（MCCv）。该平台能够识别纳米尺度染色质结构的变化，并将顺式调控元件中的变异与靶基因联系起来。此外，MCCv可以对基因座内的其他杂合变异进行定相，以将调控变异与等位基因不平衡的基因表达相关联，并在基因组编辑后直接读出变异对染色质相互作用的影响。利用此方法，我们研究了CD4(+) T细胞中与免疫介导的炎症性疾病相关的405个顺式调控元件。我们发现了一种先前未描述的功能获得机制，该机制通过创建一个新的CTCF基序来增加自身免疫风险，该基序阻断超增强子与SESN3启动子的接触。我们证明SESN3通过感知色氨酸来调节哺乳动物雷帕霉素靶蛋白，并利用小鼠模型展示了其在自身免疫中的作用。",
+      "date": "2026-10-03"
+    },
+    {
+      "id": "pubmed:42826184",
+      "title": "Aging-associated SATB1 deficiency remodels 3D genome architecture and transcriptional programs in naive CD4(+) T cells.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42826184/index.html",
+      "meta": [
+        "Wang, Bao; Ji, Luzhang; Bian, Qian",
+        "Science advances",
+        "2026-10-02"
+      ],
+      "tags": [],
+      "summary": "该文研究衰老相关SATB1缺陷对CD4+ T细胞三维基因组和转录的影响，与cpcdh基因家族无直接关联。",
+      "abstract": "Precise three-dimensional (3D) genome organization is crucial for regulating gene expression during development, yet its role in age-related transcriptional changes and physiological decline remains elusive. Here, we show that aging reshapes chromatin architecture and gene regulation in murine naive CD4(+) T cells, a quiescent T cell population essential for adaptive immunity. Aged naive CD4(+) T cells exhibit intrinsic transcriptional reprogramming marked by increased expression of inflammatory and T cell activation-related genes, rendering them more prone to activation. Intriguingly, these changes are accompanied by pronounced alterations in 3D genome organization, including widespread weakening of topologically associating domain (TAD) boundaries and extensive enhancer-promoter rewiring. Mechanistically, we demonstrate that these age-associated structural changes can be partly attributed to the diminished expression of chromatin organizer SATB1. SATB1 colocalizes with CCCTC-binding factor (CTCF) in young naive T cells to spatially constrain CTCF-binding sites. Its decline with age extends the range of CTCF-mediated interactions without altering CTCF occupancy, leading to remodeling of chromatin architecture and up-regulation of proinflammatory and proactivation genes. Conditional SATB1 deletion in naive T cells recapitulates the 3D genome and transcriptional changes observed in aging. Our findings reveal a critical role for SATB1 in maintaining 3D genome integrity in naive T cells and suggest that the dysregulation of genome architecture contributes to immune and organismal aging. 精确的三维（3D）基因组组织对于发育过程中基因表达的调控至关重要，但其在与年龄相关的转录变化和生理衰退中的作用仍不清楚。在此，我们表明衰老重塑了小鼠初始CD4(+) T细胞（一种对适应性免疫至关重要的静息T细胞群体）中的染色质结构和基因调控。衰老的初始CD4(+) T细胞表现出内在的转录重编程，其特征是炎症和T细胞激活相关基因表达增加，使其更易被激活。有趣的是，这些变化伴随着3D基因组组织的显著改变，包括拓扑关联结构域（TAD）边界的广泛减弱和增强子-启动子连接的广泛重连。机制上，我们证明这些与年龄相关的结构变化部分归因于染色质组织者SATB1表达的减少。SATB1在年轻初始T细胞中与CCCTC结合因子（CTCF）共定位，以空间上约束CTCF结合位点。其随年龄增长而减少，扩展了CTCF介导的相互作用范围，而不改变CTCF占据率，导致染色质结构重塑以及促炎和促激活基因的上调。初始T细胞中条件性SATB1缺失重现了衰老中观察到的3D基因组和转录变化。我们的发现揭示了SATB1在维持初始T细胞3D基因组完整性中的关键作用，并提示基因组结构失调有助于免疫和机体衰老。",
+      "date": "2026-10-02"
+    },
+    {
+      "id": "pubmed:42818186",
+      "title": "DNMT1-Mediated Epigenetic Reprogramming Drives KMT2A Amplifications and Rearrangements.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42818186/index.html",
+      "meta": [
+        "Lineberger, Madison A; Gray, Zach H; Ferman, Benjamin I; O'Donnell, Erin; Smith, Rebecca G; Schiela, Kathleen; Udara, Anushka; Chetal, Kashish; Azadegan, Chloe; Toma, Monika Maria; Sumner, Ethan; Santoro, John; Miranda, Christopher; Ahmed, Manna; Wilson, Jade; Lautert-Dutra, William; Li, Chencheng; McKelvey, Aidan; Kaniskan, H Umit; Zhang, Wenyun; Jin, Jian; Puddu, Fabio; Consugar, Mark; Walsh, Martin; Bellacosa, Alfonso; Duy, Cihangir; Lee, Hayan; Skorski, Tomasz; Liu, Yu; Sadreyev, Ruslan I; Whetstine, Johnathan R",
+        "bioRxiv : the preprint server for biology",
+        "2026-10-01"
+      ],
+      "tags": [],
+      "summary": "该文研究DNMT1介导的表观遗传重编程驱动KMT2A扩增和重排，与cpcdh基因家族无直接关联。",
+      "abstract": "MLL/KMT2A amplifications and rearrangements are prevalent in infant, adult, and therapy-induced leukemia; however, the molecular contributors controlling these alterations remain elusive. Here, we reveal that rapid CTCF degradation generates local genome structure alterations at KMT2A and copy gains and rearrangements. We then established a conserved, coordinated interplay between DNA and histone methylation pathways that control CTCF occupancy, and in turn, KMT2A locus stability. For example, DNMT1 overexpression promotes increased H3K9 methylation, reduced CTCF occupancy, and causes KMT2A alterations. However, DNMT1 inhibition suppresses these events and KMT2A alterations caused by topoisomerase II inhibition. Locus-specific epigenome targeting demonstrated that DNA or H3K9 methylation promotes KMT2A copy gains and rearrangement, whereas targeted TET activity suppresses these events upon methylation perturbation or doxorubicin treatment. These findings identify a conserved, coordinated DNA-histone methylation axis governing KMT2A amplifications and rearrangement susceptibility, revealing biomarkers and therapeutic targets to predict and intercept these events in cancer. STATEMENT OF SIGNIFICANCE: This study reveals a conserved DNA-histone methylation mechanism controlling the susceptibility of the KMT2A locus to copy gain and rearrange. These events can be generated or prevented by genetic, therapeutic or epigenome editing. Furthermore, DNMT1 inhibition blocks chemotherapy-induced KMT2A disruption, identifying a therapeutic strategy to intercept these oncogenic genomic alterations. MLL/KMT2A扩增和重排常见于婴儿、成人及治疗诱导的白血病中；然而，控制这些改变的分子贡献者仍难以捉摸。在此，我们揭示快速CTCF降解在KMT2A位点产生局部基因组结构改变以及拷贝数增加和重排。随后，我们建立了DNA和组蛋白甲基化通路之间保守的协调相互作用，该作用控制CTCF占据，进而影响KMT2A位点稳定性。例如，DNMT1过表达促进H3K9甲基化增加、CTCF占据减少，并导致KMT2A改变。然而，DNMT1抑制可抑制这些事件以及由拓扑异构酶II抑制引起的KMT2A改变。位点特异性表观基因组靶向表明，DNA或H3K9甲基化促进KMT2A拷贝数增加和重排，而靶向TET活性在甲基化扰动或多柔比星处理下抑制这些事件。这些发现确定了一个保守的、协调的DNA-组蛋白甲基化轴，控制KMT2A扩增和重排易感性，揭示了预测和拦截癌症中这些事件的生物标志物和治疗靶点。意义声明：本研究揭示了一种保守的DNA-组蛋白甲基化机制，控制KMT2A位点对拷贝数增加和重排的易感性。这些事件可通过遗传、治疗或表观基因组编辑产生或预防。此外，DNMT1抑制阻断化疗诱导的KMT2A破坏，确定了一种拦截这些致癌基因组改变的治疗策略。",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "pubmed:42818845",
+      "title": "Genetic mechanisms of mitotic error in 840,853 blood genomes.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42818845/index.html",
+      "meta": [
+        "Si, Yichen; Kamitaki, Nolan; Tang, David; Loh, Po-Ru",
+        "medRxiv : the preprint server for health sciences",
+        "2026-10-01"
+      ],
+      "tags": [],
+      "summary": "该文研究血细胞嵌合非整倍体的遗传机制，与cpcdh基因家族无关。",
+      "abstract": "Mosaic aneuploidies in leukocytes are commonly detectable in aging individuals. Here, we studied inherited genetic influences on susceptibility to such aneuploidies by precisely quantifying chromosomal ploidy from whole-genome sequencing read-depth in 840,853 individuals. This approach revealed autosomal gains in  approximately 70,000 individuals (7-fold more than previous data sets) and ubiquitous loss of the X chromosome in females and loss of Y in males, each of which exhibited > 50% heritability. Genome-wide association analyses of 12 mosaic aneuploidies identified > 800 common inherited influences on the generation and proliferation of aneuploid cells. Variants in mitotic spindle assembly checkpoint genes consistently affected aneuploidy of most chromosomes, whereas a missense variant in PMF1 (which encodes a subunit of the outer kinetochore) associated with increased segregation fidelity of some chromosomes at the expense of others. Structural variation within multiple chromosomes associated with allele-specific effects on missegregation rates. An inherited hybrid centromere formed by an ancient recombination of 22q with 13p-generating the largest common structural variant in the human genome-associated with 4-fold greater risk of chromosome 22 gain. Abundant copy number and sequence variation in two X-linked CTCF-binding repeat arrays, ICCE and DXZ4 , associated with a 4-fold range in the likelihoods of different X chromosomes to be lost. These results show how genetic risk of chromosomal gains and losses varies greatly across chromosomes and across people, providing instruments for assessing the effects of mosaic aneuploidies on health. 马赛克非整倍体在衰老个体的白细胞中普遍可检测到。本研究通过精确量化840,853个个体的全基因组测序读取深度中的染色体倍性，探讨了遗传因素对此类非整倍体易感性的影响。该方法在约70,000名个体中检测到常染色体获得（比以往数据集多7倍），并发现女性中X染色体普遍丢失，男性中Y染色体普遍丢失，每种情况均表现出超过50%的遗传力。对12种马赛克非整倍体的全基因组关联分析识别出超过800个常见的遗传影响，这些影响涉及非整倍体细胞的生成与增殖。有丝分裂纺锤体组装检查点基因的变异一致地影响大多数染色体的非整倍性，而PMF1（编码外着丝粒亚基）中的一个错义变异与某些染色体分离保真度增加相关，但以其他染色体为代价。多个染色体内的结构变异与等位基因特异性效应相关，影响错误分离率。一个由22q与13p古老重组形成的遗传杂合着丝粒——产生人类基因组中最大的常见结构变异——与染色体22获得风险增加4倍相关。两个X连锁CTCF结合重复阵列ICCE和DXZ4中的丰富拷贝数和序列变异，与不同X染色体丢失可能性的4倍范围相关。这些结果表明，染色体获得和丢失的遗传风险在不同染色体和不同个体间差异显著，为评估马赛克非整倍体对健康的影响提供了工具。",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "pubmed:42822246",
+      "title": "Cohesin on the move: navigating genomic traffic during loop extrusion.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42822246/index.html",
+      "meta": [
+        "Guo, Qiao; Yuen, Karen Wing Yee; Zhang, Haoyue",
+        "Current opinion in structural biology",
+        "2026-10-01"
+      ],
+      "tags": [],
+      "summary": "该文综述cohesin在环挤压中的机械调控机制，与cpcdh基因家族无直接关联。",
+      "abstract": "Cohesin is a central architect of the 3D genome. As it extrudes DNA, it must navigate a 'busy' genomic landscape, leading to constant biophysical engagements with diverse chromatin binding proteins and molecular machineries. In this review, we examine how cohesin's loop extrusion is shaped by mechanical encounters with directional barriers like CCCTC-binding factor (CTCF), moving transcriptional fronts, and advancing replication forks. We highlight how these players can arrest, slow, or actively push cohesin, dynamically modulating chromatin topology. Furthermore, we discuss how the replisome traverses the cohesin ring to establish cohesion and how repair factors leverage extrusion to facilitate homology searching. Finally, we delineate the crosstalk among structural maintenance of chromosomes (SMC) motors during mitotic entry. Collectively, our review provides a comprehensive framework for these multifaceted interactions and highlights key unresolved questions, offering a future perspective on the mechanical principles of cohesin governing genome organization. 黏连蛋白（cohesin）是三维基因组的核心建筑师。在挤出DNA的过程中，它必须穿越一个“繁忙”的基因组景观，导致与多种染色质结合蛋白和分子机器持续发生生物物理相互作用。在本综述中，我们探讨了黏连蛋白的环挤出如何受到与方向性屏障（如CCCTC结合因子（CTCF））、移动的转录前沿和前进的复制叉的机械性遭遇所塑造。我们重点阐述了这些因子如何能够阻止、减缓或主动推动黏连蛋白，动态调节染色质拓扑结构。此外，我们讨论了复制体（replisome）如何穿越黏连蛋白环以建立黏连，以及修复因子如何利用挤出过程促进同源搜索。最后，我们描述了有丝分裂进入期间染色体结构维持（SMC）马达之间的串扰。总体而言，我们的综述为这些多方面的相互作用提供了一个综合框架，并强调了关键未解问题，为黏连蛋白调控基因组组织的机械原理提供了未来展望。",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "pubmed:42822280",
+      "title": "Lithium nickel cobalt manganese oxide particles may impair cognitive function via CTCF-associated suppression of NMDAR-dependent synaptogenesis.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42822280/index.html",
+      "meta": [
+        "Guan, Xinchao; Xie, Lijie; Li, Guoliang; He, Yujie; Chen, Shilin; Wang, Han; Yuan, Wenke; Gao, Huan; Chen, Ming; Yang, Xiaoge; Luo, Yingxia; Shao, Xiaojian; Chen, Wen; Liu, Lili; Wang, Qing",
+        "Journal of hazardous materials",
+        "2026-10-01"
+      ],
+      "tags": [],
+      "summary": "该文研究锂电池材料NCM的神经毒性机制，与cpcdh基因家族无关。",
+      "abstract": "Lithium nickel cobalt manganese oxide (NCM) is the predominant cathode material for lithium-ion batteries (LIBs); however, its occupational health risks remain insufficiently understood. In this study, we found that in occupationally NCM‑exposed workers, urinary levels of Li, Ni, Co, and Mn were negatively associated with Mini‑Cog test scores and positively associated with serum neurofilament light chain (NfL, as neuronal injury marker). In an intratracheal instillation rat model, NCM-exposed rats exhibited learning and memory deficits, neuronal injury, and reduced synaptic complexity. RNA‑seq analysis revealed suppression of N-methyl-D-aspartate receptors (NMDAR)‑dependent synaptogenesis pathways in rat hippocampus, along with downregulation of NMDAR subunits (GluN2A and GluN2B) and postsynaptic proteins such as CaMKII‑alpha, MAP2, PSD‑95, and Synapsin‑1. In SH-SY5Y cells, treatment with NCM-derived metals recapitulated these gene expression changes. Bioinformatics analysis identified CCCTC-binding factor (CTCF) as a potential regulator of NMDAR. Cellular thermal shift assays (CETSA) identified the binding of NCM-derived metals to CTCF. Based on in vivo data, human equivalent concentrations (HECs) derived from BMDL(10) of Ni and Mn were below the current OELs of China and America. Collectively, these findings indicate that NCM may induce neurotoxicity and impair learning and memory by disrupting synaptogenesis, and CTCF is implicated in this process. 锂镍钴锰氧化物（NCM）是锂离子电池（LIBs）的主要正极材料；然而，其职业健康风险仍未得到充分认识。在本研究中，我们发现，在职业性NCM暴露工人中，尿液中Li、Ni、Co和Mn水平与Mini-Cog测试得分呈负相关，并与血清神经丝轻链（NfL，作为神经元损伤标志物）呈正相关。在气管内滴注大鼠模型中，NCM暴露大鼠表现出学习记忆缺陷、神经元损伤和突触复杂性降低。RNA-seq分析揭示了大鼠海马中N-甲基-D-天冬氨酸受体（NMDAR）依赖性突触发生通路受到抑制，同时NMDAR亚基（GluN2A和GluN2B）及突触后蛋白如CaMKII-α、MAP2、PSD-95和Synapsin-1下调。在SH-SY5Y细胞中，用NCM衍生金属处理重现了这些基因表达变化。生物信息学分析将CCCTC结合因子（CTCF）确定为NMDAR的潜在调控因子。细胞热位移分析（CETSA）确定了NCM衍生金属与CTCF的结合。基于体内数据，由Ni和Mn的BMDL(10)推导的人等效浓度（HECs）低于中国和美国当前的职业接触限值（OELs）。综合来看，这些发现表明NCM可能通过破坏突触发生诱导神经毒性并损害学习记忆，且CTCF参与此过程。",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "biorxiv:10.64898/2026.09.29.755502",
+      "title": "CDX2 Drives Divergent Regional Programs During Intestinal Development and Redeploys Them During Regeneration",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/biorxiv/10.64898_2026.09.29.755502/index.html",
+      "meta": [
+        "Lorzadeh A; Ye G; Romero-Wolf M; Quiloan ML; Sharma S; Sanchez E; Jadhav U",
+        "bioRxiv",
+        "2026-09-30"
+      ],
+      "tags": [],
+      "summary": "该文研究CDX2转录因子在肠道发育和再生中的区域特异性调控，与cpcdh基因家族无直接关联。",
+      "abstract": "Region-specific transcription factors (TFs) establish small intestinal and colonic identity, yet what activates their region-specific expression during development is unresolved. Moreover, discrete fetal gene sets reactivate during post-injury regeneration, but their full scope, and what reactivates the programs required to restore regional identity and tissue structure, remain unclear. By determining CDX2 and partner TF binding, enhancer activity, and gene expression dynamics across intestinal regions, in stem and differentiating cells, and through development and adult regeneration, here we show that CDX2, despite uniform expression across the fetal and adult intestinal epithelium, organizes a hierarchical enhancer network. This network cooperates with partner factors such as CTCF to establish a shared, plastic fetal enhancer landscape, which resolves into region-specific programs upstream of regional TFs. During regeneration, rather than reactivating a general fetal state, CDX2 selectively rebinds many region-specific and common enhancers for genes associated with fetal cell-motility and tissue-morphogenesis signatures along with a more recently active adult stem-cell program, each deployed across distinct crypt tiers. CDX2 thus functions as a central, context-responsive regulator, deploying fetal, adult stem-cell differentiation, and regenerative programs as tissue context requires. 区域特异性转录因子（TFs）建立小肠和结肠的身份特征，但它们在发育过程中激活区域特异性表达的机制尚不明确。此外，离散的胎儿基因集在损伤后再生期间重新激活，但其全部范围以及重新激活恢复区域身份和组织结构所需程序的因素仍不清楚。通过测定CDX2及伙伴转录因子的结合、增强子活性以及跨肠道区域、干细胞和分化细胞中、以及发育和成体再生过程中的基因表达动态，我们在此表明，CDX2尽管在胎儿和成体肠上皮中均匀表达，却组织了一个层级增强子网络。该网络与CTCF等伙伴因子协作，建立一个共享的、可塑的胎儿增强子景观，该景观在区域转录因子上游解析为区域特异性程序。在再生过程中，CDX2并非重新激活一般性胎儿状态，而是选择性地重新结合许多区域特异性和常见增强子，这些增强子与胎儿细胞运动和組織形态发生特征相关的基因，以及一个更近期活跃的成体干细胞程序相关联，每个程序在不同隐窝层级中部署。因此，CDX2作为一个中心性的、情境响应的调节因子，根据组织情境需求部署胎儿、成体干细胞分化和再生程序。",
+      "date": "2026-09-30"
+    },
+    {
+      "id": "pubmed:42811810",
+      "title": "Placental DNA Methylation of HSD11B2 and IGF2 Is Associated With Fetal Growth in the Cebu Longitudinal Health and Nutrition Survey.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42811810/index.html",
+      "meta": [
+        "Klibaner-Schiff, Eleanor; Rutherford, Julienne; deMartelly, Victoria; Lagardo, Fe; Gundling, William; Wildman, Derek E; Lee, Nanette R; Kuzawa, Christopher",
+        "American journal of human biology : the official journal of the Human Biology Council",
+        "2026-09-30"
+      ],
+      "tags": [],
+      "summary": "该文研究胎盘HSD11B2和IGF2的DNA甲基化与胎儿生长的关联，与cpcdh基因家族无关。",
+      "abstract": "OBJECTIVES: The intrauterine environment exerts lasting impacts on fetal growth and development, with potential long-term effects on later health. We examined whether placental DNA methylation at HSD11B2 and IGF2-two key regulators of the intrauterine environment-is associated with fetal growth among participants in the Cebu Longitudinal Health and Nutrition Survey (CLHNS). METHODS: We analyzed DNA methylation in placental samples from 19 births in the CLHNS using the Illumina Infinium HumanMethylation450 BeadChip. Focusing on CpG sites within HSD11B2 and the IGF2/H19 imprinting control region (ICR), we used linear regression models adjusted for gestational age to assess associations of DNA methylation with birth weight, head circumference, length, and neonatal adiposity. RESULTS: Higher methylation at three CpG sites within HSD11B2 was significantly associated with reduced fetal growth: one site was associated with reduced birth weight and head circumference, and two sites were associated with shorter birth length. Within the IGF2/H19 ICR, two CpG sites were significantly associated with both increased birth weight and head circumference. Both CpGs overlapped with predicted CCCTC-binding factor (CTCF) binding sites, consistent with known regulatory mechanisms linking increased methylation at the ICR to increased IGF2 expression. CONCLUSIONS: These findings support the hypothesis that DNA methylation at regulatory regions of HSD11B2 and IGF2 contributes to variation in fetal growth, linking placental epigenetic patterns to birth outcomes. 目的：宫内环境对胎儿生长发育具有持久影响，并可能对后期健康产生长期效应。我们考察了参与宿务纵向健康与营养调查（CLHNS）的个体中，胎盘HSD11B2和IGF2（这两个是宫内环境的关键调节因子）的DNA甲基化是否与胎儿生长相关。方法：我们使用Illumina Infinium HumanMethylation450 BeadChip分析了CLHNS中19例出生个体的胎盘样本DNA甲基化。聚焦于HSD11B2和IGF2/H19印记控制区（ICR）内的CpG位点，我们使用调整了孕周的线性回归模型来评估DNA甲基化与出生体重、头围、身长和新生儿肥胖度的关联。结果：HSD11B2内三个CpG位点的较高甲基化与胎儿生长减少显著相关：一个位点与出生体重和头围减少相关，两个位点与出生身长较短相关。在IGF2/H19 ICR内，两个CpG位点与出生体重和头围增加均显著相关。这两个CpG位点均与预测的CCCTC结合因子（CTCF）结合位点重叠，这与已知的调控机制一致，即ICR甲基化增加与IGF2表达增加相关。结论：这些发现支持了HSD11B2和IGF2调控区域DNA甲基化有助于胎儿生长变异的假说，将胎盘表观遗传模式与出生结局联系起来。",
+      "date": "2026-09-30"
+    },
+    {
+      "id": "biorxiv:10.64898/2026.09.28.754564",
+      "title": "Ctcf deficiency in myofibers induces pathological genome reprogramming toward the spontaneous development of myopathy",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/biorxiv/10.64898_2026.09.28.754564/index.html",
+      "meta": [
+        "Massenet J; Nicoletti C; Caputo L; Hüttner SS; Nicolau M; Barajas JR; Rossi M; Yang Y; Ancel S; Wang YX; Malfatti E; Cheung TH; Witcher M; Crist C; Puri PL",
+        "bioRxiv",
+        "2026-09-29"
+      ],
+      "tags": [],
+      "summary": "该文研究肌纤维中Ctcf缺失导致3D基因组重编程和肌病发生，虽非直接研究cpcdh基因家族，但其基因组调控和肌病机制可为cpcdh家族功能研究提供借鉴。",
+      "abstract": "How perennial, postmitotic multinucleated tissues, such as skeletal myofibers, maintain their identity and transcriptional adaptation to homeostatic perturbations through adult life is an outstanding question. To address this issue, we investigated the consequences of loss of 3D-genome architecture in skeletal muscles by generating myofiber-specific Ctcf- deficient ( Ctcf mKO ) mice. Ctcf mKO mice did not exhibit muscular phenotype at birth but spontaneously developed a severe myopathy. Integrated analysis of snRNAseq, ATACseq and promoter-capture Hi-C revealed both common and fiber-type specific patterns of dysregulated gene expression associated with alterations in chromatin accessibility and promoter-based interactions in Ctcf-deficient myonuclei at distinct stages of myopathy development. Decreased chromatin accessibility at promoters and changes in their connectivity with distal elements were observed across all myonuclei as a direct consequence of Ctcf deficiency at early stages and associated with downregulation of genes implicated in myofiber contraction and anabolism, metabolism, adhesion and neuromuscular transmission. Conversely, at later stages, upregulation of genes leading to persistent activation of ER stress/UPR and catabolism resulted from global reconfiguration of chromatin structure and connectivity, partly as indirect consequence of Ctcf deficiency. Notably, type-IIB myonuclei exhibited specific alterations in gene expression that culminated in loss of fiber-type identity and ectopic expression of inflammatory genes. These results reveal a requirement of Ctcf for maintenance of fiber-type identity and transcriptional adaptation in vivo , through multilayered control of 3D genome integrity. They also indicate an unprecedented association between Ctcf deficiency in myofibers and susceptibility to develop myopathies, whereby Ctcf dispensability for developmental myogenesis confers vulnerability to develop myopathic syndromes. 多年生、有丝分裂后多核组织（如骨骼肌纤维）如何在成年生活中维持其身份及对稳态扰动的转录适应，是一个悬而未决的问题。为解决此问题，我们通过生成肌纤维特异性Ctcf缺陷（Ctcf mKO）小鼠，研究了骨骼肌中3D基因组结构丧失的后果。Ctcf mKO小鼠出生时未表现出肌肉表型，但自发发展为严重肌病。对snRNAseq、ATACseq和启动子捕获Hi-C的综合分析揭示了在肌病发展的不同阶段，Ctcf缺陷肌核中与染色质可及性和基于启动子的相互作用改变相关的基因表达失调的常见及纤维类型特异性模式。在早期阶段，所有肌核中观察到启动子处染色质可及性降低及其与远端元件连接性的变化，这是Ctcf缺陷的直接后果，并与涉及肌纤维收缩和合成代谢、代谢、粘附及神经肌肉传递的基因下调相关。相反，在后期阶段，导致内质网应激/UPR和分解代谢持续激活的基因上调，源于染色质结构和连接性的全局重构，部分作为Ctcf缺陷的间接后果。值得注意的是，IIB型肌核表现出特定的基因表达改变，最终导致纤维类型身份丧失和炎症基因异位表达。这些结果揭示了Ctcf在体内通过多层控制3D基因组完整性，对维持纤维类型身份和转录适应的必要性。它们还表明，肌纤维中Ctcf缺陷与肌病易感性之间存在前所未有的关联，其中Ctcf在发育性肌生成中的非必需性赋予了个体发展肌病综合征的脆弱性。",
+      "date": "2026-09-29"
+    },
+    {
+      "id": "pubmed:42803824",
+      "title": "CTCF-FXN regulatory axis plays critical roles in clinical assessments and disease progression of primary open-angle glaucoma.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42803824/index.html",
+      "meta": [
+        "Cai, Danrui; Yu, Yao; Ma, Junze; Li, Ting; Liu, Ziyao",
+        "Journal of molecular medicine (Berlin, Germany)",
+        "2026-09-28"
+      ],
+      "tags": [],
+      "summary": "该文研究CTCF-FXN调控轴在青光眼中的作用，与cpcdh基因家族无关。",
+      "abstract": "Primary open-angle glaucoma (POAG) is an irreversible ophthalmic disease that is the leading cause of blindness. Oxidative stress (OS) is considered an important contributor to POAG pathogenesis. However, its mechanism of action in POAG remains vague. FXN was identified as a candidate OS-related gene associated with POAG through WGCNA and two machine learning methods (LASSO regression and SVM-RFE). Through multiple bioinformatic analyses, FXN exhibited potential diagnostic value and was associated with immune-related signatures in POAG samples. GSEA revealed that high FXN expression was associated with enrichment of glycolysis- and pyruvate metabolism-related gene sets. FXN expression was significantly decreased in an H2O2 in vitro model (R28 cells). CCK8, EdU, TUNEL, ROS detection and flow cytometry assays indicated that FXN overexpression improved retinal ganglion cells (RGCs) viability and inhibited cell apoptosis and ROS accumulation. Mechanistically, CTCF was demonstrated to transcriptionally regulate FXN by binding to its promoter region, as confirmed by ChIP assay. FXN deletion partially abolished the protective effects of CTCF overexpression on RGC viability, apoptosis, and oxidative stress responses. In conclusions, FXN may represent a potential biomarker associated with POAG. The identification of the CTCF-FXN regulatory axis provides new insights into the molecular mechanisms underlying POAG. 原发性开角型青光眼（POAG）是一种不可逆的眼科疾病，是导致失明的主要原因。氧化应激（OS）被认为是POAG发病机制中的重要因素。然而，其在POAG中的作用机制仍不明确。通过WGCNA和两种机器学习方法（LASSO回归和SVM-RFE），FXN被鉴定为与POAG相关的候选OS相关基因。通过多种生物信息学分析，FXN在POAG样本中表现出潜在的诊断价值，并与免疫相关特征相关联。GSEA显示，FXN高表达与糖酵解和丙酮酸代谢相关基因集的富集有关。在H2O2体外模型（R28细胞）中，FXN表达显著降低。CCK8、EdU、TUNEL、ROS检测和流式细胞术分析表明，FXN过表达提高了视网膜神经节细胞（RGCs）的活力，并抑制了细胞凋亡和ROS积累。机制上，ChIP实验证实CTCF通过结合其启动子区域对FXN进行转录调控。FXN缺失部分消除了CTCF过表达对RGC活力、凋亡和氧化应激反应的保护作用。总之，FXN可能代表与POAG相关的潜在生物标志物。CTCF-FXN调控轴的鉴定为POAG的分子机制提供了新的见解。",
+      "date": "2026-09-28"
+    },
+    {
       "id": "pubmed:42800032",
       "title": "Methyl-donor inhibitors relax 3D genome structures to promote totipotent reprogramming.",
       "subtitle": "",

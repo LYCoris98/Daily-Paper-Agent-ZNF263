@@ -1,0 +1,222 @@
+{
+  "identity": {
+    "pmid": "42818845",
+    "doi": "10.64898/2026.09.08.26362505",
+    "title": "Genetic mechanisms of mitotic error in 840,853 blood genomes."
+  },
+  "content": {
+    "abstract": "Mosaic aneuploidies in leukocytes are commonly detectable in aging individuals. Here, we studied inherited genetic influences on susceptibility to such aneuploidies by precisely quantifying chromosomal ploidy from whole-genome sequencing read-depth in 840,853 individuals. This approach revealed autosomal gains in  approximately 70,000 individuals (7-fold more than previous data sets) and ubiquitous loss of the X chromosome in females and loss of Y in males, each of which exhibited > 50% heritability. Genome-wide association analyses of 12 mosaic aneuploidies identified > 800 common inherited influences on the generation and proliferation of aneuploid cells. Variants in mitotic spindle assembly checkpoint genes consistently affected aneuploidy of most chromosomes, whereas a missense variant in PMF1 (which encodes a subunit of the outer kinetochore) associated with increased segregation fidelity of some chromosomes at the expense of others. Structural variation within multiple chromosomes associated with allele-specific effects on missegregation rates. An inherited hybrid centromere formed by an ancient recombination of 22q with 13p-generating the largest common structural variant in the human genome-associated with 4-fold greater risk of chromosome 22 gain. Abundant copy number and sequence variation in two X-linked CTCF-binding repeat arrays, ICCE and DXZ4 , associated with a 4-fold range in the likelihoods of different X chromosomes to be lost. These results show how genetic risk of chromosomal gains and losses varies greatly across chromosomes and across people, providing instruments for assessing the effects of mosaic aneuploidies on health.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Si, Yichen",
+        "Kamitaki, Nolan",
+        "Tang, David",
+        "Loh, Po-Ru"
+      ],
+      "short_names": [
+        "Si Y",
+        "Kamitaki N",
+        "Tang D",
+        "Loh PR"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1174-7700",
+        "ORCID: 0000-0001-5542-9064"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Si, Yichen",
+        "short_name": "Si Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kamitaki, Nolan",
+        "short_name": "Kamitaki N",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tang, David",
+        "short_name": "Tang D",
+        "identifiers": [
+          "0000-0003-1174-7700"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Loh, Po-Ru",
+        "short_name": "Loh PR",
+        "identifiers": [
+          "0000-0001-5542-9064"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "medRxiv : the preprint server for health sciences"
+    ],
+    "journal_abbrev": [
+      "medRxiv"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 17:29",
+    "fetched_at": "2026-10-05 07:08:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818845",
+      "36928183",
+      "32809547",
+      "42475469",
+      "38867047",
+      "40236246",
+      "36859339",
+      "39391861",
+      "20301575",
+      "39243525",
+      "31348909",
+      "37063065",
+      "29706521",
+      "42300124",
+      "36824049",
+      "21575262",
+      "28346444",
+      "7565883",
+      "20301769",
+      "36778285",
+      "38653846",
+      "28934986",
+      "42796416",
+      "30463904",
+      "41470026",
+      "21413369",
+      "35644878",
+      "24501022",
+      "42124334",
+      "38764910",
+      "41197642",
+      "30256189",
+      "23477909",
+      "28633287",
+      "21118147",
+      "41726570",
+      "28650219",
+      "37075754",
+      "40314975",
+      "33488666",
+      "39497133",
+      "33974705",
+      "36458926",
+      "15121991",
+      "29178830",
+      "36350568",
+      "42434306",
+      "20641042",
+      "39809269",
+      "36625546",
+      "30102341",
+      "32447491",
+      "42216953",
+      "12517776",
+      "9015144",
+      "39380113",
+      "33721060",
+      "37482720",
+      "33198934",
+      "4050792",
+      "40989216",
+      "26491874",
+      "32833230",
+      "22827287",
+      "38029743",
+      "30395265",
+      "35831506",
+      "29773658",
+      "34301302",
+      "35380536",
+      "23894657",
+      "32491315",
+      "18727509",
+      "8908184",
+      "32641298",
+      "39961387",
+      "16267674",
+      "30712880",
+      "40465813",
+      "41565805",
+      "31958060",
+      "35804254",
+      "32112203",
+      "29126206",
+      "38699360",
+      "31289836",
+      "42811972",
+      "29688390",
+      "7507568",
+      "22351378",
+      "20598279",
+      "32053104",
+      "20014372",
+      "31526391",
+      "40321295",
+      "31226107",
+      "22615582",
+      "29244163",
+      "40556977",
+      "38212558"
+    ],
+    "review": [
+      "42818845",
+      "20301575",
+      "20301769",
+      "38653846",
+      "42796416",
+      "21413369",
+      "35644878",
+      "42124334",
+      "41726570",
+      "15121991",
+      "37482720",
+      "32833230",
+      "30395265",
+      "18727509",
+      "42811972"
+    ],
+    "pmc": [
+      "13622753"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.09.08.26362505",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

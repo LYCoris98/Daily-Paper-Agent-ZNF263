@@ -1,0 +1,126 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.29.755502",
+  "title": "CDX2 Drives Divergent Regional Programs During Intestinal Development and Redeploys Them During Regeneration",
+  "doi": "10.64898/2026.09.29.755502",
+  "abstract": "Region-specific transcription factors (TFs) establish small intestinal and colonic identity, yet what activates their region-specific expression during development is unresolved. Moreover, discrete fetal gene sets reactivate during post-injury regeneration, but their full scope, and what reactivates the programs required to restore regional identity and tissue structure, remain unclear. By determining CDX2 and partner TF binding, enhancer activity, and gene expression dynamics across intestinal regions, in stem and differentiating cells, and through development and adult regeneration, here we show that CDX2, despite uniform expression across the fetal and adult intestinal epithelium, organizes a hierarchical enhancer network. This network cooperates with partner factors such as CTCF to establish a shared, plastic fetal enhancer landscape, which resolves into region-specific programs upstream of regional TFs. During regeneration, rather than reactivating a general fetal state, CDX2 selectively rebinds many region-specific and common enhancers for genes associated with fetal cell-motility and tissue-morphogenesis signatures along with a more recently active adult stem-cell program, each deployed across distinct crypt tiers. CDX2 thus functions as a central, context-responsive regulator, deploying fetal, adult stem-cell differentiation, and regenerative programs as tissue context requires.",
+  "authors": [
+    "Lorzadeh A",
+    "Ye G",
+    "Romero-Wolf M",
+    "Quiloan ML",
+    "Sharma S",
+    "Sanchez E",
+    "Jadhav U"
+  ],
+  "published_date": "2026-09-30",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.29.755502",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.29.755502.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1331654",
+    "raw_record": {
+      "id": "PPR1331654",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.29.755502",
+      "title": "CDX2 Drives Divergent Regional Programs During Intestinal Development and Redeploys Them During Regeneration",
+      "authorString": "Lorzadeh A, Ye G, Romero-Wolf M, Quiloan ML, Sharma S, Sanchez E, Jadhav U.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Lorzadeh A",
+            "lastName": "Lorzadeh",
+            "firstName": "Alireza",
+            "initials": "A"
+          },
+          {
+            "fullName": "Ye G",
+            "lastName": "Ye",
+            "firstName": "George",
+            "initials": "G"
+          },
+          {
+            "fullName": "Romero-Wolf M",
+            "lastName": "Romero-Wolf",
+            "firstName": "Maile",
+            "initials": "M"
+          },
+          {
+            "fullName": "Quiloan ML",
+            "lastName": "Quiloan",
+            "firstName": "Maria Lerica",
+            "initials": "ML"
+          },
+          {
+            "fullName": "Sharma S",
+            "lastName": "Sharma",
+            "firstName": "Sweta",
+            "initials": "S"
+          },
+          {
+            "fullName": "Sanchez E",
+            "lastName": "Sanchez",
+            "firstName": "Eric",
+            "initials": "E"
+          },
+          {
+            "fullName": "Jadhav U",
+            "lastName": "Jadhav",
+            "firstName": "Unmesh",
+            "initials": "U"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Region-specific transcription factors (TFs) establish small intestinal and colonic identity, yet what activates their region-specific expression during development is unresolved. Moreover, discrete fetal gene sets reactivate during post-injury regeneration, but their full scope, and what reactivates the programs required to restore regional identity and tissue structure, remain unclear. By determining CDX2 and partner TF binding, enhancer activity, and gene expression dynamics across intestinal regions, in stem and differentiating cells, and through development and adult regeneration, here we show that CDX2, despite uniform expression across the fetal and adult intestinal epithelium, organizes a hierarchical enhancer network. This network cooperates with partner factors such as CTCF to establish a shared, plastic fetal enhancer landscape, which resolves into region-specific programs upstream of regional TFs. During regeneration, rather than reactivating a general fetal state, CDX2 selectively rebinds many region-specific and common enhancers for genes associated with fetal cell-motility and tissue-morphogenesis signatures along with a more recently active adult stem-cell program, each deployed across distinct crypt tiers. CDX2 thus functions as a central, context-responsive regulator, deploying fetal, adult stem-cell differentiation, and regenerative programs as tissue context requires.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.29.755502"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-01",
+      "firstPublicationDate": "2026-09-30",
+      "firstIndexDate": "2026-10-01",
+      "hasEvaluations": "N"
+    }
+  }
+}

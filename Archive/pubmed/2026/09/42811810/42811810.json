@@ -1,0 +1,298 @@
+{
+  "identity": {
+    "pmid": "42811810",
+    "doi": "10.1002/ajhb.70336",
+    "title": "Placental DNA Methylation of HSD11B2 and IGF2 Is Associated With Fetal Growth in the Cebu Longitudinal Health and Nutrition Survey."
+  },
+  "content": {
+    "abstract": "OBJECTIVES: The intrauterine environment exerts lasting impacts on fetal growth and development, with potential long-term effects on later health. We examined whether placental DNA methylation at HSD11B2 and IGF2-two key regulators of the intrauterine environment-is associated with fetal growth among participants in the Cebu Longitudinal Health and Nutrition Survey (CLHNS). METHODS: We analyzed DNA methylation in placental samples from 19 births in the CLHNS using the Illumina Infinium HumanMethylation450 BeadChip. Focusing on CpG sites within HSD11B2 and the IGF2/H19 imprinting control region (ICR), we used linear regression models adjusted for gestational age to assess associations of DNA methylation with birth weight, head circumference, length, and neonatal adiposity. RESULTS: Higher methylation at three CpG sites within HSD11B2 was significantly associated with reduced fetal growth: one site was associated with reduced birth weight and head circumference, and two sites were associated with shorter birth length. Within the IGF2/H19 ICR, two CpG sites were significantly associated with both increased birth weight and head circumference. Both CpGs overlapped with predicted CCCTC-binding factor (CTCF) binding sites, consistent with known regulatory mechanisms linking increased methylation at the ICR to increased IGF2 expression. CONCLUSIONS: These findings support the hypothesis that DNA methylation at regulatory regions of HSD11B2 and IGF2 contributes to variation in fetal growth, linking placental epigenetic patterns to birth outcomes.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*DNA Methylation",
+      "*Insulin-Like Growth Factor II/metabolism/genetics",
+      "Female",
+      "*11-beta-Hydroxysteroid Dehydrogenase Type 2/metabolism/genetics",
+      "*Fetal Development/genetics",
+      "*Placenta/metabolism",
+      "Pregnancy",
+      "Longitudinal Studies",
+      "Adult",
+      "Infant, Newborn",
+      "Nutrition Surveys",
+      "Birth Weight"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Klibaner-Schiff, Eleanor",
+        "Rutherford, Julienne",
+        "deMartelly, Victoria",
+        "Lagardo, Fe",
+        "Gundling, William",
+        "Wildman, Derek E",
+        "Lee, Nanette R",
+        "Kuzawa, Christopher"
+      ],
+      "short_names": [
+        "Klibaner-Schiff E",
+        "Rutherford J",
+        "deMartelly V",
+        "Lagardo F",
+        "Gundling W",
+        "Wildman DE",
+        "Lee NR",
+        "Kuzawa C"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1473-5123",
+        "ORCID: 0000-0001-6536-6888",
+        "ORCID: 0000-0002-6374-5136",
+        "ORCID: 0000-0003-4860-325X",
+        "ORCID: 0000-0002-0649-8677"
+      ],
+      "affiliations": [
+        "Department of Human Evolutionary Biology, Harvard University, Cambridge, Massachusetts, USA.",
+        "Nursing and Health Sciences Division, College of Nursing, University of Arizona, Tucson, Arizona, USA.",
+        "College of Nursing, University of Illinois Chicago, Chicago, Illinois, USA.",
+        "Santa Filomena National High School, Alegria, Cebu, Philippines.",
+        "Department of Biology, Christian Brothers University, Memphis, Tennessee, USA.",
+        "Department of Global, Environmental, and Genomic Health Sciences, College of Public Health, University of South Florida, Tampa, Florida, USA.",
+        "USC-Office of Population Studies Foundation, Inc., University of San Carlos, Cebu City, Philippines.",
+        "Department of Human Evolutionary Biology, Harvard University, Cambridge, Massachusetts, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Klibaner-Schiff, Eleanor",
+        "short_name": "Klibaner-Schiff E",
+        "identifiers": [
+          "0000-0003-1473-5123"
+        ],
+        "affiliations": [
+          "Department of Human Evolutionary Biology, Harvard University, Cambridge, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Rutherford, Julienne",
+        "short_name": "Rutherford J",
+        "identifiers": [
+          "0000-0001-6536-6888"
+        ],
+        "affiliations": [
+          "Nursing and Health Sciences Division, College of Nursing, University of Arizona, Tucson, Arizona, USA."
+        ]
+      },
+      {
+        "full_name": "deMartelly, Victoria",
+        "short_name": "deMartelly V",
+        "identifiers": [],
+        "affiliations": [
+          "College of Nursing, University of Illinois Chicago, Chicago, Illinois, USA."
+        ]
+      },
+      {
+        "full_name": "Lagardo, Fe",
+        "short_name": "Lagardo F",
+        "identifiers": [],
+        "affiliations": [
+          "Santa Filomena National High School, Alegria, Cebu, Philippines."
+        ]
+      },
+      {
+        "full_name": "Gundling, William",
+        "short_name": "Gundling W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Christian Brothers University, Memphis, Tennessee, USA."
+        ]
+      },
+      {
+        "full_name": "Wildman, Derek E",
+        "short_name": "Wildman DE",
+        "identifiers": [
+          "0000-0002-6374-5136"
+        ],
+        "affiliations": [
+          "Department of Global, Environmental, and Genomic Health Sciences, College of Public Health, University of South Florida, Tampa, Florida, USA."
+        ]
+      },
+      {
+        "full_name": "Lee, Nanette R",
+        "short_name": "Lee NR",
+        "identifiers": [
+          "0000-0003-4860-325X"
+        ],
+        "affiliations": [
+          "USC-Office of Population Studies Foundation, Inc., University of San Carlos, Cebu City, Philippines."
+        ]
+      },
+      {
+        "full_name": "Kuzawa, Christopher",
+        "short_name": "Kuzawa C",
+        "identifiers": [
+          "0000-0002-0649-8677"
+        ],
+        "affiliations": [
+          "Department of Human Evolutionary Biology, Harvard University, Cambridge, Massachusetts, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "American journal of human biology : the official journal of the Human Biology Council"
+    ],
+    "journal_abbrev": [
+      "Am J Hum Biol"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 05:30",
+    "fetched_at": "2026-10-05 07:08:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42811810",
+      "29946374",
+      "22907587",
+      "31655276",
+      "31633761",
+      "24129435",
+      "26678531",
+      "30895230",
+      "39497357",
+      "27023171",
+      "25580720",
+      "26840070",
+      "25788665",
+      "33341587",
+      "23227253",
+      "22642564",
+      "23148549",
+      "34288135",
+      "23343754",
+      "20060582",
+      "22761903",
+      "40415454",
+      "24972507",
+      "33287817",
+      "26880735",
+      "20418667",
+      "26740591",
+      "24040322",
+      "29017633",
+      "21575277",
+      "22005006",
+      "20838620",
+      "38924829",
+      "23750643",
+      "26386650",
+      "27891191",
+      "24349121",
+      "22392079",
+      "26823688",
+      "10729220",
+      "15060168",
+      "23609933",
+      "31370882",
+      "32653021",
+      "18550048",
+      "32493484",
+      "23216893",
+      "25459891",
+      "18607558",
+      "25293351",
+      "25793274",
+      "29588807",
+      "19513555",
+      "20661447",
+      "28502862",
+      "33360746",
+      "25200528",
+      "24986528",
+      "22432047",
+      "17012269",
+      "23922667",
+      "14624463",
+      "27553991",
+      "32894192",
+      "12960026",
+      "29277274",
+      "39504602",
+      "24990148",
+      "29017438",
+      "20671425",
+      "40344310",
+      "39152463",
+      "22498030",
+      "15543560",
+      "32991460",
+      "27013342",
+      "31395791",
+      "27058926",
+      "31581866",
+      "23390160",
+      "16219628",
+      "23840686",
+      "27871462",
+      "38723642",
+      "28502757",
+      "21160170",
+      "30582410",
+      "23388414",
+      "33319906",
+      "24140490",
+      "19390492",
+      "20930547",
+      "34132339",
+      "12461525",
+      "31636377",
+      "26056743",
+      "30270743",
+      "19924280",
+      "31882564",
+      "36309289"
+    ],
+    "review": [
+      "42811810"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/fetalhealthanddevelopment.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Fetal Health and Development"
+      },
+      {
+        "url": "https://doi.org/10.1002/ajhb.70336",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3521",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

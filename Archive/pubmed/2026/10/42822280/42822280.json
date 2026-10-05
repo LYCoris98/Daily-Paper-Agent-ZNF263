@@ -1,0 +1,342 @@
+{
+  "identity": {
+    "pmid": "42822280",
+    "doi": "10.1016/j.jhazmat.2026.143790",
+    "title": "Lithium nickel cobalt manganese oxide particles may impair cognitive function via CTCF-associated suppression of NMDAR-dependent synaptogenesis."
+  },
+  "content": {
+    "abstract": "Lithium nickel cobalt manganese oxide (NCM) is the predominant cathode material for lithium-ion batteries (LIBs); however, its occupational health risks remain insufficiently understood. In this study, we found that in occupationally NCM‑exposed workers, urinary levels of Li, Ni, Co, and Mn were negatively associated with Mini‑Cog test scores and positively associated with serum neurofilament light chain (NfL, as neuronal injury marker). In an intratracheal instillation rat model, NCM-exposed rats exhibited learning and memory deficits, neuronal injury, and reduced synaptic complexity. RNA‑seq analysis revealed suppression of N-methyl-D-aspartate receptors (NMDAR)‑dependent synaptogenesis pathways in rat hippocampus, along with downregulation of NMDAR subunits (GluN2A and GluN2B) and postsynaptic proteins such as CaMKII‑alpha, MAP2, PSD‑95, and Synapsin‑1. In SH-SY5Y cells, treatment with NCM-derived metals recapitulated these gene expression changes. Bioinformatics analysis identified CCCTC-binding factor (CTCF) as a potential regulator of NMDAR. Cellular thermal shift assays (CETSA) identified the binding of NCM-derived metals to CTCF. Based on in vivo data, human equivalent concentrations (HECs) derived from BMDL(10) of Ni and Mn were below the current OELs of China and America. Collectively, these findings indicate that NCM may induce neurotoxicity and impair learning and memory by disrupting synaptogenesis, and CTCF is implicated in this process.",
+    "keywords": [
+      "CTCF",
+      "Hippocampus",
+      "Learning and memory",
+      "Lithium nickel cobalt manganese oxide (NCM)",
+      "N-methyl-D-aspartate receptors",
+      "Neuronal injury",
+      "Neurotoxicity"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Guan, Xinchao",
+        "Xie, Lijie",
+        "Li, Guoliang",
+        "He, Yujie",
+        "Chen, Shilin",
+        "Wang, Han",
+        "Yuan, Wenke",
+        "Gao, Huan",
+        "Chen, Ming",
+        "Yang, Xiaoge",
+        "Luo, Yingxia",
+        "Shao, Xiaojian",
+        "Chen, Wen",
+        "Liu, Lili",
+        "Wang, Qing"
+      ],
+      "short_names": [
+        "Guan X",
+        "Xie L",
+        "Li G",
+        "He Y",
+        "Chen S",
+        "Wang H",
+        "Yuan W",
+        "Gao H",
+        "Chen M",
+        "Yang X",
+        "Luo Y",
+        "Shao X",
+        "Chen W",
+        "Liu L",
+        "Wang Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China.",
+        "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China.",
+        "Department of Toxicology, Guangdong Province Hospital for Occupational Disease Prevention and Treatment, Guangzhou 510300, China.",
+        "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China.",
+        "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China.",
+        "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China.",
+        "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China.",
+        "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China.",
+        "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China.",
+        "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China.",
+        "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China.",
+        "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China.",
+        "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China.",
+        "Department of Toxicology, Guangdong Province Hospital for Occupational Disease Prevention and Treatment, Guangzhou 510300, China. Electronic address: lli257@163.com.",
+        "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China. Electronic address: wangq27@mail.sysu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Guan, Xinchao",
+        "short_name": "Guan X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Lijie",
+        "short_name": "Xie L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Li, Guoliang",
+        "short_name": "Li G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, Guangdong Province Hospital for Occupational Disease Prevention and Treatment, Guangzhou 510300, China."
+        ]
+      },
+      {
+        "full_name": "He, Yujie",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Shilin",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Han",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Wenke",
+        "short_name": "Yuan W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Huan",
+        "short_name": "Gao H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Ming",
+        "short_name": "Chen M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xiaoge",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Yingxia",
+        "short_name": "Luo Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Shao, Xiaojian",
+        "short_name": "Shao X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Wen",
+        "short_name": "Chen W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Lili",
+        "short_name": "Liu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, Guangdong Province Hospital for Occupational Disease Prevention and Treatment, Guangzhou 510300, China. Electronic address: lli257@163.com."
+        ]
+      },
+      {
+        "full_name": "Wang, Qing",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Toxicology, School of Public Health, Sun Yat-sen University, Guangzhou 510080, China. Electronic address: wangq27@mail.sysu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of hazardous materials"
+    ],
+    "journal_abbrev": [
+      "J Hazard Mater"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-05 07:08:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42822280",
+      "41843943",
+      "41482603",
+      "34030417",
+      "40706517",
+      "42349821",
+      "41150604",
+      "31376158",
+      "30469081",
+      "39562042",
+      "22497580",
+      "41235943",
+      "41013206",
+      "28283559",
+      "33033239",
+      "32720588",
+      "23839940",
+      "39658379",
+      "41651028",
+      "41896867",
+      "37395417",
+      "31671359",
+      "33243647",
+      "35041948",
+      "39485946",
+      "37158845",
+      "19041927",
+      "36373335",
+      "31056842",
+      "29675573",
+      "39662458",
+      "26660110",
+      "37393754",
+      "25132342",
+      "34532457",
+      "39192280",
+      "27810933",
+      "41860734",
+      "35484243",
+      "38447409",
+      "41171523",
+      "39216553",
+      "38380828",
+      "42096919",
+      "42447790",
+      "32682090",
+      "33897358",
+      "34584957",
+      "27880914",
+      "34515465",
+      "31677520",
+      "42117259",
+      "28133447",
+      "30844427",
+      "42296265",
+      "42022201",
+      "38813758",
+      "36566732",
+      "32629208",
+      "24769103",
+      "24718106",
+      "30335934",
+      "41616100",
+      "34784118",
+      "35809445",
+      "38801989",
+      "39072900",
+      "18339621",
+      "26475861",
+      "27784625",
+      "40754183",
+      "26085624",
+      "33158444",
+      "37023641",
+      "40961814",
+      "21596105",
+      "26581639",
+      "29137928",
+      "10095076",
+      "39708921",
+      "33358248",
+      "36610115",
+      "41811234",
+      "34962957",
+      "39382455",
+      "30233298",
+      "42323322",
+      "38114151",
+      "39725519",
+      "27605622",
+      "24260577",
+      "26909849",
+      "38431308",
+      "24140565",
+      "31339863",
+      "31167782",
+      "31295463",
+      "24761931",
+      "16766131",
+      "29492616"
+    ],
+    "review": [
+      "42822280",
+      "41843943",
+      "37395417",
+      "25132342"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0304-3894(26)02771-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

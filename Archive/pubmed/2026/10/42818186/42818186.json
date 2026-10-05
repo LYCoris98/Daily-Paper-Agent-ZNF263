@@ -1,0 +1,441 @@
+{
+  "identity": {
+    "pmid": "42818186",
+    "doi": "10.64898/2026.09.21.753283",
+    "title": "DNMT1-Mediated Epigenetic Reprogramming Drives KMT2A Amplifications and Rearrangements."
+  },
+  "content": {
+    "abstract": "MLL/KMT2A amplifications and rearrangements are prevalent in infant, adult, and therapy-induced leukemia; however, the molecular contributors controlling these alterations remain elusive. Here, we reveal that rapid CTCF degradation generates local genome structure alterations at KMT2A and copy gains and rearrangements. We then established a conserved, coordinated interplay between DNA and histone methylation pathways that control CTCF occupancy, and in turn, KMT2A locus stability. For example, DNMT1 overexpression promotes increased H3K9 methylation, reduced CTCF occupancy, and causes KMT2A alterations. However, DNMT1 inhibition suppresses these events and KMT2A alterations caused by topoisomerase II inhibition. Locus-specific epigenome targeting demonstrated that DNA or H3K9 methylation promotes KMT2A copy gains and rearrangement, whereas targeted TET activity suppresses these events upon methylation perturbation or doxorubicin treatment. These findings identify a conserved, coordinated DNA-histone methylation axis governing KMT2A amplifications and rearrangement susceptibility, revealing biomarkers and therapeutic targets to predict and intercept these events in cancer. STATEMENT OF SIGNIFICANCE: This study reveals a conserved DNA-histone methylation mechanism controlling the susceptibility of the KMT2A locus to copy gain and rearrange. These events can be generated or prevented by genetic, therapeutic or epigenome editing. Furthermore, DNMT1 inhibition blocks chemotherapy-induced KMT2A disruption, identifying a therapeutic strategy to intercept these oncogenic genomic alterations.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lineberger, Madison A",
+        "Gray, Zach H",
+        "Ferman, Benjamin I",
+        "O'Donnell, Erin",
+        "Smith, Rebecca G",
+        "Schiela, Kathleen",
+        "Udara, Anushka",
+        "Chetal, Kashish",
+        "Azadegan, Chloe",
+        "Toma, Monika Maria",
+        "Sumner, Ethan",
+        "Santoro, John",
+        "Miranda, Christopher",
+        "Ahmed, Manna",
+        "Wilson, Jade",
+        "Lautert-Dutra, William",
+        "Li, Chencheng",
+        "McKelvey, Aidan",
+        "Kaniskan, H Umit",
+        "Zhang, Wenyun",
+        "Jin, Jian",
+        "Puddu, Fabio",
+        "Consugar, Mark",
+        "Walsh, Martin",
+        "Bellacosa, Alfonso",
+        "Duy, Cihangir",
+        "Lee, Hayan",
+        "Skorski, Tomasz",
+        "Liu, Yu",
+        "Sadreyev, Ruslan I",
+        "Whetstine, Johnathan R"
+      ],
+      "short_names": [
+        "Lineberger MA",
+        "Gray ZH",
+        "Ferman BI",
+        "O'Donnell E",
+        "Smith RG",
+        "Schiela K",
+        "Udara A",
+        "Chetal K",
+        "Azadegan C",
+        "Toma MM",
+        "Sumner E",
+        "Santoro J",
+        "Miranda C",
+        "Ahmed M",
+        "Wilson J",
+        "Lautert-Dutra W",
+        "Li C",
+        "McKelvey A",
+        "Kaniskan HU",
+        "Zhang W",
+        "Jin J",
+        "Puddu F",
+        "Consugar M",
+        "Walsh M",
+        "Bellacosa A",
+        "Duy C",
+        "Lee H",
+        "Skorski T",
+        "Liu Y",
+        "Sadreyev RI",
+        "Whetstine JR"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0555-4283"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Lineberger, Madison A",
+        "short_name": "Lineberger MA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gray, Zach H",
+        "short_name": "Gray ZH",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ferman, Benjamin I",
+        "short_name": "Ferman BI",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "O'Donnell, Erin",
+        "short_name": "O'Donnell E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Smith, Rebecca G",
+        "short_name": "Smith RG",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Schiela, Kathleen",
+        "short_name": "Schiela K",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Udara, Anushka",
+        "short_name": "Udara A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chetal, Kashish",
+        "short_name": "Chetal K",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Azadegan, Chloe",
+        "short_name": "Azadegan C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Toma, Monika Maria",
+        "short_name": "Toma MM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sumner, Ethan",
+        "short_name": "Sumner E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Santoro, John",
+        "short_name": "Santoro J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Miranda, Christopher",
+        "short_name": "Miranda C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ahmed, Manna",
+        "short_name": "Ahmed M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wilson, Jade",
+        "short_name": "Wilson J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lautert-Dutra, William",
+        "short_name": "Lautert-Dutra W",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Chencheng",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "McKelvey, Aidan",
+        "short_name": "McKelvey A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kaniskan, H Ümit",
+        "short_name": "Kaniskan HÜ",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhang, Wenyun",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jin, Jian",
+        "short_name": "Jin J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Puddu, Fabio",
+        "short_name": "Puddu F",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Consugar, Mark",
+        "short_name": "Consugar M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Walsh, Martin",
+        "short_name": "Walsh M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bellacosa, Alfonso",
+        "short_name": "Bellacosa A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Duy, Cihangir",
+        "short_name": "Duy C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lee, Hayan",
+        "short_name": "Lee H",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Skorski, Tomasz",
+        "short_name": "Skorski T",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Liu, Yu",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sadreyev, Ruslan I",
+        "short_name": "Sadreyev RI",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Whetstine, Johnathan R",
+        "short_name": "Whetstine JR",
+        "identifiers": [
+          "0000-0003-0555-4283"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-05 07:08:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818186",
+      "37788669",
+      "37294468",
+      "40361241",
+      "41438598",
+      "41514668",
+      "32634241",
+      "42678580",
+      "34405474",
+      "36629017",
+      "23107779",
+      "36834503",
+      "41320744",
+      "39823827",
+      "42363602",
+      "33676569",
+      "25822366",
+      "33404859",
+      "42637611",
+      "39754404",
+      "33465813",
+      "42014858",
+      "40160685",
+      "39888275",
+      "34920321",
+      "30057114",
+      "25901185",
+      "40925466",
+      "35945623",
+      "30203571",
+      "25487288",
+      "35677155",
+      "41358901",
+      "39810240",
+      "40527503",
+      "36979800",
+      "41537229",
+      "42225060",
+      "24441677",
+      "32461620",
+      "27786413",
+      "42189343",
+      "23871696",
+      "41923577",
+      "32944600",
+      "42475469",
+      "39201709",
+      "21985173",
+      "23990460",
+      "39704147",
+      "42196351",
+      "29760177",
+      "21347439",
+      "39641785",
+      "32196814",
+      "22160057",
+      "34575904",
+      "40132699",
+      "37993930",
+      "26164398",
+      "27582487",
+      "22349820",
+      "17166676",
+      "11498579",
+      "38867582",
+      "31610796",
+      "33020282",
+      "39380002",
+      "26657054",
+      "40921261",
+      "26433194",
+      "37686014",
+      "34200630",
+      "38730645",
+      "15087453",
+      "29763912",
+      "42789740",
+      "41592598",
+      "33421620",
+      "37356504",
+      "39428967",
+      "42511643",
+      "30355946",
+      "30672294",
+      "40886022",
+      "40838961",
+      "37702447",
+      "26403224",
+      "28682229",
+      "27259275",
+      "32884836",
+      "31717699",
+      "42505395",
+      "41923105",
+      "21151116",
+      "41918382",
+      "39920624",
+      "38643442",
+      "32437908",
+      "17085482"
+    ],
+    "review": [
+      "42818186",
+      "37294468",
+      "40361241",
+      "36629017",
+      "41320744",
+      "33404859",
+      "42637611",
+      "40925466",
+      "41358901",
+      "36979800",
+      "41923577",
+      "39201709",
+      "42196351",
+      "22160057",
+      "40132699",
+      "17166676",
+      "11498579",
+      "40921261",
+      "33421620",
+      "39428967",
+      "42511643"
+    ],
+    "pmc": [
+      "13622112"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.09.21.753283",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

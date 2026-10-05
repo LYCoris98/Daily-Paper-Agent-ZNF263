@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42827183",
+  "title": "Single-allele nanoscale mapping of regulatory variants.",
+  "authors": "Hamley, Joseph C; Zhang, Weijiao; Willmott, Daniel; Chen, Lucia Y; Sharlandjieva, Vassilena; Li, Hangpeng; Dalgleish, James L T; Denny, Nicholas; Agarwal, Gaurav; Hentges, Lance; Ozcan, Bora; Doll, Roman M; Wei, Ye; Riva, Simone G; Venkatesh, Samvida S; Arachi, Marta; Agarwal, Devika; Akkuratov, Evgeny E; Baxter, Matthew; Sauka-Spengler, Tatjana; Dendrou, Calliope A; Milne, Thomas A; Hughes, Jim R; Davies, James O J",
+  "journal": "Nature genetics",
+  "published_date": "2026-10-03",
+  "window": {
+    "start": "2026-09-28",
+    "end": "2026-10-04"
+  },
+  "score": 6,
+  "one_liner_zh": "该文开发了单等位基因染色质结构分析平台MCCv，用于定位调控变异与靶基因，虽不直接研究cpcdh基因家族，但其变异-功能解析方法可借鉴于该家族调控机制研究。",
+  "abstract": "Millions of genetic variants are linked to human disease but identifying underlying mechanisms is challenging because most variants are noncausal and lie within the noncoding genome. We developed a Micro Capture-C variant-to-function platform (MCCv) based on analysis of single-allele chromatin structure. This can identify changes in nanoscale chromatin architecture and link variants in cis-regulatory elements to target genes. Furthermore, MCCv can phase other heterozygous variants within a locus to link regulatory variants to allelically imbalanced gene expression and directly read out variant effects on chromatin interactions after genome editing. With this approach, we investigated 405 cis-regulatory elements linked to immune-mediated inflammatory disease in CD4(+) T cells. We uncovered a previously undescribed gain-of-function mechanism, which increases risk of autoimmunity through creation of a neo-CTCF motif that blocks super-enhancer contacts with the SESN3 promoter. We showed that SESN3 regulates mammalian target of rapamycin by sensing tryptophan and demonstrated its role in autoimmunity using mouse models.",
+  "abstract_zh": "数百万遗传变异与人类疾病相关，但识别其潜在机制颇具挑战，因为大多数变异并非致病性，且位于非编码基因组中。我们开发了一种基于单等位基因染色质结构分析的微捕获C变体到功能平台（MCCv）。该平台能够识别纳米尺度染色质结构的变化，并将顺式调控元件中的变异与靶基因联系起来。此外，MCCv可以对基因座内的其他杂合变异进行定相，以将调控变异与等位基因不平衡的基因表达相关联，并在基因组编辑后直接读出变异对染色质相互作用的影响。利用此方法，我们研究了CD4(+) T细胞中与免疫介导的炎症性疾病相关的405个顺式调控元件。我们发现了一种先前未描述的功能获得机制，该机制通过创建一个新的CTCF基序来增加自身免疫风险，该基序阻断超增强子与SESN3启动子的接触。我们证明SESN3通过感知色氨酸来调节哺乳动物雷帕霉素靶蛋白，并利用小鼠模型展示了其在自身免疫中的作用。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42827183/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42827183/",
+  "paper_page_path": "papers/pubmed/42827183/index.html"
+}

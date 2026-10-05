@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42826184",
+  "title": "Aging-associated SATB1 deficiency remodels 3D genome architecture and transcriptional programs in naive CD4(+) T cells.",
+  "authors": "Wang, Bao; Ji, Luzhang; Bian, Qian",
+  "journal": "Science advances",
+  "published_date": "2026-10-02",
+  "window": {
+    "start": "2026-09-28",
+    "end": "2026-10-04"
+  },
+  "score": 0,
+  "one_liner_zh": "该文研究衰老相关SATB1缺陷对CD4+ T细胞三维基因组和转录的影响，与cpcdh基因家族无直接关联。",
+  "abstract": "Precise three-dimensional (3D) genome organization is crucial for regulating gene expression during development, yet its role in age-related transcriptional changes and physiological decline remains elusive. Here, we show that aging reshapes chromatin architecture and gene regulation in murine naive CD4(+) T cells, a quiescent T cell population essential for adaptive immunity. Aged naive CD4(+) T cells exhibit intrinsic transcriptional reprogramming marked by increased expression of inflammatory and T cell activation-related genes, rendering them more prone to activation. Intriguingly, these changes are accompanied by pronounced alterations in 3D genome organization, including widespread weakening of topologically associating domain (TAD) boundaries and extensive enhancer-promoter rewiring. Mechanistically, we demonstrate that these age-associated structural changes can be partly attributed to the diminished expression of chromatin organizer SATB1. SATB1 colocalizes with CCCTC-binding factor (CTCF) in young naive T cells to spatially constrain CTCF-binding sites. Its decline with age extends the range of CTCF-mediated interactions without altering CTCF occupancy, leading to remodeling of chromatin architecture and up-regulation of proinflammatory and proactivation genes. Conditional SATB1 deletion in naive T cells recapitulates the 3D genome and transcriptional changes observed in aging. Our findings reveal a critical role for SATB1 in maintaining 3D genome integrity in naive T cells and suggest that the dysregulation of genome architecture contributes to immune and organismal aging.",
+  "abstract_zh": "精确的三维（3D）基因组组织对于发育过程中基因表达的调控至关重要，但其在与年龄相关的转录变化和生理衰退中的作用仍不清楚。在此，我们表明衰老重塑了小鼠初始CD4(+) T细胞（一种对适应性免疫至关重要的静息T细胞群体）中的染色质结构和基因调控。衰老的初始CD4(+) T细胞表现出内在的转录重编程，其特征是炎症和T细胞激活相关基因表达增加，使其更易被激活。有趣的是，这些变化伴随着3D基因组组织的显著改变，包括拓扑关联结构域（TAD）边界的广泛减弱和增强子-启动子连接的广泛重连。机制上，我们证明这些与年龄相关的结构变化部分归因于染色质组织者SATB1表达的减少。SATB1在年轻初始T细胞中与CCCTC结合因子（CTCF）共定位，以空间上约束CTCF结合位点。其随年龄增长而减少，扩展了CTCF介导的相互作用范围，而不改变CTCF占据率，导致染色质结构重塑以及促炎和促激活基因的上调。初始T细胞中条件性SATB1缺失重现了衰老中观察到的3D基因组和转录变化。我们的发现揭示了SATB1在维持初始T细胞3D基因组完整性中的关键作用，并提示基因组结构失调有助于免疫和机体衰老。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42826184/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42826184/",
+  "paper_page_path": "papers/pubmed/42826184/index.html"
+}

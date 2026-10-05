@@ -1,0 +1,228 @@
+{
+  "identity": {
+    "pmid": "42822246",
+    "doi": "10.1016/j.sbi.2026.103405",
+    "title": "Cohesin on the move: navigating genomic traffic during loop extrusion."
+  },
+  "content": {
+    "abstract": "Cohesin is a central architect of the 3D genome. As it extrudes DNA, it must navigate a 'busy' genomic landscape, leading to constant biophysical engagements with diverse chromatin binding proteins and molecular machineries. In this review, we examine how cohesin's loop extrusion is shaped by mechanical encounters with directional barriers like CCCTC-binding factor (CTCF), moving transcriptional fronts, and advancing replication forks. We highlight how these players can arrest, slow, or actively push cohesin, dynamically modulating chromatin topology. Furthermore, we discuss how the replisome traverses the cohesin ring to establish cohesion and how repair factors leverage extrusion to facilitate homology searching. Finally, we delineate the crosstalk among structural maintenance of chromosomes (SMC) motors during mitotic entry. Collectively, our review provides a comprehensive framework for these multifaceted interactions and highlights key unresolved questions, offering a future perspective on the mechanical principles of cohesin governing genome organization.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Guo, Qiao",
+        "Yuen, Karen Wing Yee",
+        "Zhang, Haoyue"
+      ],
+      "short_names": [
+        "Guo Q",
+        "Yuen KWY",
+        "Zhang H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Biological Science, The University of Hong Kong, Hong Kong, China; Institute of Molecular Physiology, Shenzhen Bay Laboratory, Shenzhen, China.",
+        "School of Biological Science, The University of Hong Kong, Hong Kong, China.",
+        "Institute of Molecular Physiology, Shenzhen Bay Laboratory, Shenzhen, China. Electronic address: zhang_adam@szbl.ac.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Guo, Qiao",
+        "short_name": "Guo Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biological Science, The University of Hong Kong, Hong Kong, China; Institute of Molecular Physiology, Shenzhen Bay Laboratory, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Yuen, Karen Wing Yee",
+        "short_name": "Yuen KWY",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biological Science, The University of Hong Kong, Hong Kong, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Haoyue",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Physiology, Shenzhen Bay Laboratory, Shenzhen, China. Electronic address: zhang_adam@szbl.ac.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current opinion in structural biology"
+    ],
+    "journal_abbrev": [
+      "Curr Opin Struct Biol"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-05 07:08:30"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42822246",
+      "34309513",
+      "40011778",
+      "37076620",
+      "29549581",
+      "42645331",
+      "39709822",
+      "39160275",
+      "33909997",
+      "36897969",
+      "40516048",
+      "37591243",
+      "34321070",
+      "40118039",
+      "36182691",
+      "33419949",
+      "35687682",
+      "37603403",
+      "28914604",
+      "32631111",
+      "31015387",
+      "27582050",
+      "40181539",
+      "42030945",
+      "31757807",
+      "32065581",
+      "36330215",
+      "33545664",
+      "28475897",
+      "39988079",
+      "35048511",
+      "42443518",
+      "42146630",
+      "29593713",
+      "41102415",
+      "35585235",
+      "32250245",
+      "32534241",
+      "42018406",
+      "40374602",
+      "41980771",
+      "18550811",
+      "37536339",
+      "42475469",
+      "34624221",
+      "41478878",
+      "27799150",
+      "32680543",
+      "39827577",
+      "33767413",
+      "29217591",
+      "41009406",
+      "30106480",
+      "31205001",
+      "39229088",
+      "38831498",
+      "42327084",
+      "32515737",
+      "39543681",
+      "34197738",
+      "42608481",
+      "41349519",
+      "36261017",
+      "38206813",
+      "36202971",
+      "38742641",
+      "19956766",
+      "30205748",
+      "31753851",
+      "23804403",
+      "32294452",
+      "41511335",
+      "36180596",
+      "39093600",
+      "19907496",
+      "41280095",
+      "36898992",
+      "40452075",
+      "39594644",
+      "30201721",
+      "38831499",
+      "37774974",
+      "30096364",
+      "40586309",
+      "36370456",
+      "38295892",
+      "40744502",
+      "30096365",
+      "28467304",
+      "40628528",
+      "31937660",
+      "35456389",
+      "27089971",
+      "41013693",
+      "37146570",
+      "25220052",
+      "35440598",
+      "26583750",
+      "32277274",
+      "31516082"
+    ],
+    "review": [
+      "42822246",
+      "29549581",
+      "42645331",
+      "39709822",
+      "40118039",
+      "33419949",
+      "37603403",
+      "32631111",
+      "31015387",
+      "36330215",
+      "33545664",
+      "35048511",
+      "42443518",
+      "32534241",
+      "41478878",
+      "39827577",
+      "33767413",
+      "30106480",
+      "38831498",
+      "30205748",
+      "41511335",
+      "36180596",
+      "39594644",
+      "38831499",
+      "30096364",
+      "30096365",
+      "35456389",
+      "27089971"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0959-440X(26)00187-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

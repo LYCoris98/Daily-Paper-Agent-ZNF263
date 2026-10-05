@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42811810",
+  "title": "Placental DNA Methylation of HSD11B2 and IGF2 Is Associated With Fetal Growth in the Cebu Longitudinal Health and Nutrition Survey.",
+  "authors": "Klibaner-Schiff, Eleanor; Rutherford, Julienne; deMartelly, Victoria; Lagardo, Fe; Gundling, William; Wildman, Derek E; Lee, Nanette R; Kuzawa, Christopher",
+  "journal": "American journal of human biology : the official journal of the Human Biology Council",
+  "published_date": "2026-09-30",
+  "window": {
+    "start": "2026-09-28",
+    "end": "2026-10-04"
+  },
+  "score": 0,
+  "one_liner_zh": "该文研究胎盘HSD11B2和IGF2的DNA甲基化与胎儿生长的关联，与cpcdh基因家族无关。",
+  "abstract": "OBJECTIVES: The intrauterine environment exerts lasting impacts on fetal growth and development, with potential long-term effects on later health. We examined whether placental DNA methylation at HSD11B2 and IGF2-two key regulators of the intrauterine environment-is associated with fetal growth among participants in the Cebu Longitudinal Health and Nutrition Survey (CLHNS). METHODS: We analyzed DNA methylation in placental samples from 19 births in the CLHNS using the Illumina Infinium HumanMethylation450 BeadChip. Focusing on CpG sites within HSD11B2 and the IGF2/H19 imprinting control region (ICR), we used linear regression models adjusted for gestational age to assess associations of DNA methylation with birth weight, head circumference, length, and neonatal adiposity. RESULTS: Higher methylation at three CpG sites within HSD11B2 was significantly associated with reduced fetal growth: one site was associated with reduced birth weight and head circumference, and two sites were associated with shorter birth length. Within the IGF2/H19 ICR, two CpG sites were significantly associated with both increased birth weight and head circumference. Both CpGs overlapped with predicted CCCTC-binding factor (CTCF) binding sites, consistent with known regulatory mechanisms linking increased methylation at the ICR to increased IGF2 expression. CONCLUSIONS: These findings support the hypothesis that DNA methylation at regulatory regions of HSD11B2 and IGF2 contributes to variation in fetal growth, linking placental epigenetic patterns to birth outcomes.",
+  "abstract_zh": "目的：宫内环境对胎儿生长发育具有持久影响，并可能对后期健康产生长期效应。我们考察了参与宿务纵向健康与营养调查（CLHNS）的个体中，胎盘HSD11B2和IGF2（这两个是宫内环境的关键调节因子）的DNA甲基化是否与胎儿生长相关。方法：我们使用Illumina Infinium HumanMethylation450 BeadChip分析了CLHNS中19例出生个体的胎盘样本DNA甲基化。聚焦于HSD11B2和IGF2/H19印记控制区（ICR）内的CpG位点，我们使用调整了孕周的线性回归模型来评估DNA甲基化与出生体重、头围、身长和新生儿肥胖度的关联。结果：HSD11B2内三个CpG位点的较高甲基化与胎儿生长减少显著相关：一个位点与出生体重和头围减少相关，两个位点与出生身长较短相关。在IGF2/H19 ICR内，两个CpG位点与出生体重和头围增加均显著相关。这两个CpG位点均与预测的CCCTC结合因子（CTCF）结合位点重叠，这与已知的调控机制一致，即ICR甲基化增加与IGF2表达增加相关。结论：这些发现支持了HSD11B2和IGF2调控区域DNA甲基化有助于胎儿生长变异的假说，将胎盘表观遗传模式与出生结局联系起来。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42811810/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42811810/",
+  "paper_page_path": "papers/pubmed/42811810/index.html"
+}
