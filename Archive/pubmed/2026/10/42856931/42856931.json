@@ -1,0 +1,82 @@
+{
+  "identity": {
+    "pmid": "42856931",
+    "doi": "10.1093/bioadv/vbag268",
+    "title": "Central Dogma Transformer II: an AI microscope for understanding cellular regulatory mechanisms."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Interpretability is not optional in biology: understanding gene regulation requires models whose learned structure can be directly interrogated, not merely accurate predictors whose internals resist mapping onto regulatory relationships. We ask whether an architecture mirroring the central dogma yields attention and gradient maps that recover known regulatory elements and networks in inspectable form. RESULTS: Central Dogma Transformer II (CDT-II) mirrors the central dogma in its architecture-DNA self-attention, RNA self-attention, and DNA-to-RNA cross-attention-requiring only genomic embeddings and raw per-cell expression. On K562 CRISPR interference (CRISPRi) data with five genes held out entirely, CDT-II predicts perturbation effects (per-gene mean r = 0.84 ), recovers the GFI1B regulatory network (6.6-fold enrichment, P = 3.5 x 10-17 ), and concentrates cross-attention on ENCODE regulatory elements including CTCF sites (mean 7.67  x  across 28 target genes, P < .001 ). Gradient attribution predicts consequences of perturbing therapeutic targets (mean r = 0.82 ). For TFRC, target of the anti-TfR1 antibody PPMX-T003, it identifies erythrocyte-structure, iron-dependent DNA-synthesis and oxidative-stress genes, matching anemia and ferroptosis reported clinically and preclinically-without clinical data as input. CDT-II acts as an AI microscope, surfacing clinically relevant regulatory structure from perturbation experiments alone. AVAILABILITY AND IMPLEMENTATION: Source code is available at https://github.com/nobusama/CDT2. Pre-computed embeddings, training data, and model weights are available at https://huggingface.co/datasets/nobusama17/CDT2-data.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ota, Nobuyuki"
+      ],
+      "short_names": [
+        "Ota N"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-6570-9450"
+      ],
+      "affiliations": [
+        "Independent Researcher, Burlingame, CA, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ota, Nobuyuki",
+        "short_name": "Ota N",
+        "identifiers": [
+          "0009-0006-6570-9450"
+        ],
+        "affiliations": [
+          "Independent Researcher, Burlingame, CA, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics advances"
+    ],
+    "journal_abbrev": [
+      "Bioinform Adv"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 05:07",
+    "fetched_at": "2026-10-12 07:26:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42856931"
+    ],
+    "review": [
+      "42856931"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-2704",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

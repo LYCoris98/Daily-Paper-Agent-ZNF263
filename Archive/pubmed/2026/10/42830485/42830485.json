@@ -1,0 +1,384 @@
+{
+  "identity": {
+    "pmid": "42830485",
+    "doi": "10.1111/gtc.70150",
+    "title": "A YAP-TEAD-CTCF Transcriptional Regulatory Axis Associated With the Elimination of Injured Hepatocytes From the Liver."
+  },
+  "content": {
+    "abstract": "The liver maintains tissue homeostasis both by undergoing regeneration and by eliminating abnormal or injured hepatocytes. The transcriptional coactivator YAP in collaboration with the TEAD family of transcription factors regulates hepatocyte proliferation. It has also been associated with injured hepatocyte elimination whereby YAP-active injured hepatocytes are extruded into the sinusoidal lumen and undergo cell death followed by macrophage phagocytosis. However, the molecular mechanisms underlying this process are unknown. To address this, we performed RNA-seq analysis in YAP-active injured hepatocytes that are eliminated from the liver. We found increased expression of multiple genes associated with cell cycle arrest and cytoskeletal remodeling. Ligand-receptor analysis using single-cell spatial transcriptomics showed that YAP-active hepatocytes express the secreted factors CSF1 and CCL2, which promote macrophage recruitment and activation. ATAC-seq analysis in YAP-active hepatocytes revealed a significant increase in chromatin accessibility at regions containing CTCF-binding motifs, and the YAP-TEAD4 complex associated with CTCF in the nucleus. These results indicate that a YAP-TEAD-CTCF axis shapes the gene expression program underlying injured hepatocyte elimination through chromatin structural remodeling, resulting in liver homeostasis.",
+    "keywords": [
+      "CTCF",
+      "TEAD",
+      "YAP",
+      "hepatocyte elimination",
+      "spatial transcriptomics"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Hepatocytes/metabolism/pathology",
+      "*Transcription Factors/metabolism/genetics",
+      "YAP-Signaling Proteins",
+      "TEA Domain Transcription Factors",
+      "*Liver/metabolism/injuries",
+      "*Adaptor Proteins, Signal Transducing/metabolism/genetics",
+      "*DNA-Binding Proteins/metabolism/genetics",
+      "Mice",
+      "Gene Expression Regulation",
+      "Male",
+      "Cell Cycle Proteins/metabolism",
+      "Mice, Inbred C57BL"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hatakeyama, Daiki",
+        "Okamoto-Uchida, Yoshimi",
+        "Kosaka, Misaki",
+        "Hirose, Haruka",
+        "Kofuji, Satoshi",
+        "Danzaki, Keiko",
+        "Endo, Yoshiki",
+        "Nakagawa, Michiko",
+        "Kanai, Akinori",
+        "Suzuki, Yutaka",
+        "Yokoo, Takeshi",
+        "Terai, Shuji",
+        "Shimamura, Teppei",
+        "Nishina, Hiroshi"
+      ],
+      "short_names": [
+        "Hatakeyama D",
+        "Okamoto-Uchida Y",
+        "Kosaka M",
+        "Hirose H",
+        "Kofuji S",
+        "Danzaki K",
+        "Endo Y",
+        "Nakagawa M",
+        "Kanai A",
+        "Suzuki Y",
+        "Yokoo T",
+        "Terai S",
+        "Shimamura T",
+        "Nishina H"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9887-3114",
+        "ORCID: 0009-0005-9081-0350",
+        "ORCID: 0000-0003-1384-8425",
+        "ORCID: 0000-0003-1555-6768",
+        "ORCID: 0000-0003-4852-1879",
+        "ORCID: 0000-0001-7138-1785",
+        "ORCID: 0000-0002-5439-635X",
+        "ORCID: 0000-0002-6647-7480"
+      ],
+      "affiliations": [
+        "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan.",
+        "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan.",
+        "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan.",
+        "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan.",
+        "Laboratory of Computational Life Science, National Cancer Center Research Institute, Tokyo, Japan.",
+        "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan.",
+        "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan.",
+        "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan.",
+        "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan.",
+        "Graduate School of Frontier Sciences, The University of Tokyo, Chiba, Japan.",
+        "Graduate School of Frontier Sciences, The University of Tokyo, Chiba, Japan.",
+        "Division of Gastroenterology and Hepatology, Graduate School of Medicine, Dentistry and Health Sciences, Niigata University, Niigata, Japan.",
+        "Division of Gastroenterology and Hepatology, Graduate School of Medicine, Dentistry and Health Sciences, Niigata University, Niigata, Japan.",
+        "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan.",
+        "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hatakeyama, Daiki",
+        "short_name": "Hatakeyama D",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Okamoto-Uchida, Yoshimi",
+        "short_name": "Okamoto-Uchida Y",
+        "identifiers": [
+          "0000-0001-9887-3114"
+        ],
+        "affiliations": [
+          "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Kosaka, Misaki",
+        "short_name": "Kosaka M",
+        "identifiers": [
+          "0009-0005-9081-0350"
+        ],
+        "affiliations": [
+          "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Hirose, Haruka",
+        "short_name": "Hirose H",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan.",
+          "Laboratory of Computational Life Science, National Cancer Center Research Institute, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Kofuji, Satoshi",
+        "short_name": "Kofuji S",
+        "identifiers": [
+          "0000-0003-1384-8425"
+        ],
+        "affiliations": [
+          "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Danzaki, Keiko",
+        "short_name": "Danzaki K",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Endo, Yoshiki",
+        "short_name": "Endo Y",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Nakagawa, Michiko",
+        "short_name": "Nakagawa M",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Kanai, Akinori",
+        "short_name": "Kanai A",
+        "identifiers": [
+          "0000-0003-1555-6768"
+        ],
+        "affiliations": [
+          "Graduate School of Frontier Sciences, The University of Tokyo, Chiba, Japan."
+        ]
+      },
+      {
+        "full_name": "Suzuki, Yutaka",
+        "short_name": "Suzuki Y",
+        "identifiers": [
+          "0000-0003-4852-1879"
+        ],
+        "affiliations": [
+          "Graduate School of Frontier Sciences, The University of Tokyo, Chiba, Japan."
+        ]
+      },
+      {
+        "full_name": "Yokoo, Takeshi",
+        "short_name": "Yokoo T",
+        "identifiers": [
+          "0000-0001-7138-1785"
+        ],
+        "affiliations": [
+          "Division of Gastroenterology and Hepatology, Graduate School of Medicine, Dentistry and Health Sciences, Niigata University, Niigata, Japan."
+        ]
+      },
+      {
+        "full_name": "Terai, Shuji",
+        "short_name": "Terai S",
+        "identifiers": [
+          "0000-0002-5439-635X"
+        ],
+        "affiliations": [
+          "Division of Gastroenterology and Hepatology, Graduate School of Medicine, Dentistry and Health Sciences, Niigata University, Niigata, Japan."
+        ]
+      },
+      {
+        "full_name": "Shimamura, Teppei",
+        "short_name": "Shimamura T",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Nishina, Hiroshi",
+        "short_name": "Nishina H",
+        "identifiers": [
+          "0000-0002-6647-7480"
+        ],
+        "affiliations": [
+          "Medical Research Laboratory, Institute of Integrated Research, Institute of Science Tokyo, Tokyo, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genes to cells : devoted to molecular & cellular mechanisms"
+    ],
+    "journal_abbrev": [
+      "Genes Cells"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/05 05:31",
+    "fetched_at": "2026-10-12 07:26:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42830485",
+      "42398167",
+      "33097058",
+      "29893953",
+      "41524724",
+      "34387904",
+      "40985618",
+      "27809333",
+      "39826667",
+      "30794805",
+      "29317486",
+      "40403721",
+      "31505040",
+      "28681838",
+      "31601778",
+      "18579750",
+      "40189621",
+      "31271748",
+      "39903968",
+      "38954637",
+      "24380865",
+      "42557471",
+      "33087321",
+      "38553612",
+      "28249813",
+      "41274341",
+      "27425596",
+      "28752853",
+      "37556373",
+      "31533970",
+      "31303470",
+      "29208682",
+      "41380965",
+      "23419361",
+      "40484249",
+      "40683423",
+      "41747066",
+      "41534572",
+      "32482884",
+      "41744066",
+      "39629521",
+      "39875519",
+      "29760238",
+      "37917410",
+      "39300603",
+      "26109050",
+      "40081550",
+      "32329113",
+      "41325729",
+      "40768586",
+      "30401838",
+      "32561593",
+      "41165345",
+      "31281517",
+      "26070409",
+      "38862474",
+      "39870556",
+      "25667983",
+      "34003522",
+      "25634692",
+      "38423183",
+      "27315596",
+      "38565949",
+      "40914169",
+      "33651140",
+      "40389325",
+      "33662920",
+      "41442017",
+      "39774151",
+      "41005979",
+      "39187525",
+      "25301940",
+      "20123908",
+      "32482863",
+      "31080134",
+      "40608666",
+      "42149714",
+      "25915126",
+      "32376130",
+      "34463254",
+      "41094388",
+      "31629814",
+      "31358774",
+      "32119877",
+      "31638828",
+      "41889093",
+      "36894036",
+      "29018944",
+      "25010260",
+      "39966375",
+      "41277532",
+      "30395288",
+      "28430104",
+      "35993908",
+      "30382077",
+      "42727476",
+      "40976051",
+      "28315328",
+      "38606592",
+      "35349740"
+    ],
+    "review": [
+      "42830485",
+      "29018944"
+    ],
+    "pmc": [
+      "13635467"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/gtc.70150",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CSF1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3701",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "identity": {
+    "pmid": "42832579",
+    "doi": "10.1371/journal.pcbi.1014848",
+    "title": "DeCTCF: Decoding CTCF binding sequences by leveraging predicted epigenomic features."
+  },
+  "content": {
+    "abstract": "CTCF is a key architectural protein with diverse roles in genome organization and gene regulation, yet how it achieves these roles in different contexts remains unclear. Pretrained sequence-based models such as Sei provide predicted epigenomic features that can be used in downstream analyses of regulatory elements. Here, we developed DeCTCF, an integrative computational framework that uses pretrained Sei predictions to analyze 236,552 CTCF binding sequences by integrating CTCF ChIP-seq data from 118 human cell lines. By leveraging predicted epigenomic features from the Sei model, we grouped these CTCF binding sites into 20 clusters. These clusters can be annotated into distinct functional modules, including a major module associated with 3D chromatin architecture and three lineage-associated modules. The lineage-associated modules reveal associations between candidate co-factors and CTCF's context-dependent functions. For example, several clusters enriched in the three stem cell lines included in our dataset also showed enrichment of ZIC-family and were associated with gene sets related to pluripotency and neurodevelopment. We further observed associations between cluster-level CTCF ChIP-seq signal profiles and chromatin-loop annotations: single-peak profiles were reproducibly associated with higher loop interaction scores, whereas double- and triple-peak profiles showed distinct loop-pairing preferences. Overall, our study offers a systematic map of CTCF's modular organization by leveraging predicted epigenomic features and reveals context-associated regulatory patterns that underlie its regulatory diversity.",
+    "keywords": [],
+    "mesh_terms": [
+      "*CCCTC-Binding Factor/metabolism/genetics",
+      "Humans",
+      "Binding Sites/genetics",
+      "*Epigenomics/methods",
+      "Chromatin/metabolism/genetics",
+      "*Computational Biology/methods",
+      "Cell Line",
+      "Chromatin Immunoprecipitation Sequencing",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chai, Lu",
+        "Gao, Jie",
+        "Guo, Tinghe",
+        "Ba, Teer",
+        "Li, Zihan",
+        "Liu, Junjie",
+        "Wang, Yong",
+        "Zhang, Lirong"
+      ],
+      "short_names": [
+        "Chai L",
+        "Gao J",
+        "Guo T",
+        "Ba T",
+        "Li Z",
+        "Liu J",
+        "Wang Y",
+        "Zhang L"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5366-4837"
+      ],
+      "affiliations": [
+        "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China.",
+        "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China.",
+        "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China.",
+        "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China.",
+        "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China.",
+        "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China.",
+        "Inner Mongolia Key Laboratory of Biophysics and Bioinformatics, Inner Mongolia University, Hohhot, China.",
+        "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China.",
+        "CEMS, NCMIS, HCMS, MDIS, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, P. R. China.",
+        "Inner Mongolia Key Laboratory of Biophysics and Bioinformatics, Inner Mongolia University, Hohhot, China.",
+        "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China.",
+        "Inner Mongolia Key Laboratory of Biophysics and Bioinformatics, Inner Mongolia University, Hohhot, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chai, Lu",
+        "short_name": "Chai L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Jie",
+        "short_name": "Gao J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Tinghe",
+        "short_name": "Guo T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Ba, Teer",
+        "short_name": "Ba T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zihan",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Junjie",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China.",
+          "Inner Mongolia Key Laboratory of Biophysics and Bioinformatics, Inner Mongolia University, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yong",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China.",
+          "CEMS, NCMIS, HCMS, MDIS, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, P. R. China.",
+          "Inner Mongolia Key Laboratory of Biophysics and Bioinformatics, Inner Mongolia University, Hohhot, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lirong",
+        "short_name": "Zhang L",
+        "identifiers": [
+          "0000-0001-5366-4837"
+        ],
+        "affiliations": [
+          "School of Physical Science and Technology, Inner Mongolia University, Hohhot, China.",
+          "Inner Mongolia Key Laboratory of Biophysics and Bioinformatics, Inner Mongolia University, Hohhot, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS computational biology"
+    ],
+    "journal_abbrev": [
+      "PLoS Comput Biol"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/05 17:31",
+    "fetched_at": "2026-10-12 07:26:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42832579",
+      "40118069",
+      "39738353",
+      "39903776",
+      "38742641",
+      "33626344",
+      "33232622",
+      "40355969",
+      "42106409",
+      "29976663",
+      "41978381",
+      "19922652",
+      "37302762",
+      "27067545",
+      "35410161",
+      "41430607",
+      "31653198",
+      "41277030",
+      "31177910",
+      "31910870",
+      "31285261",
+      "42225060",
+      "29561703",
+      "41663926",
+      "41139207",
+      "42475469",
+      "27219007",
+      "22115494",
+      "42635245",
+      "40874617",
+      "38950902",
+      "34981210",
+      "29593713",
+      "29199022",
+      "30086769",
+      "30310060",
+      "32933554",
+      "39487131",
+      "34181707",
+      "42696576",
+      "35997565",
+      "41448493",
+      "30031214",
+      "28536180",
+      "42065963",
+      "30717603",
+      "24676094",
+      "34019588",
+      "32885250",
+      "33187878",
+      "31257199",
+      "39146885",
+      "39312688",
+      "30738580",
+      "29949986",
+      "31911579",
+      "34915195",
+      "34245617",
+      "28694486",
+      "26818008",
+      "34292930",
+      "23650640",
+      "23804403",
+      "40764058",
+      "27569350",
+      "40049170",
+      "31522988",
+      "30060743",
+      "25228660",
+      "33255744",
+      "37979036",
+      "31491387",
+      "24121688",
+      "34002095",
+      "37408191",
+      "33411704",
+      "30459231",
+      "31629814",
+      "31937660",
+      "27582050",
+      "36696451",
+      "40022213",
+      "29077515",
+      "37602215",
+      "22955980",
+      "30996085",
+      "27103456",
+      "31878887",
+      "28862757",
+      "22863112",
+      "34429148",
+      "30456521",
+      "34585631",
+      "36011294",
+      "40965216",
+      "22952237",
+      "39521361",
+      "26315019",
+      "26527277",
+      "20020479"
+    ],
+    "review": [
+      "42832579",
+      "41277030",
+      "34181707",
+      "30031214",
+      "33187878",
+      "39146885",
+      "23650640",
+      "37408191",
+      "29077515",
+      "30456521",
+      "36011294",
+      "22952237"
+    ],
+    "pmc": [
+      "13652320"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pcbi.1014848",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

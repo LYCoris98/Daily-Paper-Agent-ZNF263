@@ -1,0 +1,234 @@
+{
+  "identity": {
+    "pmid": "42845413",
+    "doi": "10.64898/2026.08.08.743475",
+    "title": "Evolution of mechanical chromatin insulators from selfish genetic elements."
+  },
+  "content": {
+    "abstract": "Genomes require physical boundaries to separate active and repressed chromatin, a function traditionally attributed to insulator proteins. Here, we show that genomic insulation can also emerge from physical properties encoded directly within the DNA polymer. In C. elegans , transcription-coupled mutational bias remodels Helitron transposon minisatellites to match the DNA helical repeat. The resulting 10-bp periodicity (PATCs) encodes intrinsic curvature, creating topologically responsive DNA elements that favor local deformation under supercoiling, disrupt canonical nucleosome organization, and protect germline genes from progressive and heritable silencing. Rather than acting as short protein-binding motifs, Helitron-derived PATCs form extended barrier elements that limit the stabilization of repressive chromatin. Comparative analyses suggest that related sequence-encoded mechanical signatures recur across Metazoa, including at Drosophila insulators, human CTCF sites, and active human LINE-1 retrotransposons. Thus, sequence-encoded mechanics provide an evolutionarily accessible substrate for chromatin insulation-a physical layer of genome organization that can be co-opted by host genomes to protect gene expression, and potentially retained by selfish elements for their own persistence.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Alkhaldi, Faisal",
+        "Priyadarshini, Monika",
+        "El Mouridi, Sonia",
+        "Al-Zarah, Hajar",
+        "Habuchi, Satoshi",
+        "Frokjaer-Jensen, Christian"
+      ],
+      "short_names": [
+        "Alkhaldi F",
+        "Priyadarshini M",
+        "El Mouridi S",
+        "Al-Zarah H",
+        "Habuchi S",
+        "Frokjaer-Jensen C"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Alkhaldi, Faisal",
+        "short_name": "Alkhaldi F",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Priyadarshini, Monika",
+        "short_name": "Priyadarshini M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "El Mouridi, Sonia",
+        "short_name": "El Mouridi S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Al-Zarah, Hajar",
+        "short_name": "Al-Zarah H",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Habuchi, Satoshi",
+        "short_name": "Habuchi S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Frøkjær-Jensen, Christian",
+        "short_name": "Frøkjær-Jensen C",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Aug 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 11:39",
+    "fetched_at": "2026-10-12 07:26:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42845413",
+      "35997258",
+      "34002095",
+      "16474142",
+      "27046080",
+      "40874617",
+      "17616980",
+      "19712444",
+      "20024537",
+      "12154228",
+      "41151055",
+      "26216945",
+      "19210964",
+      "34236313",
+      "42639792",
+      "32293525",
+      "34413016",
+      "35623477",
+      "26802288",
+      "19056695",
+      "17913488",
+      "39374265",
+      "17267480",
+      "42065963",
+      "25247414",
+      "36193674",
+      "23416946",
+      "25165871",
+      "21047907",
+      "20084099",
+      "42267589",
+      "22332659",
+      "26715665",
+      "29928011",
+      "17382889",
+      "21750106",
+      "30875678",
+      "30996085",
+      "27219007",
+      "25147918",
+      "22085927",
+      "33576335",
+      "11700282",
+      "31177910",
+      "17981843",
+      "29437965",
+      "36458689",
+      "22722341",
+      "16452134",
+      "23358822",
+      "17442748",
+      "11997516",
+      "29561703",
+      "27582050",
+      "16880510",
+      "12878173",
+      "41036778",
+      "35998396",
+      "23624840",
+      "25956794",
+      "22829947",
+      "19443682",
+      "23139640",
+      "35819192",
+      "19322193",
+      "41277030",
+      "35993175",
+      "23333867",
+      "16949368",
+      "39532105",
+      "25368383",
+      "27374334",
+      "23041285",
+      "15815711",
+      "33941236",
+      "12547916",
+      "25563930",
+      "27798106",
+      "35867573",
+      "9368350",
+      "22737086",
+      "25580597",
+      "21324874",
+      "36735780",
+      "34573404",
+      "21930510",
+      "41145704",
+      "20082086",
+      "34245617",
+      "22952045",
+      "29335803",
+      "21102651",
+      "9487387",
+      "25246589",
+      "40063813",
+      "19568426",
+      "34429148",
+      "34477013",
+      "29335486",
+      "22889843"
+    ],
+    "review": [
+      "42845413",
+      "12154228",
+      "41151055",
+      "26802288",
+      "17913488",
+      "42267589",
+      "22332659",
+      "30875678",
+      "11700282",
+      "35998396",
+      "41277030",
+      "35993175",
+      "23333867",
+      "15815711",
+      "9368350",
+      "34573404",
+      "21102651",
+      "9487387"
+    ],
+    "pmc": [
+      "13640673"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.08.08.743475",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

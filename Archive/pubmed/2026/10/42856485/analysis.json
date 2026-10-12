@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42856485",
+  "title": "Ctcf deficiency in myofibers induces pathological genome reprogramming toward the spontaneous development of myopathy.",
+  "authors": "Massenet, Jimmy; Nicoletti, Chiara; Caputo, Luca; Huttner, Soren S; Nicolau, Monica; Barajas, Jesus R; Rossi, Maira; Yang, Yuqing; Ancel, Sara; Wang, Yu Xin; Malfatti, Edoardo; Cheung, Tom H; Witcher, Michael; Crist, Colin; Puri, Pier Lorenzo",
+  "journal": "bioRxiv : the preprint server for biology",
+  "published_date": "2026-10-11",
+  "window": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "score": 0,
+  "one_liner_zh": "该文研究Ctcf在骨骼肌纤维中的3D基因组调控作用，与cpcdh基因家族无直接关联。",
+  "abstract": "How perennial, postmitotic multinucleated tissues, such as skeletal myofibers, maintain their identity and transcriptional adaptation to homeostatic perturbations through adult life is an outstanding question. To address this issue, we investigated the consequences of loss of 3D-genome architecture in skeletal muscles by generating myofiber-specific Ctcf- deficient ( Ctcf (mKO) ) mice. Ctcf (mKO) mice did not exhibit muscular phenotype at birth but spontaneously developed a severe myopathy. Integrated analysis of snRNAseq, ATACseq and promoter-capture Hi-C revealed both common and fiber-type specific patterns of dysregulated gene expression associated with alterations in chromatin accessibility and promoter-based interactions in Ctcf-deficient myonuclei at distinct stages of myopathy development. Decreased chromatin accessibility at promoters and changes in their connectivity with distal elements were observed across all myonuclei as a direct consequence of Ctcf deficiency at early stages and associated with downregulation of genes implicated in myofiber contraction and anabolism, metabolism, adhesion and neuromuscular transmission. Conversely, at later stages, upregulation of genes leading to persistent activation of ER stress/UPR and catabolism resulted from global reconfiguration of chromatin structure and connectivity, partly as indirect consequence of Ctcf deficiency. Notably, type-IIB myonuclei exhibited specific alterations in gene expression that culminated in loss of fiber-type identity and ectopic expression of inflammatory genes. These results reveal a requirement of Ctcf for maintenance of fiber-type identity and transcriptional adaptation in vivo , through multilayered control of 3D genome integrity. They also indicate an unprecedented association between Ctcf deficiency in myofibers and susceptibility to develop myopathies, whereby Ctcf dispensability for developmental myogenesis confers vulnerability to develop myopathic syndromes.",
+  "abstract_zh": "多年生、有丝分裂后多核组织（如骨骼肌纤维）如何在成年生活中维持其身份及对稳态扰动的转录适应，是一个悬而未决的问题。为解决此问题，我们通过生成肌纤维特异性Ctcf缺陷（Ctcf (mKO)）小鼠，研究了骨骼肌中3D基因组结构丢失的后果。Ctcf (mKO)小鼠在出生时未表现出肌肉表型，但自发发展为严重肌病。对snRNAseq、ATACseq和启动子捕获Hi-C的综合分析揭示了在肌病发展的不同阶段，Ctcf缺陷肌核中与染色质可及性和基于启动子的相互作用改变相关的基因表达失调的常见及纤维类型特异性模式。在早期阶段，所有肌核中启动子处染色质可及性降低及其与远端元件连接性的变化，是Ctcf缺陷的直接后果，并与涉及肌纤维收缩和合成代谢、代谢、粘附及神经肌肉传递的基因下调相关。相反，在后期阶段，导致内质网应激/UPR和分解代谢持续激活的基因上调，源于染色质结构和连接性的全局重构，部分作为Ctcf缺陷的间接后果。值得注意的是，IIB型肌核表现出特定的基因表达改变，最终导致纤维类型身份丧失和炎症基因异位表达。这些结果揭示了Ctcf在体内通过多层控制3D基因组完整性，对维持纤维类型身份和转录适应的必要性。它们还表明，肌纤维中Ctcf缺陷与肌病易感性之间存在前所未有的关联，其中Ctcf对发育性肌生成的非必需性赋予了发展肌病综合征的脆弱性。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42856485/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42856485/",
+  "paper_page_path": "papers/pubmed/42856485/index.html"
+}

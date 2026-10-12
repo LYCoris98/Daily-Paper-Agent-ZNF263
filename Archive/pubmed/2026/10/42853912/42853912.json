@@ -1,0 +1,283 @@
+{
+  "identity": {
+    "pmid": "42853912",
+    "doi": "10.1126/sciadv.aeh2087",
+    "title": "Chromatin interaction landscape of epimorphic regeneration in teleost fish."
+  },
+  "content": {
+    "abstract": "Reorganization of chromatin architecture-including chromatin loops, topologically associating domains (TADs), and A/B compartments-has been increasingly linked to development and cell differentiation. However, how chromatin architecture reorganizes during the shift from homeostasis to regeneration remains poorly characterized. Here, we used zebrafish fin regeneration as a model to systematically investigate, via micro-C, the chromatin architecture associated with blastema formation. Our analyses unveiled that the alteration of chromatin looping upon amputation was dominant compared with that of TADs and compartments. Genes directly linked to injury-altered loop interactions, including essential regeneration regulators, were mainly related to morphogenesis and cell division. A side-by-side comparison between zebrafish and African killifish uncovered conserved and species-specific chromatin reorganization following injury. Notably, perturbing injury-altered loop interactions at the il11a locus suppressed its expression and impaired fin regeneration efficiency. Further, CTCF/CTCFL and Atf7 binding motifs were the top shared motifs enriched in regeneration-altered loop anchors. Our study uncovers the landscape of chromatin interactions during fin regeneration.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*Regeneration/genetics",
+      "*Chromatin/metabolism/genetics",
+      "*Zebrafish/physiology/genetics",
+      "Animal Fins/physiology",
+      "Chromatin Assembly and Disassembly",
+      "Zebrafish Proteins/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jia, Xiaohui",
+        "Zhang, Xianglei",
+        "Lin, Weifeng",
+        "Ren, Tengfei",
+        "Liu, Shiqi",
+        "Lou, Yufei",
+        "Wang, Wei"
+      ],
+      "short_names": [
+        "Jia X",
+        "Zhang X",
+        "Lin W",
+        "Ren T",
+        "Liu S",
+        "Lou Y",
+        "Wang W"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-7518-4054",
+        "ORCID: 0009-0006-7879-3073",
+        "ORCID: 0009-0001-3470-1687",
+        "ORCID: 0000-0001-9511-3611"
+      ],
+      "affiliations": [
+        "College of Biological Sciences, China Agricultural University, Beijing 100083, China.",
+        "National Institute of Biological Sciences, Beijing 102206, China.",
+        "National Institute of Biological Sciences, Beijing 102206, China.",
+        "Tsinghua Institute of Multidisciplinary Biomedical Research, Tsinghua University, Beijing 100084, China.",
+        "National Institute of Biological Sciences, Beijing 102206, China.",
+        "Tsinghua Institute of Multidisciplinary Biomedical Research, Tsinghua University, Beijing 100084, China.",
+        "National Institute of Biological Sciences, Beijing 102206, China.",
+        "Tsinghua Institute of Multidisciplinary Biomedical Research, Tsinghua University, Beijing 100084, China.",
+        "National Institute of Biological Sciences, Beijing 102206, China.",
+        "Graduate School of Peking Union Medical College, Chinese Academy of Medical Sciences, Beijing 100730, China.",
+        "National Institute of Biological Sciences, Beijing 102206, China.",
+        "Tsinghua Institute of Multidisciplinary Biomedical Research, Tsinghua University, Beijing 100084, China.",
+        "National Institute of Biological Sciences, Beijing 102206, China.",
+        "Tsinghua Institute of Multidisciplinary Biomedical Research, Tsinghua University, Beijing 100084, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jia, Xiaohui",
+        "short_name": "Jia X",
+        "identifiers": [
+          "0009-0002-7518-4054"
+        ],
+        "affiliations": [
+          "College of Biological Sciences, China Agricultural University, Beijing 100083, China.",
+          "National Institute of Biological Sciences, Beijing 102206, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xianglei",
+        "short_name": "Zhang X",
+        "identifiers": [
+          "0009-0006-7879-3073"
+        ],
+        "affiliations": [
+          "National Institute of Biological Sciences, Beijing 102206, China.",
+          "Tsinghua Institute of Multidisciplinary Biomedical Research, Tsinghua University, Beijing 100084, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Weifeng",
+        "short_name": "Lin W",
+        "identifiers": [
+          "0009-0001-3470-1687"
+        ],
+        "affiliations": [
+          "National Institute of Biological Sciences, Beijing 102206, China.",
+          "Tsinghua Institute of Multidisciplinary Biomedical Research, Tsinghua University, Beijing 100084, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Tengfei",
+        "short_name": "Ren T",
+        "identifiers": [],
+        "affiliations": [
+          "National Institute of Biological Sciences, Beijing 102206, China.",
+          "Tsinghua Institute of Multidisciplinary Biomedical Research, Tsinghua University, Beijing 100084, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Shiqi",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "National Institute of Biological Sciences, Beijing 102206, China.",
+          "Graduate School of Peking Union Medical College, Chinese Academy of Medical Sciences, Beijing 100730, China."
+        ]
+      },
+      {
+        "full_name": "Lou, Yufei",
+        "short_name": "Lou Y",
+        "identifiers": [],
+        "affiliations": [
+          "National Institute of Biological Sciences, Beijing 102206, China.",
+          "Tsinghua Institute of Multidisciplinary Biomedical Research, Tsinghua University, Beijing 100084, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wei",
+        "short_name": "Wang W",
+        "identifiers": [
+          "0000-0001-9511-3611"
+        ],
+        "affiliations": [
+          "National Institute of Biological Sciences, Beijing 102206, China.",
+          "Tsinghua Institute of Multidisciplinary Biomedical Research, Tsinghua University, Beijing 100084, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 17:34",
+    "fetched_at": "2026-10-12 07:26:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42853912",
+      "24779377",
+      "22491016",
+      "21862555",
+      "23344707",
+      "32665240",
+      "39408869",
+      "39891514",
+      "34518536",
+      "28814789",
+      "32561450",
+      "32106888",
+      "21412938",
+      "26148971",
+      "41120592",
+      "39809530",
+      "38812038",
+      "32422142",
+      "23924636",
+      "26256560",
+      "26434741",
+      "32776615",
+      "42194960",
+      "25551555",
+      "41571662",
+      "28207787",
+      "23350700",
+      "18950614",
+      "33186559",
+      "22318227",
+      "23880758",
+      "28760345",
+      "25929514",
+      "25533245",
+      "38643244",
+      "22920534",
+      "29441573",
+      "21829525",
+      "31365871",
+      "24135229",
+      "25480380",
+      "28863138",
+      "41205547",
+      "26615638",
+      "33259770",
+      "33077180",
+      "27049946",
+      "32312172",
+      "42334155",
+      "38964305",
+      "31017740",
+      "17185322",
+      "7768177",
+      "27689402",
+      "17205186",
+      "34732706",
+      "27839971",
+      "35867745",
+      "23462472",
+      "24485658",
+      "25504979",
+      "33376206",
+      "26828861",
+      "19897725",
+      "18701543",
+      "39003620",
+      "39933633",
+      "40953615",
+      "32530962",
+      "38710459",
+      "17205188",
+      "26101996",
+      "40444368",
+      "42098286",
+      "29077530",
+      "35134499",
+      "19923791",
+      "38820664",
+      "33407087",
+      "22278371",
+      "41321290",
+      "28710028",
+      "26253409",
+      "36059461",
+      "21347393",
+      "39979259",
+      "22079110",
+      "42230891",
+      "27126069",
+      "29560825",
+      "32680543",
+      "26972483",
+      "42566522",
+      "23536989",
+      "39963716",
+      "41275934",
+      "26209644",
+      "31468519",
+      "20625388",
+      "31959817"
+    ],
+    "review": [
+      "42853912",
+      "25929514",
+      "33259770",
+      "29077530"
+    ],
+    "pmc": [
+      "13651840"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aeh2087?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "biorxiv",
+  "id": "10.64898/2026.10.08.756856",
+  "title": "Systematic mapping of enhancers, silencers, and topological elements with prime editing deletion screens",
+  "authors": "Cai XS; Montgomery MT; Nagano M; Nisal A; Gu Z; Chen Z; Obbad K; Rastogi R; Tan Y; Zeng T; Sheth MU; Xia C; Chiang S; Kundaje A; Hansen AS; Bintu L; Engreitz JM",
+  "journal": "bioRxiv",
+  "published_date": "2026-10-09",
+  "window": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "score": 4,
+  "one_liner_zh": "该文开发Swap-seq方法系统鉴定增强子、沉默子等调控元件，虽不直接研究cpcdh基因家族，但其调控元件筛选策略可借鉴用于该家族功能研究。",
+  "abstract": "Noncoding regulatory elements in the human genome can control gene expression through distinct mechanisms, including acting as enhancers, silencers, or topological elements. However, we lack tools to identify all such classes systematically and quantify their effects on gene expression in an endogenous genomic context. Here we develop Swap-seq, a method that combines pooled twin prime editing with flow-sorting to delete hundreds of endogenous regulatory sequences and measure their quantitative effects on the expression of a nearby gene. We apply Swap-seq to dissect the regulatory elements that control PPIF expression in THP-1 monocytes. We quantify the effects of distal and intronic enhancers, characterize CTCF insulators, and discover a silencer that regulates distal genes through histone deacetylase (HDAC)-mediated repression of neighboring enhancers. Hundreds of other genomic elements share its chromatin signatures and transcription factor binding sites, suggesting that this silencer represents a broader class of repressive elements. We leverage Swap-seq data to benchmark sequence-to-function models and show that they often capture the local activity of regulatory elements but fail to link them to distal target genes. Swap-seq thus provides a generalizable tool to discover regulatory elements across mechanistic classes, characterize their effects on gene expression, and generate large-scale datasets for evaluating sequence-to-function models.",
+  "abstract_zh": "人类基因组中的非编码调控元件可以通过不同机制控制基因表达，包括作为增强子、沉默子或拓扑元件发挥作用。然而，我们缺乏工具来系统性地识别所有这些类别，并在内源基因组背景下量化它们对基因表达的影响。在此，我们开发了Swap-seq，一种将混合双质粒编辑与流式分选相结合的方法，用于删除数百个内源调控序列并测量它们对邻近基因表达的定量效应。我们将Swap-seq应用于解析THP-1单核细胞中控制PPIF表达的调控元件。我们量化了远端和内含子增强子的效应，表征了CTCF绝缘子，并发现了一个通过组蛋白去乙酰化酶（HDAC）介导的邻近增强子抑制来调控远端基因的沉默子。数百个其他基因组元件共享其染色质特征和转录因子结合位点，表明该沉默子代表了一类更广泛的抑制性元件。我们利用Swap-seq数据来基准测试序列到功能模型，并显示这些模型通常能捕捉调控元件的局部活性，但无法将其连接到远端靶基因。因此，Swap-seq提供了一种通用工具，用于跨机制类别发现调控元件、表征它们对基因表达的影响，并生成大规模数据集以评估序列到功能模型。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.10.08.756856",
+  "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.756856",
+  "paper_page_path": "papers/biorxiv/10.64898_2026.10.08.756856/index.html"
+}

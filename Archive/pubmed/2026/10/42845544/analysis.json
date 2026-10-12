@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42845544",
+  "title": "Site-specific N6-methyladenosine fine tunes CTCF/cohesin-defined enhancer-promoter interactions and oncogenic transcription program.",
+  "authors": "Huang, Suming; Luo, Huacheng; Hamamoto, Karina; Song, Jingwen; Fung, Tsz Kan; He, Songtao; Lesperance, Julia; Li, Ying; Xu, Mingjiang; Chen, Honglin; Qiu, Yi; So, Chi Wai Eric",
+  "journal": "Research square",
+  "published_date": "2026-10-08",
+  "window": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "score": 0,
+  "one_liner_zh": "该文研究RNA m6A修饰调控CTCF/cohesin染色质结构，与cpcdh基因家族无直接关联。",
+  "abstract": "N6-methyladenosine (m6A) of RNAs plays an important role in RNA stability and gene expression. However, it remains unknown how site-specific m6A on individual RNA is decoded to regulate chromatin architecture and transcriptional reprogramming. Here, we show that m6A modification of HOTTIP lncRNA is highly enriched in acute myeloid leukemia (AML) patients carrying MLL-rearrangement (MLLr+) or NPM1C+-mutation and regulates RNA-dependent CTCF/cohesin function. Site-specific removal/blockage of m6A on HOTTIP by CRISPR-dCas13-ALKBH5 or steric ASO blockage disrupts HOTTIP-associated R-loop formation and CTCF occupancies at HOTTIP/CTCF co-occupied TAD boundaries, leading to impaired CTCF-defined enhancer/promoter loops and HOTTIP-driven stem-cell-like transcription programs. Functionally, site-specific removal of m6A on HOTTIP impairs leukemic-stem-cell initiation/proliferation that mitigates MLLr+-driven AML severity. Targeted recruitment of RAD21 to the erased HOTTIP m6A site partially rescues CTCF-mediated enhancer/promoter interactions and HOTTIP-driven transcription, reversing the m6A depletion-associated anti-leukemic effects. Our data reveals a direct mechanistic interplay between site-specific RNA m6A modification and CTCF/cohesin-driven chromatin architecture to drive oncogenic transcription networks and leukemogenesis.",
+  "abstract_zh": "RNA的N6-甲基腺苷（m6A）在RNA稳定性和基因表达中发挥重要作用。然而，单个RNA上位点特异性m6A如何被解码以调控染色质结构和转录重编程仍属未知。在此，我们展示了HOTTIP长链非编码RNA的m6A修饰在携带MLL重排（MLLr+）或NPM1C+突变的急性髓系白血病（AML）患者中高度富集，并调控RNA依赖的CTCF/cohesin功能。通过CRISPR-dCas13-ALKBH5或空间位阻ASO阻断对HOTTIP上m6A的位点特异性去除/阻断，破坏了HOTTIP相关的R-loop形成及HOTTIP/CTCF共占据的TAD边界处的CTCF占据，导致CTCF定义的增强子/启动子环和HOTTIP驱动的干细胞样转录程序受损。功能上，HOTTIP上m6A的位点特异性去除损害了白血病干细胞起始/增殖，从而减轻了MLLr+驱动的AML严重程度。将RAD21靶向招募至被擦除的HOTTIP m6A位点，部分恢复了CTCF介导的增强子/启动子相互作用和HOTTIP驱动的转录，逆转了m6A缺失相关的抗白血病效应。我们的数据揭示了位点特异性RNA m6A修饰与CTCF/cohesin驱动的染色质结构之间的直接机制性相互作用，从而驱动致癌转录网络和白血病发生。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42845544/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42845544/",
+  "paper_page_path": "papers/pubmed/42845544/index.html"
+}

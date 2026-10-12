@@ -1,0 +1,213 @@
+{
+  "identity": {
+    "pmid": "42839017",
+    "doi": "10.1038/s12276-026-01861-6",
+    "title": "CTCF-associated chromatin changes between HOXD1 and HOXD8 contribute to TNBC progression."
+  },
+  "content": {
+    "abstract": "Homeobox (HOX) genes and their encoded DNA-binding homeoproteins are important regulators of developmental processes and have been implicated in cancer pathogenesis. Here, we investigated the roles of HOXD1 and HOXD8 across different molecular subtypes of human breast cancer (BC) using a combination of in silico analyses of large-scale patient datasets, in vitro RNA interference (RNAi) phenotyping, and in vivo validation studies. Expression levels of HOXD1 and HOXD8 were differentially altered across BC subtypes and were specifically reduced in the aggressive triple-negative breast cancer (TNBC) subtype. Functional analyses demonstrated that reduced HOXD1 ﻿and HOXD8 expression was linked to enhanced invasive, migratory, and proliferative phenotypes. In addition, our molecular analyses suggest that CCCTC-binding factor (CTCF)-associated chromatin changes and DNA methylation status at the HOXD locus contribute to coordinated regulation of HOXD1 and HOXD8 expression in BC cells. Collectively, our findings support a potential tumor-suppressive role for HOXD1 and HOXD8 in TNBC and suggest that the HOXD1/HOXD8 regulatory axis has biological and therapeutic relevance in aggressive BC.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Oh, Ji Hoon",
+        "Jeong, Da Som",
+        "Kim, Clara Yuri"
+      ],
+      "short_names": [
+        "Oh JH",
+        "Jeong DS",
+        "Kim CY"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6619-5515"
+      ],
+      "affiliations": [
+        "Department of Biological Sciences, Keimyung University College of Natural Sciences, Daegu, Republic of Korea. jhoh@kmu.ac.kr.",
+        "Department of Internal Medicine, Yonsei University College of Medicine, Seoul, Republic of Korea.",
+        "Yonsei Institute for Digital Health, Yonsei University, Seoul, Republic of Korea.",
+        "Department of Genetics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Oh, Ji Hoon",
+        "short_name": "Oh JH",
+        "identifiers": [
+          "0000-0001-6619-5515"
+        ],
+        "affiliations": [
+          "Department of Biological Sciences, Keimyung University College of Natural Sciences, Daegu, Republic of Korea. jhoh@kmu.ac.kr."
+        ]
+      },
+      {
+        "full_name": "Jeong, Da Som",
+        "short_name": "Jeong DS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine, Yonsei University College of Medicine, Seoul, Republic of Korea.",
+          "Yonsei Institute for Digital Health, Yonsei University, Seoul, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Clara Yuri",
+        "short_name": "Kim CY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Experimental & molecular medicine"
+    ],
+    "journal_abbrev": [
+      "Exp Mol Med"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/07 05:31",
+    "fetched_at": "2026-10-12 07:26:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42839017",
+      "38322121",
+      "33559901",
+      "7501971",
+      "34454307",
+      "42589661",
+      "39450540",
+      "38017545",
+      "42032729",
+      "33167919",
+      "27130446",
+      "38073087",
+      "34118960",
+      "38130932",
+      "36213580",
+      "42489642",
+      "42500577",
+      "40092695",
+      "38500982",
+      "34345288",
+      "41566505",
+      "42782076",
+      "26004086",
+      "41137957",
+      "26917489",
+      "30736840",
+      "42475469",
+      "35473304",
+      "35499320",
+      "42321730",
+      "42305508",
+      "41751167",
+      "36567949",
+      "42151774",
+      "22879880",
+      "41209020",
+      "42204197",
+      "39927118",
+      "39736453",
+      "30151890",
+      "35357654",
+      "39327614",
+      "41972545",
+      "39689602",
+      "40211710",
+      "32448269",
+      "40037472",
+      "37749607",
+      "41518478",
+      "42625754",
+      "42210314",
+      "33530981",
+      "28457970",
+      "41751958",
+      "37190091",
+      "34413017",
+      "35513575",
+      "41759266",
+      "41277030",
+      "41132646",
+      "31986408",
+      "32778144",
+      "42818332",
+      "42501559",
+      "36645554",
+      "38890750",
+      "29099283",
+      "23408941",
+      "39968442",
+      "40627035",
+      "37767092",
+      "42387350",
+      "41866545",
+      "36030436",
+      "42159784",
+      "42617477",
+      "37732899",
+      "39206896",
+      "37391802",
+      "37093683",
+      "42664293",
+      "41168787",
+      "41439406",
+      "33618253",
+      "37393829",
+      "33250958",
+      "41516402",
+      "42668127",
+      "30365046",
+      "41674940",
+      "34863149",
+      "42478333",
+      "32437068",
+      "38713229",
+      "39658878",
+      "42177558",
+      "41465262",
+      "42310796",
+      "24985072",
+      "34283051"
+    ],
+    "review": [
+      "42839017",
+      "35473304"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s12276-026-01861-6",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-LBX1-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

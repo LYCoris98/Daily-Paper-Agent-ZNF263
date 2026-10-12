@@ -1,0 +1,154 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.05.753292",
+  "title": "Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains",
+  "doi": "10.64898/2026.10.05.753292",
+  "abstract": "<h4>Background: </h4> : The spatial organization of the human genome emerges from an enzyme-guided self-assembly process in which chromatin has a bidirectional relationship with transcription. Central to this architecture are chromatin packing domains, 50-200 nm structures exhibiting mass-scaling behavior. Nascent domains arise through transcription and cohesin/CTCF-mediated loop extrusion, while their maturation depends on conditions that permit differential access of epigenetic enzymes to their dense cores and continuously lower density periphery, resulting in the accumulation of heterochromatic marks in domain cores and euchromatic marks outside of the domain cores. In turn, packing domains support transcription by creating an \"ideal zone\" peripherally to their cores due to a nonmonotonic dependence of transcription rate on local chromatin density. <h4>Results: </h4> : We investigated the role of heterochromatin protein 1 alpha (HP1α), a key chromatin crosslinking factor with affinity to H3K9me3 marks, in maintaining packing domain organization. Paradoxically, short-term HP1α degradation resulted in overall downregulation of genes, contrasting with the canonical view that repression of heterochromatin allows chromatin to become more accessible for transcription. While some packing domains persisted, heterochromatic cores of dense packing domains were disrupted. When exposed to hypoxia, HP1α-depleted cells exhibited a dampened transcriptional response, showcasing that when domain maturation is disrupted, stress response pathways are not effectively activated. <h4>Conclusions: </h4> : This work highlights HP1α crosslinking as an essential component of domain maturation, as HP1α loss disrupts domain geometry and inhibits efficient transcriptional reprogramming. Our findings suggest an intriguing perspective on the potential relationship between chromatin architecture and gene regulation that could inform chromatin engineering-based treatments.",
+  "authors": [
+    "Kuo T",
+    "Carrillo Gonzalez P",
+    "Acosta N",
+    "Carter LM",
+    "Pujadas Liwag E",
+    "Arriaga CV",
+    "Johnson B",
+    "Dunton CL",
+    "Almassalha LM",
+    "Szleifer I",
+    "Backman V"
+  ],
+  "published_date": "2026-10-08",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.05.753292",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.05.753292.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1337107",
+    "raw_record": {
+      "id": "PPR1337107",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.05.753292",
+      "title": "Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains",
+      "authorString": "Kuo T, Carrillo Gonzalez P, Acosta N, Carter LM, Pujadas Liwag E, Arriaga CV, Johnson B, Dunton CL, Almassalha LM, Szleifer I, Backman V.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Kuo T",
+            "lastName": "Kuo",
+            "firstName": "Tiffany",
+            "initials": "T"
+          },
+          {
+            "fullName": "Carrillo Gonzalez P",
+            "lastName": "Carrillo Gonzalez",
+            "firstName": "Paola",
+            "initials": "P"
+          },
+          {
+            "fullName": "Acosta N",
+            "lastName": "Acosta",
+            "firstName": "Nicolas",
+            "initials": "N"
+          },
+          {
+            "fullName": "Carter LM",
+            "lastName": "Carter",
+            "firstName": "Lucas",
+            "initials": "LM"
+          },
+          {
+            "fullName": "Pujadas Liwag E",
+            "lastName": "Pujadas Liwag",
+            "firstName": "Emily",
+            "initials": "E"
+          },
+          {
+            "fullName": "Arriaga CV",
+            "lastName": "Arriaga",
+            "firstName": "Claudia",
+            "initials": "CV"
+          },
+          {
+            "fullName": "Johnson B",
+            "lastName": "Johnson",
+            "firstName": "Brittany",
+            "initials": "B"
+          },
+          {
+            "fullName": "Dunton CL",
+            "lastName": "Dunton",
+            "firstName": "Cody",
+            "initials": "CL"
+          },
+          {
+            "fullName": "Almassalha LM",
+            "lastName": "Almassalha",
+            "firstName": "Luay",
+            "initials": "LM"
+          },
+          {
+            "fullName": "Szleifer I",
+            "lastName": "Szleifer",
+            "firstName": "Igal",
+            "initials": "I"
+          },
+          {
+            "fullName": "Backman V",
+            "lastName": "Backman",
+            "firstName": "Vadim",
+            "initials": "V"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Background: </h4> : The spatial organization of the human genome emerges from an enzyme-guided self-assembly process in which chromatin has a bidirectional relationship with transcription. Central to this architecture are chromatin packing domains, 50-200 nm structures exhibiting mass-scaling behavior. Nascent domains arise through transcription and cohesin/CTCF-mediated loop extrusion, while their maturation depends on conditions that permit differential access of epigenetic enzymes to their dense cores and continuously lower density periphery, resulting in the accumulation of heterochromatic marks in domain cores and euchromatic marks outside of the domain cores. In turn, packing domains support transcription by creating an \"ideal zone\" peripherally to their cores due to a nonmonotonic dependence of transcription rate on local chromatin density.  <h4>Results: </h4> : We investigated the role of heterochromatin protein 1 alpha (HP1α), a key chromatin crosslinking factor with affinity to H3K9me3 marks, in maintaining packing domain organization. Paradoxically, short-term HP1α degradation resulted in overall downregulation of genes, contrasting with the canonical view that repression of heterochromatin allows chromatin to become more accessible for transcription. While some packing domains persisted, heterochromatic cores of dense packing domains were disrupted. When exposed to hypoxia, HP1α-depleted cells exhibited a dampened transcriptional response, showcasing that when domain maturation is disrupted, stress response pathways are not effectively activated.  <h4>Conclusions: </h4> : This work highlights HP1α crosslinking as an essential component of domain maturation, as HP1α loss disrupts domain geometry and inhibits efficient transcriptional reprogramming. Our findings suggest an intriguing perspective on the potential relationship between chromatin architecture and gene regulation that could inform chromatin engineering-based treatments.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.05.753292"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-09",
+      "firstPublicationDate": "2026-10-08",
+      "firstIndexDate": "2026-10-09",
+      "hasEvaluations": "N"
+    }
+  }
+}

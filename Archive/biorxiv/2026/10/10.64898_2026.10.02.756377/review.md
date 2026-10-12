@@ -1,0 +1,91 @@
+## Review setup
+- **Input scope** 摘要（preprint，bioRxiv）
+- **Assessment boundary** 仅基于摘要文本；无正文、图、表、方法细节或补充材料
+- **Shared manuscript claim summary** 作者提出一种基于 Mamba-2 的双向 state space block（Hydra），替换 Borzoi 的 transformer 块后，在保持其余架构与训练数据不变的前提下，获得 5.7 倍加速、更高的序列预测准确率与 eQTL 分类性能；将架构放大并扩展训练数据后得到 Cerberus 集成模型，在 GTEx v11 fine-mapped eQTL/sQTL/paQTL 基准上优于 Borzoi，并与 AlphaGenome 各有胜负；对训练后 block 的解释性分析显示交互范围随深度增长。
+- **Visible evidence base** 摘要中报告的定量结果：5.7 倍加速、eQTL AUPRC 0.692 vs 0.668、Spearman ρ 0.379 vs 0.321、交互范围 0.9 kb 至 79 kb；无图、表、统计检验、误差条或方法细节
+- **Missing materials affecting confidence** 正文全文、所有图与表、方法部分、模型架构细节、训练超参数、数据集构成与划分、统计显著性检验、消融实验细节、与 AlphaGenome 比较的完整结果、代码与数据可用性验证
+
+## Reviewer
+- **Overall assessment** 该摘要报告了一个有明确动机的架构改进，结果方向合理且与领域需求相关。然而，当前可见证据仅限于摘要层面的数值声明，缺乏统计检验、误差估计、方法细节和完整的比较分析，无法对核心结论的稳健性做出充分评估。核心主张（Hydra 优于 transformer、Cerberus 优于 Borzoi）在方向上可信，但证据强度不足以在当前阶段确立结论。
+- **Who would be interested in the results, and why** 计算基因组学与调控基因组学研究者，特别是从事 sequence-to-function 模型开发、非编码变异效应预测和深度学习架构设计的人员。该工作直接回应了参考基因组序列多样性有限这一约束下的架构选择问题，对模型效率与准确率的权衡有实际参考价值。
+- **Major strengths** 
+  1. 问题定义清晰：明确指出参考基因组对训练序列多样性的限制，并以此作为架构选择的动机，逻辑链条完整。
+  2. 对照设计合理：在摘要层面声明了「保持其余架构与训练数据固定」的替换策略，这是评估架构贡献的正确方式。
+  3. 基准选择具有领域相关性：使用 GTEx fine-mapped eQTL/sQTL/paQTL 且匹配等位基因频率、基因表达和位置注释的阴性集，表明作者意识到已知的混杂因素。
+  4. 资源释放承诺完整：模型、训练数据、代码和基准集均计划公开，有利于可重复性和领域后续研究。
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Statistical rigor
+  - **Claim pointer** 「Cerberus is more accurate than Borzoi on all three phenotypes, 0.692 versus 0.668 mean eQTL AUPRC across 48 tissues, and estimates eQTL effect sizes better, 0.379 versus 0.321 Spearman ρ」
+  - **Evidence pointer** 摘要，无对应图或表
+  - **Concern** 摘要报告了均值 AUPRC 和 Spearman ρ 的数值差异，但未提供任何方差度量、逐组织结果分布、配对检验或显著性水平。48 个组织的均值差异（0.024 AUPRC）是否在组织间一致，还是由少数组织驱动，完全不可判断。
+  - **Why it matters** 该声明是论文的核心结论之一。若无统计支持，读者无法区分真实改进与噪声或偶然性。领域内对深度学习模型的小幅性能提升通常需要严格的显著性检验和效应量报告。
+  - **Resolution test** 提供逐组织结果（如箱线图或散点图）、配对显著性检验（如 Wilcoxon signed-rank test）的 p 值或置信区间，并报告效应量的一致性。
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Methodological transparency
+  - **Claim pointer** 「Hydra blocks ran 5.7-fold faster on 8,192-token inputs, and models built on them predicted binned coverage on held-out sequences and classified fine-mapped eQTLs more accurately」
+  - **Evidence pointer** 摘要，无方法部分
+  - **Concern** 摘要未说明 5.7 倍加速的测量条件（硬件、batch size、是否包含端到端推理或仅 block 前向）、Hydra 与 transformer 块的参数数量是否匹配、以及「more accurately」的具体指标和效应量。此外，32 bp 分辨率下移除 U-net decoder 的决策依据和其对性能的独立贡献未作说明。
+  - **Why it matters** 架构比较的有效性取决于计算公平性（FLOPs、参数数、内存占用）和测量协议的一致性。若无这些信息，加速比和准确率提升可能来自不公平的对照设置。
+  - **Resolution test** 提供详细的测量协议、参数与 FLOPs 对比表、以及消融实验（如保持分辨率不变仅替换 block、保持 block 不变仅移除 decoder）的结果。
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Comparative completeness
+  - **Claim pointer** 「Against AlphaGenome, it trades leads in eQTL classification, ahead on variants 3 to 100 kb from the transcription start site and behind in coding sequence and within 3 kb」
+  - **Evidence pointer** 摘要，无对应图或表
+  - **Concern** 与 AlphaGenome 的比较仅以一句话概括，未报告具体数值、距离分层的方式、样本量、或该模式是否在多个组织间一致。此外，AlphaGenome 的架构、训练数据和输入长度与 Cerberus 差异较大，摘要未讨论这些差异如何影响比较的公平性。
+  - **Why it matters** 该比较是论文定位的重要部分，但当前信息不足以评估 Cerberus 相对于现有最先进模型的真实优劣。距离分层的结果模式可能反映架构差异，也可能反映训练数据或基准构建的差异。
+  - **Resolution test** 提供与 AlphaGenome 的完整比较表（按距离分层、按组织、按变异类型），并讨论架构与数据差异对比较解释的影响。
+  - **Concern ID** R1-M4
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** Interpretability claim
+  - **Claim pointer** 「Interpretation of the trained blocks shows interaction range growing with block depth, from a 0.9 kb median half-life in the first block to 79 kb in the seventh, and the deepest heads anchoring on promoters, enhancers, and CTCF peaks」
+  - **Evidence pointer** 摘要，无方法细节
+  - **Concern** 摘要未说明「interaction range」和「half-life」的精确定义、计算方法、以及「anchoring on promoters, enhancers, and CTCF peaks」的统计显著性如何评估。这些分析是否基于 curated 的基因组注释集合，以及是否与随机对照比较，均不清楚。
+  - **Why it matters** 可解释性分析是论文的附加价值主张，但其可信度取决于方法的严谨性。若无明确的定义和对照，这些观察可能反映注释集的分布偏差而非模型学到的真实生物学。
+  - **Resolution test** 提供 interaction range 计算的形式化定义、与随机或置换对照的比较、以及 peak anchoring 的富集显著性检验。
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Clarity
+  - **Affected element** 摘要中「augmented track collection」的表述
+  - **Evidence pointer** 摘要
+  - **Issue** 「augmented track collection」未说明具体包含哪些数据源、如何增强、以及相对于 Borzoi 训练数据的增量。
+  - **Required correction** 在摘要或方法中明确列出新增或修改的 track 类型和来源。
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Reproducibility
+  - **Affected element** 模型规模描述
+  - **Evidence pointer** 摘要
+  - **Issue** 「ensemble of eight models over 786 kb of input」未说明单模型参数量、集成策略（平均、投票或其他）以及计算资源需求。
+  - **Required correction** 提供单模型参数量、集成方法和推理成本的具体数字。
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Benchmark description
+  - **Affected element** 阴性集构建
+  - **Evidence pointer** 摘要
+  - **Issue** 摘要提到阴性集匹配了等位基因频率、基因表达和位置注释，但未说明匹配的具体方法和残余混杂的可能。
+  - **Required correction** 在方法中详细描述匹配算法和验证残余混杂的步骤。
+- **Technical failings that need to be addressed before the case is established** R1-M1（统计显著性缺失）、R1-M2（计算公平性与消融不完整）、R1-M3（与 AlphaGenome 比较不完整）
+- **Assessment against Nature-style criteria** 
+  - Originality：中等。将 Mamba-2 应用于调控序列建模并非全新想法，但双向 state space block 的设计和与 Borzoi 的系统对照有一定新意。
+  - Scientific importance：较高。调控序列模型的效率与准确率直接影响非编码变异解释和疾病研究，该工作针对的序列多样性瓶颈是领域内真实约束。
+  - Interdisciplinary readership：中等。主要吸引计算基因组学和机器学习交叉领域读者，对实验生物学的直接吸引力取决于下游应用展示。
+  - Technical soundness：当前不可充分评估。摘要层面的声明缺乏统计检验、方法细节和消融支持。
+  - Readability for nonspecialists：摘要整体可读，但「bidirectional state space block」「half-life」等术语未定义，对非专业读者有一定门槛。
+- **Recommendation posture** 目前证据不足以确立核心结论。方向有前景，但需在完整稿件中提供统计检验、计算公平性分析和完整的比较数据后方可评估。建议在获得全文后重新审阅。
+
+## Risk / unsupported claims
+- 「Hydra blocks ran 5.7-fold faster」：测量条件未说明，不可验证。
+- 「models built on them predicted binned coverage on held-out sequences and classified fine-mapped eQTLs more accurately」：具体指标和效应量未报告。
+- 「Cerberus is more accurate than Borzoi on all three phenotypes」：无统计检验支持。
+- 「estimates eQTL effect sizes better, 0.379 versus 0.321 Spearman ρ」：无置信区间或显著性检验。
+- 「interaction range growing with block depth」：方法定义和统计支持缺失。
+- 「deepest heads anchoring on promoters, enhancers, and CTCF peaks」：富集显著性未报告。
+- 「supporting variant scoring and transfer learning」：摘要未展示任何 transfer learning 实验或结果。

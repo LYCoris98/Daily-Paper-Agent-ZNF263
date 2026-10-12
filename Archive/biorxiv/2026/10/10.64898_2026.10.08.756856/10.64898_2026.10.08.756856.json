@@ -1,0 +1,196 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.08.756856",
+  "title": "Systematic mapping of enhancers, silencers, and topological elements with prime editing deletion screens",
+  "doi": "10.64898/2026.10.08.756856",
+  "abstract": "Noncoding regulatory elements in the human genome can control gene expression through distinct mechanisms, including acting as enhancers, silencers, or topological elements. However, we lack tools to identify all such classes systematically and quantify their effects on gene expression in an endogenous genomic context. Here we develop Swap-seq, a method that combines pooled twin prime editing with flow-sorting to delete hundreds of endogenous regulatory sequences and measure their quantitative effects on the expression of a nearby gene. We apply Swap-seq to dissect the regulatory elements that control PPIF expression in THP-1 monocytes. We quantify the effects of distal and intronic enhancers, characterize CTCF insulators, and discover a silencer that regulates distal genes through histone deacetylase (HDAC)-mediated repression of neighboring enhancers. Hundreds of other genomic elements share its chromatin signatures and transcription factor binding sites, suggesting that this silencer represents a broader class of repressive elements. We leverage Swap-seq data to benchmark sequence-to-function models and show that they often capture the local activity of regulatory elements but fail to link them to distal target genes. Swap-seq thus provides a generalizable tool to discover regulatory elements across mechanistic classes, characterize their effects on gene expression, and generate large-scale datasets for evaluating sequence-to-function models.",
+  "authors": [
+    "Cai XS",
+    "Montgomery MT",
+    "Nagano M",
+    "Nisal A",
+    "Gu Z",
+    "Chen Z",
+    "Obbad K",
+    "Rastogi R",
+    "Tan Y",
+    "Zeng T",
+    "Sheth MU",
+    "Xia C",
+    "Chiang S",
+    "Kundaje A",
+    "Hansen AS",
+    "Bintu L",
+    "Engreitz JM"
+  ],
+  "published_date": "2026-10-09",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.756856",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.756856.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1337988",
+    "raw_record": {
+      "id": "PPR1337988",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.08.756856",
+      "title": "Systematic mapping of enhancers, silencers, and topological elements with prime editing deletion screens",
+      "authorString": "Cai XS, Montgomery MT, Nagano M, Nisal A, Gu Z, Chen Z, Obbad K, Rastogi R, Tan Y, Zeng T, Sheth MU, Xia C, Chiang S, Kundaje A, Hansen AS, Bintu L, Engreitz JM.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Cai XS",
+            "lastName": "Cai",
+            "firstName": "Xiangmeng Shawn",
+            "initials": "XS"
+          },
+          {
+            "fullName": "Montgomery MT",
+            "lastName": "Montgomery",
+            "firstName": "Michael",
+            "initials": "MT"
+          },
+          {
+            "fullName": "Nagano M",
+            "lastName": "Nagano",
+            "firstName": "Masahiro",
+            "initials": "M"
+          },
+          {
+            "fullName": "Nisal A",
+            "lastName": "Nisal",
+            "firstName": "Ashna",
+            "initials": "A"
+          },
+          {
+            "fullName": "Gu Z",
+            "lastName": "Gu",
+            "firstName": "Zhengxi",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Chen Z",
+            "lastName": "Chen",
+            "firstName": "Ziwei",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Obbad K",
+            "lastName": "Obbad",
+            "firstName": "Kamal",
+            "initials": "K"
+          },
+          {
+            "fullName": "Rastogi R",
+            "lastName": "Rastogi",
+            "firstName": "Ruchir",
+            "initials": "R"
+          },
+          {
+            "fullName": "Tan Y",
+            "lastName": "Tan",
+            "firstName": "Yingxuan",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Zeng T",
+            "lastName": "Zeng",
+            "firstName": "Tony",
+            "initials": "T"
+          },
+          {
+            "fullName": "Sheth MU",
+            "lastName": "Sheth",
+            "firstName": "Maya",
+            "initials": "MU"
+          },
+          {
+            "fullName": "Xia C",
+            "lastName": "Xia",
+            "firstName": "Coco",
+            "initials": "C"
+          },
+          {
+            "fullName": "Chiang S",
+            "lastName": "Chiang",
+            "firstName": "Shannon",
+            "initials": "S"
+          },
+          {
+            "fullName": "Kundaje A",
+            "lastName": "Kundaje",
+            "firstName": "Anshul",
+            "initials": "A"
+          },
+          {
+            "fullName": "Hansen AS",
+            "lastName": "Hansen",
+            "firstName": "Anders",
+            "initials": "AS"
+          },
+          {
+            "fullName": "Bintu L",
+            "lastName": "Bintu",
+            "firstName": "Lacramioara",
+            "initials": "L"
+          },
+          {
+            "fullName": "Engreitz JM",
+            "lastName": "Engreitz",
+            "firstName": "Jesse",
+            "initials": "JM"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Noncoding regulatory elements in the human genome can control gene expression through distinct mechanisms, including acting as enhancers, silencers, or topological elements. However, we lack tools to identify all such classes systematically and quantify their effects on gene expression in an endogenous genomic context. Here we develop Swap-seq, a method that combines pooled twin prime editing with flow-sorting to delete hundreds of endogenous regulatory sequences and measure their quantitative effects on the expression of a nearby gene. We apply Swap-seq to dissect the regulatory elements that control  PPIF expression in THP-1 monocytes. We quantify the effects of distal and intronic enhancers, characterize CTCF insulators, and discover a silencer that regulates distal genes through histone deacetylase (HDAC)-mediated repression of neighboring enhancers. Hundreds of other genomic elements share its chromatin signatures and transcription factor binding sites, suggesting that this silencer represents a broader class of repressive elements. We leverage Swap-seq data to benchmark sequence-to-function models and show that they often capture the local activity of regulatory elements but fail to link them to distal target genes. Swap-seq thus provides a generalizable tool to discover regulatory elements across mechanistic classes, characterize their effects on gene expression, and generate large-scale datasets for evaluating sequence-to-function models.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.08.756856"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-10",
+      "firstPublicationDate": "2026-10-09",
+      "firstIndexDate": "2026-10-10",
+      "hasEvaluations": "N"
+    }
+  }
+}

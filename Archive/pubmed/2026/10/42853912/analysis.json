@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42853912",
+  "title": "Chromatin interaction landscape of epimorphic regeneration in teleost fish.",
+  "authors": "Jia, Xiaohui; Zhang, Xianglei; Lin, Weifeng; Ren, Tengfei; Liu, Shiqi; Lou, Yufei; Wang, Wei",
+  "journal": "Science advances",
+  "published_date": "2026-10-09",
+  "window": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "score": 6,
+  "one_liner_zh": "该文研究斑马鱼鳍再生中染色质互作景观，虽未直接涉及cpcdh基因家族，但其染色质环动态与再生调控机制可为该家族功能研究提供借鉴。",
+  "abstract": "Reorganization of chromatin architecture-including chromatin loops, topologically associating domains (TADs), and A/B compartments-has been increasingly linked to development and cell differentiation. However, how chromatin architecture reorganizes during the shift from homeostasis to regeneration remains poorly characterized. Here, we used zebrafish fin regeneration as a model to systematically investigate, via micro-C, the chromatin architecture associated with blastema formation. Our analyses unveiled that the alteration of chromatin looping upon amputation was dominant compared with that of TADs and compartments. Genes directly linked to injury-altered loop interactions, including essential regeneration regulators, were mainly related to morphogenesis and cell division. A side-by-side comparison between zebrafish and African killifish uncovered conserved and species-specific chromatin reorganization following injury. Notably, perturbing injury-altered loop interactions at the il11a locus suppressed its expression and impaired fin regeneration efficiency. Further, CTCF/CTCFL and Atf7 binding motifs were the top shared motifs enriched in regeneration-altered loop anchors. Our study uncovers the landscape of chromatin interactions during fin regeneration.",
+  "abstract_zh": "染色质结构的重组——包括染色质环、拓扑关联结构域（TADs）和A/B区室——已日益与发育和细胞分化相关联。然而，在从稳态转向再生过程中染色质结构如何重组，仍缺乏充分描述。在此，我们以斑马鱼鳍再生为模型，通过micro-C系统研究了与胚基形成相关的染色质结构。我们的分析揭示，截肢后染色质环的改变相较于TADs和区室的变化占主导地位。与损伤改变的环相互作用直接相关的基因，包括关键再生调控因子，主要涉及形态发生和细胞分裂。斑马鱼与非洲鳉鱼之间的并排比较揭示了损伤后染色质重组的保守性和物种特异性。值得注意的是，干扰il11a位点处损伤改变的环相互作用抑制了其表达，并削弱了鳍再生的效率。此外，CTCF/CTCFL和Atf7结合基序是再生改变的环锚点中富集度最高的共享基序。我们的研究揭示了鳍再生过程中染色质相互作用的图谱。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42853912/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42853912/",
+  "paper_page_path": "papers/pubmed/42853912/index.html"
+}

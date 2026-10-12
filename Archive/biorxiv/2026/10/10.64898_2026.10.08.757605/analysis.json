@@ -1,0 +1,24 @@
+{
+  "source": "biorxiv",
+  "id": "10.64898/2026.10.08.757605",
+  "title": "MacroH2A1 and H3K27me3 target cGAS to facultative heterochromatin to restrain innate immune activation",
+  "authors": "Thenin-Houssier S; Jahan C; Xu W; Papadopoulos G; Bonnet-Madin L; Matsumoto S; Kujirai T; Cuvier O; Kurumizaka H; Sobhian B; Benkirane M",
+  "journal": "bioRxiv",
+  "published_date": "2026-10-09",
+  "window": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "score": 2,
+  "one_liner_zh": "该文研究cGAS染色质锚定与表观遗传调控，与cpcdh基因家族无直接关联，仅涉及染色质相关机制可作边缘参考。",
+  "abstract": "The DNA sensor cGAS is largely sequestered on chromatin in an inactive form, but how this state is regulated remains unclear. We show that cGAS preferentially binds nucleosomes containing the histone variant macroH2A1 (mH2A1) marked by H3K27me3 and H3K9me3. Cryo-EM reveals that cGAS selectively engages the mH2A1/H2B acidic patch within heterotypic nucleosomes. Depleting mH2A1.1 or blocking H3K27me3 deposition releases cGAS from chromatin and activates the cGAS-STING-IRF3 pathway. Genome-wide profiling reveals two cGAS-bound chromatin compartments: chromosome-arm sites co-occupied by mH2A1.1, methylated CpG islands, and CTCF, where cGAS and mH2A1.1 binding are interdependent; and centromeric regions (14% of peaks), which lack DNA methylation and mH2A1.1 dependence. These findings establish mH2A1 and H3K27me3 as determinants of cGAS chromatin tethering, linking nuclear cGAS regulation to facultative heterochromatin and opening new avenues for modulating cGAS-STING signaling.",
+  "abstract_zh": "DNA传感器cGAS主要以非活性形式被隔离在染色质上，但这一状态如何被调控仍不清楚。我们表明，cGAS优先结合含有组蛋白变体macroH2A1 (mH2A1)且带有H3K27me3和H3K9me3标记的核小体。冷冻电镜揭示，cGAS选择性地与异型核小体内的mH2A1/H2B酸性斑块结合。耗竭mH2A1.1或阻断H3K27me3沉积可释放cGAS从染色质中解离，并激活cGAS-STING-IRF3通路。全基因组分析揭示两个cGAS结合的染色质区室：染色体臂位点，由mH2A1.1、甲基化CpG岛和CTCF共同占据，其中cGAS和mH2A1.1结合相互依赖；以及着丝粒区域（占峰值的14%），这些区域缺乏DNA甲基化和mH2A1.1依赖性。这些发现确立了mH2A1和H3K27me3作为cGAS染色质锚定的决定因素，将核内cGAS调控与兼性异染色质联系起来，并为调节cGAS-STING信号传导开辟了新途径。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757605",
+  "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757605",
+  "paper_page_path": "papers/biorxiv/10.64898_2026.10.08.757605/index.html"
+}

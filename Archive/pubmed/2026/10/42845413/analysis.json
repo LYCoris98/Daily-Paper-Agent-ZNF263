@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42845413",
+  "title": "Evolution of mechanical chromatin insulators from selfish genetic elements.",
+  "authors": "Alkhaldi, Faisal; Priyadarshini, Monika; El Mouridi, Sonia; Al-Zarah, Hajar; Habuchi, Satoshi; Frokjaer-Jensen, Christian",
+  "journal": "bioRxiv : the preprint server for biology",
+  "published_date": "2026-10-08",
+  "window": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "score": 7,
+  "one_liner_zh": "该文揭示DNA序列编码的机械特性可形成染色质绝缘子，与cpcdh基因家族可能共享类似的结构或调控机制，值得借鉴其研究思路。",
+  "abstract": "Genomes require physical boundaries to separate active and repressed chromatin, a function traditionally attributed to insulator proteins. Here, we show that genomic insulation can also emerge from physical properties encoded directly within the DNA polymer. In C. elegans , transcription-coupled mutational bias remodels Helitron transposon minisatellites to match the DNA helical repeat. The resulting 10-bp periodicity (PATCs) encodes intrinsic curvature, creating topologically responsive DNA elements that favor local deformation under supercoiling, disrupt canonical nucleosome organization, and protect germline genes from progressive and heritable silencing. Rather than acting as short protein-binding motifs, Helitron-derived PATCs form extended barrier elements that limit the stabilization of repressive chromatin. Comparative analyses suggest that related sequence-encoded mechanical signatures recur across Metazoa, including at Drosophila insulators, human CTCF sites, and active human LINE-1 retrotransposons. Thus, sequence-encoded mechanics provide an evolutionarily accessible substrate for chromatin insulation-a physical layer of genome organization that can be co-opted by host genomes to protect gene expression, and potentially retained by selfish elements for their own persistence.",
+  "abstract_zh": "基因组需要物理边界来分隔活跃和抑制的染色质，这一功能传统上归因于绝缘子蛋白。在此，我们表明基因组绝缘也可以源于直接编码在DNA聚合物中的物理特性。在秀丽隐杆线虫（*C. elegans*）中，转录偶联的突变偏差重塑了Helitron转座子小卫星序列，使其匹配DNA螺旋重复。由此产生的10-bp周期性（PATCs）编码内在曲率，形成拓扑响应性DNA元件，在超螺旋下有利于局部变形，破坏经典核小体组织，并保护生殖系基因免受渐进性和可遗传的沉默。Helitron衍生的PATCs并非作为短蛋白结合基序，而是形成延伸的屏障元件，限制抑制性染色质的稳定化。比较分析表明，相关的序列编码机械特征在后生动物中反复出现，包括果蝇绝缘子、人类CTCF位点以及活跃的人类LINE-1反转录转座子。因此，序列编码的力学特性为染色质绝缘提供了进化上可及的底物——这是基因组组织的一个物理层，可被宿主基因组利用以保护基因表达，并可能被自私元件保留以维持其自身持久性。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42845413/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42845413/",
+  "paper_page_path": "papers/pubmed/42845413/index.html"
+}

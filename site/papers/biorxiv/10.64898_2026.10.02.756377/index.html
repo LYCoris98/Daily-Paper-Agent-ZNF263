@@ -1,0 +1,558 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cerberus: bidirectional state space blocks improve accuracy and efficiency of regulatory sequence models · PCDH gene</title>
+  <link rel="stylesheet" href="/Daily-Paper-Agent-ZNF263/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/Daily-Paper-Agent-ZNF263/">PCDH gene</a>
+    <nav>
+      <a href="/Daily-Paper-Agent-ZNF263/">本周</a>
+      <a href="/Daily-Paper-Agent-ZNF263/archive.html">归档</a>
+      <a href="/Daily-Paper-Agent-ZNF263/search.html">搜索</a>
+    </nav>
+  </header>
+  <main>
+<article class="paper">
+  <div class="paper-head">
+    <span class="score score-mid">6</span>
+    <div>
+      <h1>Cerberus: bidirectional state space blocks improve accuracy and efficiency of regulatory sequence models</h1>
+      <div class="meta">Kelley DR; Yuan H; Huang X; Linder J</div>
+      <div class="meta muted">
+        
+        <span class="journal">bioRxiv</span> <span class="preprint-badge">预印本</span>
+        · 2026-10-09
+         · 仅摘要
+         · <a href="https://www.biorxiv.org/content/10.64898/2026.10.02.756377">原文</a>
+      </div>
+      <p class="one-liner">该文提出基于Mamba-2的双向状态空间块Hydra改进调控序列模型，虽未直接研究cpcdh基因家族，但其序列建模和变异效应预测方法可借鉴用于该家族的功能分析。</p>
+    </div>
+  </div>
+  
+  <section>
+    <h2>摘要</h2>
+    <div class="md">Sequence-to-function models predict regulatory activity and variant effects from DNA sequence alone, and leading models such as Borzoi compute long-range interactions with self-attention. The reference genome caps unique training sequences, and new assays add labels, not sequences. This constraint favors architectures that learn more from limited sequence diversity. We compared long-range blocks with the rest of the architecture and the training data held fixed, replacing Borzoi&#39;s transformer blocks with Hydra, a bidirectional state space block built on Mamba-2. Hydra blocks ran 5.7-fold faster on 8,192-token inputs, and models built on them predicted binned coverage on held-out sequences and classified fine-mapped eQTLs more accurately. Hydra&#39;s linear cost in sequence length let us run the blocks at 32 bp resolution and remove the U-net decoder, leaving a convolution-SSM model smaller and more accurate than the one it replaced. Scaling this architecture up on an augmented track collection produced Cerberus, an ensemble of eight models over 786 kb of input. We evaluated it on GTEx v11 fine-mapped eQTL, sQTL, and paQTL benchmarks with negatives matched on allele frequency, gene expression, and phenotype-specific positional annotations to reduce confounding by these properties. Cerberus is more accurate than Borzoi on all three phenotypes, 0.692 versus 0.668 mean eQTL AUPRC across 48 tissues, and estimates eQTL effect sizes better, 0.379 versus 0.321 Spearman $\rho$. Against AlphaGenome, it trades leads in eQTL classification, ahead on variants 3 to 100 kb from the transcription start site and behind in coding sequence and within 3 kb. Interpretation of the trained blocks shows interaction range growing with block depth, from a 0.9 kb median half-life in the first block to 79 kb in the seventh, and the deepest heads anchoring on promoters, enhancers, and CTCF peaks. We release the models, the training data, the training and evaluation code, and the benchmark sets, supporting variant scoring and transfer learning.</div>
+  </section>
+  
+  
+  <section>
+    <h2>摘要翻译</h2>
+    <div class="md">序列到功能模型仅从DNA序列预测调控活性和变异效应，领先模型如Borzoi通过自注意力计算长程相互作用。参考基因组限制了独特训练序列的数量，而新实验添加的是标签而非序列。这一约束有利于那些能从有限序列多样性中学习更多的架构。我们在保持架构其余部分和训练数据不变的情况下，将长程模块与其余部分进行比较，用Hydra（一种基于Mamba-2构建的双向状态空间模块）替换Borzoi的transformer模块。Hydra模块在8,192个token输入上运行速度快5.7倍，基于这些模块构建的模型在预测保留序列上的分箱覆盖率和分类精细定位eQTL方面更为准确。Hydra在序列长度上的线性成本使我们能够以32 bp分辨率运行这些模块，并移除U-net解码器，留下一个比原模型更小且更准确的卷积-SSM模型。在增强的轨道集合上扩展此架构产生了Cerberus，这是一个覆盖786 kb输入的八个模型的集成。我们在GTEx v11精细定位eQTL、sQTL和paQTL基准上对其进行了评估，负样本在等位基因频率、基因表达和表型特异性位置注释上进行了匹配，以减少这些属性的混淆效应。Cerberus在所有三种表型上均比Borzoi更准确，在48个组织中的平均eQTL AUPRC为0.692对比0.668，并且能更好地估计eQTL效应大小，Spearman ρ为0.379对比0.321。与AlphaGenome相比，它在eQTL分类上各有优劣，在距转录起始位点3至100 kb的变异上领先，在编码序列和3 kb以内则落后。对训练模块的解释显示，相互作用范围随模块深度增加而增长，从第一个模块的0.9 kb中位半衰期到第七个模块的79 kb，最深的注意力头锚定在启动子、增强子和CTCF峰上。我们发布了模型、训练数据、训练和评估代码以及基准集，支持变异评分和迁移学习。</div>
+  </section>
+  
+  
+  <section>
+    <h2>Paper Card</h2>
+    <div class="md"><h2>01 基本信息</h2>
+<ul>
+<li><strong>标题</strong>：Cerberus: bidirectional state space blocks improve accuracy and efficiency of regulatory sequence models</li>
+<li><strong>作者</strong>：Kelley DR; Yuan H; Huang X; Linder J</li>
+<li><strong>单位</strong>：未提供</li>
+<li><strong>期刊/平台</strong>：bioRxiv（预印本）</li>
+<li><strong>年份</strong>：2026</li>
+<li><strong>论文类型</strong>：预印本（方法学 + 基准评测）</li>
+<li><strong>领域</strong>：调控基因组学、序列-功能预测模型、state space models、深度学习架构</li>
+<li><strong>关键词</strong>：Cerberus、Hydra、Mamba-2、bidirectional state space、regulatory sequence models、eQTL、variant effect prediction</li>
+<li><strong>DOI/ID</strong>：10.64898/2026.10.02.756377</li>
+<li><strong>代码</strong>：作者声明发布训练与评估代码（具体仓库未提供）</li>
+<li><strong>数据</strong>：作者声明发布训练数据与基准集（具体链接未提供）</li>
+<li><strong>阅读日期</strong>：未提供</li>
+<li><strong>在「cpdch基因家族」方向中的位置</strong>：本文不涉及cpdch基因家族，属于调控序列建模的通用方法学论文。其可迁移价值在于：state space block架构、长程调控建模策略、eQTL/variant effect评测协议，以及模型可解释性方法，均可迁移至cpdch基因家族的调控机制研究。</li>
+</ul>
+<h2>02 一句话总结</h2>
+<p>本文用Mamba-2构建双向state space block（Hydra）替换Borzoi的transformer块，在保持训练数据与其余架构不变的前提下，实现5.7倍加速和更高的eQTL分类/效应量预测精度，并据此构建786 kb输入的Cerberus集成模型，在GTEx v11三个表型基准上超越Borzoi。</p>
+<h2>03 研究问题</h2>
+<ul>
+<li><strong>具体问题</strong>：在参考基因组提供的独特训练序列有限、新实验只增加标签不增加序列的约束下，如何设计序列-功能模型的架构，使其从有限的序列多样性中学到更多、更准确的调控规则？</li>
+<li><strong>为什么重要</strong>：基因组序列是固定的，训练数据多样性受限于参考基因组本身；架构效率与表达能力直接决定模型能否在有限数据上达到更高精度，并支持更长输入（覆盖更多调控元件）。</li>
+<li><strong>现有方法为何不足</strong>：Borzoi等领先模型依赖self-attention计算长程相互作用，其计算成本随序列长度二次增长，限制了输入长度与分辨率；U-net decoder等结构增加了参数与复杂度，但未必带来相应的精度收益。</li>
+<li><strong>精确研究问题</strong>：Can bidirectional state space blocks (Hydra) replace transformer blocks in regulatory sequence models to improve both accuracy and efficiency, and can scaling such an architecture produce a model (Cerberus) that outperforms existing models on eQTL/sQTL/paQTL variant effect benchmarks?</li>
+</ul>
+<h2>04 背景与发展脉络</h2>
+<p><em>注：此脉络为「仅本文框架」——基于本文引言与方法的叙述整理，未经外部文献核验。</em></p>
+<ol>
+<li>
+<p><strong>阶段一：卷积网络时代</strong>（如Basenji系列早期版本）
+   - 代表性方法：全卷积网络，局部motif检测 + 层级池化
+   - 优点：计算高效、适合局部序列特征
+   - 局限：感受野有限，长程调控信息捕获能力弱</p>
+</li>
+<li>
+<p><strong>阶段二：Transformer/self-attention时代</strong>（如Borzoi）
+   - 代表性方法：Borzoi，用self-attention计算长程相互作用
+   - 优点：能建模远距离调控关系，精度显著提升
+   - 局限：attention计算成本随序列长度二次增长，限制输入长度与分辨率；需要U-net decoder等辅助结构</p>
+</li>
+<li>
+<p><strong>阶段三：State space models时代</strong>（本文主张的位置）
+   - 代表性方法：Mamba-2、Hydra（本文）、Cerberus（本文）
+   - 优点：线性计算成本支持更长输入与更高分辨率；双向设计保留上下游上下文；精度超越transformer基线
+   - 局限：SSM的机制可解释性仍在探索中（本文通过block深度分析部分回应）</p>
+</li>
+</ol>
+<h2>05 核心痛点</h2>
+<table>
+<thead>
+<tr>
+<th>痛点</th>
+<th>表现</th>
+<th>成因或作者解释</th>
+<th>文中证据</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>训练序列多样性受限</td>
+<td>参考基因组提供有限的独特序列，新实验只增加标签不增加序列</td>
+<td>基因组序列是固定的生物学事实</td>
+<td>摘要「The reference genome caps unique training sequences, and new assays add labels, not sequences」</td>
+</tr>
+<tr>
+<td>Transformer计算成本高</td>
+<td>self-attention在长序列上计算量二次增长，限制输入长度与分辨率</td>
+<td>attention机制固有的O(L²)复杂度</td>
+<td>摘要「leading models such as Borzoi compute long-range interactions with self-attention」；「Hydra blocks ran 5.7-fold faster on 8,192-token inputs」</td>
+</tr>
+<tr>
+<td>现有模型精度瓶颈</td>
+<td>Borzoi在eQTL分类与效应量估计上仍有提升空间</td>
+<td>架构效率限制模型规模与输入覆盖范围</td>
+<td>摘要中Cerberus vs Borzoi的eQTL AUPRC 0.692 vs 0.668、Spearman ρ 0.379 vs 0.321</td>
+</tr>
+<tr>
+<td>基准评测混杂因素</td>
+<td>eQTL基准中阴性对照可能受等位基因频率、基因表达、位置注释等混杂</td>
+<td>这些属性与调控功能相关，若不匹配会虚高精度</td>
+<td>摘要「negatives matched on allele frequency, gene expression, and phenotype-specific positional annotations to reduce confounding」</td>
+</tr>
+</tbody>
+</table>
+<h2>06 核心思想</h2>
+<ol>
+<li>
+<p><strong>表面方法</strong>：用Mamba-2构建双向state space block（Hydra），替换Borzoi的transformer块；利用SSM的线性复杂度在32 bp分辨率下运行blocks，移除U-net decoder；将架构扩展到786 kb输入并集成8个模型，形成Cerberus。</p>
+</li>
+<li>
+<p><strong>核心洞察</strong>：调控序列建模的核心瓶颈不是模型容量，而是架构在有限序列多样性下的学习效率。SSM的线性计算成本允许模型在更高分辨率（32 bp vs 更低分辨率）和更长输入（786 kb）下运行，从而让模型直接看到更多原始序列信息，而非依赖U-net等结构进行隐式信息压缩。双向设计确保每个位置同时获得上下游上下文，这对调控元件（如enhancer-promoter interaction）的方向性至关重要。</p>
+</li>
+<li>
+<p><strong>可能的普适教训</strong> [Analysis]：在数据多样性受限的生物学问题中，架构的「信息效率」比「参数容量」更重要——与其增加模型复杂度，不如让模型在更高分辨率、更长上下文下直接处理原始数据。这一原则可能适用于cpdch基因家族研究：如果训练数据有限，优先考虑能高效利用长上下文的架构，而非堆叠更多参数。</p>
+</li>
+</ol>
+<h2>07 方法总览</h2>
+<ul>
+<li><strong>输入</strong>：DNA序列（Cerberus为786 kb；Hydra对比实验为8,192 tokens）</li>
+<li><strong>输出</strong>：调控活性预测（coverage tracks，即基因组区间的预测信号）；下游任务为eQTL/sQTL/paQTL variant effect分类与效应量估计</li>
+<li><strong>核心模块</strong>：
+  1. 卷积前端（stem）：提取局部序列特征（motif检测）
+  2. Hydra blocks（双向SSM）：建模长程相互作用，替代transformer
+  3. 输出头：预测多track的coverage（无U-net decoder）</li>
+<li><strong>训练</strong>：在增强的track集合上训练（augmented track collection）；集成8个模型</li>
+<li><strong>工具</strong>：Mamba-2（SSM实现）；未提供其他框架细节</li>
+<li><strong>反馈回路</strong>：未明确描述（如是否使用迭代训练/自蒸馏，未提供）</li>
+<li><strong>文字流程</strong>：DNA序列 → 卷积stem提取局部特征 → 多层Hydra blocks（双向SSM）逐层扩大感受野 → 输出头直接预测各track的coverage → 下游任务中，对variant进行in silico突变（参考序列 vs 突变序列的预测差异）→ 分类/排序variant</li>
+</ul>
+<h2>08 核心模块拆解</h2>
+<table>
+<thead>
+<tr>
+<th>模块</th>
+<th>功能</th>
+<th>为何需要</th>
+<th>输入输出</th>
+<th>支撑证据</th>
+<th>移除后的已知或预期影响</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>卷积stem</td>
+<td>提取局部序列特征（motif）</td>
+<td>为SSM提供局部归纳偏置，降低序列长度</td>
+<td>输入：raw DNA序列；输出：token序列</td>
+<td>未提供消融实验</td>
+<td>[预期] 移除后SSM需从头学习局部特征，可能降低小数据下的精度</td>
+</tr>
+<tr>
+<td>Hydra blocks（双向SSM）</td>
+<td>建模长程调控相互作用</td>
+<td>线性计算成本支持更高分辨率与更长输入；双向设计捕获上下游上下文</td>
+<td>输入：卷积stem输出；输出：上下文增强的表示</td>
+<td>5.7倍加速（8,192 tokens）；eQTL分类与效应量精度优于transformer</td>
+<td>[实测] 替换为transformer后精度下降（对比实验）；[预期] 移除后模型退化为纯卷积，长程建模能力大幅下降</td>
+</tr>
+<tr>
+<td>32 bp分辨率运行</td>
+<td>在更高分辨率下处理序列</td>
+<td>保留更多原始序列信息，减少信息丢失</td>
+<td>输入：32 bp bins；输出：每bin的预测</td>
+<td>移除U-net后精度仍提升</td>
+<td>[预期] 若降回低分辨率，需重新引入U-net等decoder，增加复杂度且可能降低精度</td>
+</tr>
+<tr>
+<td>无U-net decoder</td>
+<td>直接输出coverage</td>
+<td>SSM线性复杂度使高分辨率直接预测成为可能，无需U-net进行上采样</td>
+<td>输入：Hydra blocks输出；输出：coverage tracks</td>
+<td>模型更小且更精确</td>
+<td>[实测] 移除U-net后模型更小、更精确（作者主张）</td>
+</tr>
+<tr>
+<td>集成（8个模型）</td>
+<td>降低单模型方差，提升鲁棒性</td>
+<td>单模型可能对特定序列区域有偏</td>
+<td>输入：8个模型预测；输出：集成预测</td>
+<td>Cerberus整体精度报告</td>
+<td>[预期] 移除集成后精度可能下降，但具体幅度未提供</td>
+</tr>
+<tr>
+<td>基准匹配（negatives matching）</td>
+<td>控制混杂因素</td>
+<td>等位基因频率、基因表达、位置注释等与调控功能相关，不匹配会虚高精度</td>
+<td>输入：variant集合；输出：匹配后的正负集</td>
+<td>摘要明确描述匹配策略</td>
+<td>[预期] 不匹配时精度可能虚高，但作者未提供对比数据</td>
+</tr>
+</tbody>
+</table>
+<h2>09 关键公式符号</h2>
+<p>不适用。本文为方法学/基准评测论文，摘要与正文中未提供需要单独列出的数学公式。模型核心为Mamba-2的state space formulation（外部文献），但本文未在提供的材料中复述。</p>
+<h2>10 实验设计与证据链</h2>
+<ul>
+<li><strong>数据集/群体</strong>：GTEx v11 fine-mapped eQTL、sQTL、paQTL基准；训练数据为增强的track集合（augmented track collection，具体内容未提供）</li>
+<li><strong>规模</strong>：eQTL基准覆盖48个组织；Cerberus输入786 kb；Hydra对比实验输入8,192 tokens</li>
+<li><strong>指标</strong>：AUPRC（eQTL分类）、Spearman ρ（效应量估计）</li>
+<li><strong>基线</strong>：Borzoi（transformer架构）；AlphaGenome（对比模型）</li>
+<li><strong>预算</strong>：未提供</li>
+<li><strong>骨干/仪器</strong>：未提供（GPU型号、训练时长等未说明）</li>
+<li><strong>oracle输入</strong>：不适用（无人工标注的oracle输入；模型输入为DNA序列）</li>
+<li><strong>评测协议</strong>：fine-mapped variant分类（正负集匹配等位基因频率、基因表达、位置注释）；效应量估计用Spearman相关</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>实验</th>
+<th>检验的claim</th>
+<th>对比与条件</th>
+<th>结果</th>
+<th>支持的结论</th>
+<th>不支持更强的结论</th>
+<th>来源</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hydra vs Borzoi blocks（速度）</td>
+<td>SSM比transformer更高效</td>
+<td>相同输入长度8,192 tokens，其余架构与训练数据固定</td>
+<td>5.7倍加速</td>
+<td>SSM在长序列上计算效率显著优于transformer</td>
+<td>未提供不同长度下的扩展性曲线</td>
+<td>摘要</td>
+</tr>
+<tr>
+<td>Hydra vs Borzoi blocks（精度）</td>
+<td>SSM在有限数据下学习效率更高</td>
+<td>相同训练数据与其余架构</td>
+<td>eQTL分类与效应量精度更高</td>
+<td>SSM架构在调控序列建模上优于transformer</td>
+<td>未提供具体数值（除最终模型外）</td>
+<td>摘要</td>
+</tr>
+<tr>
+<td>Cerberus vs Borzoi（eQTL）</td>
+<td>扩展后的SSM模型超越transformer基线</td>
+<td>GTEx v11 fine-mapped eQTL，48组织</td>
+<td>AUPRC 0.692 vs 0.668；Spearman ρ 0.379 vs 0.321</td>
+<td>Cerberus在eQTL分类与效应量估计上均优于Borzoi</td>
+<td>未提供显著性检验</td>
+<td>摘要</td>
+</tr>
+<tr>
+<td>Cerberus vs AlphaGenome（eQTL）</td>
+<td>Cerberus与另一领先模型对比</td>
+<td>同上</td>
+<td>互有胜负：3-100 kb区域领先，coding sequence及3 kb内落后</td>
+<td>Cerberus在中距离调控上优势明显，近端/编码区仍有不足</td>
+<td>未提供具体数值</td>
+<td>摘要</td>
+</tr>
+<tr>
+<td>Cerberus（sQTL/paQTL）</td>
+<td>泛化到其他调控表型</td>
+<td>GTEx v11 fine-mapped sQTL、paQTL</td>
+<td>均优于Borzoi</td>
+<td>SSM架构泛化到多种调控表型</td>
+<td>未提供具体数值</td>
+<td>摘要</td>
+</tr>
+<tr>
+<td>Block深度可解释性</td>
+<td>深层blocks捕获更长的调控相互作用</td>
+<td>对训练后blocks进行归因分析</td>
+<td>相互作用范围从第1个block的0.9 kb中位半衰期增长到第7个的79 kb；最深层的heads锚定在promoter、enhancer、CTCF peaks</td>
+<td>模型层级结构对应调控相互作用的距离层级</td>
+<td>未提供与生物学机制的因果验证</td>
+<td>摘要</td>
+</tr>
+</tbody>
+</table>
+<h2>11 结论正确解读</h2>
+<ul>
+<li><strong>任务范围</strong>：本文结论限于调控序列建模（coverage prediction）与variant effect预测（eQTL/sQTL/paQTL），不涉及其他序列-功能任务（如 splicing、methylation等）。</li>
+<li><strong>oracle/真值输入</strong>：eQTL等基准使用GTEx fine-mapped variants，属于实验观测数据，非人工构造的oracle；模型输入仅为DNA序列，无其他细胞类型或环境信息。</li>
+<li><strong>端到端状态</strong>：Cerberus是端到端训练的序列-功能模型，但下游variant effect预测依赖in silico突变（参考 vs 突变序列预测差异），属于零样本（zero-shot）迁移，未针对eQTL任务微调。</li>
+<li><strong>算力成本</strong>：未提供训练成本、GPU数量、训练时长等关键信息，无法评估部署门槛。</li>
+<li><strong>历史数据依赖</strong>：训练数据为增强的track集合，具体来源、版本、是否包含GTEx数据未说明；若训练数据与评测基准存在重叠，可能引入数据泄漏风险（作者未讨论）。</li>
+<li><strong>模型依赖</strong>：结论基于Mamba-2实现；其他SSM变体（如S4、Hyena）是否同样有效未验证。</li>
+<li><strong>最难情形</strong>：Cerberus在coding sequence及距TSS 3 kb以内的variant上落后于AlphaGenome，说明近端调控/编码区变异仍是难点。</li>
+<li><strong>群体/领域边界</strong>：评测限于GTEx（人类组织），未涉及其他物种或细胞系；fine-mapped variants的可靠性依赖GTEx的统计推断质量。</li>
+<li><strong>不确定性</strong>：未提供置信区间、显著性检验或多次运行的标准差；集成模型的个体差异未报告。</li>
+<li><strong>有边界的复述</strong>：在GTEx v11 fine-mapped eQTL/sQTL/paQTL基准上，以786 kb输入、32 bp分辨率、8模型集成的SSM架构（Cerberus），在eQTL分类（AUPRC 0.692 vs 0.668）和效应量估计（ρ 0.379 vs 0.321）上优于Borzoi，并在3-100 kb区间优于AlphaGenome，但在近端（&lt;3 kb）和编码区落后。</li>
+</ul>
+<h2>12 作者自认局限</h2>
+<p>在提供的材料（摘要）中未发现作者明确承认的局限。</p>
+<p><strong>作者提及的相关约束</strong>（非正式局限）：
+- 参考基因组本身限制了训练序列多样性（摘要首句），这是问题背景而非作者承认的模型局限。
+- Cerberus在coding sequence和距TSS 3 kb内落后于AlphaGenome（摘要），作者将其作为对比结果报告，未展开讨论原因或承认为局限。</p>
+<h2>13 批判性分析</h2>
+<table>
+<thead>
+<tr>
+<th>[Analysis] 观察</th>
+<th>潜在问题或替代解释</th>
+<th>为何重要</th>
+<th>如何检验</th>
+<th>依据</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>训练数据与评测基准可能重叠</td>
+<td>增强的track集合若包含GTEx相关数据，eQTL评测可能受数据泄漏影响</td>
+<td>数据泄漏会虚高精度，影响结论可信度</td>
+<td>检查训练track集合是否包含GTEx eQTL输入特征；在完全排除重叠的基准上重测</td>
+<td>摘要未说明训练数据来源</td>
+</tr>
+<tr>
+<td>未提供显著性检验与置信区间</td>
+<td>0.692 vs 0.668的AUPRC差异可能不显著</td>
+<td>无法判断精度提升是否稳健</td>
+<td>要求作者提供多次运行的标准差、配对检验或bootstrap CI</td>
+<td>摘要仅报告点估计</td>
+</tr>
+<tr>
+<td>与AlphaGenome的对比不完整</td>
+<td>仅报告「互有胜负」，未给出具体数值和区域划分标准</td>
+<td>无法评估整体优劣和差异幅度</td>
+<td>获取完整对比数据，按距离、注释类别分层分析</td>
+<td>摘要描述模糊</td>
+</tr>
+<tr>
+<td>可解释性分析（block深度）缺乏因果验证</td>
+<td>归因分析显示深层blocks锚定调控元件，但这是相关性而非因果性</td>
+<td>过度解读可解释性可能误导对模型机制的理解</td>
+<td>进行in silico扰动实验（如删除特定block）验证其对特定调控相互作用的必要性</td>
+<td>摘要仅报告相关性</td>
+</tr>
+<tr>
+<td>未报告模型在非GTEx数据上的泛化</td>
+<td>仅评测人类组织eQTL/sQTL/paQTL，未涉及其他物种、细胞系或表型</td>
+<td>泛化能力未知，可能过拟合GTEx特征</td>
+<td>在ENCODE、FANTOM等独立数据上评测</td>
+<td>摘要未提及</td>
+</tr>
+<tr>
+<td>计算成本报告不完整</td>
+<td>5.7倍加速仅针对block替换，未报告整体训练/推理成本</td>
+<td>无法评估实际部署价值</td>
+<td>要求提供端到端训练时间、GPU资源、推理延迟</td>
+<td>摘要仅报告block级加速</td>
+</tr>
+</tbody>
+</table>
+<h2>14 Agent 提炼的知识候选</h2>
+<p><strong>标题：Agent 提炼的知识候选</strong></p>
+<ol>
+<li>
+<p><strong>双向SSM架构设计</strong>：Hydra的双向state space block设计（基于Mamba-2）可直接迁移至cpdch基因家族的调控建模。若需预测cpdch基因在不同细胞类型/条件下的表达调控，可构建以cpdch基因座为中心、覆盖上下游调控元件的长序列输入，用双向SSM捕获enhancer-promoter相互作用。</p>
+</li>
+<li>
+<p><strong>高分辨率输入策略</strong>：利用SSM的线性复杂度在32 bp分辨率下运行，移除U-net decoder。对cpdch基因家族研究，这意味着可以在不牺牲计算效率的前提下，对cpdch基因座及其调控区域进行高分辨率建模，保留更精细的序列特征（如转录因子结合位点的精确位置）。</p>
+</li>
+<li>
+<p><strong>基准构建与负样本匹配</strong>：Cerberus的评测协议（负样本匹配等位基因频率、基因表达、位置注释）可直接迁移至cpdch基因家族的variant effect研究。若研究cpdch基因相关疾病变异，应采用同样的匹配策略构建阴性对照，避免混杂因素导致的假阳性。</p>
+</li>
+<li>
+<p><strong>模型可解释性分析</strong>：通过分析不同深度block的相互作用范围（0.9 kb到79 kb）和锚定元件类型，可迁移至cpdch基因家族研究：训练类似模型后，可分析哪些block/层对应cpdch基因的启动子-增强子相互作用，从而定位关键调控元件。</p>
+</li>
+<li>
+<p><strong>集成策略</strong>：8模型集成提升鲁棒性。对cpdch基因家族研究，若单模型预测不稳定，可采用类似集成策略降低方差。</p>
+</li>
+<li>
+<p><strong>零样本variant effect预测</strong>：Cerberus通过in silico突变（参考 vs 突变序列预测差异）进行variant effect预测，无需针对特定表型微调。此方法可直接迁移至cpdch基因家族：对cpdch基因座内的SNV/indel进行in silico突变扫描，预测其调控效应。</p>
+</li>
+</ol>
+<h2>15 与已有知识连接</h2>
+<ul>
+<li><strong>Mamba-2/SSM文献</strong>：本文基于Mamba-2构建Hydra，与state space model在序列建模中的进展直接相关（如Gu &amp; Dao的Mamba系列）。[Analysis] 读者可对比S4、Hyena等其他SSM变体在调控序列建模上的表现。</li>
+<li><strong>Borzoi/Enformer系列</strong>：本文以Borzoi为基线，属于调控序列模型（regulatory sequence models）的发展脉络。cpdch基因家族研究者若熟悉Basenji/Borzoi/Enformer，可快速理解本文的改进点。</li>
+<li><strong>GTEx eQTL/sQTL/paQTL资源</strong>：评测基准基于GTEx v11，这是人类调控 genomics 的标准资源。cpdch基因家族研究若涉及人类组织表达调控，可直接使用同一基准或GTEx数据。</li>
+<li><strong>AlphaGenome</strong>：作为对比模型，代表另一类调控序列建模方法。[Analysis] 读者可查阅AlphaGenome原文了解其架构差异。</li>
+<li><strong>可解释性方法</strong>：block深度归因分析属于模型可解释性范畴，与feature attribution、attention analysis等方法论相关。</li>
+<li><strong>与cpdch基因家族的连接</strong> [Analysis]：cpdch基因家族（若涉及调控研究）可借鉴本文的架构选择（SSM vs transformer）、输入分辨率策略、基准构建方法，以及零样本variant effect预测流程。但本文未涉及cpdch基因家族，所有迁移均为方法论层面的借鉴。</li>
+</ul>
+<h2>16 Agent 生成的研究候选</h2>
+<p><strong>标题：Agent 生成的研究候选</strong></p>
+<ol>
+<li>
+<p><strong>候选名称</strong>：cpdch基因座双向SSM调控模型
+   - <strong>来源局限/观察</strong>：Cerberus证明双向SSM在长序列调控建模上优于transformer；cpdch基因家族若存在长程调控机制，可借鉴此架构。
+   - <strong>核心假设</strong>：cpdch基因座的调控依赖于距TSS数十kb至数百kb的增强子，双向SSM能比transformer更高效地捕获这些相互作用。
+   - <strong>相对本文的增量</strong>：将架构迁移至特定基因家族（cpdch），并针对该基因家族优化输入区域选择。
+   - <strong>初步方法</strong>：以cpdch基因TSS为中心，取±400 kb序列输入，用Hydra blocks构建模型，预测cpdch基因在GTEx各组织的表达；与Borzoi对比。
+   - <strong>验证方式</strong>：GTEx eQTL基准中cpdch基因相关变异的分类精度；独立ChIP-seq验证预测的增强子区域。
+   - <strong>可能的失败模式</strong>：cpdch基因家族可能不存在长程调控，或SSM优势在短基因座上不显著。
+   - <strong>创新状态</strong>：unverified</p>
+</li>
+<li>
+<p><strong>候选名称</strong>：cpdch基因家族variant effect零样本预测流程
+   - <strong>来源局限/观察</strong>：Cerberus的in silico突变流程无需微调即可预测variant effect；cpdch基因家族相关疾病变异的功能注释可能缺乏实验数据。
+   - <strong>核心假设</strong>：Cerberus（或类似SSM模型）对cpdch基因座内变异的零样本预测能有效区分致病/良性变异。
+   - <strong>相对本文的增量</strong>：将通用模型应用于特定基因家族，并整合ClinVar/gnomAD中cpdch相关变异进行验证。
+   - <strong>初步方法</strong>：下载Cerberus模型，对cpdch基因座内所有常见/罕见变异进行in silico突变扫描，输出效应分数；与ClinVar标注比较。
+   - <strong>验证方式</strong>：ClinVar中cpdch相关变异的AUC/PRC；与MPRA（massively parallel reporter assay）数据对比。
+   - <strong>可能的失败模式</strong>：零样本预测对特定基因家族可能系统性偏差；ClinVar标注稀疏。
+   - <strong>创新状态</strong>：partially checked（方法已存在，但未应用于cpdch）</p>
+</li>
+<li>
+<p><strong>候选名称</strong>：cpdch基因家族调控层级可解释性分析
+   - <strong>来源局限/观察</strong>：Cerberus的block深度分析显示相互作用范围随深度增长（0.9 kb→79 kb），且深层锚定调控元件；cpdch基因家族的调控层级未知。
+   - <strong>核心假设</strong>：cpdch基因座的调控层级遵循「近端启动子→远端增强子→CTCF边界」的距离递增模式，且可通过SSM模型的层级归因揭示。
+   - <strong>相对本文的增量</strong>：将归因分析从通用基因组扩展到特定基因家族，并关联cpdch基因家族成员间的差异调控。
+   - <strong>初步方法</strong>：训练cpdch基因座SSM模型，对每层block计算相互作用半衰期和锚定元件类型；比较cpdch家族不同成员的调控层级差异。
+   - <strong>验证方式</strong>：Hi-C数据验证预测的增强子-启动子相互作用；CRISPR干扰（CRISPRi）验证关键增强子。
+   - <strong>可能的失败模式</strong>：归因分析可能仅反映模型内部表征，而非真实生物学机制。
+   - <strong>创新状态</strong>：unverified</p>
+</li>
+<li>
+<p><strong>候选名称</strong>：cpdch基因家族跨物种调控保守性分析
+   - <strong>来源局限/观察</strong>：Cerberus在人类GTEx数据上评测；cpdch基因家族的调控保守性可能揭示核心调控元件。
+   - <strong>核心假设</strong>：cpdch基因家族的核心调控元件在哺乳动物中保守，且SSM模型能跨物种迁移预测。
+   - <strong>相对本文的增量</strong>：将模型从人类扩展到多物种，并聚焦特定基因家族。
+   - <strong>初步方法</strong>：用人类训练的Cerberus对小鼠、大鼠等物种的cpdch同源基因座进行预测，比较调控图谱；鉴定保守调控元件。
+   - <strong>验证方式</strong>：跨物种ChIP-seq/ATAC-seq一致性；转基因报告实验验证保守增强子。
+   - <strong>可能的失败模式</strong>：跨物种序列差异可能导致模型预测失效；保守性分析可能受比对质量影响。
+   - <strong>创新状态</strong>：unverified</p>
+</li>
+</ol></div>
+  </section>
+  
+  
+  <section>
+    <h2>审稿人评审</h2>
+    <div class="md"><h2>Review setup</h2>
+<ul>
+<li><strong>Input scope</strong> 摘要（preprint，bioRxiv）</li>
+<li><strong>Assessment boundary</strong> 仅基于摘要文本；无正文、图、表、方法细节或补充材料</li>
+<li><strong>Shared manuscript claim summary</strong> 作者提出一种基于 Mamba-2 的双向 state space block（Hydra），替换 Borzoi 的 transformer 块后，在保持其余架构与训练数据不变的前提下，获得 5.7 倍加速、更高的序列预测准确率与 eQTL 分类性能；将架构放大并扩展训练数据后得到 Cerberus 集成模型，在 GTEx v11 fine-mapped eQTL/sQTL/paQTL 基准上优于 Borzoi，并与 AlphaGenome 各有胜负；对训练后 block 的解释性分析显示交互范围随深度增长。</li>
+<li><strong>Visible evidence base</strong> 摘要中报告的定量结果：5.7 倍加速、eQTL AUPRC 0.692 vs 0.668、Spearman ρ 0.379 vs 0.321、交互范围 0.9 kb 至 79 kb；无图、表、统计检验、误差条或方法细节</li>
+<li><strong>Missing materials affecting confidence</strong> 正文全文、所有图与表、方法部分、模型架构细节、训练超参数、数据集构成与划分、统计显著性检验、消融实验细节、与 AlphaGenome 比较的完整结果、代码与数据可用性验证</li>
+</ul>
+<h2>Reviewer</h2>
+<ul>
+<li><strong>Overall assessment</strong> 该摘要报告了一个有明确动机的架构改进，结果方向合理且与领域需求相关。然而，当前可见证据仅限于摘要层面的数值声明，缺乏统计检验、误差估计、方法细节和完整的比较分析，无法对核心结论的稳健性做出充分评估。核心主张（Hydra 优于 transformer、Cerberus 优于 Borzoi）在方向上可信，但证据强度不足以在当前阶段确立结论。</li>
+<li><strong>Who would be interested in the results, and why</strong> 计算基因组学与调控基因组学研究者，特别是从事 sequence-to-function 模型开发、非编码变异效应预测和深度学习架构设计的人员。该工作直接回应了参考基因组序列多样性有限这一约束下的架构选择问题，对模型效率与准确率的权衡有实际参考价值。</li>
+<li><strong>Major strengths</strong> 
+  1. 问题定义清晰：明确指出参考基因组对训练序列多样性的限制，并以此作为架构选择的动机，逻辑链条完整。
+  2. 对照设计合理：在摘要层面声明了「保持其余架构与训练数据固定」的替换策略，这是评估架构贡献的正确方式。
+  3. 基准选择具有领域相关性：使用 GTEx fine-mapped eQTL/sQTL/paQTL 且匹配等位基因频率、基因表达和位置注释的阴性集，表明作者意识到已知的混杂因素。
+  4. 资源释放承诺完整：模型、训练数据、代码和基准集均计划公开，有利于可重复性和领域后续研究。</li>
+<li><strong>Major Concerns</strong></li>
+<li><strong>Concern ID</strong> R1-M1</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> Yes</li>
+<li><strong>Axis</strong> Statistical rigor</li>
+<li><strong>Claim pointer</strong> 「Cerberus is more accurate than Borzoi on all three phenotypes, 0.692 versus 0.668 mean eQTL AUPRC across 48 tissues, and estimates eQTL effect sizes better, 0.379 versus 0.321 Spearman ρ」</li>
+<li><strong>Evidence pointer</strong> 摘要，无对应图或表</li>
+<li><strong>Concern</strong> 摘要报告了均值 AUPRC 和 Spearman ρ 的数值差异，但未提供任何方差度量、逐组织结果分布、配对检验或显著性水平。48 个组织的均值差异（0.024 AUPRC）是否在组织间一致，还是由少数组织驱动，完全不可判断。</li>
+<li><strong>Why it matters</strong> 该声明是论文的核心结论之一。若无统计支持，读者无法区分真实改进与噪声或偶然性。领域内对深度学习模型的小幅性能提升通常需要严格的显著性检验和效应量报告。</li>
+<li><strong>Resolution test</strong> 提供逐组织结果（如箱线图或散点图）、配对显著性检验（如 Wilcoxon signed-rank test）的 p 值或置信区间，并报告效应量的一致性。</li>
+<li><strong>Concern ID</strong> R1-M2</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> Yes</li>
+<li><strong>Axis</strong> Methodological transparency</li>
+<li><strong>Claim pointer</strong> 「Hydra blocks ran 5.7-fold faster on 8,192-token inputs, and models built on them predicted binned coverage on held-out sequences and classified fine-mapped eQTLs more accurately」</li>
+<li><strong>Evidence pointer</strong> 摘要，无方法部分</li>
+<li><strong>Concern</strong> 摘要未说明 5.7 倍加速的测量条件（硬件、batch size、是否包含端到端推理或仅 block 前向）、Hydra 与 transformer 块的参数数量是否匹配、以及「more accurately」的具体指标和效应量。此外，32 bp 分辨率下移除 U-net decoder 的决策依据和其对性能的独立贡献未作说明。</li>
+<li><strong>Why it matters</strong> 架构比较的有效性取决于计算公平性（FLOPs、参数数、内存占用）和测量协议的一致性。若无这些信息，加速比和准确率提升可能来自不公平的对照设置。</li>
+<li><strong>Resolution test</strong> 提供详细的测量协议、参数与 FLOPs 对比表、以及消融实验（如保持分辨率不变仅替换 block、保持 block 不变仅移除 decoder）的结果。</li>
+<li><strong>Concern ID</strong> R1-M3</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> Yes</li>
+<li><strong>Axis</strong> Comparative completeness</li>
+<li><strong>Claim pointer</strong> 「Against AlphaGenome, it trades leads in eQTL classification, ahead on variants 3 to 100 kb from the transcription start site and behind in coding sequence and within 3 kb」</li>
+<li><strong>Evidence pointer</strong> 摘要，无对应图或表</li>
+<li><strong>Concern</strong> 与 AlphaGenome 的比较仅以一句话概括，未报告具体数值、距离分层的方式、样本量、或该模式是否在多个组织间一致。此外，AlphaGenome 的架构、训练数据和输入长度与 Cerberus 差异较大，摘要未讨论这些差异如何影响比较的公平性。</li>
+<li><strong>Why it matters</strong> 该比较是论文定位的重要部分，但当前信息不足以评估 Cerberus 相对于现有最先进模型的真实优劣。距离分层的结果模式可能反映架构差异，也可能反映训练数据或基准构建的差异。</li>
+<li><strong>Resolution test</strong> 提供与 AlphaGenome 的完整比较表（按距离分层、按组织、按变异类型），并讨论架构与数据差异对比较解释的影响。</li>
+<li><strong>Concern ID</strong> R1-M4</li>
+<li><strong>Severity</strong> Major</li>
+<li><strong>Blocking</strong> No</li>
+<li><strong>Axis</strong> Interpretability claim</li>
+<li><strong>Claim pointer</strong> 「Interpretation of the trained blocks shows interaction range growing with block depth, from a 0.9 kb median half-life in the first block to 79 kb in the seventh, and the deepest heads anchoring on promoters, enhancers, and CTCF peaks」</li>
+<li><strong>Evidence pointer</strong> 摘要，无方法细节</li>
+<li><strong>Concern</strong> 摘要未说明「interaction range」和「half-life」的精确定义、计算方法、以及「anchoring on promoters, enhancers, and CTCF peaks」的统计显著性如何评估。这些分析是否基于 curated 的基因组注释集合，以及是否与随机对照比较，均不清楚。</li>
+<li><strong>Why it matters</strong> 可解释性分析是论文的附加价值主张，但其可信度取决于方法的严谨性。若无明确的定义和对照，这些观察可能反映注释集的分布偏差而非模型学到的真实生物学。</li>
+<li><strong>Resolution test</strong> 提供 interaction range 计算的形式化定义、与随机或置换对照的比较、以及 peak anchoring 的富集显著性检验。</li>
+<li><strong>Minor Comments</strong></li>
+<li><strong>Concern ID</strong> R1-m1</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Clarity</li>
+<li><strong>Affected element</strong> 摘要中「augmented track collection」的表述</li>
+<li><strong>Evidence pointer</strong> 摘要</li>
+<li><strong>Issue</strong> 「augmented track collection」未说明具体包含哪些数据源、如何增强、以及相对于 Borzoi 训练数据的增量。</li>
+<li><strong>Required correction</strong> 在摘要或方法中明确列出新增或修改的 track 类型和来源。</li>
+<li><strong>Concern ID</strong> R1-m2</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Reproducibility</li>
+<li><strong>Affected element</strong> 模型规模描述</li>
+<li><strong>Evidence pointer</strong> 摘要</li>
+<li><strong>Issue</strong> 「ensemble of eight models over 786 kb of input」未说明单模型参数量、集成策略（平均、投票或其他）以及计算资源需求。</li>
+<li><strong>Required correction</strong> 提供单模型参数量、集成方法和推理成本的具体数字。</li>
+<li><strong>Concern ID</strong> R1-m3</li>
+<li><strong>Severity</strong> Minor</li>
+<li><strong>Axis</strong> Benchmark description</li>
+<li><strong>Affected element</strong> 阴性集构建</li>
+<li><strong>Evidence pointer</strong> 摘要</li>
+<li><strong>Issue</strong> 摘要提到阴性集匹配了等位基因频率、基因表达和位置注释，但未说明匹配的具体方法和残余混杂的可能。</li>
+<li><strong>Required correction</strong> 在方法中详细描述匹配算法和验证残余混杂的步骤。</li>
+<li><strong>Technical failings that need to be addressed before the case is established</strong> R1-M1（统计显著性缺失）、R1-M2（计算公平性与消融不完整）、R1-M3（与 AlphaGenome 比较不完整）</li>
+<li><strong>Assessment against Nature-style criteria</strong> </li>
+<li>Originality：中等。将 Mamba-2 应用于调控序列建模并非全新想法，但双向 state space block 的设计和与 Borzoi 的系统对照有一定新意。</li>
+<li>Scientific importance：较高。调控序列模型的效率与准确率直接影响非编码变异解释和疾病研究，该工作针对的序列多样性瓶颈是领域内真实约束。</li>
+<li>Interdisciplinary readership：中等。主要吸引计算基因组学和机器学习交叉领域读者，对实验生物学的直接吸引力取决于下游应用展示。</li>
+<li>Technical soundness：当前不可充分评估。摘要层面的声明缺乏统计检验、方法细节和消融支持。</li>
+<li>Readability for nonspecialists：摘要整体可读，但「bidirectional state space block」「half-life」等术语未定义，对非专业读者有一定门槛。</li>
+<li><strong>Recommendation posture</strong> 目前证据不足以确立核心结论。方向有前景，但需在完整稿件中提供统计检验、计算公平性分析和完整的比较数据后方可评估。建议在获得全文后重新审阅。</li>
+</ul>
+<h2>Risk / unsupported claims</h2>
+<ul>
+<li>「Hydra blocks ran 5.7-fold faster」：测量条件未说明，不可验证。</li>
+<li>「models built on them predicted binned coverage on held-out sequences and classified fine-mapped eQTLs more accurately」：具体指标和效应量未报告。</li>
+<li>「Cerberus is more accurate than Borzoi on all three phenotypes」：无统计检验支持。</li>
+<li>「estimates eQTL effect sizes better, 0.379 versus 0.321 Spearman ρ」：无置信区间或显著性检验。</li>
+<li>「interaction range growing with block depth」：方法定义和统计支持缺失。</li>
+<li>「deepest heads anchoring on promoters, enhancers, and CTCF peaks」：富集显著性未报告。</li>
+<li>「supporting variant scoring and transfer learning」：摘要未展示任何 transfer learning 实验或结果。</li>
+</ul></div>
+  </section>
+  
+</article>
+</main>
+</body>
+</html>

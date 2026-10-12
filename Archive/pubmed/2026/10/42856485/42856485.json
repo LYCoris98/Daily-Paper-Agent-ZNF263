@@ -1,0 +1,323 @@
+{
+  "identity": {
+    "pmid": "42856485",
+    "doi": "10.64898/2026.09.28.754564",
+    "title": "Ctcf deficiency in myofibers induces pathological genome reprogramming toward the spontaneous development of myopathy."
+  },
+  "content": {
+    "abstract": "How perennial, postmitotic multinucleated tissues, such as skeletal myofibers, maintain their identity and transcriptional adaptation to homeostatic perturbations through adult life is an outstanding question. To address this issue, we investigated the consequences of loss of 3D-genome architecture in skeletal muscles by generating myofiber-specific Ctcf- deficient ( Ctcf (mKO) ) mice. Ctcf (mKO) mice did not exhibit muscular phenotype at birth but spontaneously developed a severe myopathy. Integrated analysis of snRNAseq, ATACseq and promoter-capture Hi-C revealed both common and fiber-type specific patterns of dysregulated gene expression associated with alterations in chromatin accessibility and promoter-based interactions in Ctcf-deficient myonuclei at distinct stages of myopathy development. Decreased chromatin accessibility at promoters and changes in their connectivity with distal elements were observed across all myonuclei as a direct consequence of Ctcf deficiency at early stages and associated with downregulation of genes implicated in myofiber contraction and anabolism, metabolism, adhesion and neuromuscular transmission. Conversely, at later stages, upregulation of genes leading to persistent activation of ER stress/UPR and catabolism resulted from global reconfiguration of chromatin structure and connectivity, partly as indirect consequence of Ctcf deficiency. Notably, type-IIB myonuclei exhibited specific alterations in gene expression that culminated in loss of fiber-type identity and ectopic expression of inflammatory genes. These results reveal a requirement of Ctcf for maintenance of fiber-type identity and transcriptional adaptation in vivo , through multilayered control of 3D genome integrity. They also indicate an unprecedented association between Ctcf deficiency in myofibers and susceptibility to develop myopathies, whereby Ctcf dispensability for developmental myogenesis confers vulnerability to develop myopathic syndromes.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Massenet, Jimmy",
+        "Nicoletti, Chiara",
+        "Caputo, Luca",
+        "Huttner, Soren S",
+        "Nicolau, Monica",
+        "Barajas, Jesus R",
+        "Rossi, Maira",
+        "Yang, Yuqing",
+        "Ancel, Sara",
+        "Wang, Yu Xin",
+        "Malfatti, Edoardo",
+        "Cheung, Tom H",
+        "Witcher, Michael",
+        "Crist, Colin",
+        "Puri, Pier Lorenzo"
+      ],
+      "short_names": [
+        "Massenet J",
+        "Nicoletti C",
+        "Caputo L",
+        "Huttner SS",
+        "Nicolau M",
+        "Barajas JR",
+        "Rossi M",
+        "Yang Y",
+        "Ancel S",
+        "Wang YX",
+        "Malfatti E",
+        "Cheung TH",
+        "Witcher M",
+        "Crist C",
+        "Puri PL"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9699-5580",
+        "ORCID: 0000-0002-0872-6506",
+        "ORCID: 0000-0002-1697-9968",
+        "ORCID: 0000-0002-5054-0027",
+        "ORCID: 0009-0004-6534-1874",
+        "ORCID: 0009-0003-1631-2308",
+        "ORCID: 0000-0002-0667-0780",
+        "ORCID: 0000-0001-8440-9388",
+        "ORCID: 0000-0001-7871-8600",
+        "ORCID: 0000-0003-0796-5406",
+        "ORCID: 0000-0002-4466-9166",
+        "ORCID: 0000-0003-4964-0095"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Massenet, Jimmy",
+        "short_name": "Massenet J",
+        "identifiers": [
+          "0000-0001-9699-5580"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nicoletti, Chiara",
+        "short_name": "Nicoletti C",
+        "identifiers": [
+          "0000-0002-0872-6506"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Caputo, Luca",
+        "short_name": "Caputo L",
+        "identifiers": [
+          "0000-0002-1697-9968"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hüttner, Sören S",
+        "short_name": "Hüttner SS",
+        "identifiers": [
+          "0000-0002-5054-0027"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nicolau, Monica",
+        "short_name": "Nicolau M",
+        "identifiers": [
+          "0009-0004-6534-1874"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Barajas, Jesus R",
+        "short_name": "Barajas JR",
+        "identifiers": [
+          "0009-0003-1631-2308"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Rossi, Maira",
+        "short_name": "Rossi M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Yang, Yuqing",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ancel, Sara",
+        "short_name": "Ancel S",
+        "identifiers": [
+          "0000-0002-0667-0780"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wang, Yu Xin",
+        "short_name": "Wang YX",
+        "identifiers": [
+          "0000-0001-8440-9388"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Malfatti, Edoardo",
+        "short_name": "Malfatti E",
+        "identifiers": [
+          "0000-0001-7871-8600"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cheung, Tom H",
+        "short_name": "Cheung TH",
+        "identifiers": [
+          "0000-0003-0796-5406"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Witcher, Michael",
+        "short_name": "Witcher M",
+        "identifiers": [
+          "0000-0002-4466-9166"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Crist, Colin",
+        "short_name": "Crist C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Puri, Pier Lorenzo",
+        "short_name": "Puri PL",
+        "identifiers": [
+          "0000-0003-4964-0095"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 05:07",
+    "fetched_at": "2026-10-12 07:26:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42856485",
+      "42475469",
+      "42826184",
+      "32680543",
+      "40022213",
+      "35385732",
+      "40764058",
+      "39993185",
+      "30086769",
+      "30513694",
+      "30021792",
+      "33398174",
+      "36260992",
+      "42281968",
+      "30717603",
+      "39682078",
+      "38853900",
+      "40874617",
+      "28846746",
+      "24634495",
+      "31127282",
+      "34429148",
+      "34518536",
+      "39605346",
+      "35993175",
+      "34358714",
+      "26376810",
+      "42544445",
+      "41277030",
+      "32293525",
+      "32249388",
+      "41659666",
+      "31519520",
+      "39869645",
+      "37040762",
+      "34453048",
+      "32909350",
+      "34413017",
+      "37000624",
+      "32933554",
+      "39312688",
+      "29199022",
+      "33187878",
+      "41676599",
+      "38561336",
+      "27582050",
+      "29976663",
+      "22829947",
+      "38167730",
+      "27219007",
+      "38669177",
+      "40225268",
+      "36011294",
+      "41430607",
+      "41573854",
+      "30456521",
+      "20730088",
+      "21884692",
+      "29561703",
+      "40953615",
+      "34711654",
+      "27880914",
+      "39596480",
+      "24335803",
+      "42382125",
+      "29056226",
+      "42493643",
+      "28536180",
+      "28137913",
+      "35400201",
+      "31911579",
+      "37311878",
+      "42426342",
+      "37981682",
+      "16647825",
+      "32619009",
+      "24553927",
+      "38643244",
+      "41448493",
+      "35710138",
+      "28802249",
+      "28714474",
+      "41622199",
+      "35456389",
+      "41674461",
+      "16140944",
+      "32774342",
+      "42177279",
+      "16140943",
+      "32294452",
+      "40900123",
+      "40610383",
+      "35127534",
+      "39677796",
+      "35188098",
+      "29133437",
+      "38062010",
+      "38525542",
+      "28915917",
+      "29567640"
+    ],
+    "review": [
+      "42856485",
+      "35993175",
+      "41277030",
+      "33187878",
+      "36011294",
+      "30456521",
+      "35456389",
+      "40610383"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

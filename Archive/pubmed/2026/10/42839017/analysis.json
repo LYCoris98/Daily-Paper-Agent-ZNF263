@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42839017",
+  "title": "CTCF-associated chromatin changes between HOXD1 and HOXD8 contribute to TNBC progression.",
+  "authors": "Oh, Ji Hoon; Jeong, Da Som; Kim, Clara Yuri",
+  "journal": "Experimental & molecular medicine",
+  "published_date": "2026-10-07",
+  "window": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "score": 4,
+  "one_liner_zh": "该文研究HOXD1和HOXD8在乳腺癌中的抑癌作用及CTCF相关染色质变化，与cpcdh基因家族无直接关联，但涉及染色质调控机制可借鉴。",
+  "abstract": "Homeobox (HOX) genes and their encoded DNA-binding homeoproteins are important regulators of developmental processes and have been implicated in cancer pathogenesis. Here, we investigated the roles of HOXD1 and HOXD8 across different molecular subtypes of human breast cancer (BC) using a combination of in silico analyses of large-scale patient datasets, in vitro RNA interference (RNAi) phenotyping, and in vivo validation studies. Expression levels of HOXD1 and HOXD8 were differentially altered across BC subtypes and were specifically reduced in the aggressive triple-negative breast cancer (TNBC) subtype. Functional analyses demonstrated that reduced HOXD1 ﻿and HOXD8 expression was linked to enhanced invasive, migratory, and proliferative phenotypes. In addition, our molecular analyses suggest that CCCTC-binding factor (CTCF)-associated chromatin changes and DNA methylation status at the HOXD locus contribute to coordinated regulation of HOXD1 and HOXD8 expression in BC cells. Collectively, our findings support a potential tumor-suppressive role for HOXD1 and HOXD8 in TNBC and suggest that the HOXD1/HOXD8 regulatory axis has biological and therapeutic relevance in aggressive BC.",
+  "abstract_zh": "Homeobox（HOX）基因及其编码的DNA结合同源蛋白是发育过程的重要调节因子，并已被涉及癌症发病机制。在此，我们通过结合大规模患者数据集的计算机模拟分析、体外RNA干扰（RNAi）表型分析以及体内验证研究，探讨了HOXD1和HOXD8在人类乳腺癌（BC）不同分子亚型中的作用。HOXD1和HOXD8的表达水平在BC各亚型中呈现差异性改变，并在侵袭性三阴性乳腺癌（TNBC）亚型中特异性降低。功能分析表明，HOXD1和HOXD8表达的降低与增强的侵袭、迁移和增殖表型相关。此外，我们的分子分析提示，CCCTC结合因子（CTCF）相关的染色质变化及HOXD位点的DNA甲基化状态有助于BC细胞中HOXD1和HOXD8的协同调控。总体而言，我们的研究结果支持HOXD1和HOXD8在TNBC中可能发挥肿瘤抑制作用，并提示HOXD1/HOXD8调控轴在侵袭性BC中具有生物学和治疗学意义。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42839017/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42839017/",
+  "paper_page_path": "papers/pubmed/42839017/index.html"
+}

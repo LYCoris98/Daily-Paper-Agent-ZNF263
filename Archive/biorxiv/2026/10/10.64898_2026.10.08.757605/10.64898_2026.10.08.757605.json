@@ -1,0 +1,154 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.08.757605",
+  "title": "MacroH2A1 and H3K27me3 target cGAS to facultative heterochromatin to restrain innate immune activation",
+  "doi": "10.64898/2026.10.08.757605",
+  "abstract": "The DNA sensor cGAS is largely sequestered on chromatin in an inactive form, but how this state is regulated remains unclear. We show that cGAS preferentially binds nucleosomes containing the histone variant macroH2A1 (mH2A1) marked by H3K27me3 and H3K9me3. Cryo-EM reveals that cGAS selectively engages the mH2A1/H2B acidic patch within heterotypic nucleosomes. Depleting mH2A1.1 or blocking H3K27me3 deposition releases cGAS from chromatin and activates the cGAS-STING-IRF3 pathway. Genome-wide profiling reveals two cGAS-bound chromatin compartments: chromosome-arm sites co-occupied by mH2A1.1, methylated CpG islands, and CTCF, where cGAS and mH2A1.1 binding are interdependent; and centromeric regions (14% of peaks), which lack DNA methylation and mH2A1.1 dependence. These findings establish mH2A1 and H3K27me3 as determinants of cGAS chromatin tethering, linking nuclear cGAS regulation to facultative heterochromatin and opening new avenues for modulating cGAS-STING signaling.",
+  "authors": [
+    "Thenin-Houssier S",
+    "Jahan C",
+    "Xu W",
+    "Papadopoulos G",
+    "Bonnet-Madin L",
+    "Matsumoto S",
+    "Kujirai T",
+    "Cuvier O",
+    "Kurumizaka H",
+    "Sobhian B",
+    "Benkirane M"
+  ],
+  "published_date": "2026-10-09",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757605",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757605.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1338177",
+    "raw_record": {
+      "id": "PPR1338177",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.08.757605",
+      "title": "MacroH2A1 and H3K27me3 target cGAS to facultative heterochromatin to restrain innate immune activation",
+      "authorString": "Thenin-Houssier S, Jahan C, Xu W, Papadopoulos G, Bonnet-Madin L, Matsumoto S, Kujirai T, Cuvier O, Kurumizaka H, Sobhian B, Benkirane M.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Thenin-Houssier S",
+            "lastName": "Thenin-Houssier",
+            "firstName": "Suzie",
+            "initials": "S"
+          },
+          {
+            "fullName": "Jahan C",
+            "lastName": "Jahan",
+            "firstName": "Cyprien",
+            "initials": "C"
+          },
+          {
+            "fullName": "Xu W",
+            "lastName": "Xu",
+            "firstName": "Wenjie",
+            "initials": "W"
+          },
+          {
+            "fullName": "Papadopoulos G",
+            "lastName": "Papadopoulos",
+            "firstName": "Giorgio",
+            "initials": "G"
+          },
+          {
+            "fullName": "Bonnet-Madin L",
+            "lastName": "Bonnet-Madin",
+            "firstName": "Lucie",
+            "initials": "L"
+          },
+          {
+            "fullName": "Matsumoto S",
+            "lastName": "Matsumoto",
+            "firstName": "Syota",
+            "initials": "S"
+          },
+          {
+            "fullName": "Kujirai T",
+            "lastName": "Kujirai",
+            "firstName": "Tomoya",
+            "initials": "T"
+          },
+          {
+            "fullName": "Cuvier O",
+            "lastName": "Cuvier",
+            "firstName": "Olivier",
+            "initials": "O"
+          },
+          {
+            "fullName": "Kurumizaka H",
+            "lastName": "Kurumizaka",
+            "firstName": "Hitoshi",
+            "initials": "H"
+          },
+          {
+            "fullName": "Sobhian B",
+            "lastName": "Sobhian",
+            "firstName": "Bijan",
+            "initials": "B"
+          },
+          {
+            "fullName": "Benkirane M",
+            "lastName": "Benkirane",
+            "firstName": "Monsef",
+            "initials": "M"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "The DNA sensor cGAS is largely sequestered on chromatin in an inactive form, but how this state is regulated remains unclear. We show that cGAS preferentially binds nucleosomes containing the histone variant macroH2A1 (mH2A1) marked by H3K27me3 and H3K9me3. Cryo-EM reveals that cGAS selectively engages the mH2A1/H2B acidic patch within heterotypic nucleosomes. Depleting mH2A1.1 or blocking H3K27me3 deposition releases cGAS from chromatin and activates the cGAS-STING-IRF3 pathway. Genome-wide profiling reveals two cGAS-bound chromatin compartments: chromosome-arm sites co-occupied by mH2A1.1, methylated CpG islands, and CTCF, where cGAS and mH2A1.1 binding are interdependent; and centromeric regions (14% of peaks), which lack DNA methylation and mH2A1.1 dependence. These findings establish mH2A1 and H3K27me3 as determinants of cGAS chromatin tethering, linking nuclear cGAS regulation to facultative heterochromatin and opening new avenues for modulating cGAS-STING signaling.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.08.757605"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-10",
+      "firstPublicationDate": "2026-10-09",
+      "firstIndexDate": "2026-10-10",
+      "hasEvaluations": "N"
+    }
+  }
+}

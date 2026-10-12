@@ -1,0 +1,295 @@
+{
+  "identity": {
+    "pmid": "42845544",
+    "doi": "10.21203/rs.3.rs-10010180/v1",
+    "title": "Site-specific N6-methyladenosine fine tunes CTCF/cohesin-defined enhancer-promoter interactions and oncogenic transcription program."
+  },
+  "content": {
+    "abstract": "N6-methyladenosine (m6A) of RNAs plays an important role in RNA stability and gene expression. However, it remains unknown how site-specific m6A on individual RNA is decoded to regulate chromatin architecture and transcriptional reprogramming. Here, we show that m6A modification of HOTTIP lncRNA is highly enriched in acute myeloid leukemia (AML) patients carrying MLL-rearrangement (MLLr+) or NPM1C+-mutation and regulates RNA-dependent CTCF/cohesin function. Site-specific removal/blockage of m6A on HOTTIP by CRISPR-dCas13-ALKBH5 or steric ASO blockage disrupts HOTTIP-associated R-loop formation and CTCF occupancies at HOTTIP/CTCF co-occupied TAD boundaries, leading to impaired CTCF-defined enhancer/promoter loops and HOTTIP-driven stem-cell-like transcription programs. Functionally, site-specific removal of m6A on HOTTIP impairs leukemic-stem-cell initiation/proliferation that mitigates MLLr+-driven AML severity. Targeted recruitment of RAD21 to the erased HOTTIP m6A site partially rescues CTCF-mediated enhancer/promoter interactions and HOTTIP-driven transcription, reversing the m6A depletion-associated anti-leukemic effects. Our data reveals a direct mechanistic interplay between site-specific RNA m6A modification and CTCF/cohesin-driven chromatin architecture to drive oncogenic transcription networks and leukemogenesis.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Suming",
+        "Luo, Huacheng",
+        "Hamamoto, Karina",
+        "Song, Jingwen",
+        "Fung, Tsz Kan",
+        "He, Songtao",
+        "Lesperance, Julia",
+        "Li, Ying",
+        "Xu, Mingjiang",
+        "Chen, Honglin",
+        "Qiu, Yi",
+        "So, Chi Wai Eric"
+      ],
+      "short_names": [
+        "Huang S",
+        "Luo H",
+        "Hamamoto K",
+        "Song J",
+        "Fung TK",
+        "He S",
+        "Lesperance J",
+        "Li Y",
+        "Xu M",
+        "Chen H",
+        "Qiu Y",
+        "So CWE"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4788-2085",
+        "ORCID: 0000-0002-6320-9798",
+        "ORCID: 0000-0002-3308-906X",
+        "ORCID: 0000-0002-7063-6253",
+        "ORCID: 0000-0001-5108-8338",
+        "ORCID: 0000-0002-3282-6072",
+        "ORCID: 0000-0002-4117-0036"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Suming",
+        "short_name": "Huang S",
+        "identifiers": [
+          "0000-0002-4788-2085"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Luo, Huacheng",
+        "short_name": "Luo H",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hamamoto, Karina",
+        "short_name": "Hamamoto K",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Song, Jingwen",
+        "short_name": "Song J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Fung, Tsz Kan",
+        "short_name": "Fung TK",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "He, Songtao",
+        "short_name": "He S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lesperance, Julia",
+        "short_name": "Lesperance J",
+        "identifiers": [
+          "0000-0002-6320-9798"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Ying",
+        "short_name": "Li Y",
+        "identifiers": [
+          "0000-0002-3308-906X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Xu, Mingjiang",
+        "short_name": "Xu M",
+        "identifiers": [
+          "0000-0002-7063-6253"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chen, Honglin",
+        "short_name": "Chen H",
+        "identifiers": [
+          "0000-0001-5108-8338"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Qiu, Yi",
+        "short_name": "Qiu Y",
+        "identifiers": [
+          "0000-0002-3282-6072"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "So, Chi Wai Eric",
+        "short_name": "So CWE",
+        "identifiers": [
+          "0000-0002-4117-0036"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Research square"
+    ],
+    "journal_abbrev": [
+      "Res Sq"
+    ],
+    "pub_date": "2026 Aug 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 11:39",
+    "fetched_at": "2026-10-12 07:26:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42845544",
+      "35180428",
+      "41430607",
+      "31786140",
+      "32086528",
+      "41139207",
+      "41254162",
+      "29760161",
+      "33782403",
+      "34845377",
+      "41277030",
+      "28737770",
+      "38206813",
+      "33398174",
+      "41080543",
+      "33692212",
+      "41826481",
+      "39229045",
+      "32680543",
+      "34016959",
+      "30985763",
+      "39869645",
+      "39883527",
+      "34197738",
+      "24415941",
+      "19369356",
+      "37813869",
+      "41622199",
+      "37536339",
+      "31666380",
+      "36650052",
+      "37076620",
+      "32792482",
+      "39084219",
+      "38913865",
+      "35673912",
+      "24321385",
+      "42177279",
+      "39465506",
+      "32398790",
+      "39721581",
+      "42716141",
+      "23010778",
+      "34375583",
+      "31127282",
+      "24174344",
+      "34453048",
+      "39987653",
+      "36471071",
+      "32249213",
+      "25081205",
+      "27638884",
+      "23650640",
+      "37961446",
+      "42764087",
+      "42258543",
+      "42675534",
+      "19322193",
+      "35440598",
+      "40374602",
+      "36482254",
+      "31522987",
+      "33057942",
+      "38572589",
+      "41353667",
+      "28424523",
+      "29593713",
+      "22780989",
+      "33397967",
+      "25703332",
+      "34722298",
+      "29757144",
+      "40490791",
+      "37688756",
+      "39545685",
+      "32518417",
+      "42675521",
+      "33930311",
+      "38062010",
+      "42476989",
+      "36628218",
+      "24257606",
+      "36899424",
+      "37365294",
+      "41555207",
+      "36202971",
+      "35456389",
+      "38721720",
+      "41459752",
+      "41639912",
+      "40766525",
+      "41581315",
+      "34980207",
+      "42239201",
+      "35999621",
+      "33594051",
+      "24659782",
+      "40060486",
+      "32631111",
+      "37257820"
+    ],
+    "review": [
+      "42845544",
+      "41277030",
+      "23650640",
+      "34722298",
+      "32518417",
+      "35456389",
+      "38721720",
+      "41581315",
+      "35999621"
+    ],
+    "pmc": [
+      "13640890"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.21203/rs.3.rs-10010180/v1",
+        "provider": "Research Square",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

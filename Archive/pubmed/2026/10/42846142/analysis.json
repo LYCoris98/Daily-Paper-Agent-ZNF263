@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42846142",
+  "title": "Correction to 'Identification and analysis of consensus RNA motifs binding to the genome regulator CTCF'.",
+  "authors": "",
+  "journal": "NAR genomics and bioinformatics",
+  "published_date": "2026-10-08",
+  "window": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "score": 0,
+  "one_liner_zh": "这是一篇关于CTCF蛋白结合RNA基序的更正声明，与cpcdh基因家族无关。",
+  "abstract": "[This corrects the article DOI: 10.1093/nargab/lqaa031.].",
+  "abstract_zh": "[此更正文章DOI：10.1093/nargab/lqaa031。]",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42846142/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42846142/",
+  "paper_page_path": "papers/pubmed/42846142/index.html"
+}

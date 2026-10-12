@@ -1,0 +1,266 @@
+{
+  "identity": {
+    "pmid": "42835157",
+    "doi": "10.3389/fcell.2026.1922944",
+    "title": "Integrated single-cell and multi-cohort analyses reveal CTCF as a key regulator of chemo-immunotherapy resistance in lung adenocarcinoma."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Chemo-immunotherapy has improved clinical outcomes in non-small cell lung cancer (NSCLC), but resistance remains a major challenge. The tumor cell states and molecular mechanisms underlying treatment resistance are not fully understood. METHODS: Single-cell RNA sequencing data from NSCLC patients receiving chemo-immunotherapy were integrated with public transcriptomic cohorts and functional experiments. Resistance-associated tumor cell populations were identified, and key regulatory factors were investigated through bioinformatic analyses and experimental validation. RESULTS: Single-cell analysis identified a malignant epithelial cell subpopulation enriched in patients with stable disease, suggesting a resistance-associated tumor cell state. Genes derived from this population were associated with unfavorable prognosis and were used to construct a prognostic model with consistent performance across multiple independent cohorts. Among the candidate genes, CTCF was identified as a key regulator associated with poor survival and reduced immune infiltration. In an orthotopic lung tumor model, Ctcf knockdown enhanced the antitumor efficacy of pemetrexed combined with anti-PD-1 treatment and promoted CD8(+) T-cell activity. Mechanistically, CTCF directly upregulated RRM2 and CD276, which mediated chemotherapy resistance and immune suppression, respectively. CONCLUSION: Our findings identify CTCF as a critical regulator of chemo-immunotherapy resistance in NSCLC. The CTCF-RRM2/CD276 axis links tumor-intrinsic drug resistance with immune evasion and may represent a potential therapeutic target.",
+    "keywords": [
+      "CD276",
+      "CTCF",
+      "chemo-immunotherapy resistance",
+      "immune microenvironment",
+      "non-small cell lung cancer",
+      "tumor cell state"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Hui",
+        "Zhang, Taiyang",
+        "Zhang, Yiwei",
+        "Li, Mohan",
+        "Yang, Haoran",
+        "Zhang, Yue",
+        "Xu, Feng"
+      ],
+      "short_names": [
+        "Chen H",
+        "Zhang T",
+        "Zhang Y",
+        "Li M",
+        "Yang H",
+        "Zhang Y",
+        "Xu F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Lung Cancer, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Tianjin, China.",
+        "Department of Lung Cancer, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Tianjin, China.",
+        "Tianjin Medical University, Tianjin, China.",
+        "Department of Lung Cancer, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Tianjin, China.",
+        "Tianjin Medical University, Tianjin, China.",
+        "Department of Pathology, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Tianjin's Clinical Research Center for Cancer, Tianjin, China.",
+        "Department of Lung Cancer, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Tianjin, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Hui",
+        "short_name": "Chen H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Lung Cancer, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Taiyang",
+        "short_name": "Zhang T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Lung Cancer, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yiwei",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Medical University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Li, Mohan",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Lung Cancer, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Haoran",
+        "short_name": "Yang H",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Medical University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yue",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Tianjin's Clinical Research Center for Cancer, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Feng",
+        "short_name": "Xu F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Lung Cancer, Tianjin Medical University Cancer Institute and Hospital, National Clinical Research Center for Cancer, Tianjin, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cell and developmental biology"
+    ],
+    "journal_abbrev": [
+      "Front Cell Dev Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 11:31",
+    "fetched_at": "2026-10-12 07:26:14"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42835157",
+      "42328167",
+      "41347091",
+      "41436831",
+      "40948762",
+      "42349108",
+      "42180849",
+      "41656832",
+      "41209618",
+      "41836411",
+      "42209795",
+      "41981503",
+      "40091029",
+      "42486346",
+      "42079738",
+      "41723398",
+      "41785601",
+      "42422066",
+      "41554474",
+      "40457349",
+      "35811500",
+      "42318657",
+      "41326474",
+      "41716413",
+      "42840204",
+      "42136648",
+      "42089585",
+      "41741906",
+      "42801723",
+      "42288924",
+      "42815071",
+      "41488652",
+      "41191312",
+      "41567189",
+      "40308576",
+      "40629035",
+      "41882633",
+      "40744665",
+      "42259601",
+      "40346580",
+      "42403504",
+      "42105179",
+      "37593098",
+      "40959269",
+      "42731877",
+      "42202548",
+      "35278107",
+      "40517220",
+      "42074579",
+      "41736051",
+      "39107857",
+      "39004699",
+      "40429821",
+      "38730286",
+      "39896800",
+      "34416901",
+      "41613147",
+      "38148115",
+      "40764361",
+      "41383634",
+      "41432877",
+      "41394854",
+      "42184055",
+      "41309249",
+      "42244292",
+      "41223031",
+      "41423267",
+      "42358957",
+      "42547264",
+      "40936936",
+      "42791035",
+      "41603185",
+      "42619890",
+      "38272564",
+      "37009132",
+      "41371106",
+      "41164195",
+      "42028950",
+      "42350041",
+      "41246332",
+      "39694700",
+      "41239433",
+      "40934540",
+      "40766320",
+      "42707754",
+      "41045681",
+      "41942785",
+      "42051516",
+      "32746878",
+      "41872824",
+      "41071193",
+      "40777041",
+      "42398850",
+      "40776650",
+      "41939918",
+      "41816460",
+      "33537094",
+      "42210008",
+      "40460484",
+      "42332836"
+    ],
+    "review": [
+      "42835157"
+    ],
+    "pmc": [
+      "13635359"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD276-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-725",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fcell.2026.1922944",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
