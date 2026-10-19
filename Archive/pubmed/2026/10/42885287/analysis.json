@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42885287",
+  "title": "DeltaNp63alpha‑mediated regulation of tumor‑associated genes and pathways in hepatocellular carcinoma progression.",
+  "authors": "Lin, Xiaowen; Peng, Anghui; Zhang, Min; Yu, Xinyang",
+  "journal": "Molecular medicine reports",
+  "published_date": "2026-10-16",
+  "window": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "score": 0,
+  "one_liner_zh": "该文研究DeltaNp63alpha在肝细胞癌中的致癌作用及染色质调控机制，与cpcdh基因家族无直接关联。",
+  "abstract": "DeltaNp63alpha is key in cellular development and epithelial tumors; however, its role in hepatocellular carcinoma (HCC) remains unclear. In the present study, the oncogenic role and molecular functions of DeltaNp63alpha in HCC were investigated. Analysis of The Cancer Genome Atlas revealed an association between p63 expression and patient survival. DeltaNp63alpha overexpression in SNU387 cells notably enhanced cell proliferation and migration, supporting its role in promoting aggressive HCC phenotypes. Transcriptome analysis revealed extensive DeltaNp63alpha‑associated transcriptional changes, with differentially expressed genes enriched in tumor‑associated processes, including 'Wnt signaling pathway', 'Notch signaling pathway', 'cell adhesion molecules' and 'extracellular matrix organization'. Chromatin immunoprecipitation sequencing revealed widespread DeltaNp63alpha binding in promoter‑proximal and ‑distal regulatory regions, suggesting potential involvement in transcriptional regulation through both proximal and distal genomic elements. DeltaNp63alpha upregulation was also associated with increased CCCTC‑binding factor (CTCF) occupancy near the promoters of tumor‑associated genes and these gained CTCF sites were enriched for p63 motifs. Collectively, the present findings identified DeltaNp63alpha as an oncogenic regulator of HCC and suggest that it may regulate tumor‑associated gene programs through coordinated proximal and distal chromatin regulatory mechanisms.",
+  "abstract_zh": "DeltaNp63alpha在细胞发育和上皮性肿瘤中起关键作用；然而，其在肝细胞癌（HCC）中的作用仍不清楚。本研究探讨了DeltaNp63alpha在HCC中的致癌作用及分子功能。癌症基因组图谱分析显示p63表达与患者生存期之间存在关联。SNU387细胞中DeltaNp63alpha过表达显著增强了细胞增殖和迁移，支持其在促进侵袭性HCC表型中的作用。转录组分析揭示了广泛的DeltaNp63alpha相关转录变化，差异表达基因富集于肿瘤相关过程，包括“Wnt信号通路”、“Notch信号通路”、“细胞粘附分子”和“细胞外基质组织”。染色质免疫沉淀测序显示DeltaNp63alpha在启动子近端和远端调控区域广泛结合，提示其可能通过近端和远端基因组元件参与转录调控。DeltaNp63alpha上调还与肿瘤相关基因启动子附近CCCTC结合因子（CTCF）占据增加相关，且这些新增的CTCF位点富集p63基序。总体而言，本研究结果将DeltaNp63alpha确定为HCC的致癌调控因子，并提示其可能通过协调近端和远端染色质调控机制调节肿瘤相关基因程序。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42885287/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42885287/",
+  "paper_page_path": "papers/pubmed/42885287/index.html"
+}

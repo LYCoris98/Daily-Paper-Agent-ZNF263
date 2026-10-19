@@ -1,0 +1,168 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.14.759128",
+  "title": "Guanine content in the CTCF motif encodes a vulnerability to persistent, alcohol-induced redistribution",
+  "doi": "10.64898/2026.10.14.759128",
+  "abstract": "Alcohol consumption is a leading contributor to the global disease burden, yet its molecular consequences remain incompletely understood. Ethanols first metabolite, acetaldehyde, modifies guanine to form DNA adducts and DNA-protein crosslinks that block elongating RNA polymerase II. Because acetaldehyde acts specifically on guanine, we hypothesized that chromatin features would be disrupted in a sequence-dependent rather than stochastic manner. Here we confirm that alcohol exposure displaces elongating RNA polymerase II (RNAPIIs2p) from gene bodies, relocating to promoters. In addition to this confirmation, we found that RNAPIIs2p also relocates to discrete guanine-rich intergenic CTCF sites. Loci with high guanine content at the CTCF motifs zinc finger 5 (ZF5) binding position showed the largest increase in both CTCF and cohesin (RAD21), with CTCF occupancy changes persisting even six days after alcohol withdrawal. Surprisingly, using Hi-C, we found that these changes to CTCF and cohesin do not impact the pronounced structural CTCF loops, but are instead primarily associated with altered guanine-rich enhancer-promoter contacts that connect to lasting changes to gene expression. Beyond our cell-line model, the same sequence rule accounts for altered CTCF occupancy in a mouse starvation (metabolic stress) model and in the placentae after paternal alcohol exposure. Together these findings link alcohol exposure to sequence-directed changes to chromatin whose rules are conserved in alcohol-associated disease.",
+  "authors": [
+    "Nolan B",
+    "Puspo JA",
+    "Querry-Peterson IM",
+    "Maurina S",
+    "Wright RA",
+    "Schmitz A",
+    "Jacobsen LE",
+    "Ortiz C",
+    "Reznicek TE",
+    "Ethell A",
+    "Harris HL",
+    "Cummings CT",
+    "Rowley MJ"
+  ],
+  "published_date": "2026-10-16",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.14.759128",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.14.759128.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1344030",
+    "raw_record": {
+      "id": "PPR1344030",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.14.759128",
+      "title": "Guanine content in the CTCF motif encodes a vulnerability to persistent, alcohol-induced redistribution",
+      "authorString": "Nolan B, Puspo JA, Querry-Peterson IM, Maurina S, Wright RA, Schmitz A, Jacobsen LE, Ortiz C, Reznicek TE, Ethell A, Harris HL, Cummings CT, Rowley MJ.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Nolan B",
+            "lastName": "Nolan",
+            "firstName": "Ben",
+            "initials": "B"
+          },
+          {
+            "fullName": "Puspo JA",
+            "lastName": "Puspo",
+            "firstName": "Joynob",
+            "initials": "JA"
+          },
+          {
+            "fullName": "Querry-Peterson IM",
+            "lastName": "Querry-Peterson",
+            "firstName": "Iesha",
+            "initials": "IM"
+          },
+          {
+            "fullName": "Maurina S",
+            "lastName": "Maurina",
+            "firstName": "Stephanie",
+            "initials": "S"
+          },
+          {
+            "fullName": "Wright RA",
+            "lastName": "Wright",
+            "firstName": "Rebecca",
+            "initials": "RA"
+          },
+          {
+            "fullName": "Schmitz A",
+            "lastName": "Schmitz",
+            "firstName": "Allyson",
+            "initials": "A"
+          },
+          {
+            "fullName": "Jacobsen LE",
+            "lastName": "Jacobsen",
+            "firstName": "Lauren",
+            "initials": "LE"
+          },
+          {
+            "fullName": "Ortiz C",
+            "lastName": "Ortiz",
+            "firstName": "Coralmarie",
+            "initials": "C"
+          },
+          {
+            "fullName": "Reznicek TE",
+            "lastName": "Reznicek",
+            "firstName": "Timothy",
+            "initials": "TE"
+          },
+          {
+            "fullName": "Ethell A",
+            "lastName": "Ethell",
+            "firstName": "Alexander",
+            "initials": "A"
+          },
+          {
+            "fullName": "Harris HL",
+            "lastName": "Harris",
+            "firstName": "Hannah",
+            "initials": "HL"
+          },
+          {
+            "fullName": "Cummings CT",
+            "lastName": "Cummings",
+            "firstName": "Christopher",
+            "initials": "CT"
+          },
+          {
+            "fullName": "Rowley MJ",
+            "lastName": "Rowley",
+            "firstName": "Jordan",
+            "initials": "MJ"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Alcohol consumption is a leading contributor to the global disease burden, yet its molecular consequences remain incompletely understood. Ethanols first metabolite, acetaldehyde, modifies guanine to form DNA adducts and DNA-protein crosslinks that block elongating RNA polymerase II. Because acetaldehyde acts specifically on guanine, we hypothesized that chromatin features would be disrupted in a sequence-dependent rather than stochastic manner. Here we confirm that alcohol exposure displaces elongating RNA polymerase II (RNAPIIs2p) from gene bodies, relocating to promoters. In addition to this confirmation, we found that RNAPIIs2p also relocates to discrete guanine-rich intergenic CTCF sites. Loci with high guanine content at the CTCF motifs zinc finger 5 (ZF5) binding position showed the largest increase in both CTCF and cohesin (RAD21), with CTCF occupancy changes persisting even six days after alcohol withdrawal. Surprisingly, using Hi-C, we found that these changes to CTCF and cohesin do not impact the pronounced structural CTCF loops, but are instead primarily associated with altered guanine-rich enhancer-promoter contacts that connect to lasting changes to gene expression. Beyond our cell-line model, the same sequence rule accounts for altered CTCF occupancy in a mouse starvation (metabolic stress) model and in the placentae after paternal alcohol exposure. Together these findings link alcohol exposure to sequence-directed changes to chromatin whose rules are conserved in alcohol-associated disease.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.14.759128"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-17",
+      "firstPublicationDate": "2026-10-16",
+      "firstIndexDate": "2026-10-17",
+      "hasEvaluations": "N"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "identity": {
+    "pmid": "42885287",
+    "doi": "10.3892/mmr.2026.14040",
+    "title": "DeltaNp63alpha‑mediated regulation of tumor‑associated genes and pathways in hepatocellular carcinoma progression."
+  },
+  "content": {
+    "abstract": "DeltaNp63alpha is key in cellular development and epithelial tumors; however, its role in hepatocellular carcinoma (HCC) remains unclear. In the present study, the oncogenic role and molecular functions of DeltaNp63alpha in HCC were investigated. Analysis of The Cancer Genome Atlas revealed an association between p63 expression and patient survival. DeltaNp63alpha overexpression in SNU387 cells notably enhanced cell proliferation and migration, supporting its role in promoting aggressive HCC phenotypes. Transcriptome analysis revealed extensive DeltaNp63alpha‑associated transcriptional changes, with differentially expressed genes enriched in tumor‑associated processes, including 'Wnt signaling pathway', 'Notch signaling pathway', 'cell adhesion molecules' and 'extracellular matrix organization'. Chromatin immunoprecipitation sequencing revealed widespread DeltaNp63alpha binding in promoter‑proximal and ‑distal regulatory regions, suggesting potential involvement in transcriptional regulation through both proximal and distal genomic elements. DeltaNp63alpha upregulation was also associated with increased CCCTC‑binding factor (CTCF) occupancy near the promoters of tumor‑associated genes and these gained CTCF sites were enriched for p63 motifs. Collectively, the present findings identified DeltaNp63alpha as an oncogenic regulator of HCC and suggest that it may regulate tumor‑associated gene programs through coordinated proximal and distal chromatin regulatory mechanisms.",
+    "keywords": [
+      "CCCTC‑binding factor",
+      "gene regulation",
+      "hepatocellular carcinoma",
+      "DeltaNp63alpha"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Liver Neoplasms/genetics/pathology/metabolism",
+      "*Carcinoma, Hepatocellular/genetics/pathology/metabolism",
+      "*Tumor Suppressor Proteins/genetics/metabolism",
+      "*Transcription Factors/genetics/metabolism",
+      "*Gene Expression Regulation, Neoplastic",
+      "Cell Line, Tumor",
+      "Promoter Regions, Genetic",
+      "Cell Proliferation/genetics",
+      "Signal Transduction",
+      "CCCTC-Binding Factor/metabolism/genetics",
+      "Disease Progression",
+      "Cell Movement/genetics",
+      "Gene Expression Profiling"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lin, Xiaowen",
+        "Peng, Anghui",
+        "Zhang, Min",
+        "Yu, Xinyang"
+      ],
+      "short_names": [
+        "Lin X",
+        "Peng A",
+        "Zhang M",
+        "Yu X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Guangdong Provincial Key Laboratory of Tumor Interventional Diagnosis and Treatment, Zhuhai Institute of Translational Medicine, Zhuhai People's Hospital (The Affiliated Hospital of Beijing Institute of Technology, Zhuhai Clinical Medical College of Jinan University), Zhuhai, Guangdong 519000, P.R. China.",
+        "Guangdong Provincial Key Laboratory of Tumor Interventional Diagnosis and Treatment, Zhuhai Institute of Translational Medicine, Zhuhai People's Hospital (The Affiliated Hospital of Beijing Institute of Technology, Zhuhai Clinical Medical College of Jinan University), Zhuhai, Guangdong 519000, P.R. China.",
+        "Department of Pharmacy, Shandong Provincial Maternal and Child Health Care Hospital Affiliated to Qingdao University, Jinan, Shandong 250014, P.R. China.",
+        "Guangdong Provincial Key Laboratory of Tumor Interventional Diagnosis and Treatment, Zhuhai Institute of Translational Medicine, Zhuhai People's Hospital (The Affiliated Hospital of Beijing Institute of Technology, Zhuhai Clinical Medical College of Jinan University), Zhuhai, Guangdong 519000, P.R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lin, Xiaowen",
+        "short_name": "Lin X",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Tumor Interventional Diagnosis and Treatment, Zhuhai Institute of Translational Medicine, Zhuhai People's Hospital (The Affiliated Hospital of Beijing Institute of Technology, Zhuhai Clinical Medical College of Jinan University), Zhuhai, Guangdong 519000, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Peng, Anghui",
+        "short_name": "Peng A",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Tumor Interventional Diagnosis and Treatment, Zhuhai Institute of Translational Medicine, Zhuhai People's Hospital (The Affiliated Hospital of Beijing Institute of Technology, Zhuhai Clinical Medical College of Jinan University), Zhuhai, Guangdong 519000, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Min",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, Shandong Provincial Maternal and Child Health Care Hospital Affiliated to Qingdao University, Jinan, Shandong 250014, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Yu, Xinyang",
+        "short_name": "Yu X",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Provincial Key Laboratory of Tumor Interventional Diagnosis and Treatment, Zhuhai Institute of Translational Medicine, Zhuhai People's Hospital (The Affiliated Hospital of Beijing Institute of Technology, Zhuhai Clinical Medical College of Jinan University), Zhuhai, Guangdong 519000, P.R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular medicine reports"
+    ],
+    "journal_abbrev": [
+      "Mol Med Rep"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-19 06:17:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42885287"
+    ],
+    "review": [
+      "42885287"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/livercancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Liver Cancer"
+      },
+      {
+        "url": "https://www.spandidos-publications.com/10.3892/mmr.2026.14040",
+        "provider": "Spandidos Publications",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

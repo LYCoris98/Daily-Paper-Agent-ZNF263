@@ -1,0 +1,107 @@
+{
+  "identity": {
+    "pmid": "42878397",
+    "doi": "10.1093/bioinformatics/btag753",
+    "title": "Ryder: Epigenome normalization using a two-tier model and internal reference regions."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Sequencing-based epigenomic profiling methods are powerful but suffer from technical variability that complicates cross-sample comparisons and can obscure true biological signals. While existing normalization methods using spike-in controls or computational approaches have been proposed, they often rely on assumptions that may not hold across diverse experimental conditions or require additional data types. RESULTS: We present Ryder, a flexible and robust Python package for the normalization of epigenomic signal tracks. Ryder leverages stable internal reference regions, such as invariant CTCF binding sites, to correct for technical artifacts genome-wide. Our results show that it effectively adjusts both background noise and signal intensity, ensuring accurate signal alignment across samples while preserving genuine biological differences. We demonstrate that Ryder performs robustly across diverse assays including DNase-seq, CUT&RUN, ATAC-seq, MNase-seq, and ChIP-seq, with or without spike-in controls. By reducing technical noise, Ryder improves the detection of genuine biological changes, such as quantitative reduction of chromatin accessibility at key enhancer elements by depletion of BRG1, a key subunit of the chromatin remodeling BAF complexes. AVAILABILITY AND IMPLEMENTATION: The Ryder source code, documentation and test data are freely available at: https://github.com/YaqiangCao/ryder. The software version used in this study is archived at Zenodo: https://zenodo.org/records/21267457. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cao, Yaqiang",
+        "Ge, Guangzhe",
+        "Zhao, Keji"
+      ],
+      "short_names": [
+        "Cao Y",
+        "Ge G",
+        "Zhao K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Laboratory of Epigenome Biology, Systems Biology Center, Division of Intramural Research, National Heart, Lung, and Blood Institute, National Institutes of Health; Bethesda, 20892, USA.",
+        "Laboratory of Epigenome Biology, Systems Biology Center, Division of Intramural Research, National Heart, Lung, and Blood Institute, National Institutes of Health; Bethesda, 20892, USA.",
+        "Laboratory of Epigenome Biology, Systems Biology Center, Division of Intramural Research, National Heart, Lung, and Blood Institute, National Institutes of Health; Bethesda, 20892, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cao, Yaqiang",
+        "short_name": "Cao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Epigenome Biology, Systems Biology Center, Division of Intramural Research, National Heart, Lung, and Blood Institute, National Institutes of Health; Bethesda, 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Ge, Guangzhe",
+        "short_name": "Ge G",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Epigenome Biology, Systems Biology Center, Division of Intramural Research, National Heart, Lung, and Blood Institute, National Institutes of Health; Bethesda, 20892, USA."
+        ]
+      },
+      {
+        "full_name": "Zhao, Keji",
+        "short_name": "Zhao K",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Epigenome Biology, Systems Biology Center, Division of Intramural Research, National Heart, Lung, and Blood Institute, National Institutes of Health; Bethesda, 20892, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Bioinformatics"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-19 06:17:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42878397"
+    ],
+    "review": [
+      "42878397"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1367",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btag753",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

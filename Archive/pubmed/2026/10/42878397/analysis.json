@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42878397",
+  "title": "Ryder: Epigenome normalization using a two-tier model and internal reference regions.",
+  "authors": "Cao, Yaqiang; Ge, Guangzhe; Zhao, Keji",
+  "journal": "Bioinformatics (Oxford, England)",
+  "published_date": "2026-10-15",
+  "window": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "score": 4,
+  "one_liner_zh": "该文介绍表观基因组信号归一化工具Ryder，虽不直接研究cpcdh基因家族，但其归一化方法可借鉴用于相关表观遗传数据分析。",
+  "abstract": "MOTIVATION: Sequencing-based epigenomic profiling methods are powerful but suffer from technical variability that complicates cross-sample comparisons and can obscure true biological signals. While existing normalization methods using spike-in controls or computational approaches have been proposed, they often rely on assumptions that may not hold across diverse experimental conditions or require additional data types. RESULTS: We present Ryder, a flexible and robust Python package for the normalization of epigenomic signal tracks. Ryder leverages stable internal reference regions, such as invariant CTCF binding sites, to correct for technical artifacts genome-wide. Our results show that it effectively adjusts both background noise and signal intensity, ensuring accurate signal alignment across samples while preserving genuine biological differences. We demonstrate that Ryder performs robustly across diverse assays including DNase-seq, CUT&RUN, ATAC-seq, MNase-seq, and ChIP-seq, with or without spike-in controls. By reducing technical noise, Ryder improves the detection of genuine biological changes, such as quantitative reduction of chromatin accessibility at key enhancer elements by depletion of BRG1, a key subunit of the chromatin remodeling BAF complexes. AVAILABILITY AND IMPLEMENTATION: The Ryder source code, documentation and test data are freely available at: https://github.com/YaqiangCao/ryder. The software version used in this study is archived at Zenodo: https://zenodo.org/records/21267457. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.",
+  "abstract_zh": "动机：基于测序的表观基因组分析方法是强大的工具，但存在技术变异性，这使跨样本比较复杂化，并可能掩盖真实的生物学信号。尽管已提出使用尖峰对照或计算方法的现有归一化方法，但它们通常依赖于可能在不同实验条件下不成立的假设，或需要额外的数据类型。结果：我们提出了Ryder，一个灵活且稳健的Python包，用于表观基因组信号轨迹的归一化。Ryder利用稳定的内部参考区域，如不变的CTCF结合位点，在全基因组范围内校正技术伪影。我们的结果表明，它能有效调整背景噪声和信号强度，确保跨样本的信号准确对齐，同时保留真实的生物学差异。我们证明Ryder在多种检测中表现稳健，包括DNase-seq、CUT&RUN、ATAC-seq、MNase-seq和ChIP-seq，无论有无尖峰对照。通过减少技术噪声，Ryder提高了对真实生物学变化的检测，例如通过去除BRG1（染色质重塑BAF复合物的关键亚基）导致的关键增强子区域染色质可及性的定量减少。可用性和实现：Ryder的源代码、文档和测试数据可在以下网址免费获取：https://github.com/YaqiangCao/ryder。本研究中使用的软件版本已存档于Zenodo：https://zenodo.org/records/21267457。补充信息：补充数据可在Bioinformatics在线获取。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42878397/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42878397/",
+  "paper_page_path": "papers/pubmed/42878397/index.html"
+}

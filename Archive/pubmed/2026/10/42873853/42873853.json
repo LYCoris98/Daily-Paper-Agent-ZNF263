@@ -1,0 +1,222 @@
+{
+  "identity": {
+    "pmid": "42873853",
+    "doi": "10.1126/sciadv.aeh4524",
+    "title": "A transcriptional cofactor GRIP1 drives PPARgamma DNA binding and p300-dependent enhancer activity during homeostatic macrophage polarization."
+  },
+  "content": {
+    "abstract": "Homeostatic macrophages maintain tissue health and resolve inflammation. Upon sustained exposure to type II cytokine IL4, transcription factors STAT6, KLF4, EGR2 and a ligand-regulated nuclear receptor PPARgamma orchestrate the M2(IL4) 'polarization', marked by enhancer RNA (eRNA) production near multiple M2 genes. The mechanisms of enhancer activation by unliganded PPARgamma are poorly understood. We interrogated cofactor requirements for PPARgamma-driven gene expression in M2(IL4), including those lacking PPARgamma or a ligand-dependent nuclear receptor coregulator NCoA2/GRIP1 vs. macrophages treated with the PPARgamma agonist rosiglitazone. As expected, rosiglitazone activated conventional PPARgamma targets; GRIP1 deletion blunted their induction and depleted GRIP1-interacting histone acetyltransferase p300 from PPARgamma-bound sites. Surprisingly, GRIP1 colocalized with unliganded PPARgamma in M0 and M2(IL4), and GRIP1 ablation dramatically reduced genome-wide DNA binding of PPARgamma itself while promoting broad deposition of CTCF insulator. Functionally, GRIP1 deletion mirrored PPARgamma deficiency, establishing GRIP1 as a central regulator of unliganded PPARgamma DNA binding, required for both eRNA and mRNA transcription of PPARgamma targets in homeostatic macrophages.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "*PPAR gamma/metabolism/genetics",
+      "*Macrophages/metabolism/cytology",
+      "Mice",
+      "Homeostasis",
+      "Kruppel-Like Factor 4",
+      "*Nerve Tissue Proteins/metabolism/genetics",
+      "*Enhancer Elements, Genetic",
+      "Protein Binding",
+      "Gene Expression Regulation",
+      "*E1A-Associated p300 Protein/metabolism/genetics",
+      "Nuclear Receptor Co-Repressor 2/metabolism/genetics",
+      "*DNA/metabolism",
+      "Enhancer RNAs/genetics/metabolism",
+      "PPAR-gamma Agonists",
+      "Rosiglitazone/pharmacology",
+      "Adaptor Proteins, Signal Transducing"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dacic, Marija",
+        "Stein, William J",
+        "Yuan, Ruoxi",
+        "Deochand, Dinesh K",
+        "Morrison, Joshua K",
+        "Seide, Ketsia",
+        "Chinenov, Yurii",
+        "Rogatsky, Inez"
+      ],
+      "short_names": [
+        "Dacic M",
+        "Stein WJ",
+        "Yuan R",
+        "Deochand DK",
+        "Morrison JK",
+        "Seide K",
+        "Chinenov Y",
+        "Rogatsky I"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-9624-5049",
+        "ORCID: 0009-0004-9243-4259",
+        "ORCID: 0000-0002-8719-341X",
+        "ORCID: 0000-0002-7395-9250",
+        "ORCID: 0000-0003-4174-6338",
+        "ORCID: 0009-0009-0405-953X",
+        "ORCID: 0000-0001-5226-8541",
+        "ORCID: 0000-0003-3514-5077"
+      ],
+      "affiliations": [
+        "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA.",
+        "Graduate Program in Physiology, Biophysics and Systems Biology, Weill Cornell Graduate School of Medical Sciences, New York, NY, USA.",
+        "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA.",
+        "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA.",
+        "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA.",
+        "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA.",
+        "Graduate Program in Immunology and Microbial Pathogenesis, Weill Cornell Graduate School of Medical Sciences, New York, NY, USA.",
+        "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA.",
+        "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA.",
+        "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA.",
+        "Graduate Program in Immunology and Microbial Pathogenesis, Weill Cornell Graduate School of Medical Sciences, New York, NY, USA.",
+        "Department of Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dacic, Marija",
+        "short_name": "Dacic M",
+        "identifiers": [
+          "0009-0005-9624-5049"
+        ],
+        "affiliations": [
+          "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA.",
+          "Graduate Program in Physiology, Biophysics and Systems Biology, Weill Cornell Graduate School of Medical Sciences, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Stein, William J",
+        "short_name": "Stein WJ",
+        "identifiers": [
+          "0009-0004-9243-4259"
+        ],
+        "affiliations": [
+          "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Yuan, Ruoxi",
+        "short_name": "Yuan R",
+        "identifiers": [
+          "0000-0002-8719-341X"
+        ],
+        "affiliations": [
+          "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Deochand, Dinesh K",
+        "short_name": "Deochand DK",
+        "identifiers": [
+          "0000-0002-7395-9250"
+        ],
+        "affiliations": [
+          "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Morrison, Joshua K",
+        "short_name": "Morrison JK",
+        "identifiers": [
+          "0000-0003-4174-6338"
+        ],
+        "affiliations": [
+          "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA.",
+          "Graduate Program in Immunology and Microbial Pathogenesis, Weill Cornell Graduate School of Medical Sciences, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Seide, Ketsia",
+        "short_name": "Seide K",
+        "identifiers": [
+          "0009-0009-0405-953X"
+        ],
+        "affiliations": [
+          "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Chinenov, Yurii",
+        "short_name": "Chinenov Y",
+        "identifiers": [
+          "0000-0001-5226-8541"
+        ],
+        "affiliations": [
+          "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Rogatsky, Inez",
+        "short_name": "Rogatsky I",
+        "identifiers": [
+          "0000-0003-3514-5077"
+        ],
+        "affiliations": [
+          "Hospital for Special Surgery Research Institute, The David Rosensweig Genomics Center, New York, NY, USA.",
+          "Graduate Program in Immunology and Microbial Pathogenesis, Weill Cornell Graduate School of Medical Sciences, New York, NY, USA.",
+          "Department of Microbiology and Immunology, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 18:14",
+    "fetched_at": "2026-10-19 06:17:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42873853"
+    ],
+    "review": [
+      "42873853"
+    ],
+    "pmc": [
+      "13666059"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aeh4524?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-STAT6-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1240",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

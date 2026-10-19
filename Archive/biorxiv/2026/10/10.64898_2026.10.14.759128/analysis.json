@@ -1,0 +1,24 @@
+{
+  "source": "biorxiv",
+  "id": "10.64898/2026.10.14.759128",
+  "title": "Guanine content in the CTCF motif encodes a vulnerability to persistent, alcohol-induced redistribution",
+  "authors": "Nolan B; Puspo JA; Querry-Peterson IM; Maurina S; Wright RA; Schmitz A; Jacobsen LE; Ortiz C; Reznicek TE; Ethell A; Harris HL; Cummings CT; Rowley MJ",
+  "journal": "bioRxiv",
+  "published_date": "2026-10-16",
+  "window": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "score": 8,
+  "one_liner_zh": "该文研究酒精暴露通过鸟嘌呤含量依赖方式改变CTCF结合和染色质结构，与cpcdh基因家族在序列依赖性染色质调控上的机制高度相关，可借鉴其研究思路。",
+  "abstract": "Alcohol consumption is a leading contributor to the global disease burden, yet its molecular consequences remain incompletely understood. Ethanols first metabolite, acetaldehyde, modifies guanine to form DNA adducts and DNA-protein crosslinks that block elongating RNA polymerase II. Because acetaldehyde acts specifically on guanine, we hypothesized that chromatin features would be disrupted in a sequence-dependent rather than stochastic manner. Here we confirm that alcohol exposure displaces elongating RNA polymerase II (RNAPIIs2p) from gene bodies, relocating to promoters. In addition to this confirmation, we found that RNAPIIs2p also relocates to discrete guanine-rich intergenic CTCF sites. Loci with high guanine content at the CTCF motifs zinc finger 5 (ZF5) binding position showed the largest increase in both CTCF and cohesin (RAD21), with CTCF occupancy changes persisting even six days after alcohol withdrawal. Surprisingly, using Hi-C, we found that these changes to CTCF and cohesin do not impact the pronounced structural CTCF loops, but are instead primarily associated with altered guanine-rich enhancer-promoter contacts that connect to lasting changes to gene expression. Beyond our cell-line model, the same sequence rule accounts for altered CTCF occupancy in a mouse starvation (metabolic stress) model and in the placentae after paternal alcohol exposure. Together these findings link alcohol exposure to sequence-directed changes to chromatin whose rules are conserved in alcohol-associated disease.",
+  "abstract_zh": "饮酒是全球疾病负担的主要贡献因素，但其分子后果仍未完全阐明。乙醇的首个代谢产物乙醛修饰鸟嘌呤，形成DNA加合物和DNA-蛋白质交联，从而阻断延伸中的RNA聚合酶II。由于乙醛特异性作用于鸟嘌呤，我们假设染色质特征会以序列依赖性而非随机方式被破坏。在此，我们确认酒精暴露会使延伸中的RNA聚合酶II（RNAPIIs2p）从基因体上移位，并重新定位至启动子。除这一确认外，我们还发现RNAPIIs2p也重新定位至离散的富含鸟嘌呤的基因间CTCF位点。在CTCF基序锌指5（ZF5）结合位置具有高鸟嘌呤含量的位点，CTCF和黏连蛋白（RAD21）均表现出最大增加，且CTCF占据变化在酒精戒断后六天仍持续存在。令人惊讶的是，利用Hi-C，我们发现这些CTCF和黏连蛋白的变化并不影响显著的结构性CTCF环，而是主要与改变的富含鸟嘌呤的增强子-启动子接触相关，这些接触连接至基因表达的持久变化。超出我们的细胞系模型，相同的序列规则也解释了小鼠饥饿（代谢应激）模型及父代酒精暴露后胎盘中CTCF占据的改变。综合这些发现，将酒精暴露与序列导向的染色质变化联系起来，其规则在酒精相关疾病中保守。",
+  "has_fulltext": true,
+  "fulltext_source": "europepmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.10.14.759128",
+  "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.14.759128",
+  "paper_page_path": "papers/biorxiv/10.64898_2026.10.14.759128/index.html"
+}

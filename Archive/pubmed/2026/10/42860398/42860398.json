@@ -1,0 +1,351 @@
+{
+  "identity": {
+    "pmid": "42860398",
+    "doi": "10.1038/s41467-026-76415-5",
+    "title": "Directionality of transcriptional regulatory elements."
+  },
+  "content": {
+    "abstract": "Divergent transcription is a critical marker of active transcriptional regulatory elements (TREs), including enhancers and promoters, in mammals. However, distal elements with unidirectional transcriptional patterns are often overlooked, leaving their identity and function poorly understood. Here, we perform a systematic comparison between divergent and unidirectional elements, revealing their distinct architectural and functional features. Our analysis also shows that unidirectional elements have younger sequence ages and are under weaker evolutionary constraints than divergent elements, suggesting that they may represent a unique category of genomic regulatory function with more recent origins. Furthermore, we investigate factors involved in transcriptional directionality at TREs, with CTCF and ZNF143 showing dual, position-dependent roles in transcriptional modulation. Overall, the elucidation of directionality enhances our understanding of the diverse architectural models, functional features, evolutionary dynamics, and regulatory logic of TREs.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Regulatory Elements, Transcriptional/genetics",
+      "Animals",
+      "CCCTC-Binding Factor",
+      "*Transcription, Genetic",
+      "Humans",
+      "Promoter Regions, Genetic",
+      "Evolution, Molecular",
+      "Repressor Proteins/metabolism/genetics",
+      "Enhancer Elements, Genetic",
+      "Gene Expression Regulation",
+      "Trans-Activators/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, You",
+        "Shah, Sagar R",
+        "Leung, Alden K",
+        "Paramo, Mauricio I",
+        "Gonzales, Caralyn",
+        "Cochran, Kelly",
+        "Wang, Austin",
+        "Kundaje, Anshul",
+        "Clark, Andrew G",
+        "Lis, John T",
+        "Yu, Haiyuan"
+      ],
+      "short_names": [
+        "Chen Y",
+        "Shah SR",
+        "Leung AK",
+        "Paramo MI",
+        "Gonzales C",
+        "Cochran K",
+        "Wang A",
+        "Kundaje A",
+        "Clark AG",
+        "Lis JT",
+        "Yu H"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4869-4104",
+        "ORCID: 0000-0002-9518-1881",
+        "ORCID: 0009-0009-9453-5818",
+        "ORCID: 0000-0001-5481-2344",
+        "ORCID: 0000-0001-7159-8511",
+        "ORCID: 0000-0001-7597-6049"
+      ],
+      "affiliations": [
+        "Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, USA.",
+        "Weill Institute for Cell and Molecular Biology, Cornell University, Ithaca, NY, USA.",
+        "Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, USA.",
+        "Weill Institute for Cell and Molecular Biology, Cornell University, Ithaca, NY, USA.",
+        "Weill Institute for Cell and Molecular Biology, Cornell University, Ithaca, NY, USA.",
+        "Department of Computational Biology, Cornell University, Ithaca, NY, USA.",
+        "Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, USA.",
+        "Weill Institute for Cell and Molecular Biology, Cornell University, Ithaca, NY, USA.",
+        "Department of Chemistry and Chemical Biology, Cornell University, Ithaca, NY, USA.",
+        "Department of Computer Science, Stanford University, Stanford, CA, USA.",
+        "Department of Computer Science, Stanford University, Stanford, CA, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA, USA.",
+        "Department of Computer Science, Stanford University, Stanford, CA, USA.",
+        "Department of Genetics, Stanford University, Stanford, CA, USA.",
+        "Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, USA. ac347@cornell.edu.",
+        "Department of Computational Biology, Cornell University, Ithaca, NY, USA. ac347@cornell.edu.",
+        "Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, USA. johnlis@cornell.edu.",
+        "Weill Institute for Cell and Molecular Biology, Cornell University, Ithaca, NY, USA. haiyuan.yu@cornell.edu.",
+        "Department of Computational Biology, Cornell University, Ithaca, NY, USA. haiyuan.yu@cornell.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, You",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, USA.",
+          "Weill Institute for Cell and Molecular Biology, Cornell University, Ithaca, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Shah, Sagar R",
+        "short_name": "Shah SR",
+        "identifiers": [
+          "0000-0003-4869-4104"
+        ],
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, USA.",
+          "Weill Institute for Cell and Molecular Biology, Cornell University, Ithaca, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Leung, Alden K",
+        "short_name": "Leung AK",
+        "identifiers": [],
+        "affiliations": [
+          "Weill Institute for Cell and Molecular Biology, Cornell University, Ithaca, NY, USA.",
+          "Department of Computational Biology, Cornell University, Ithaca, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Paramo, Mauricio I",
+        "short_name": "Paramo MI",
+        "identifiers": [
+          "0000-0002-9518-1881"
+        ],
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, USA.",
+          "Weill Institute for Cell and Molecular Biology, Cornell University, Ithaca, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Gonzales, Caralyn",
+        "short_name": "Gonzales C",
+        "identifiers": [
+          "0009-0009-9453-5818"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Chemical Biology, Cornell University, Ithaca, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Cochran, Kelly",
+        "short_name": "Cochran K",
+        "identifiers": [
+          "0000-0001-5481-2344"
+        ],
+        "affiliations": [
+          "Department of Computer Science, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Austin",
+        "short_name": "Wang A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science, Stanford University, Stanford, CA, USA.",
+          "Department of Genetics, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Kundaje, Anshul",
+        "short_name": "Kundaje A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science, Stanford University, Stanford, CA, USA.",
+          "Department of Genetics, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Clark, Andrew G",
+        "short_name": "Clark AG",
+        "identifiers": [
+          "0000-0001-7159-8511"
+        ],
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, USA. ac347@cornell.edu.",
+          "Department of Computational Biology, Cornell University, Ithaca, NY, USA. ac347@cornell.edu."
+        ]
+      },
+      {
+        "full_name": "Lis, John T",
+        "short_name": "Lis JT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, USA. johnlis@cornell.edu."
+        ]
+      },
+      {
+        "full_name": "Yu, Haiyuan",
+        "short_name": "Yu H",
+        "identifiers": [
+          "0000-0001-7597-6049"
+        ],
+        "affiliations": [
+          "Weill Institute for Cell and Molecular Biology, Cornell University, Ithaca, NY, USA. haiyuan.yu@cornell.edu.",
+          "Department of Computational Biology, Cornell University, Ithaca, NY, USA. haiyuan.yu@cornell.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, P.H.S."
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 05:32",
+    "fetched_at": "2026-10-19 06:17:05"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42860398",
+      "35993175",
+      "33397967",
+      "25228660",
+      "39708803",
+      "41444637",
+      "32819422",
+      "40140405",
+      "28938092",
+      "41254162",
+      "32994224",
+      "39106157",
+      "25101797",
+      "28811569",
+      "23498937",
+      "33512425",
+      "22082242",
+      "23650640",
+      "31786786",
+      "26073855",
+      "22955621",
+      "21750106",
+      "24659782",
+      "10452845",
+      "25956794",
+      "18441229",
+      "16409378",
+      "25677180",
+      "31533978",
+      "42477113",
+      "10871404",
+      "10628847",
+      "29378788",
+      "41308125",
+      "29187214",
+      "16817975",
+      "31181110",
+      "41617689",
+      "32249388",
+      "16469103",
+      "31307500",
+      "41801512",
+      "23547873",
+      "28714474",
+      "26170447",
+      "40767619",
+      "26034287",
+      "42475469",
+      "28490592",
+      "17617601",
+      "28388437",
+      "30212590",
+      "19755139",
+      "16943581",
+      "18485195",
+      "24642214",
+      "30763343",
+      "18851839",
+      "21949399",
+      "15576380",
+      "10794526",
+      "31177910",
+      "37931379",
+      "24367273",
+      "10906122",
+      "20525788",
+      "26268681",
+      "12682075",
+      "25450156",
+      "21248773",
+      "20140202",
+      "34414474",
+      "32664620",
+      "10862760",
+      "30367057",
+      "31075100",
+      "39708805",
+      "39671497",
+      "18235444",
+      "34531149",
+      "20404925",
+      "26317464",
+      "9479000",
+      "29363429",
+      "33398174",
+      "23904330",
+      "12488456",
+      "27262403",
+      "29335803",
+      "29224777",
+      "25909886",
+      "33385708",
+      "38101409",
+      "16645595",
+      "10954564",
+      "32338759",
+      "27004515",
+      "15457508",
+      "12391222",
+      "15452214"
+    ],
+    "review": [
+      "42860398",
+      "35993175",
+      "23498937",
+      "23650640",
+      "26073855",
+      "37931379",
+      "25450156",
+      "34414474",
+      "32664620",
+      "26317464"
+    ],
+    "pmc": [
+      "13655173"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76415-5",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42873853",
+  "title": "A transcriptional cofactor GRIP1 drives PPARgamma DNA binding and p300-dependent enhancer activity during homeostatic macrophage polarization.",
+  "authors": "Dacic, Marija; Stein, William J; Yuan, Ruoxi; Deochand, Dinesh K; Morrison, Joshua K; Seide, Ketsia; Chinenov, Yurii; Rogatsky, Inez",
+  "journal": "Science advances",
+  "published_date": "2026-10-14",
+  "window": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "score": 1,
+  "one_liner_zh": "该文研究转录共因子GRIP1在巨噬细胞极化中调控PPARgamma的DNA结合和增强子活性，与cpcdh基因家族无直接关联。",
+  "abstract": "Homeostatic macrophages maintain tissue health and resolve inflammation. Upon sustained exposure to type II cytokine IL4, transcription factors STAT6, KLF4, EGR2 and a ligand-regulated nuclear receptor PPARgamma orchestrate the M2(IL4) 'polarization', marked by enhancer RNA (eRNA) production near multiple M2 genes. The mechanisms of enhancer activation by unliganded PPARgamma are poorly understood. We interrogated cofactor requirements for PPARgamma-driven gene expression in M2(IL4), including those lacking PPARgamma or a ligand-dependent nuclear receptor coregulator NCoA2/GRIP1 vs. macrophages treated with the PPARgamma agonist rosiglitazone. As expected, rosiglitazone activated conventional PPARgamma targets; GRIP1 deletion blunted their induction and depleted GRIP1-interacting histone acetyltransferase p300 from PPARgamma-bound sites. Surprisingly, GRIP1 colocalized with unliganded PPARgamma in M0 and M2(IL4), and GRIP1 ablation dramatically reduced genome-wide DNA binding of PPARgamma itself while promoting broad deposition of CTCF insulator. Functionally, GRIP1 deletion mirrored PPARgamma deficiency, establishing GRIP1 as a central regulator of unliganded PPARgamma DNA binding, required for both eRNA and mRNA transcription of PPARgamma targets in homeostatic macrophages.",
+  "abstract_zh": "稳态巨噬细胞维持组织健康并消退炎症。在持续暴露于II型细胞因子IL4时，转录因子STAT6、KLF4、EGR2及配体调控的核受体PPARgamma协同调控M2(IL4)‘极化’，其特征是在多个M2基因附近产生增强子RNA (eRNA)。未结合配体的PPARgamma激活增强子的机制尚不清楚。我们探究了M2(IL4)中PPARgamma驱动基因表达所需的辅因子，包括缺乏PPARgamma或配体依赖性核受体辅调节因子NCoA2/GRIP1的巨噬细胞，与用PPARgamma激动剂罗格列酮处理的巨噬细胞进行比较。如预期，罗格列酮激活了常规PPARgamma靶基因；GRIP1缺失削弱了其诱导作用，并从PPARgamma结合位点耗竭了与GRIP1相互作用的组蛋白乙酰转移酶p300。令人惊讶的是，GRIP1在M0和M2(IL4)中与未结合配体的PPARgamma共定位，且GRIP1消融显著减少了PPARgamma在全基因组范围内的DNA结合，同时促进了CTCF绝缘子的广泛沉积。功能上，GRIP1缺失与PPARgamma缺乏相似，确立了GRIP1作为未结合配体PPARgamma DNA结合的核心调节因子，对于稳态巨噬细胞中PPARgamma靶基因的eRNA和mRNA转录均不可或缺。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42873853/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42873853/",
+  "paper_page_path": "papers/pubmed/42873853/index.html"
+}

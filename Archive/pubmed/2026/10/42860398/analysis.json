@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42860398",
+  "title": "Directionality of transcriptional regulatory elements.",
+  "authors": "Chen, You; Shah, Sagar R; Leung, Alden K; Paramo, Mauricio I; Gonzales, Caralyn; Cochran, Kelly; Wang, Austin; Kundaje, Anshul; Clark, Andrew G; Lis, John T; Yu, Haiyuan",
+  "journal": "Nature communications",
+  "published_date": "2026-10-12",
+  "window": {
+    "start": "2026-10-12",
+    "end": "2026-10-18"
+  },
+  "score": 4,
+  "one_liner_zh": "该文研究转录调控元件的方向性，与cpcdh基因家族无直接关联，但涉及基因调控机制，可作背景借鉴。",
+  "abstract": "Divergent transcription is a critical marker of active transcriptional regulatory elements (TREs), including enhancers and promoters, in mammals. However, distal elements with unidirectional transcriptional patterns are often overlooked, leaving their identity and function poorly understood. Here, we perform a systematic comparison between divergent and unidirectional elements, revealing their distinct architectural and functional features. Our analysis also shows that unidirectional elements have younger sequence ages and are under weaker evolutionary constraints than divergent elements, suggesting that they may represent a unique category of genomic regulatory function with more recent origins. Furthermore, we investigate factors involved in transcriptional directionality at TREs, with CTCF and ZNF143 showing dual, position-dependent roles in transcriptional modulation. Overall, the elucidation of directionality enhances our understanding of the diverse architectural models, functional features, evolutionary dynamics, and regulatory logic of TREs.",
+  "abstract_zh": "发散转录是哺乳动物中活性转录调控元件（TREs）的关键标志，包括增强子和启动子。然而，具有单向转录模式的远端元件常被忽视，其身份和功能仍知之甚少。在此，我们对发散和单向元件进行了系统比较，揭示了它们截然不同的结构和功能特征。我们的分析还表明，与发散元件相比，单向元件具有更年轻的序列年龄，并处于较弱的进化约束下，这提示它们可能代表了一类起源较新的独特基因组调控功能。此外，我们研究了参与TREs转录方向性的因素，其中CTCF和ZNF143在转录调控中表现出双重、位置依赖的作用。总体而言，对方向性的阐明增进了我们对TREs多样化结构模型、功能特征、进化动态和调控逻辑的理解。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42860398/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42860398/",
+  "paper_page_path": "papers/pubmed/42860398/index.html"
+}

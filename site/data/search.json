@@ -2,6 +2,111 @@
   "version": 1,
   "documents": [
     {
+      "id": "biorxiv:10.64898/2026.10.14.759128",
+      "title": "Guanine content in the CTCF motif encodes a vulnerability to persistent, alcohol-induced redistribution",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/biorxiv/10.64898_2026.10.14.759128/index.html",
+      "meta": [
+        "Nolan B; Puspo JA; Querry-Peterson IM; Maurina S; Wright RA; Schmitz A; Jacobsen LE; Ortiz C; Reznicek TE; Ethell A; Harris HL; Cummings CT; Rowley MJ",
+        "bioRxiv",
+        "2026-10-16"
+      ],
+      "tags": [],
+      "summary": "该文研究酒精暴露通过鸟嘌呤含量依赖方式改变CTCF结合和染色质结构，与cpcdh基因家族在序列依赖性染色质调控上的机制高度相关，可借鉴其研究思路。",
+      "abstract": "Alcohol consumption is a leading contributor to the global disease burden, yet its molecular consequences remain incompletely understood. Ethanols first metabolite, acetaldehyde, modifies guanine to form DNA adducts and DNA-protein crosslinks that block elongating RNA polymerase II. Because acetaldehyde acts specifically on guanine, we hypothesized that chromatin features would be disrupted in a sequence-dependent rather than stochastic manner. Here we confirm that alcohol exposure displaces elongating RNA polymerase II (RNAPIIs2p) from gene bodies, relocating to promoters. In addition to this confirmation, we found that RNAPIIs2p also relocates to discrete guanine-rich intergenic CTCF sites. Loci with high guanine content at the CTCF motifs zinc finger 5 (ZF5) binding position showed the largest increase in both CTCF and cohesin (RAD21), with CTCF occupancy changes persisting even six days after alcohol withdrawal. Surprisingly, using Hi-C, we found that these changes to CTCF and cohesin do not impact the pronounced structural CTCF loops, but are instead primarily associated with altered guanine-rich enhancer-promoter contacts that connect to lasting changes to gene expression. Beyond our cell-line model, the same sequence rule accounts for altered CTCF occupancy in a mouse starvation (metabolic stress) model and in the placentae after paternal alcohol exposure. Together these findings link alcohol exposure to sequence-directed changes to chromatin whose rules are conserved in alcohol-associated disease. 饮酒是全球疾病负担的主要贡献因素，但其分子后果仍未完全阐明。乙醇的首个代谢产物乙醛修饰鸟嘌呤，形成DNA加合物和DNA-蛋白质交联，从而阻断延伸中的RNA聚合酶II。由于乙醛特异性作用于鸟嘌呤，我们假设染色质特征会以序列依赖性而非随机方式被破坏。在此，我们确认酒精暴露会使延伸中的RNA聚合酶II（RNAPIIs2p）从基因体上移位，并重新定位至启动子。除这一确认外，我们还发现RNAPIIs2p也重新定位至离散的富含鸟嘌呤的基因间CTCF位点。在CTCF基序锌指5（ZF5）结合位置具有高鸟嘌呤含量的位点，CTCF和黏连蛋白（RAD21）均表现出最大增加，且CTCF占据变化在酒精戒断后六天仍持续存在。令人惊讶的是，利用Hi-C，我们发现这些CTCF和黏连蛋白的变化并不影响显著的结构性CTCF环，而是主要与改变的富含鸟嘌呤的增强子-启动子接触相关，这些接触连接至基因表达的持久变化。超出我们的细胞系模型，相同的序列规则也解释了小鼠饥饿（代谢应激）模型及父代酒精暴露后胎盘中CTCF占据的改变。综合这些发现，将酒精暴露与序列导向的染色质变化联系起来，其规则在酒精相关疾病中保守。",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "pubmed:42885287",
+      "title": "DeltaNp63alpha‑mediated regulation of tumor‑associated genes and pathways in hepatocellular carcinoma progression.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42885287/index.html",
+      "meta": [
+        "Lin, Xiaowen; Peng, Anghui; Zhang, Min; Yu, Xinyang",
+        "Molecular medicine reports",
+        "2026-10-16"
+      ],
+      "tags": [],
+      "summary": "该文研究DeltaNp63alpha在肝细胞癌中的致癌作用及染色质调控机制，与cpcdh基因家族无直接关联。",
+      "abstract": "DeltaNp63alpha is key in cellular development and epithelial tumors; however, its role in hepatocellular carcinoma (HCC) remains unclear. In the present study, the oncogenic role and molecular functions of DeltaNp63alpha in HCC were investigated. Analysis of The Cancer Genome Atlas revealed an association between p63 expression and patient survival. DeltaNp63alpha overexpression in SNU387 cells notably enhanced cell proliferation and migration, supporting its role in promoting aggressive HCC phenotypes. Transcriptome analysis revealed extensive DeltaNp63alpha‑associated transcriptional changes, with differentially expressed genes enriched in tumor‑associated processes, including 'Wnt signaling pathway', 'Notch signaling pathway', 'cell adhesion molecules' and 'extracellular matrix organization'. Chromatin immunoprecipitation sequencing revealed widespread DeltaNp63alpha binding in promoter‑proximal and ‑distal regulatory regions, suggesting potential involvement in transcriptional regulation through both proximal and distal genomic elements. DeltaNp63alpha upregulation was also associated with increased CCCTC‑binding factor (CTCF) occupancy near the promoters of tumor‑associated genes and these gained CTCF sites were enriched for p63 motifs. Collectively, the present findings identified DeltaNp63alpha as an oncogenic regulator of HCC and suggest that it may regulate tumor‑associated gene programs through coordinated proximal and distal chromatin regulatory mechanisms. DeltaNp63alpha在细胞发育和上皮性肿瘤中起关键作用；然而，其在肝细胞癌（HCC）中的作用仍不清楚。本研究探讨了DeltaNp63alpha在HCC中的致癌作用及分子功能。癌症基因组图谱分析显示p63表达与患者生存期之间存在关联。SNU387细胞中DeltaNp63alpha过表达显著增强了细胞增殖和迁移，支持其在促进侵袭性HCC表型中的作用。转录组分析揭示了广泛的DeltaNp63alpha相关转录变化，差异表达基因富集于肿瘤相关过程，包括“Wnt信号通路”、“Notch信号通路”、“细胞粘附分子”和“细胞外基质组织”。染色质免疫沉淀测序显示DeltaNp63alpha在启动子近端和远端调控区域广泛结合，提示其可能通过近端和远端基因组元件参与转录调控。DeltaNp63alpha上调还与肿瘤相关基因启动子附近CCCTC结合因子（CTCF）占据增加相关，且这些新增的CTCF位点富集p63基序。总体而言，本研究结果将DeltaNp63alpha确定为HCC的致癌调控因子，并提示其可能通过协调近端和远端染色质调控机制调节肿瘤相关基因程序。",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "pubmed:42878397",
+      "title": "Ryder: Epigenome normalization using a two-tier model and internal reference regions.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42878397/index.html",
+      "meta": [
+        "Cao, Yaqiang; Ge, Guangzhe; Zhao, Keji",
+        "Bioinformatics (Oxford, England)",
+        "2026-10-15"
+      ],
+      "tags": [],
+      "summary": "该文介绍表观基因组信号归一化工具Ryder，虽不直接研究cpcdh基因家族，但其归一化方法可借鉴用于相关表观遗传数据分析。",
+      "abstract": "MOTIVATION: Sequencing-based epigenomic profiling methods are powerful but suffer from technical variability that complicates cross-sample comparisons and can obscure true biological signals. While existing normalization methods using spike-in controls or computational approaches have been proposed, they often rely on assumptions that may not hold across diverse experimental conditions or require additional data types. RESULTS: We present Ryder, a flexible and robust Python package for the normalization of epigenomic signal tracks. Ryder leverages stable internal reference regions, such as invariant CTCF binding sites, to correct for technical artifacts genome-wide. Our results show that it effectively adjusts both background noise and signal intensity, ensuring accurate signal alignment across samples while preserving genuine biological differences. We demonstrate that Ryder performs robustly across diverse assays including DNase-seq, CUT&RUN, ATAC-seq, MNase-seq, and ChIP-seq, with or without spike-in controls. By reducing technical noise, Ryder improves the detection of genuine biological changes, such as quantitative reduction of chromatin accessibility at key enhancer elements by depletion of BRG1, a key subunit of the chromatin remodeling BAF complexes. AVAILABILITY AND IMPLEMENTATION: The Ryder source code, documentation and test data are freely available at: https://github.com/YaqiangCao/ryder. The software version used in this study is archived at Zenodo: https://zenodo.org/records/21267457. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online. 动机：基于测序的表观基因组分析方法是强大的工具，但存在技术变异性，这使跨样本比较复杂化，并可能掩盖真实的生物学信号。尽管已提出使用尖峰对照或计算方法的现有归一化方法，但它们通常依赖于可能在不同实验条件下不成立的假设，或需要额外的数据类型。结果：我们提出了Ryder，一个灵活且稳健的Python包，用于表观基因组信号轨迹的归一化。Ryder利用稳定的内部参考区域，如不变的CTCF结合位点，在全基因组范围内校正技术伪影。我们的结果表明，它能有效调整背景噪声和信号强度，确保跨样本的信号准确对齐，同时保留真实的生物学差异。我们证明Ryder在多种检测中表现稳健，包括DNase-seq、CUT&RUN、ATAC-seq、MNase-seq和ChIP-seq，无论有无尖峰对照。通过减少技术噪声，Ryder提高了对真实生物学变化的检测，例如通过去除BRG1（染色质重塑BAF复合物的关键亚基）导致的关键增强子区域染色质可及性的定量减少。可用性和实现：Ryder的源代码、文档和测试数据可在以下网址免费获取：https://github.com/YaqiangCao/ryder。本研究中使用的软件版本已存档于Zenodo：https://zenodo.org/records/21267457。补充信息：补充数据可在Bioinformatics在线获取。",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "pubmed:42873853",
+      "title": "A transcriptional cofactor GRIP1 drives PPARgamma DNA binding and p300-dependent enhancer activity during homeostatic macrophage polarization.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42873853/index.html",
+      "meta": [
+        "Dacic, Marija; Stein, William J; Yuan, Ruoxi; Deochand, Dinesh K; Morrison, Joshua K; Seide, Ketsia; Chinenov, Yurii; Rogatsky, Inez",
+        "Science advances",
+        "2026-10-14"
+      ],
+      "tags": [],
+      "summary": "该文研究转录共因子GRIP1在巨噬细胞极化中调控PPARgamma的DNA结合和增强子活性，与cpcdh基因家族无直接关联。",
+      "abstract": "Homeostatic macrophages maintain tissue health and resolve inflammation. Upon sustained exposure to type II cytokine IL4, transcription factors STAT6, KLF4, EGR2 and a ligand-regulated nuclear receptor PPARgamma orchestrate the M2(IL4) 'polarization', marked by enhancer RNA (eRNA) production near multiple M2 genes. The mechanisms of enhancer activation by unliganded PPARgamma are poorly understood. We interrogated cofactor requirements for PPARgamma-driven gene expression in M2(IL4), including those lacking PPARgamma or a ligand-dependent nuclear receptor coregulator NCoA2/GRIP1 vs. macrophages treated with the PPARgamma agonist rosiglitazone. As expected, rosiglitazone activated conventional PPARgamma targets; GRIP1 deletion blunted their induction and depleted GRIP1-interacting histone acetyltransferase p300 from PPARgamma-bound sites. Surprisingly, GRIP1 colocalized with unliganded PPARgamma in M0 and M2(IL4), and GRIP1 ablation dramatically reduced genome-wide DNA binding of PPARgamma itself while promoting broad deposition of CTCF insulator. Functionally, GRIP1 deletion mirrored PPARgamma deficiency, establishing GRIP1 as a central regulator of unliganded PPARgamma DNA binding, required for both eRNA and mRNA transcription of PPARgamma targets in homeostatic macrophages. 稳态巨噬细胞维持组织健康并消退炎症。在持续暴露于II型细胞因子IL4时，转录因子STAT6、KLF4、EGR2及配体调控的核受体PPARgamma协同调控M2(IL4)‘极化’，其特征是在多个M2基因附近产生增强子RNA (eRNA)。未结合配体的PPARgamma激活增强子的机制尚不清楚。我们探究了M2(IL4)中PPARgamma驱动基因表达所需的辅因子，包括缺乏PPARgamma或配体依赖性核受体辅调节因子NCoA2/GRIP1的巨噬细胞，与用PPARgamma激动剂罗格列酮处理的巨噬细胞进行比较。如预期，罗格列酮激活了常规PPARgamma靶基因；GRIP1缺失削弱了其诱导作用，并从PPARgamma结合位点耗竭了与GRIP1相互作用的组蛋白乙酰转移酶p300。令人惊讶的是，GRIP1在M0和M2(IL4)中与未结合配体的PPARgamma共定位，且GRIP1消融显著减少了PPARgamma在全基因组范围内的DNA结合，同时促进了CTCF绝缘子的广泛沉积。功能上，GRIP1缺失与PPARgamma缺乏相似，确立了GRIP1作为未结合配体PPARgamma DNA结合的核心调节因子，对于稳态巨噬细胞中PPARgamma靶基因的eRNA和mRNA转录均不可或缺。",
+      "date": "2026-10-14"
+    },
+    {
+      "id": "biorxiv:10.64898/2026.10.10.758243",
+      "title": "A role for CIZ1, a Nuclear Matrix Protein Overexpressed in Cancer Cells, in Controlling the Initiation of DNA Replication",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/biorxiv/10.64898_2026.10.10.758243/index.html",
+      "meta": [
+        "Hossain M; Tramantano M; Naik S; Stillman B",
+        "bioRxiv",
+        "2026-10-13"
+      ],
+      "tags": [],
+      "summary": "该文研究CIZ1蛋白在DNA复制起始和肿瘤中的作用，与cpcdh基因家族无关。",
+      "abstract": "DNA replication licensing is tightly coordinated with cell-cycle progression to ensure genome stability. Here we demonstrate that CIZ1, a nuclear matrix scaffold protein in human cells, coordinates DNA replication licensing through direct interactions with the Origin Recognition Complex (ORC), CDC6, and Cyclins E/A–CDK2. The C-terminal zinc finger region of CIZ1 mediates binding to the cyclin-binding motifs of ORC1 and CDC6, and Cyclin–CDK-dependent phosphorylation regulates these interactions. Cell cycle analyses demonstrated a dynamic association of CIZ1 with ORC1 and CDC6. Functional studies showed that CIZ1 depletion impaired MCM loading, reduced DNA synthesis, delayed S-phase progression and inhibited cell proliferation. Cancer cells overexpressing CIZ1 exhibited an enhanced dependency on its expression, and CRISPR tiling screens identified the C-terminal regulatory region containing cyclin-binding motifs and CDK phosphorylation sites as essential for cell proliferation. Acute degradation of CIZ1 further revealed an unexpected role in maintaining CCCTC-binding factor (CTCF) occupancy at specific genomic loci and regulating transcriptional programs associated with cell adhesion and migration, indicating that CIZ1 links DNA replication with higher-order genome organization. Finally, depletion of CIZ1 significantly suppressed colorectal tumor growth in xenograft models. Together, these findings establish CIZ1 as a multifunctional scaffold that integrates DNA replication licensing, Cyclin– CDK signaling, and chromatin architecture. DNA复制许可与细胞周期进程紧密协调，以确保基因组稳定性。在此，我们证明CIZ1（一种人类细胞中的核基质支架蛋白）通过与起始识别复合物（ORC）、CDC6以及细胞周期蛋白E/A–CDK2的直接相互作用，协调DNA复制许可。CIZ1的C端锌指区域介导与ORC1和CDC6的细胞周期蛋白结合基序的结合，而细胞周期蛋白–CDK依赖性磷酸化调节这些相互作用。细胞周期分析显示CIZ1与ORC1和CDC6存在动态关联。功能研究表明，CIZ1缺失损害MCM加载、减少DNA合成、延迟S期进程并抑制细胞增殖。过表达CIZ1的癌细胞表现出对其表达的增强依赖性，CRISPR平铺筛选确定包含细胞周期蛋白结合基序和CDK磷酸化位点的C端调控区域对细胞增殖至关重要。CIZ1的急性降解进一步揭示了其在维持特定基因组位点的CCCTC结合因子（CTCF）占据以及调控与细胞黏附和迁移相关的转录程序中的意外作用，表明CIZ1将DNA复制与高阶基因组组织联系起来。最后，在异种移植模型中，CIZ1缺失显著抑制结直肠肿瘤生长。综合这些发现，确立CIZ1为一种多功能支架，整合DNA复制许可、细胞周期蛋白–CDK信号传导和染色质架构。",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "pubmed:42867989",
+      "title": "Quantifying the impact of genetic mutations on enhancer dynamics.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42867989/index.html",
+      "meta": [
+        "Das, Maitreya; Banerjee, Deepro; Hossain, Ayaan; Jensen, Matthew; Mogre, Saie; Sun, Jiawan; Mao, Joseph; Glick, Adam B; Salis, Howard M; Girirajan, Santhosh",
+        "Cell reports",
+        "2026-10-13"
+      ],
+      "tags": [],
+      "summary": "该文研究遗传突变对增强子动态的影响，虽涉及增强子调控和基因表达，但未聚焦cpcdh基因家族，仅可借鉴其高通量筛选和深度学习分析方法。",
+      "abstract": "Transcriptional regulation is mediated by enhancers, yet how genetic perturbations alter enhancer activity and gene expression remains unclear. We develop UDI-UMI-STARR-seq, integrating dual indexes and unique molecular identifiers, and combine it with RNA-seq to profile perturbation-associated changes in enhancer activity and gene expression. We apply this approach to 253,632 fragments representing 46,142 cell type-specific candidate enhancers and assess the impact of CRISPR/Cas9-mediated deletion of six transcription factors (ATF2, CTCF, FOXA1, LEF1, TCF7L2, and SCRT1). We identify responsive fragments that are repressed or induced and enriched for p53 family motifs. Enhancer-gene mapping reveals associations between responsive fragments and gene expression changes, including Wnt/p53 targets after ATF2 or LEF1 depletion. A deep learning model recapitulates enhancer grammar, including cooperative motif syntax and flanking sequence context. Applying this framework to 16p12.1 deletion identifies responsive fragments associated with genes involved in neuronal function, providing a scalable readout of enhancer dynamics across genetic perturbations. 转录调控由增强子介导，然而遗传扰动如何改变增强子活性及基因表达仍不清楚。我们开发了UDI-UMI-STARR-seq，整合双索引和唯一分子标识符，并将其与RNA-seq结合，以分析扰动相关的增强子活性和基因表达变化。我们将此方法应用于代表46,142个细胞类型特异性候选增强子的253,632个片段，并评估CRISPR/Cas9介导的六个转录因子（ATF2、CTCF、FOXA1、LEF1、TCF7L2和SCRT1）缺失的影响。我们识别出被抑制或诱导的响应片段，这些片段富集p53家族基序。增强子-基因映射揭示了响应片段与基因表达变化之间的关联，包括ATF2或LEF1缺失后的Wnt/p53靶标。一个深度学习模型重现了增强子语法，包括协同基序句法和侧翼序列上下文。将此框架应用于16p12.1缺失，识别出与神经元功能相关基因关联的响应片段，为跨遗传扰动的增强子动态提供了可扩展的读数。",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "pubmed:42860398",
+      "title": "Directionality of transcriptional regulatory elements.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42860398/index.html",
+      "meta": [
+        "Chen, You; Shah, Sagar R; Leung, Alden K; Paramo, Mauricio I; Gonzales, Caralyn; Cochran, Kelly; Wang, Austin; Kundaje, Anshul; Clark, Andrew G; Lis, John T; Yu, Haiyuan",
+        "Nature communications",
+        "2026-10-12"
+      ],
+      "tags": [],
+      "summary": "该文研究转录调控元件的方向性，与cpcdh基因家族无直接关联，但涉及基因调控机制，可作背景借鉴。",
+      "abstract": "Divergent transcription is a critical marker of active transcriptional regulatory elements (TREs), including enhancers and promoters, in mammals. However, distal elements with unidirectional transcriptional patterns are often overlooked, leaving their identity and function poorly understood. Here, we perform a systematic comparison between divergent and unidirectional elements, revealing their distinct architectural and functional features. Our analysis also shows that unidirectional elements have younger sequence ages and are under weaker evolutionary constraints than divergent elements, suggesting that they may represent a unique category of genomic regulatory function with more recent origins. Furthermore, we investigate factors involved in transcriptional directionality at TREs, with CTCF and ZNF143 showing dual, position-dependent roles in transcriptional modulation. Overall, the elucidation of directionality enhances our understanding of the diverse architectural models, functional features, evolutionary dynamics, and regulatory logic of TREs. 发散转录是哺乳动物中活性转录调控元件（TREs）的关键标志，包括增强子和启动子。然而，具有单向转录模式的远端元件常被忽视，其身份和功能仍知之甚少。在此，我们对发散和单向元件进行了系统比较，揭示了它们截然不同的结构和功能特征。我们的分析还表明，与发散元件相比，单向元件具有更年轻的序列年龄，并处于较弱的进化约束下，这提示它们可能代表了一类起源较新的独特基因组调控功能。此外，我们研究了参与TREs转录方向性的因素，其中CTCF和ZNF143在转录调控中表现出双重、位置依赖的作用。总体而言，对方向性的阐明增进了我们对TREs多样化结构模型、功能特征、进化动态和调控逻辑的理解。",
+      "date": "2026-10-12"
+    },
+    {
       "id": "pubmed:42856485",
       "title": "Ctcf deficiency in myofibers induces pathological genome reprogramming toward the spontaneous development of myopathy.",
       "subtitle": "",
