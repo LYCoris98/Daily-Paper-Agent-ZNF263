@@ -1,0 +1,154 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.19.759930",
+  "title": "Evolution of CTCF underlies the establishment of loop extrusion as a predominant chromatin folding mechanism in vertebrates",
+  "doi": "10.64898/2026.10.19.759930",
+  "abstract": "CTCF is a DNA-binding protein that emerged in the last bilaterian ancestor and that plays a central role in 3D genome organization. Yet, despite its relevance, genomic studies have revealed notable differences in CTCF function across animal clades. In vertebrates, CTCF is essential for TAD organization through cohesin-mediated loop extrusion, whereas its contribution to chromatin organization outside this clade appears to be more limited. Here we investigate the evolution of CTCF as an architectural factor through a cross-species functional replacement approach, in which orthologs from divergent bilaterian lineages are expressed in either mouse embryonic stem cells or Drosophila embryos. Chromosome conformation analyses demonstrated that the ability of CTCF to mediate loop extrusion-dependent TAD formation is encoded within the vertebrate protein. Yet, this property alone is insufficient to establish vertebrate-like genome architecture in an invertebrate background, suggesting the existence of additional lineage-specific factors. ChIP-seq analyses further revealed that CTCF DNA-binding specificity has been progressively refined during bilaterian evolution, with the vertebrate lineage exhibiting a preferential shift towards distal genomic regions that is consistent with an expansion of regulatory domains. Notably, despite failing to form TADs, the ortholog from a non-vertebrate chordate partially rescued the lethality associated with the loss of the vertebrate CTCF protein, indicating that its architectural and regulatory functions are evolutionary independent. Further Hi-C analyses in tunicate and cyclostome species suggest that the ability of CTCF to act as a loop extrusion barrier was already present in the last common ancestor of all vertebrates. Altogether, our findings establish the diversification of CTCF regulation and function as key drivers for the specialization of bilaterian 3D genome organization.",
+  "authors": [
+    "Astica L",
+    "Acemel RD",
+    "Schwarzenbacher H",
+    "Racioppi C",
+    "Rojas AM",
+    "Rotllant J",
+    "Bogdanovic O",
+    "Real FM",
+    "Christiaen L",
+    "Zinzen RP",
+    "Lupianez DG"
+  ],
+  "published_date": "2026-10-23",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.19.759930",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.19.759930.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1349589",
+    "raw_record": {
+      "id": "PPR1349589",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.19.759930",
+      "title": "Evolution of CTCF underlies the establishment of loop extrusion as a predominant chromatin folding mechanism in vertebrates",
+      "authorString": "Astica L, Acemel RD, Schwarzenbacher H, Racioppi C, Rojas AM, Rotllant J, Bogdanovic O, Real FM, Christiaen L, Zinzen RP, Lupianez DG.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Astica L",
+            "lastName": "Astica",
+            "firstName": "Liene",
+            "initials": "L"
+          },
+          {
+            "fullName": "Acemel RD",
+            "lastName": "Acemel",
+            "firstName": "Rafael",
+            "initials": "RD"
+          },
+          {
+            "fullName": "Schwarzenbacher H",
+            "lastName": "Schwarzenbacher",
+            "firstName": "Henrike",
+            "initials": "H"
+          },
+          {
+            "fullName": "Racioppi C",
+            "lastName": "Racioppi",
+            "firstName": "Claudia",
+            "initials": "C"
+          },
+          {
+            "fullName": "Rojas AM",
+            "lastName": "Rojas",
+            "firstName": "Ana",
+            "initials": "AM"
+          },
+          {
+            "fullName": "Rotllant J",
+            "lastName": "Rotllant",
+            "firstName": "Josep",
+            "initials": "J"
+          },
+          {
+            "fullName": "Bogdanovic O",
+            "lastName": "Bogdanovic",
+            "firstName": "Ozren",
+            "initials": "O"
+          },
+          {
+            "fullName": "Real FM",
+            "lastName": "Real",
+            "firstName": "Francisca",
+            "initials": "FM"
+          },
+          {
+            "fullName": "Christiaen L",
+            "lastName": "Christiaen",
+            "firstName": "Lionel",
+            "initials": "L"
+          },
+          {
+            "fullName": "Zinzen RP",
+            "lastName": "Zinzen",
+            "firstName": "Robert",
+            "initials": "RP"
+          },
+          {
+            "fullName": "Lupianez DG",
+            "lastName": "Lupianez",
+            "firstName": "Dario",
+            "initials": "DG"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "CTCF is a DNA-binding protein that emerged in the last bilaterian ancestor and that plays a central role in 3D genome organization. Yet, despite its relevance, genomic studies have revealed notable differences in CTCF function across animal clades. In vertebrates, CTCF is essential for TAD organization through cohesin-mediated loop extrusion, whereas its contribution to chromatin organization outside this clade appears to be more limited. Here we investigate the evolution of CTCF as an architectural factor through a cross-species functional replacement approach, in which orthologs from divergent bilaterian lineages are expressed in either mouse embryonic stem cells or Drosophila embryos. Chromosome conformation analyses demonstrated that the ability of CTCF to mediate loop extrusion-dependent TAD formation is encoded within the vertebrate protein. Yet, this property alone is insufficient to establish vertebrate-like genome architecture in an invertebrate background, suggesting the existence of additional lineage-specific factors. ChIP-seq analyses further revealed that CTCF DNA-binding specificity has been progressively refined during bilaterian evolution, with the vertebrate lineage exhibiting a preferential shift towards distal genomic regions that is consistent with an expansion of regulatory domains. Notably, despite failing to form TADs, the ortholog from a non-vertebrate chordate partially rescued the lethality associated with the loss of the vertebrate CTCF protein, indicating that its architectural and regulatory functions are evolutionary independent. Further Hi-C analyses in tunicate and cyclostome species suggest that the ability of CTCF to act as a loop extrusion barrier was already present in the last common ancestor of all vertebrates. Altogether, our findings establish the diversification of CTCF regulation and function as key drivers for the specialization of bilaterian 3D genome organization.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.19.759930"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-25",
+      "firstPublicationDate": "2026-10-23",
+      "firstIndexDate": "2026-10-25",
+      "hasEvaluations": "N"
+    }
+  }
+}

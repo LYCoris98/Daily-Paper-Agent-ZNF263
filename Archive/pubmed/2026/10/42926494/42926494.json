@@ -1,0 +1,176 @@
+{
+  "identity": {
+    "pmid": "42926494",
+    "doi": "10.64898/2026.10.05.753292",
+    "title": "Heterochromatin protein 1alpha acts as an essential stabilizer of chromatin packing domains."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The spatial organization of the human genome emerges from an enzyme-guided self-assembly process in which chromatin has a bidirectional relationship with transcription. Central to this architecture are chromatin packing domains, 50-200 nm structures exhibiting mass-scaling behavior. Nascent domains arise through transcription and cohesin/CTCF-mediated loop extrusion, while their maturation depends on conditions that permit differential access of epigenetic enzymes to their dense cores and continuously lower density periphery, resulting in the accumulation of heterochromatic marks in domain cores and euchromatic marks outside of the domain cores. In turn, packing domains support transcription by creating an \"ideal zone\" peripherally to their cores due to a nonmonotonic dependence of transcription rate on local chromatin density. RESULTS: We investigated the role of heterochromatin protein 1 alpha (HP1alpha), a key chromatin crosslinking factor with affinity to H3K9me3 marks, in maintaining packing domain organization. Paradoxically, short-term HP1alpha degradation resulted in overall downregulation of genes, contrasting with the canonical view that repression of heterochromatin allows chromatin to become more accessible for transcription. While some packing domains persisted, heterochromatic cores of dense packing domains were disrupted. When exposed to hypoxia, HP1alpha-depleted cells exhibited a dampened transcriptional response, showcasing that when domain maturation is disrupted, stress response pathways are not effectively activated. CONCLUSIONS: This work highlights HP1alpha crosslinking as an essential component of domain maturation, as HP1alpha loss disrupts domain geometry and inhibits efficient transcriptional reprogramming. Our findings suggest an intriguing perspective on the potential relationship between chromatin architecture and gene regulation that could inform chromatin engineering-based treatments.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kuo, Tiffany",
+        "Carrillo Gonzalez, Paola",
+        "Acosta, Nicolas",
+        "Carter, Lucas M",
+        "Pujadas Liwag, Emily",
+        "Arriaga, Claudia V",
+        "Johnson, Brittany",
+        "Dunton, Cody L",
+        "Almassalha, Luay M",
+        "Szleifer, Igal",
+        "Backman, Vadim"
+      ],
+      "short_names": [
+        "Kuo T",
+        "Carrillo Gonzalez P",
+        "Acosta N",
+        "Carter LM",
+        "Pujadas Liwag E",
+        "Arriaga CV",
+        "Johnson B",
+        "Dunton CL",
+        "Almassalha LM",
+        "Szleifer I",
+        "Backman V"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-3599-4443",
+        "ORCID: 0000-0003-2988-0913",
+        "ORCID: 0009-0008-9278-7491",
+        "ORCID: 0000-0003-0385-9833",
+        "ORCID: 0000-0002-3520-835X",
+        "ORCID: 0000-0002-0909-9647",
+        "ORCID: 0000-0001-9355-7681",
+        "ORCID: 0000-0002-8708-0335",
+        "ORCID: 0000-0003-1981-1818"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Kuo, Tiffany",
+        "short_name": "Kuo T",
+        "identifiers": [
+          "0009-0008-3599-4443"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Carrillo Gonzalez, Paola",
+        "short_name": "Carrillo Gonzalez P",
+        "identifiers": [
+          "0000-0003-2988-0913"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Acosta, Nicolas",
+        "short_name": "Acosta N",
+        "identifiers": [
+          "0009-0008-9278-7491"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Carter, Lucas M",
+        "short_name": "Carter LM",
+        "identifiers": [
+          "0000-0003-0385-9833"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Pujadas Liwag, Emily",
+        "short_name": "Pujadas Liwag E",
+        "identifiers": [
+          "0000-0002-3520-835X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Arriaga, Claudia V",
+        "short_name": "Arriaga CV",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Johnson, Brittany",
+        "short_name": "Johnson B",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Dunton, Cody L",
+        "short_name": "Dunton CL",
+        "identifiers": [
+          "0000-0002-0909-9647"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Almassalha, Luay M",
+        "short_name": "Almassalha LM",
+        "identifiers": [
+          "0000-0001-9355-7681"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Szleifer, Igal",
+        "short_name": "Szleifer I",
+        "identifiers": [
+          "0000-0002-8708-0335"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Backman, Vadim",
+        "short_name": "Backman V",
+        "identifiers": [
+          "0000-0003-1981-1818"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 05:37",
+    "fetched_at": "2026-10-26 06:20:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42926494"
+    ],
+    "review": [
+      "42926494"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

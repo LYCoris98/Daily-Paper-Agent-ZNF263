@@ -1,0 +1,115 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.20.760189",
+  "title": "Evaluation of object detection neural networks to find topologically associated domains in bulk Hi-C data",
+  "doi": "10.64898/2026.10.20.760189",
+  "abstract": "Topologically associated domains (TADs) shape the three-dimensional structure of chromatin and contribute to gene regulation by arranging regulatory elements and genes in spatial proximity. This spatial proximity is captured by Hi-C, an experimental method, which quantifies contact frequencies between all pairs of genomic loci. In bulk Hi-C data, TADs can be found in the form of gapped, nested and partially overlapping squares centered on the main diagonal of the Hi-C matrix. We shift the problem of TAD identification into the domain of computer vision by detecting TADs in Hi-C in the form of squares in images. For this we use object detection, which aims to classify object instances in images. This study evaluates the applicability of the object detection neural networks YOLOv8 and Mask R-CNN on the identification of TADs in bulk Hi-C data. We build image-like data from Hi-C matrices, predict reference TADs with a state-of-the-art TAD caller, train the models and evaluate the detections. Our results confirm that YOLOv8 and Mask R-CNN learn to detect reference TADs, new TADs and overlapping TADs (although absent in training data). All three show increased ChIP-Seq signal of the TAD-associated factors CTCF, RAD21 and H3K4me3 on their boundaries, emphasizing their biological reliability. Comparisons with reference TADs indicate that Mask R-CNN detects more TADs with less precise positioning, while YOLOv8 detects fewer TADs with lower nesting complexity but improved positioning. <h4>Keypoints</h4> Object detection methods are suited to detect TADs Object detection detects reasonable new TADs based on features learned from imperfect training data The main limitation and an important point for future work is the preciseness of bounding box positioning",
+  "authors": [
+    "Philipp N",
+    "Grünnagel CL",
+    "Janssen S",
+    "Sigges C"
+  ],
+  "published_date": "2026-10-21",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760189",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760189.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1347356",
+    "raw_record": {
+      "id": "PPR1347356",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.20.760189",
+      "title": "Evaluation of object detection neural networks to find topologically associated domains in bulk Hi-C data",
+      "authorString": "Philipp N, Grünnagel CL, Janssen S, Sigges C.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Philipp N",
+            "lastName": "Philipp",
+            "firstName": "Niklas",
+            "initials": "N"
+          },
+          {
+            "fullName": "Grünnagel CL",
+            "lastName": "Grünnagel",
+            "firstName": "Christopher Leon",
+            "initials": "CL"
+          },
+          {
+            "fullName": "Janssen S",
+            "lastName": "Janssen",
+            "firstName": "Stefan",
+            "initials": "S"
+          },
+          {
+            "fullName": "Sigges C",
+            "lastName": "Sigges",
+            "firstName": "Cornelia",
+            "initials": "C"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Topologically associated domains (TADs) shape the three-dimensional structure of chromatin and contribute to gene regulation by arranging regulatory elements and genes in spatial proximity. This spatial proximity is captured by Hi-C, an experimental method, which quantifies contact frequencies between all pairs of genomic loci. In bulk Hi-C data, TADs can be found in the form of gapped, nested and partially overlapping squares centered on the main diagonal of the Hi-C matrix. We shift the problem of TAD identification into the domain of computer vision by detecting TADs in Hi-C in the form of squares in images. For this we use object detection, which aims to classify object instances in images. This study evaluates the applicability of the object detection neural networks YOLOv8 and Mask R-CNN on the identification of TADs in bulk Hi-C data. We build image-like data from Hi-C matrices, predict reference TADs with a state-of-the-art TAD caller, train the models and evaluate the detections. Our results confirm that YOLOv8 and Mask R-CNN learn to detect reference TADs, new TADs and overlapping TADs (although absent in training data). All three show increased ChIP-Seq signal of the TAD-associated factors CTCF, RAD21 and H3K4me3 on their boundaries, emphasizing their biological reliability. Comparisons with reference TADs indicate that Mask R-CNN detects more TADs with less precise positioning, while YOLOv8 detects fewer TADs with lower nesting complexity but improved positioning. <h4>Keypoints</h4>  Object detection methods are suited to detect TADs Object detection detects reasonable new TADs based on features learned from imperfect training data The main limitation and an important point for future work is the preciseness of bounding box positioning",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Forschungscampus Mittelhessen",
+            "grantId": "Project 2026_1_02",
+            "orderIn": 0
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.20.760189"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by-nc",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-22",
+      "firstPublicationDate": "2026-10-21",
+      "firstIndexDate": "2026-10-22",
+      "hasEvaluations": "N"
+    }
+  }
+}

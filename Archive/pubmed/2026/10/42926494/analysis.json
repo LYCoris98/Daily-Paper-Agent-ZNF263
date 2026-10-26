@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42926494",
+  "title": "Heterochromatin protein 1alpha acts as an essential stabilizer of chromatin packing domains.",
+  "authors": "Kuo, Tiffany; Carrillo Gonzalez, Paola; Acosta, Nicolas; Carter, Lucas M; Pujadas Liwag, Emily; Arriaga, Claudia V; Johnson, Brittany; Dunton, Cody L; Almassalha, Luay M; Szleifer, Igal; Backman, Vadim",
+  "journal": "bioRxiv : the preprint server for biology",
+  "published_date": "2026-10-25",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "score": 6,
+  "one_liner_zh": "该文研究HP1alpha在染色质包装域稳定中的作用，虽非直接针对cpcdh基因家族，但其染色质结构调控机制可为该家族研究提供借鉴。",
+  "abstract": "BACKGROUND: The spatial organization of the human genome emerges from an enzyme-guided self-assembly process in which chromatin has a bidirectional relationship with transcription. Central to this architecture are chromatin packing domains, 50-200 nm structures exhibiting mass-scaling behavior. Nascent domains arise through transcription and cohesin/CTCF-mediated loop extrusion, while their maturation depends on conditions that permit differential access of epigenetic enzymes to their dense cores and continuously lower density periphery, resulting in the accumulation of heterochromatic marks in domain cores and euchromatic marks outside of the domain cores. In turn, packing domains support transcription by creating an \"ideal zone\" peripherally to their cores due to a nonmonotonic dependence of transcription rate on local chromatin density. RESULTS: We investigated the role of heterochromatin protein 1 alpha (HP1alpha), a key chromatin crosslinking factor with affinity to H3K9me3 marks, in maintaining packing domain organization. Paradoxically, short-term HP1alpha degradation resulted in overall downregulation of genes, contrasting with the canonical view that repression of heterochromatin allows chromatin to become more accessible for transcription. While some packing domains persisted, heterochromatic cores of dense packing domains were disrupted. When exposed to hypoxia, HP1alpha-depleted cells exhibited a dampened transcriptional response, showcasing that when domain maturation is disrupted, stress response pathways are not effectively activated. CONCLUSIONS: This work highlights HP1alpha crosslinking as an essential component of domain maturation, as HP1alpha loss disrupts domain geometry and inhibits efficient transcriptional reprogramming. Our findings suggest an intriguing perspective on the potential relationship between chromatin architecture and gene regulation that could inform chromatin engineering-based treatments.",
+  "abstract_zh": "背景：人类基因组的空间组织源于一种酶引导的自组装过程，其中染色质与转录具有双向关系。这一结构的关键是染色质包装域，即50-200纳米的结构，表现出质量缩放行为。新生域通过转录和cohesin/CTCF介导的环挤压产生，而其成熟依赖于允许表观遗传酶差异性地进入其致密核心和持续较低密度的外围区域的条件，导致异染色质标记在域核心积累，而常染色质标记在域核心外积累。反过来，包装域通过局部染色质密度对转录速率的非单调依赖性，在其核心外围创造一个“理想区域”来支持转录。结果：我们研究了异染色质蛋白1α（HP1alpha），一种对H3K9me3标记具有亲和力的关键染色质交联因子，在维持包装域组织中的作用。矛盾的是，短期HP1alpha降解导致基因整体下调，这与异染色质抑制使染色质更易于转录的经典观点形成对比。虽然一些包装域持续存在，但致密包装域的异染色质核心被破坏。当暴露于低氧条件时，HP1alpha耗尽的细胞表现出减弱的转录反应，表明当域成熟被破坏时，应激反应通路未被有效激活。结论：这项工作强调HP1alpha交联是域成熟的关键组成部分，因为HP1alpha缺失会破坏域几何结构并抑制有效的转录重编程。我们的发现为染色质结构与基因调控之间的潜在关系提供了一个有趣的视角，这可能为基于染色质工程的治疗提供信息。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42926494/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42926494/",
+  "paper_page_path": "papers/pubmed/42926494/index.html"
+}

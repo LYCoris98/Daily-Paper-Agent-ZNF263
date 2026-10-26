@@ -1,0 +1,340 @@
+{
+  "identity": {
+    "pmid": "42925159",
+    "doi": "10.1080/15592294.2026.2749250",
+    "title": "Chromatin rewiring in endothelial cells upon cohesin reduction redistributes genome-wide FLI1 binding."
+  },
+  "content": {
+    "abstract": "Three-dimensional genome organization is crucial for gene regulation and cell identity. The architectural proteins CTCF and the cohesin complex mediate chromatin looping, shaping cell-type-specific transcription. While their functions have been extensively characterized in embryonic stem cells and other proliferative systems, the regulation of transcription by these two ubiquitously expressed factors in terminally differentiated cells, such as endothelial cells (ECs), remains poorly understood. Moreover, interpretation of prior studies is further complicated by the essential requirement of CTCF and cohesin for cell viability, as most rely on near-complete depletion. Consequently, the extent to which CTCF and cohesin function redundantly, cooperatively, or independently to regulate cell-type-specific programs in differentiated cells remains a major knowledge gap. To address this, we reduced CTCF or the core cohesin subunit RAD21 to approximately 50% protein levels in an isogenic system of human induced pluripotent stem cells (iPSCs) and iPSC-derived endothelial cells (iEcs), enabling direct comparison between undifferentiated and lineage-committed cell states. CUT&Tag and RNA sequencing revealed a striking, EC-specific loss of CTCF and RAD21 occupancy at gene promoters following partial depletion; RAD21 reduction had a more pronounced impact on endothelial gene expression than CTCF depletion. RAD21 loss also led to a marked redistribution of FLI1 binding, a transcription factor essential for endothelial identity and function. Collectively, our findings highlight critical contributions of RAD21 in EC-specific gene expression through coordinated control of chromatin architecture and modulating transcription factor occupancy, providing mechanistic insight into cohesin-dependent regulation of vascular transcriptional programs.",
+    "keywords": [
+      "CTCF",
+      "Cohesin",
+      "FLI1",
+      "RAD21",
+      "endothelial cells"
+    ],
+    "mesh_terms": [
+      "Cohesins",
+      "Humans",
+      "*Cell Cycle Proteins/metabolism/genetics",
+      "*Chromosomal Proteins, Non-Histone/metabolism/genetics",
+      "CCCTC-Binding Factor/metabolism/genetics",
+      "*Endothelial Cells/metabolism/cytology",
+      "*Chromatin/metabolism/genetics",
+      "*Proto-Oncogene Protein c-fli-1/metabolism/genetics",
+      "Phosphoproteins/metabolism/genetics",
+      "Induced Pluripotent Stem Cells/metabolism/cytology",
+      "Nuclear Proteins/metabolism/genetics",
+      "Cell Differentiation",
+      "Protein Binding",
+      "DNA-Binding Proteins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ray, Atrayee",
+        "Pandey, Rajan",
+        "Chrisenberry, Daniel Bennett",
+        "Murray, Josiah D",
+        "Stelloh, Cary",
+        "Liu, Pengyuan",
+        "Liu, Yong",
+        "Qiu, Qiongzi",
+        "Meyer, Alison E",
+        "Tutaj, Monika",
+        "Lin, Chien-Wei",
+        "Kasomva, Khanmi",
+        "Sadowski, Michael",
+        "Auer, Paul",
+        "Widlansky, Michael E",
+        "Geurts, Aron M",
+        "Cowley, Allen W",
+        "Kwitek, Anne E",
+        "Greene, Andrew S",
+        "Liang, Mingyu",
+        "Rao, Sridhar"
+      ],
+      "short_names": [
+        "Ray A",
+        "Pandey R",
+        "Chrisenberry DB",
+        "Murray JD",
+        "Stelloh C",
+        "Liu P",
+        "Liu Y",
+        "Qiu Q",
+        "Meyer AE",
+        "Tutaj M",
+        "Lin CW",
+        "Kasomva K",
+        "Sadowski M",
+        "Auer P",
+        "Widlansky ME",
+        "Geurts AM",
+        "Cowley AW",
+        "Kwitek AE",
+        "Greene AS",
+        "Liang M",
+        "Rao S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6731-4317"
+      ],
+      "affiliations": [
+        "Versiti Blood Research Institute, Milwaukee, WI, USA.",
+        "Department of Physiology, University of Arizona, Tucson, AZ, USA.",
+        "Amrita School of Nanosciences and Molecular Medicine, Amrita Vishwa Vidyapeetham, Ernakulam, India.",
+        "Department of Physiology, University of Arizona, Tucson, AZ, USA.",
+        "Versiti Blood Research Institute, Milwaukee, WI, USA.",
+        "Department of Cell Biology, Neurobiology, and Anatomy, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Versiti Blood Research Institute, Milwaukee, WI, USA.",
+        "Department of Physiology, University of Arizona, Tucson, AZ, USA.",
+        "Department of Physiology, University of Arizona, Tucson, AZ, USA.",
+        "Department of Physiology, University of Arizona, Tucson, AZ, USA.",
+        "Versiti Blood Research Institute, Milwaukee, WI, USA.",
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Division of Biostatistics, Data Science Institute, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Division of Hematology and Oncology, Department of Medicine, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Versiti Blood Research Institute, Milwaukee, WI, USA.",
+        "Division of Biostatistics, Data Science Institute, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Cancer Center, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Medicine, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "The Jackson Laboratory, Bar Harbor, ME, USA.",
+        "Department of Physiology, University of Arizona, Tucson, AZ, USA.",
+        "Versiti Blood Research Institute, Milwaukee, WI, USA.",
+        "Department of Cell Biology, Neurobiology, and Anatomy, Medical College of Wisconsin, Milwaukee, WI, USA.",
+        "Department of Pediatrics, Section of Hematology/Oncology/Transplantation, Medical College of Wisconsin, Milwaukee, WI, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ray, Atrayee",
+        "short_name": "Ray A",
+        "identifiers": [
+          "0000-0002-6731-4317"
+        ],
+        "affiliations": [
+          "Versiti Blood Research Institute, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Pandey, Rajan",
+        "short_name": "Pandey R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, University of Arizona, Tucson, AZ, USA.",
+          "Amrita School of Nanosciences and Molecular Medicine, Amrita Vishwa Vidyapeetham, Ernakulam, India."
+        ]
+      },
+      {
+        "full_name": "Chrisenberry, Daniel Bennett",
+        "short_name": "Chrisenberry DB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, University of Arizona, Tucson, AZ, USA."
+        ]
+      },
+      {
+        "full_name": "Murray, Josiah D",
+        "short_name": "Murray JD",
+        "identifiers": [],
+        "affiliations": [
+          "Versiti Blood Research Institute, Milwaukee, WI, USA.",
+          "Department of Cell Biology, Neurobiology, and Anatomy, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Stelloh, Cary",
+        "short_name": "Stelloh C",
+        "identifiers": [],
+        "affiliations": [
+          "Versiti Blood Research Institute, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Pengyuan",
+        "short_name": "Liu P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, University of Arizona, Tucson, AZ, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Yong",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, University of Arizona, Tucson, AZ, USA."
+        ]
+      },
+      {
+        "full_name": "Qiu, Qiongzi",
+        "short_name": "Qiu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, University of Arizona, Tucson, AZ, USA."
+        ]
+      },
+      {
+        "full_name": "Meyer, Alison E",
+        "short_name": "Meyer AE",
+        "identifiers": [],
+        "affiliations": [
+          "Versiti Blood Research Institute, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Tutaj, Monika",
+        "short_name": "Tutaj M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Lin, Chien-Wei",
+        "short_name": "Lin CW",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Biostatistics, Data Science Institute, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Kasomva, Khanmi",
+        "short_name": "Kasomva K",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Hematology and Oncology, Department of Medicine, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Sadowski, Michael",
+        "short_name": "Sadowski M",
+        "identifiers": [],
+        "affiliations": [
+          "Versiti Blood Research Institute, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Auer, Paul",
+        "short_name": "Auer P",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Biostatistics, Data Science Institute, Medical College of Wisconsin, Milwaukee, WI, USA.",
+          "Cancer Center, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Widlansky, Michael E",
+        "short_name": "Widlansky ME",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Geurts, Aron M",
+        "short_name": "Geurts AM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Cowley, Allen W",
+        "short_name": "Cowley AW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Kwitek, Anne E",
+        "short_name": "Kwitek AE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Greene, Andrew S",
+        "short_name": "Greene AS",
+        "identifiers": [],
+        "affiliations": [
+          "The Jackson Laboratory, Bar Harbor, ME, USA."
+        ]
+      },
+      {
+        "full_name": "Liang, Mingyu",
+        "short_name": "Liang M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology, University of Arizona, Tucson, AZ, USA."
+        ]
+      },
+      {
+        "full_name": "Rao, Sridhar",
+        "short_name": "Rao S",
+        "identifiers": [],
+        "affiliations": [
+          "Versiti Blood Research Institute, Milwaukee, WI, USA.",
+          "Department of Cell Biology, Neurobiology, and Anatomy, Medical College of Wisconsin, Milwaukee, WI, USA.",
+          "Department of Pediatrics, Section of Hematology/Oncology/Transplantation, Medical College of Wisconsin, Milwaukee, WI, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Epigenetics"
+    ],
+    "journal_abbrev": [
+      "Epigenetics"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 03:36",
+    "fetched_at": "2026-10-26 06:20:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42925159"
+    ],
+    "review": [
+      "42925159"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/15592294.2026.2749250?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

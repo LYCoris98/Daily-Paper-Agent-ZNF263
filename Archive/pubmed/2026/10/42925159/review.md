@@ -1,0 +1,63 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims and evidence as presented in the abstract; no figures, methods, or statistical details were available for evaluation
+- **Shared manuscript claim summary** The authors report that partial (~50%) depletion of CTCF or RAD21 in an isogenic iPSC-to-iEC differentiation system causes EC-specific loss of CTCF and RAD21 promoter occupancy, that RAD21 reduction has a stronger effect on endothelial gene expression than CTCF depletion, and that RAD21 loss redistributes FLI1 binding genome-wide, implicating cohesin in the control of endothelial transcriptional programs.
+- **Visible evidence base** CUT&Tag and RNA-seq data, as described in the abstract; no quantitative results, effect sizes, or statistical measures are provided
+- **Missing materials affecting confidence** Full methods, all figures and tables, statistical analyses, genome-wide occupancy tracks, differential expression lists, and any validation experiments
+
+## Reviewer
+- **Overall assessment** The abstract addresses a genuine and under-explored question, namely how architectural proteins regulate transcription in terminally differentiated cells, using a controlled isogenic differentiation system. The experimental design, comparing partial depletion in iPSCs versus iECs, is conceptually strong and represents a meaningful advance over prior near-complete depletion studies. However, the abstract alone does not provide sufficient quantitative evidence to evaluate the robustness of the central claims. The EC-specificity of the observed effects, the differential impact of RAD21 versus CTCF depletion, and the proposed mechanistic link between cohesin reduction and FLI1 redistribution are all plausible but currently under-supported. The manuscript may be of interest to the chromatin and vascular biology communities, but the case is not fully established from the abstract alone.
+- **Who would be interested in the results, and why** Researchers studying 3D genome organization, cohesin and CTCF biology, endothelial cell identity, and vascular gene regulation. The isogenic iPSC-to-iEC system will also appeal to those interested in differentiation-coupled chromatin changes. The FLI1 finding may attract investigators focused on endothelial transcription factor networks and vascular disease.
+- **Major strengths** The use of partial depletion (~50%) in an isogenic differentiation system is a clear improvement over lethal near-complete knockout approaches. The comparison between undifferentiated and lineage-committed states directly addresses cell-type specificity. The focus on a terminally differentiated cell type fills a gap in a field dominated by proliferative systems. The identification of FLI1 redistribution as a potential downstream consequence of cohesin loss offers a novel mechanistic angle.
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Evidence sufficiency
+  - **Claim pointer** "RAD21 reduction had a more pronounced impact on endothelial gene expression than CTCF depletion"
+  - **Evidence pointer** RNA-seq, described in abstract; no quantitative data provided
+  - **Concern** The abstract states that RAD21 depletion has a greater effect on endothelial gene expression than CTCF depletion, but no effect sizes, numbers of differentially expressed genes, statistical thresholds, or replication details are provided. It is unclear whether this difference is quantitative (more genes affected), qualitative (different gene sets), or based on a specific metric.
+  - **Why it matters** This is a central comparative claim of the paper. Without quantitative support, the reader cannot assess whether the difference is biologically meaningful or within technical variation.
+  - **Resolution test** Provide the number of differentially expressed genes for each depletion, overlap statistics, effect size distributions, and appropriate statistical comparisons between the two conditions.
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Mechanistic support
+  - **Claim pointer** "RAD21 loss also led to a marked redistribution of FLI1 binding"
+  - **Evidence pointer** CUT&Tag, described in abstract; no genomic context or quantitation provided
+  - **Concern** The abstract claims that FLI1 binding is redistributed upon RAD21 loss, but does not specify the direction of redistribution (gained versus lost sites), the genomic features involved, or whether the changes are correlated with gene expression changes. The mechanistic link between cohesin reduction and FLI1 occupancy is asserted but not demonstrated.
+  - **Why it matters** The title and the concluding statement rest on this redistribution being a key mechanism. Without details on where FLI1 moves and whether this movement explains transcriptional changes, the mechanistic claim remains correlative.
+  - **Resolution test** Show the numbers of gained and lost FLI1 peaks, their genomic annotation, motif analysis, and integration with differentially expressed genes to establish a regulatory link.
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Specificity of the effect
+  - **Claim pointer** "a striking, EC-specific loss of CTCF and RAD21 occupancy at gene promoters following partial depletion"
+  - **Evidence pointer** CUT&Tag, described in abstract; no comparison data shown
+  - **Concern** The claim of EC-specificity rests on the comparison between iPSCs and iECs, but the abstract does not report whether the same partial depletion was achieved in both cell types, whether occupancy changes were measured at matched loci, or whether the iPSC results were truly negative or simply weaker.
+  - **Why it matters** The EC-specificity is a central novelty claim. If occupancy loss also occurs in iPSCs but with different consequences, the interpretation shifts from cell-type-specific chromatin regulation to a more general phenomenon with cell-type-specific outcomes.
+  - **Resolution test** Provide quantitative occupancy changes in both cell types at shared and unique promoter loci, with statistical comparison of the depletion effect across cell states.
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Clarity
+  - **Affected element** Terminology
+  - **Evidence pointer** Abstract, "iEcs"
+  - **Issue** The abbreviation "iEcs" is used without definition. Standard usage would be "iPSC-derived endothelial cells" or "iECs" with consistent capitalization.
+  - **Required correction** Define the abbreviation at first use and standardize capitalization throughout.
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Interpretive framing
+  - **Affected element** Concluding statement
+  - **Evidence pointer** Abstract, final sentence
+  - **Issue** The conclusion states that cohesin controls vascular transcriptional programs "through coordinated control of chromatin architecture and modulating transcription factor occupancy," but the abstract does not present evidence that chromatin architecture changes (e.g., looping) were directly measured.
+  - **Required correction** Either temper the conclusion to reflect that chromatin architecture changes are inferred rather than directly assayed, or state explicitly if architectural measurements were performed.
+- **Technical failings that need to be addressed before the case is established** R1-M1, R1-M2, R1-M3. The abstract does not provide sufficient quantitative or mechanistic evidence to support the three central claims of differential RAD21 versus CTCF effects, FLI1 redistribution, and EC-specificity.
+- **Assessment against Nature-style criteria** Originality: the question of architectural protein function in differentiated cells is timely and the partial-depletion approach is a genuine methodological improvement, but the conceptual framework is not entirely novel. Scientific importance: potentially high for vascular biology and chromatin fields, but the significance depends on the robustness of the EC-specificity and FLI1 findings, which cannot be evaluated from the abstract. Interdisciplinary readership: the work bridges genome organization, transcription factor biology, and endothelial biology, which should attract a broad audience if the evidence is strong. Technical soundness: the design is sound in principle, but the abstract does not demonstrate that the analyses are statistically robust or that the conclusions follow from the data. Readability for nonspecialists: the abstract is clearly written and accessible, though some terms (e.g., "CUT&Tag") may require context for a general audience.
+- **Recommendation posture** Currently not established from the provided evidence. The experimental approach is promising and the question is worthwhile, but the abstract alone does not provide sufficient quantitative or mechanistic support for the central claims. A full assessment requires the figures, methods, and statistical details.
+
+## Risk / unsupported claims
+- The claim that RAD21 depletion has a more pronounced effect on endothelial gene expression than CTCF depletion is unsupported without quantitative RNA-seq results.
+- The claim that FLI1 binding is redistributed upon RAD21 loss is unsupported without peak-level data and genomic context.
+- The claim of EC-specificity of occupancy loss is unsupported without direct comparison of quantitative changes in iPSCs versus iECs.
+- The mechanistic conclusion that cohesin controls vascular programs through coordinated chromatin architecture and transcription factor occupancy is not established, as chromatin architecture was not directly demonstrated in the abstract.

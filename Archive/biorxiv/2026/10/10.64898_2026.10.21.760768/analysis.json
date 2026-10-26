@@ -1,0 +1,24 @@
+{
+  "source": "biorxiv",
+  "id": "10.64898/2026.10.21.760768",
+  "title": "Micro-C-TALE: BAC-based targeted high-resolution measurement of 3D chromatin interactions",
+  "authors": "Golberg A; Golov AK; Shemer R; Kaplan N",
+  "journal": "bioRxiv",
+  "published_date": "2026-10-23",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "score": 4,
+  "one_liner_zh": "该文介绍一种靶向高分辨率染色质互作检测方法Micro-C-TALE，虽不直接涉及cpcdh基因家族，但其技术思路可借鉴用于该家族基因的精细三维结构研究。",
+  "abstract": "Chromosome conformation capture methods have greatly advanced our understanding of genome organization, but obtaining high-resolution interaction maps of selected genomic regions remains costly due to the sequencing requirements. Here, we introduce Micro-C-TALE, a new chromosome conformation capture method that combines Micro-C, which uses micrococcal nuclease to improve the resolution and sensitivity of chromatin interaction measurements, and C-TALE, which uses probes generated from bacterial artificial chromosomes (BACs) for targeted enrichment. This combination enables the generation of high-resolution interaction maps without requiring custom synthesis of capture oligonucleotides. We applied Micro-C-TALE to a 214 kb region in human HAP1 cells, obtaining detailed interaction maps with approximately 5-6 million sequenced read pairs. Compared with published genome-wide Micro-C data, Micro-C-TALE yielded a higher amount of informative interactions within the targeted region despite ~550-fold lower sequencing depth. To evaluate the sensitivity of the method to fine-scale changes in genome organization, we introduced a heterozygous CTCF binding site into the targeted region using CRISPR-Cas9. Comparing Micro-C-TALE to the restriction enzyme-based C-TALE, we found Micro-C-TALE yielded a ~5-fold higher fraction of informative reads and detected novel CTCF-mediated point interactions associated with the inserted CTCF site, which were barely discernible using C-TALE. Our results demonstrate that Micro-C-TALE provides a flexible and cost-effective approach for targeted high-resolution measurement of chromatin interactions, facilitating the investigation of fine-scale genome organization and its response to genetic perturbations.",
+  "abstract_zh": "染色体构象捕获方法极大地推进了我们对基因组组织的理解，但由于测序需求，获取选定基因组区域的高分辨率相互作用图谱仍然成本高昂。在此，我们介绍Micro-C-TALE，一种新的染色体构象捕获方法，它结合了Micro-C（使用微球菌核酸酶提高染色质相互作用测量的分辨率和灵敏度）和C-TALE（利用细菌人工染色体（BACs）生成的探针进行靶向富集）。这种组合使得无需定制合成捕获寡核苷酸即可生成高分辨率相互作用图谱。我们将Micro-C-TALE应用于人类HAP1细胞中一个214 kb的区域，获得了约500-600万测序读段对的详细相互作用图谱。与已发表的基因组范围Micro-C数据相比，Micro-C-TALE在靶向区域内产生了更高数量的信息性相互作用，尽管测序深度降低了约550倍。为评估该方法对基因组组织精细尺度变化的灵敏度，我们使用CRISPR-Cas9在靶向区域引入了一个杂合CTCF结合位点。通过将Micro-C-TALE与基于限制性内切酶的C-TALE进行比较，我们发现Micro-C-TALE产生的信息性读段比例高出约5倍，并检测到与插入的CTCF位点相关的新型CTCF介导的点状相互作用，而这些在使用C-TALE时几乎无法辨别。我们的结果表明，Micro-C-TALE为靶向高分辨率染色质相互作用测量提供了一种灵活且成本效益高的方法，有助于研究精细尺度的基因组组织及其对遗传扰动的响应。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.10.21.760768",
+  "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.21.760768",
+  "paper_page_path": "papers/biorxiv/10.64898_2026.10.21.760768/index.html"
+}

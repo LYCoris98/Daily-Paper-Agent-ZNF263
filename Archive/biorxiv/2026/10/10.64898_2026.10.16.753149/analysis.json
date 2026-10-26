@@ -1,0 +1,24 @@
+{
+  "source": "biorxiv",
+  "id": "10.64898/2026.10.16.753149",
+  "title": "Spatial epigenomics reveals ancestry-associated regulatory states linked to aggressive prostate cancer biology",
+  "authors": "German B; Ho K; Garbarino J; Sayed S; Ali A; Azadze W; Truong T; Elsamanoudi S; McGann J; Shrestha R; Ng C; Shriver CD; Chesnut G; Ellis L",
+  "journal": "bioRxiv",
+  "published_date": "2026-10-19",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "score": 0,
+  "one_liner_zh": "该文研究前列腺癌中不同祖先人群的染色质调控差异，与cpcdh基因家族无直接关联。",
+  "abstract": "Prostate cancer (PCa) exhibits substantial biological heterogeneity, including population associated differences in tumor aggressiveness and clinical outcomes. Although socioeconomic and environmental factors contribute to these disparities, intrinsic tumor regulatory programs may also influence disease behavior. Here, we investigated whether differences in chromatin regulation contribute to distinct tumor states in Black and White men with localized PCa. We performed spatial chromatin accessibility profiling (ATAC-seq) of prostatectomy specimens from Black and White patients receiving equal healthcare access at the Center for Prostate Disease Research (USUHS) and Walter Reed National Military Medical Center. Tumors showed distinct chromatin accessibility landscapes between the two populations, with tumors from Black patients exhibiting reduced accessibility of motifs associated with the chromatin architectural regulator CTCF and enrichment of motifs linked to epithelial-mesenchymal transition and inflammatory programs. Reduced CTCF expression was independently validated by immunohistochemistry in 99 prostatectomy specimens. These findings identify population-associated differences in chromatin regulation in localized PCa and suggest that altered CTCF-associated regulation, inflammatory signaling, and epithelial plasticity may contribute to the biological heterogeneity underlying ancestry-dependent PCa disparities.",
+  "abstract_zh": "前列腺癌（PCa）表现出显著的生物学异质性，包括肿瘤侵袭性和临床结局中与人群相关的差异。尽管社会经济和环境因素对这些差异有所贡献，但内在的肿瘤调控程序也可能影响疾病行为。在此，我们研究了染色质调控的差异是否有助于黑人和白人男性局限性PCa中不同的肿瘤状态。我们对在前列腺疾病研究中心（USUHS）和沃尔特·里德国家军事医学中心接受同等医疗服务的黑人和白人患者的前列腺切除标本进行了空间染色质可及性分析（ATAC-seq）。肿瘤在两个人群之间显示出不同的染色质可及性景观，其中黑人患者的肿瘤表现出与染色质结构调控因子CTCF相关基序的可及性降低，以及与上皮-间质转化和炎症程序相关基序的富集。CTCF表达的降低在99例前列腺切除标本中通过免疫组织化学独立验证。这些发现识别了局限性PCa中染色质调控的人群相关差异，并提示CTCF相关调控的改变、炎症信号传导和上皮可塑性可能有助于祖先依赖性PCa差异背后的生物学异质性。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.10.16.753149",
+  "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.16.753149",
+  "paper_page_path": "papers/biorxiv/10.64898_2026.10.16.753149/index.html"
+}

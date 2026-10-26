@@ -1,0 +1,227 @@
+{
+  "identity": {
+    "pmid": "42895067",
+    "doi": "10.1093/nar/gkag1004",
+    "title": "Integrative analysis reveals extensive interactions among C2H2 zinc finger proteins at chromatin loop anchors."
+  },
+  "content": {
+    "abstract": "Cys2-His2-zinc-finger proteins (C2H2-ZFPs) form the largest class of human transcription factors, yet their potential roles in higher-order genome organization remain poorly defined. To date, only a few C2H2-ZFPs, e.g. CTCF, have been implicated in chromatin organization. Here, we systematically examined the global relationship between C2H2-ZFPs and long-range chromatin interactions (LRIs). By integrating ChIP-seq datasets for 216 C2H2-ZFPs with genome-wide chromatin interaction maps, we find that >40% of human C2H2-ZFPs are significantly enriched at LRI anchors. Depletion of a subset of such C2H2-ZFPs is associated with altered expression of genes linked by the LRIs they occupy. To investigate whether protein-protein interactions (PPIs) contribute to this pattern, we generated a large-scale interactome using affinity purification-mass spectrometry, encompassing 345 C2H2-ZFPs, and LUMIER binary interaction assays for 204 C2H2-ZFPs, revealing extensive connectivity among the family members. Integrative analysis of PPIs, ChIP-seq, and chromatin interaction datasets revealed that interacting C2H2-ZFP pairs are significantly co-enriched at LRIs and frequently localize to the same or opposing loop anchors. Finally, we show that  approximately 35% of LRI-associated C2H2-ZFP binding sites overlap somatic mutations in cancer genomes. Together, our results reveal a widespread network of C2H2-ZFP interactions at chromatin loop anchors, providing an important resource for understanding chromatin organization.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Chromatin/metabolism/chemistry/genetics",
+      "*CYS2-HIS2 Zinc Fingers",
+      "*Transcription Factors/metabolism",
+      "Protein Binding",
+      "Chromatin Immunoprecipitation Sequencing",
+      "Protein Interaction Maps",
+      "Binding Sites"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Radovani, Ernest",
+        "Nabeel-Shah, Syed",
+        "Marcon, Edyta",
+        "Pu, Shuye",
+        "Zhong, Guoqing",
+        "Tang, Hua",
+        "Guo, Hongbo",
+        "Kaplow, Irene M",
+        "Emili, Andrew",
+        "Hughes, Timothy R",
+        "Greenblatt, Jack F"
+      ],
+      "short_names": [
+        "Radovani E",
+        "Nabeel-Shah S",
+        "Marcon E",
+        "Pu S",
+        "Zhong G",
+        "Tang H",
+        "Guo H",
+        "Kaplow IM",
+        "Emili A",
+        "Hughes TR",
+        "Greenblatt JF"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4239-7443",
+        "ORCID: 0000-0002-8924-8269",
+        "ORCID: 0000-0001-8995-246X",
+        "ORCID: 0000-0002-8721-4719",
+        "ORCID: 0000-0003-1762-2861"
+      ],
+      "affiliations": [
+        "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+        "Department of Molecular Genetics, University of Toronto, Toronto, ON M5S 1A8, Canada.",
+        "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+        "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+        "Department of Laboratory Medicine and Pathobiology, Faculty of Medicine, University of Toronto, Toronto, ON M5S 1A8, Canada.",
+        "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+        "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+        "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+        "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+        "Department of Computer Science, Stanford University, Stanford, CA 94305, United States.",
+        "Ray and Stephanie Lane Department of Computational Biology, Carnegie Mellon University, Pittsburgh, PA 15213, United States.",
+        "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+        "Department of Molecular Genetics, University of Toronto, Toronto, ON M5S 1A8, Canada.",
+        "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+        "Department of Molecular Genetics, University of Toronto, Toronto, ON M5S 1A8, Canada.",
+        "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+        "Department of Molecular Genetics, University of Toronto, Toronto, ON M5S 1A8, Canada."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Radovani, Ernest",
+        "short_name": "Radovani E",
+        "identifiers": [],
+        "affiliations": [
+          "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+          "Department of Molecular Genetics, University of Toronto, Toronto, ON M5S 1A8, Canada."
+        ]
+      },
+      {
+        "full_name": "Nabeel-Shah, Syed",
+        "short_name": "Nabeel-Shah S",
+        "identifiers": [
+          "0000-0002-4239-7443"
+        ],
+        "affiliations": [
+          "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada."
+        ]
+      },
+      {
+        "full_name": "Marcon, Edyta",
+        "short_name": "Marcon E",
+        "identifiers": [],
+        "affiliations": [
+          "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+          "Department of Laboratory Medicine and Pathobiology, Faculty of Medicine, University of Toronto, Toronto, ON M5S 1A8, Canada."
+        ]
+      },
+      {
+        "full_name": "Pu, Shuye",
+        "short_name": "Pu S",
+        "identifiers": [],
+        "affiliations": [
+          "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada."
+        ]
+      },
+      {
+        "full_name": "Zhong, Guoqing",
+        "short_name": "Zhong G",
+        "identifiers": [],
+        "affiliations": [
+          "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada."
+        ]
+      },
+      {
+        "full_name": "Tang, Hua",
+        "short_name": "Tang H",
+        "identifiers": [],
+        "affiliations": [
+          "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada."
+        ]
+      },
+      {
+        "full_name": "Guo, Hongbo",
+        "short_name": "Guo H",
+        "identifiers": [],
+        "affiliations": [
+          "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada."
+        ]
+      },
+      {
+        "full_name": "Kaplow, Irene M",
+        "short_name": "Kaplow IM",
+        "identifiers": [
+          "0000-0002-8924-8269"
+        ],
+        "affiliations": [
+          "Department of Computer Science, Stanford University, Stanford, CA 94305, United States.",
+          "Ray and Stephanie Lane Department of Computational Biology, Carnegie Mellon University, Pittsburgh, PA 15213, United States."
+        ]
+      },
+      {
+        "full_name": "Emili, Andrew",
+        "short_name": "Emili A",
+        "identifiers": [
+          "0000-0001-8995-246X"
+        ],
+        "affiliations": [
+          "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+          "Department of Molecular Genetics, University of Toronto, Toronto, ON M5S 1A8, Canada."
+        ]
+      },
+      {
+        "full_name": "Hughes, Timothy R",
+        "short_name": "Hughes TR",
+        "identifiers": [
+          "0000-0002-8721-4719"
+        ],
+        "affiliations": [
+          "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+          "Department of Molecular Genetics, University of Toronto, Toronto, ON M5S 1A8, Canada."
+        ]
+      },
+      {
+        "full_name": "Greenblatt, Jack F",
+        "short_name": "Greenblatt JF",
+        "identifiers": [
+          "0000-0003-1762-2861"
+        ],
+        "affiliations": [
+          "Donnelly Centre, University of Toronto, Toronto, ON M5S 3E1, Canada.",
+          "Department of Molecular Genetics, University of Toronto, Toronto, ON M5S 1A8, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/19 11:36",
+    "fetched_at": "2026-10-26 06:20:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42895067"
+    ],
+    "review": [
+      "42895067"
+    ],
+    "pmc": [
+      "13678222"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag1004",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "identity": {
+    "pmid": "42926753",
+    "doi": "10.64898/2026.10.08.756856",
+    "title": "Systematic mapping of enhancers, silencers, and topological elements with prime editing deletion screens."
+  },
+  "content": {
+    "abstract": "Noncoding regulatory elements in the human genome can control gene expression through distinct mechanisms, including acting as enhancers, silencers, or topological elements. However, we lack tools to identify all such classes systematically and quantify their effects on gene expression in an endogenous genomic context. Here we develop Swap-seq, a method that combines pooled twin prime editing with flow-sorting to delete hundreds of endogenous regulatory sequences and measure their quantitative effects on the expression of a nearby gene. We apply Swap-seq to dissect the regulatory elements that control PPIF expression in THP-1 monocytes. We quantify the effects of distal and intronic enhancers, characterize CTCF insulators, and discover a silencer that regulates distal genes through histone deacetylase (HDAC)-mediated repression of neighboring enhancers. Hundreds of other genomic elements share its chromatin signatures and transcription factor binding sites, suggesting that this silencer represents a broader class of repressive elements. We leverage Swap-seq data to benchmark sequence-to-function models and show that they often capture the local activity of regulatory elements but fail to link them to distal target genes. Swap-seq thus provides a generalizable tool to discover regulatory elements across mechanistic classes, characterize their effects on gene expression, and generate large-scale datasets for evaluating sequence-to-function models.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cai, Xiangmeng Shawn",
+        "Montgomery, Michael T",
+        "Nagano, Masahiro",
+        "Nisal, Ashna",
+        "Gu, Zhengxi",
+        "Chen, Ziwei",
+        "Obbad, Kamal",
+        "Rastogi, Ruchir",
+        "Tan, Yingxuan",
+        "Zeng, Tony",
+        "Sheth, Maya U",
+        "Xia, Coco",
+        "Chiang, Shannon",
+        "Kundaje, Anshul",
+        "Hansen, Anders S",
+        "Bintu, Lacramioara",
+        "Engreitz, Jesse M"
+      ],
+      "short_names": [
+        "Cai XS",
+        "Montgomery MT",
+        "Nagano M",
+        "Nisal A",
+        "Gu Z",
+        "Chen Z",
+        "Obbad K",
+        "Rastogi R",
+        "Tan Y",
+        "Zeng T",
+        "Sheth MU",
+        "Xia C",
+        "Chiang S",
+        "Kundaje A",
+        "Hansen AS",
+        "Bintu L",
+        "Engreitz JM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2466-4210",
+        "ORCID: 0000-0002-6748-2329",
+        "ORCID: 0000-0003-1228-4015",
+        "ORCID: 0009-0000-4384-1027",
+        "ORCID: 0000-0001-6674-3219",
+        "ORCID: 0000-0002-6509-9879",
+        "ORCID: 0000-0003-1466-8899",
+        "ORCID: 0000-0003-3084-2287",
+        "ORCID: 0000-0001-7540-7858",
+        "ORCID: 0000-0001-5443-6633",
+        "ORCID: 0000-0002-5754-1719"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Cai, Xiangmeng Shawn",
+        "short_name": "Cai XS",
+        "identifiers": [
+          "0000-0002-2466-4210"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Montgomery, Michael T",
+        "short_name": "Montgomery MT",
+        "identifiers": [
+          "0000-0002-6748-2329"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nagano, Masahiro",
+        "short_name": "Nagano M",
+        "identifiers": [
+          "0000-0003-1228-4015"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nisal, Ashna",
+        "short_name": "Nisal A",
+        "identifiers": [
+          "0009-0000-4384-1027"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gu, Zhengxi",
+        "short_name": "Gu Z",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chen, Ziwei",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Obbad, Kamal",
+        "short_name": "Obbad K",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Rastogi, Ruchir",
+        "short_name": "Rastogi R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tan, Yingxuan",
+        "short_name": "Tan Y",
+        "identifiers": [
+          "0000-0001-6674-3219"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zeng, Tony",
+        "short_name": "Zeng T",
+        "identifiers": [
+          "0000-0002-6509-9879"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sheth, Maya U",
+        "short_name": "Sheth MU",
+        "identifiers": [
+          "0000-0003-1466-8899"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Xia, Coco",
+        "short_name": "Xia C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chiang, Shannon",
+        "short_name": "Chiang S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kundaje, Anshul",
+        "short_name": "Kundaje A",
+        "identifiers": [
+          "0000-0003-3084-2287"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hansen, Anders S",
+        "short_name": "Hansen AS",
+        "identifiers": [
+          "0000-0001-7540-7858"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bintu, Lacramioara",
+        "short_name": "Bintu L",
+        "identifiers": [
+          "0000-0001-5443-6633"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Engreitz, Jesse M",
+        "short_name": "Engreitz JM",
+        "identifiers": [
+          "0000-0002-5754-1719"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/25 05:37",
+    "fetched_at": "2026-10-26 06:20:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42926753"
+    ],
+    "review": [
+      "42926753"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

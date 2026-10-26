@@ -1,0 +1,175 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.16.753149",
+  "title": "Spatial epigenomics reveals ancestry-associated regulatory states linked to aggressive prostate cancer biology",
+  "doi": "10.64898/2026.10.16.753149",
+  "abstract": "Prostate cancer (PCa) exhibits substantial biological heterogeneity, including population associated differences in tumor aggressiveness and clinical outcomes. Although socioeconomic and environmental factors contribute to these disparities, intrinsic tumor regulatory programs may also influence disease behavior. Here, we investigated whether differences in chromatin regulation contribute to distinct tumor states in Black and White men with localized PCa. We performed spatial chromatin accessibility profiling (ATAC-seq) of prostatectomy specimens from Black and White patients receiving equal healthcare access at the Center for Prostate Disease Research (USUHS) and Walter Reed National Military Medical Center. Tumors showed distinct chromatin accessibility landscapes between the two populations, with tumors from Black patients exhibiting reduced accessibility of motifs associated with the chromatin architectural regulator CTCF and enrichment of motifs linked to epithelial-mesenchymal transition and inflammatory programs. Reduced CTCF expression was independently validated by immunohistochemistry in 99 prostatectomy specimens. These findings identify population-associated differences in chromatin regulation in localized PCa and suggest that altered CTCF-associated regulation, inflammatory signaling, and epithelial plasticity may contribute to the biological heterogeneity underlying ancestry-dependent PCa disparities.",
+  "authors": [
+    "German B",
+    "Ho K",
+    "Garbarino J",
+    "Sayed S",
+    "Ali A",
+    "Azadze W",
+    "Truong T",
+    "Elsamanoudi S",
+    "McGann J",
+    "Shrestha R",
+    "Ng C",
+    "Shriver CD",
+    "Chesnut G",
+    "Ellis L"
+  ],
+  "published_date": "2026-10-19",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.16.753149",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.16.753149.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1346497",
+    "raw_record": {
+      "id": "PPR1346497",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.16.753149",
+      "title": "Spatial epigenomics reveals ancestry-associated regulatory states linked to aggressive prostate cancer biology",
+      "authorString": "German B, Ho K, Garbarino J, Sayed S, Ali A, Azadze W, Truong T, Elsamanoudi S, McGann J, Shrestha R, Ng C, Shriver CD, Chesnut G, Ellis L.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "German B",
+            "lastName": "German",
+            "firstName": "Beatriz",
+            "initials": "B"
+          },
+          {
+            "fullName": "Ho K",
+            "lastName": "Ho",
+            "firstName": "Kun-Lin",
+            "initials": "K"
+          },
+          {
+            "fullName": "Garbarino J",
+            "lastName": "Garbarino",
+            "firstName": "Jennifer",
+            "initials": "J"
+          },
+          {
+            "fullName": "Sayed S",
+            "lastName": "Sayed",
+            "firstName": "Sadia",
+            "initials": "S"
+          },
+          {
+            "fullName": "Ali A",
+            "lastName": "Ali",
+            "firstName": "Amina",
+            "initials": "A"
+          },
+          {
+            "fullName": "Azadze W",
+            "lastName": "Azadze",
+            "firstName": "William",
+            "initials": "W"
+          },
+          {
+            "fullName": "Truong T",
+            "lastName": "Truong",
+            "firstName": "Tri",
+            "initials": "T"
+          },
+          {
+            "fullName": "Elsamanoudi S",
+            "lastName": "Elsamanoudi",
+            "firstName": "Sally",
+            "initials": "S"
+          },
+          {
+            "fullName": "McGann J",
+            "lastName": "McGann",
+            "firstName": "James",
+            "initials": "J"
+          },
+          {
+            "fullName": "Shrestha R",
+            "lastName": "Shrestha",
+            "firstName": "Raunak",
+            "initials": "R"
+          },
+          {
+            "fullName": "Ng C",
+            "lastName": "Ng",
+            "firstName": "Colin",
+            "initials": "C"
+          },
+          {
+            "fullName": "Shriver CD",
+            "lastName": "Shriver",
+            "firstName": "Craig",
+            "initials": "CD"
+          },
+          {
+            "fullName": "Chesnut G",
+            "lastName": "Chesnut",
+            "firstName": "Gregory",
+            "initials": "G"
+          },
+          {
+            "fullName": "Ellis L",
+            "lastName": "Ellis",
+            "firstName": "Leigh",
+            "initials": "L"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Prostate cancer (PCa) exhibits substantial biological heterogeneity, including population associated differences in tumor aggressiveness and clinical outcomes. Although socioeconomic and environmental factors contribute to these disparities, intrinsic tumor regulatory programs may also influence disease behavior. Here, we investigated whether differences in chromatin regulation contribute to distinct tumor states in Black and White men with localized PCa. We performed spatial chromatin accessibility profiling (ATAC-seq) of prostatectomy specimens from Black and White patients receiving equal healthcare access at the Center for Prostate Disease Research (USUHS) and Walter Reed National Military Medical Center. Tumors showed distinct chromatin accessibility landscapes between the two populations, with tumors from Black patients exhibiting reduced accessibility of motifs associated with the chromatin architectural regulator CTCF and enrichment of motifs linked to epithelial-mesenchymal transition and inflammatory programs. Reduced CTCF expression was independently validated by immunohistochemistry in 99 prostatectomy specimens. These findings identify population-associated differences in chromatin regulation in localized PCa and suggest that altered CTCF-associated regulation, inflammatory signaling, and epithelial plasticity may contribute to the biological heterogeneity underlying ancestry-dependent PCa disparities.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.16.753149"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-21",
+      "firstPublicationDate": "2026-10-19",
+      "firstIndexDate": "2026-10-21",
+      "hasEvaluations": "N"
+    }
+  }
+}

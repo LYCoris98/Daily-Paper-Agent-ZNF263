@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Evaluation of object detection neural networks to find topologically associated domains in bulk Hi-C data · PCDH gene</title>
+  <link rel="stylesheet" href="/Daily-Paper-Agent-ZNF263/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/Daily-Paper-Agent-ZNF263/">PCDH gene</a>
+    <nav>
+      <a href="/Daily-Paper-Agent-ZNF263/">本周</a>
+      <a href="/Daily-Paper-Agent-ZNF263/archive.html">归档</a>
+      <a href="/Daily-Paper-Agent-ZNF263/search.html">搜索</a>
+    </nav>
+  </header>
+  <main>
+<article class="paper">
+  <div class="paper-head">
+    <span class="score score-low">4</span>
+    <div>
+      <h1>Evaluation of object detection neural networks to find topologically associated domains in bulk Hi-C data</h1>
+      <div class="meta">Philipp N; Grünnagel CL; Janssen S; Sigges C</div>
+      <div class="meta muted">
+        
+        <span class="journal">bioRxiv</span> <span class="preprint-badge">预印本</span>
+        · 2026-10-21
+         · 仅摘要
+         · <a href="https://www.biorxiv.org/content/10.64898/2026.10.20.760189">原文</a>
+      </div>
+      <p class="one-liner">该文用目标检测神经网络识别Hi-C数据中的拓扑关联结构域(TADs)，与cpcdh基因家族无直接关联，但涉及染色质结构分析方法，可借鉴其技术思路。</p>
+    </div>
+  </div>
+  
+  <section>
+    <h2>摘要</h2>
+    <div class="md">Topologically associated domains (TADs) shape the three-dimensional structure of chromatin and contribute to gene regulation by arranging regulatory elements and genes in spatial proximity. This spatial proximity is captured by Hi-C, an experimental method, which quantifies contact frequencies between all pairs of genomic loci. In bulk Hi-C data, TADs can be found in the form of gapped, nested and partially overlapping squares centered on the main diagonal of the Hi-C matrix. We shift the problem of TAD identification into the domain of computer vision by detecting TADs in Hi-C in the form of squares in images. For this we use object detection, which aims to classify object instances in images. This study evaluates the applicability of the object detection neural networks YOLOv8 and Mask R-CNN on the identification of TADs in bulk Hi-C data. We build image-like data from Hi-C matrices, predict reference TADs with a state-of-the-art TAD caller, train the models and evaluate the detections. Our results confirm that YOLOv8 and Mask R-CNN learn to detect reference TADs, new TADs and overlapping TADs (although absent in training data). All three show increased ChIP-Seq signal of the TAD-associated factors CTCF, RAD21 and H3K4me3 on their boundaries, emphasizing their biological reliability. Comparisons with reference TADs indicate that Mask R-CNN detects more TADs with less precise positioning, while YOLOv8 detects fewer TADs with lower nesting complexity but improved positioning. &lt;h4&gt;Keypoints&lt;/h4&gt; Object detection methods are suited to detect TADs Object detection detects reasonable new TADs based on features learned from imperfect training data The main limitation and an important point for future work is the preciseness of bounding box positioning</div>
+  </section>
+  
+  
+  <section>
+    <h2>摘要翻译</h2>
+    <div class="md">拓扑关联结构域（TADs）塑造了染色质的三维结构，并通过将调控元件和基因在空间上邻近排列来促进基因调控。这种空间邻近性通过Hi-C这一实验方法捕获，该方法量化了所有基因组位点对之间的接触频率。在批量Hi-C数据中，TADs以间隙型、嵌套型和部分重叠的正方形形式出现，这些正方形以Hi-C矩阵的主对角线为中心。我们将TAD识别问题转化为计算机视觉领域的问题，通过检测图像中的正方形来识别Hi-C中的TADs。为此，我们使用目标检测技术，该技术旨在对图像中的对象实例进行分类。本研究评估了目标检测神经网络YOLOv8和Mask R-CNN在批量Hi-C数据中识别TADs的适用性。我们从Hi-C矩阵构建类图像数据，使用最先进的TAD调用器预测参考TADs，训练模型并评估检测结果。我们的结果证实，YOLOv8和Mask R-CNN学会了检测参考TADs、新TADs和重叠TADs（尽管训练数据中不存在重叠TADs）。三者在其边界上均显示出TAD相关因子CTCF、RAD21和H3K4me3的ChIP-Seq信号增强，强调了其生物学可靠性。与参考TADs的比较表明，Mask R-CNN检测到更多TADs但定位精度较低，而YOLOv8检测到较少TADs且嵌套复杂度较低，但定位更精确。&lt;h4&gt;关键点&lt;/h4&gt; 目标检测方法适用于检测TADs 目标检测基于从非完美训练数据中学习到的特征，能检测出合理的新TADs 主要限制及未来工作的重要方面是边界框定位的精确性</div>
+  </section>
+  
+  
+  
+</article>
+</main>
+</body>
+</html>

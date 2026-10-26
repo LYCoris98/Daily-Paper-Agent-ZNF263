@@ -1,0 +1,104 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.22.761122",
+  "title": "Specification of Origins of DNA Replication Within Distinct Chromatin States in Human Cells",
+  "doi": "10.64898/2026.10.22.761122",
+  "abstract": "A comprehensive map of binding sites for the Origin Recognition Complex (ORC) in the human genome reveals relationships among replication licensing, chromatin state, three-dimensional genome organization, location of origins of DNA replication and DNA replication timing. Defining these relationships is essential for understanding how replication licensing is integrated with the broader organization and duplication of the human genome. Using 30 high-quality ORC1 CUT&RUN datasets, an ORC1 three-dimensional binding matrix (ORC1 3DM) was constructed that captures genomic position, binding intensity, and reproducibility across replicates. This analysis reveals considerable heterogeneity in ORC1 binding, and integration with chromatin-state maps shows that ORC1-binding sites separate into distinct epigenomic groups, with high-confidence sites enriched in H2A·Z1- and H3K4me3- associated open chromatin. Hi-C analysis demonstrates preferential localization of ORC1 binding to sub-regions of genomic A compartments and frequent association with loop anchors, supported by a direct interaction between ORC1 and CTCF. Replication-timing analysis shows that ORC1 binding sites are enriched in initiation zones and exhibit subgroup-specific temporal patterns. An integrated analysis combining multiple replication initiation assays and chromatin features further places ORC1 3DM within a unified replication-chromatin framework. Together, these results support a hierarchical, probabilistic model of replication licensing that is embedded within chromatin architecture.",
+  "authors": [
+    "Ouyang M",
+    "Stillman B"
+  ],
+  "published_date": "2026-10-23",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761122",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761122.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1349133",
+    "raw_record": {
+      "id": "PPR1349133",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.22.761122",
+      "title": "Specification of Origins of DNA Replication Within Distinct Chromatin States in Human Cells",
+      "authorString": "Ouyang M, Stillman B.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Ouyang M",
+            "lastName": "Ouyang",
+            "firstName": "Meng",
+            "initials": "M"
+          },
+          {
+            "fullName": "Stillman B",
+            "lastName": "Stillman",
+            "firstName": "Bruce",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9453-4091"
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9453-4091"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "A comprehensive map of binding sites for the Origin Recognition Complex (ORC) in the human genome reveals relationships among replication licensing, chromatin state, three-dimensional genome organization, location of origins of DNA replication and DNA replication timing. Defining these relationships is essential for understanding how replication licensing is integrated with the broader organization and duplication of the human genome. Using 30 high-quality ORC1 CUT&RUN datasets, an ORC1 three-dimensional binding matrix (ORC1 3DM) was constructed that captures genomic position, binding intensity, and reproducibility across replicates. This analysis reveals considerable heterogeneity in ORC1 binding, and integration with chromatin-state maps shows that ORC1-binding sites separate into distinct epigenomic groups, with high-confidence sites enriched in H2A·Z1- and H3K4me3- associated open chromatin. Hi-C analysis demonstrates preferential localization of ORC1 binding to sub-regions of genomic A compartments and frequent association with loop anchors, supported by a direct interaction between ORC1 and CTCF. Replication-timing analysis shows that ORC1 binding sites are enriched in initiation zones and exhibit subgroup-specific temporal patterns. An integrated analysis combining multiple replication initiation assays and chromatin features further places ORC1 3DM within a unified replication-chromatin framework. Together, these results support a hierarchical, probabilistic model of replication licensing that is embedded within chromatin architecture.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.22.761122"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by-nc",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-24",
+      "firstPublicationDate": "2026-10-23",
+      "firstIndexDate": "2026-10-24",
+      "hasEvaluations": "N"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "identity": {
+    "pmid": "42893985",
+    "doi": "10.1038/s41467-026-77901-6",
+    "title": "Three-dimensional chromatin architecture is rapidly restored after DNA replication."
+  },
+  "content": {
+    "abstract": "Studies of post-replicative chromatin exclusively focus on the kinetics of protein binding after DNA replication to understand maintenance of transcriptional programs. Here we investigated both chromatin-bound factors and the three-dimensional architecture of the post-replicative genome in human cells. We found that transcription factors and chromatin looping proteins rapidly associate with nascent DNA. We discovered that the architectural factors, CTCF and YY1, bind to their target sequences immediately following DNA replication, and that chromatin loops from 39 to 425 kb re-form within 10 min of DNA replication. This suggests that the 3D structure of chromatin is at most briefly disrupted by DNA replication and quickly restores following replisome passage, providing insight into an unaddressed question of the structure of post-replicated chromatin. Our results suggest that all components of the transcriptional network and tertiary chromatin structure are restored shortly after replication, which is consistent with previously detected fast resumption of transcription on daughter DNA strands.",
+    "keywords": [],
+    "mesh_terms": [
+      "*DNA Replication",
+      "*Chromatin/metabolism/chemistry/genetics",
+      "Humans",
+      "CCCTC-Binding Factor",
+      "YY1 Transcription Factor/metabolism/genetics",
+      "DNA/metabolism",
+      "Repressor Proteins/metabolism",
+      "Protein Binding",
+      "Transcription, Genetic"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fenstermaker, Tyler K",
+        "Petruk, Svetlana",
+        "Mazo, Alexander"
+      ],
+      "short_names": [
+        "Fenstermaker TK",
+        "Petruk S",
+        "Mazo A"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9627-3390",
+        "ORCID: 0009-0008-7605-6103"
+      ],
+      "affiliations": [
+        "Department of Biochemistry and Molecular Biology, Sidney Kimmel Medical College, Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA, 19107, USA. fenstermat@chop.edu.",
+        "Division of Hematology, The Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA. fenstermat@chop.edu.",
+        "Department of Biochemistry and Molecular Biology, Sidney Kimmel Medical College, Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA, 19107, USA.",
+        "Department of Biochemistry and Molecular Biology, Sidney Kimmel Medical College, Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA, 19107, USA. alexander.mazo@jefferson.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fenstermaker, Tyler K",
+        "short_name": "Fenstermaker TK",
+        "identifiers": [
+          "0000-0002-9627-3390"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Sidney Kimmel Medical College, Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA, 19107, USA. fenstermat@chop.edu.",
+          "Division of Hematology, The Children's Hospital of Philadelphia, Philadelphia, PA, 19104, USA. fenstermat@chop.edu."
+        ]
+      },
+      {
+        "full_name": "Petruk, Svetlana",
+        "short_name": "Petruk S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Sidney Kimmel Medical College, Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA, 19107, USA."
+        ]
+      },
+      {
+        "full_name": "Mazo, Alexander",
+        "short_name": "Mazo A",
+        "identifiers": [
+          "0009-0008-7605-6103"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Sidney Kimmel Medical College, Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA, 19107, USA. alexander.mazo@jefferson.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/19 05:30",
+    "fetched_at": "2026-10-26 06:20:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42893985"
+    ],
+    "review": [
+      "42893985"
+    ],
+    "pmc": [
+      "13677723"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77901-6",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

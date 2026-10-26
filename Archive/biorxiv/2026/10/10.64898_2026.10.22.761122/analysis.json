@@ -1,0 +1,24 @@
+{
+  "source": "biorxiv",
+  "id": "10.64898/2026.10.22.761122",
+  "title": "Specification of Origins of DNA Replication Within Distinct Chromatin States in Human Cells",
+  "authors": "Ouyang M; Stillman B",
+  "journal": "bioRxiv",
+  "published_date": "2026-10-23",
+  "window": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "score": 3,
+  "one_liner_zh": "该文研究人类细胞中DNA复制起点在染色质状态下的定位，与cpcdh基因家族无直接关联，但涉及染色质与复制调控，可借鉴其方法学。",
+  "abstract": "A comprehensive map of binding sites for the Origin Recognition Complex (ORC) in the human genome reveals relationships among replication licensing, chromatin state, three-dimensional genome organization, location of origins of DNA replication and DNA replication timing. Defining these relationships is essential for understanding how replication licensing is integrated with the broader organization and duplication of the human genome. Using 30 high-quality ORC1 CUT&RUN datasets, an ORC1 three-dimensional binding matrix (ORC1 3DM) was constructed that captures genomic position, binding intensity, and reproducibility across replicates. This analysis reveals considerable heterogeneity in ORC1 binding, and integration with chromatin-state maps shows that ORC1-binding sites separate into distinct epigenomic groups, with high-confidence sites enriched in H2A·Z1- and H3K4me3- associated open chromatin. Hi-C analysis demonstrates preferential localization of ORC1 binding to sub-regions of genomic A compartments and frequent association with loop anchors, supported by a direct interaction between ORC1 and CTCF. Replication-timing analysis shows that ORC1 binding sites are enriched in initiation zones and exhibit subgroup-specific temporal patterns. An integrated analysis combining multiple replication initiation assays and chromatin features further places ORC1 3DM within a unified replication-chromatin framework. Together, these results support a hierarchical, probabilistic model of replication licensing that is embedded within chromatin architecture.",
+  "abstract_zh": "人类基因组中起点识别复合物（ORC）结合位点的综合图谱揭示了复制许可、染色质状态、三维基因组组织、DNA复制起点位置及DNA复制时序之间的关系。明确这些关系对于理解复制许可如何与人类基因组的更广泛组织和复制相整合至关重要。利用30个高质量的ORC1 CUT&RUN数据集，构建了一个ORC1三维结合矩阵（ORC1 3DM），该矩阵捕获了基因组位置、结合强度及重复样本间的可重复性。此分析揭示了ORC1结合中的显著异质性，并与染色质状态图谱整合显示，ORC1结合位点分为不同的表观基因组群组，其中高置信度位点富集于与H2A·Z1和H3K4me3相关的开放染色质中。Hi-C分析表明，ORC1结合优先定位于基因组A区室的亚区域，并频繁与环锚相关联，这得到了ORC1与CTCF直接相互作用的支持。复制时序分析显示，ORC1结合位点富集于起始区，并表现出亚组特异性的时间模式。结合多种复制起始检测和染色质特征的整合分析，进一步将ORC1 3DM置于统一的复制-染色质框架内。综合这些结果，支持了一个嵌入染色质结构中的层级性、概率性复制许可模型。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761122",
+  "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761122",
+  "paper_page_path": "papers/biorxiv/10.64898_2026.10.22.761122/index.html"
+}
