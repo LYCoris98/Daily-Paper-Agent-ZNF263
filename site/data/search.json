@@ -2,6 +2,231 @@
   "version": 1,
   "documents": [
     {
+      "id": "pubmed:42966892",
+      "title": "NDFIP2 Suppresses Colorectal Cancer Metastasis Through DDX3X-Dependent R-Loop Remodeling and GNG13 Transcriptional Activation.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42966892/index.html",
+      "meta": [
+        "Zhang, Enjian; Li, Yanfang; Shu, Jiaxin; Xu, Shang; Lv, Heng; Zhang, Chong; Zhang, Pengbo; Wu, Nai; Gong, Shuai; Zhang, Xiuzhong; Ren, Zeqiang; Zhang, Yi; Liu, Xin",
+        "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+        "2026-11-01"
+      ],
+      "tags": [],
+      "summary": "该文研究NDFIP2在结直肠癌转移中的作用机制，与cpcdh基因家族无关。",
+      "abstract": "Distant metastasis remains the leading cause of colorectal cancer (CRC) mortality, yet the underlying molecular mechanisms remain incompletely defined. Integrating RNA sequencing (RNA-seq) profiling and clinical validation, we identified NDFIP2 as significantly downregulated in metastatic CRC. Functionally, NDFIP2 loss drove epithelial-mesenchymal transition (EMT), stemness, and metastasis via PI3K/AKT hyperactivation. Mechanistically, NDFIP2 serves as an adaptor recruiting the E3 ligase NEDD4 to induce K48-linked polyubiquitination and proteasomal degradation of DDX3X. Unrestrained DDX3X resolves R-loops at the GNG13 promoter and recruits the transcription factor CTCF, synergistically enhancing GNG13 transcription to amplify PI3K/AKT signaling. Targeting this vulnerability, we engineered a cell-permeable NDFIP2-derived iRGD-conjugated peptide (ND-iRGD). In vivo administration of this construct suppressed DDX3X/GNG13/PI3K/AKT signaling, thereby attenuating distant metastasis and prolonging murine survival. Collectively, NDFIP2 acts as a critical metastasis suppressor via the DDX3X/R-loop/GNG13 axis, presenting the ND-iRGD peptide as a promising translatable therapeutic strategy for metastatic CRC. 远处转移仍是结直肠癌（colorectal cancer, CRC）死亡的主要原因，但其潜在的分子机制仍未完全阐明。通过整合RNA测序（RNA-seq）图谱分析和临床验证，我们发现NDFIP2在转移性CRC中显著下调。在功能上，NDFIP2缺失通过PI3K/AKT过度激活驱动上皮-间质转化（epithelial-mesenchymal transition, EMT）、干性和转移。在机制上，NDFIP2作为衔接蛋白招募E3连接酶NEDD4，诱导DDX3X的K48连接多泛素化和蛋白酶体降解。失控的DDX3X在GNG13启动子处解析R-loop并招募转录因子CTCF，协同增强GNG13转录以放大PI3K/AKT信号传导。针对这一脆弱性，我们设计了一种细胞可渗透的NDFIP2衍生iRGD偶联肽（ND-iRGD）。在体内给予该构建体可抑制DDX3X/GNG13/PI3K/AKT信号传导，从而减弱远处转移并延长小鼠生存期。总之，NDFIP2通过DDX3X/R-loop/GNG13轴作为关键的转移抑制因子，将ND-iRGD肽呈现为一种有前景的可转化治疗策略用于转移性CRC。",
+      "date": "2026-11-01"
+    },
+    {
+      "id": "biorxiv:10.64898/2026.10.29.762938",
+      "title": "ChAI-Net learns a regulatory code for chromatin co-accessibility",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/biorxiv/10.64898_2026.10.29.762938/index.html",
+      "meta": [
+        "Lee J; Zhang K; Shurberg E; Ramani VS; Pollard KS",
+        "bioRxiv",
+        "2026-10-31"
+      ],
+      "tags": [],
+      "summary": "该文用深度学习预测染色质共可及性，虽不直接研究cpcdh基因家族，但其调控语法分析方法可借鉴用于该家族基因的调控研究。",
+      "abstract": "The regulation of chromatin accessibility is critical for cell function and identity. Advances in single-molecule long-read footprinting have enabled near-nucleotide-resolution readout of chromatin fiber organization, capturing both coordination of transcription factor (TF) binding and variation in nucleosome positioning previously obscured by bulk methods. Here we combine this technique with deep learning to study how protein-DNA interactions are coordinated within different types of cis-regulatory elements in mouse embryonic stem cells. First, we quantify the frequency with which pairs of positions are simultaneously accessible on individual molecules. Then, we train ChAI-Net, a neural network that predicts these locus-specific chromatin co-accessibility maps from the underlying DNA sequence. Through model interpretation and in silico experiments, we show that ChAI-Net learns unique combinations of sequence motifs underlying co-accessibility within enhancers, promoters, and CTCF-bound sites. Many of these motifs are missed when modeling average accessibility, suggesting a specific role in coordinated binding. ChAI-Net's regulatory grammar also highlights the importance of TF motif orientation, spacing, positioning, and co-occurrence in driving co-accessibility. Thus, our framework for extracting regulatory rules from footprinting data expands understanding of TF cooperativity, while laying the groundwork to elucidate how these rules vary across cellular contexts as single-molecule genomics is deployed at scale. 染色质可及性的调控对细胞功能和身份至关重要。单分子长读段足迹分析技术的进展使得能够以近核苷酸分辨率读取染色质纤维组织，捕捉到转录因子（TF）结合的协调性以及核小体定位的变异，这些在以往被群体方法所掩盖。在此，我们将该技术与深度学习相结合，研究小鼠胚胎干细胞中不同类型顺式调控元件内蛋白质-DNA相互作用的协调方式。首先，我们量化了单个分子上成对位置同时可及的频率。然后，我们训练了ChAI-Net，这是一个神经网络，能够从底层DNA序列预测这些位点特异性的染色质共可及性图谱。通过模型解释和计算机模拟实验，我们表明ChAI-Net学习了增强子、启动子和CTCF结合位点内共可及性背后的独特序列基序组合。在建模平均可及性时，许多这些基序被遗漏，表明它们在协调结合中具有特定作用。ChAI-Net的调控语法还强调了TF基序方向、间距、定位和共现对驱动共可及性的重要性。因此，我们从足迹分析数据中提取调控规则的框架扩展了对TF协同性的理解，同时为随着单分子基因组学大规模部署而阐明这些规则在不同细胞环境中的变化奠定了基础。",
+      "date": "2026-10-31"
+    },
+    {
+      "id": "pubmed:42964601",
+      "title": "Exploring long noncoding RNAs as a molecular connection between immune response and autism spectrum disorder.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42964601/index.html",
+      "meta": [
+        "Roschyk, Anaya; Campbell, Daniel B",
+        "Frontiers in toxicology",
+        "2026-10-31"
+      ],
+      "tags": [],
+      "summary": "该文研究长链非编码RNA在自闭症免疫失调中的作用，与cpcdh基因家族无关。",
+      "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental condition increasingly linked to immune dysregulation, with long noncoding RNAs (lncRNAs) emerging as potential regulators of both neural and immune processes. This study commenced by analyzing ten unique lncRNAs and integrated ASD whole-blood datasets using the online platform GTex to identify expression of lncRNAs in various tissues. Moreover, the platform Network Analyst was utilized to assess differentially expressed lncRNAs and associated transcriptomic networks. A total of 93 upregulated and 51 downregulated lncRNAs were identified in people with ASD with tissue specific enrichment observed for MSNP1AS and LNC01238 in immune related systems. The transcription factor CEBPA was shown to interact with the upregulated lncRNA MALAT1, which influenced immune cell differentiation, inflammation and cytokine signaling. Intriguingly CEBPA simultaneously interacted with downregulated lnc RNA MIR22HG. Comparatively, downregulated lncRNAs were associated with the transcription factors TEAD2, CEBPA, CTCF, E2F4, TFAP2C, HIF1A, ETS1, HNF4A, SNAPC4, STAT1, STAT2, TEAD2, FOXC1, BRCA1, AR, E2F4, EOMES, SPI1, DACH1, E2F1, TP63, HMAP1, KLF9, HDGF, and MAZ. Overall, the findings support a role for lncRNAs in ASD pathophysiology and immune dysregulation, pointing to their potential as biomarkers and potential therapeutic targets for future research. 自闭症谱系障碍（ASD）是一种神经发育状况，日益与免疫失调相关联，而长链非编码RNA（lncRNAs）正逐渐被视为神经和免疫过程的潜在调节因子。本研究首先分析了十个独特的lncRNAs，并利用在线平台GTex整合了ASD全血数据集，以识别lncRNAs在不同组织中的表达情况。此外，利用Network Analyst平台评估了差异表达的lncRNAs及其相关的转录组网络。在ASD患者中，共鉴定出93个上调lncRNAs和51个下调lncRNAs，其中MSNP1AS和LNC01238在免疫相关系统中表现出组织特异性富集。转录因子CEBPA被显示与上调的lncRNA MALAT1相互作用，该相互作用影响了免疫细胞分化、炎症和细胞因子信号传导。有趣的是，CEBPA同时与下调的lncRNA MIR22HG相互作用。相比之下，下调的lncRNAs与转录因子TEAD2、CEBPA、CTCF、E2F4、TFAP2C、HIF1A、ETS1、HNF4A、SNAPC4、STAT1、STAT2、TEAD2、FOXC1、BRCA1、AR、E2F4、EOMES、SPI1、DACH1、E2F1、TP63、HMAP1、KLF9、HDGF和MAZ相关联。总体而言，这些发现支持lncRNAs在ASD病理生理学和免疫失调中的作用，指出它们作为生物标志物和未来研究潜在治疗靶点的可能性。",
+      "date": "2026-10-31"
+    },
+    {
+      "id": "biorxiv:10.64898/2026.10.24.761502",
+      "title": "Does a map-level insulation constraint improve sequence-based prediction of 3D genome folding? A Stage 1 Registered Report with a reverse-complement-equivariant state-space model (HiFold-Mamba)",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/biorxiv/10.64898_2026.10.24.761502/index.html",
+      "meta": [
+        "Malekpouri M; Lotfi S",
+        "bioRxiv",
+        "2026-10-30"
+      ],
+      "tags": [],
+      "summary": "该文提出HiFold-Mamba序列到接触图预测模型并预注册绝缘约束损失假设，属于3D基因组折叠预测方法，与cpcdh基因家族无直接关联。",
+      "abstract": "<h4>Background: </h4> Sequence-to-contact-map models are trained with pixel-wise losses, although the features of interest (insulation, domain boundaries, loops) are summaries of the map. Insulationbased losses help Hi-C resolution enhancement. No pre-specified test has asked whether they improve sequence-based prediction, judged against annotations independent of the training data. Proposed study. HiFold-Mamba predicts 448 × 448 maps at 2,048 bp from 1,048,576 bp of DNA on the DNALongBench contact-map task. Every component is reverse-complement-equivariant: convolutional tower, bidirectional Mamba blocks, multi-scale mixer and symmetric pairwise head. We pre-register three hypotheses: » H1: it exceeds each of three trained baselines (reproduced Akita, a parameter-matched Transformer and a parameter-matched CNN) by ≥0.01 stratum-adjusted correlation (SCC). » H2: an insulation and boundary loss, computed from the predicted map with the operator used on the observed map, improves boundary AUROC and loop AP against independent 4DN boundary calls and ENCODE CTCF ChIA-PET loops, at equal training steps and without loss of SCC. » H3: pretraining plus few-shot adaptation beats training from scratch on four held-out cell lines.Tests use a paired bootstrap over 237 one-megabase test blocks (one-sided α = 0.025). Pilot data. » Verification. The benchmark target, the window coordinates and the networks equivariance were verified. » Locus-shared reference. Copying other cell lines measured maps at the same locus matches published Akita on the benchmarks SCC (0.227 vs. 0.230). » SCC weightings. Two weightings in common use weight distance strata in opposite directions and agree only moderately (ρ = 0.54). » Comparison rule. In simulations calibrated on the pilot data, a per-block-best comparison against several baselines has no power. We therefore test against each baseline, which gives ≥ 90 % power at a true gain of 0.02 when between-model correlation is ≥ 0.95. » H2 positive control. On validation windows, observed maps recover the independent boundaries (AUROC 0.61 − 0.91) and loops (0.86 − 0.90). This fixed the insulation window and showed that these annotations are largely shared across cell types. <h4>背景：</h4> 序列到接触图（sequence-to-contact-map）模型使用逐像素损失进行训练，尽管所关注的特征（绝缘、结构域边界、环）是图的汇总。基于绝缘的损失有助于Hi-C分辨率增强。尚无预先设定的测试检验它们是否改善基于序列的预测，且以独立于训练数据的注释为评判标准。拟议研究。HiFold-Mamba在DNALongBench接触图任务上，从1,048,576 bp的DNA预测2,048 bp分辨率的448 × 448图。每个组件都是反向互补等变的：卷积塔、双向Mamba块、多尺度混合器和对称成对头。我们预注册三个假设：» H1：它超过三个训练基线（复现的Akita、参数匹配的Transformer和参数匹配的CNN）中的每一个至少0.01的分层调整相关性（SCC）。» H2：使用与观测图相同算子从预测图计算的绝缘和边界损失，在相同训练步数下，针对独立的4DN边界调用和ENCODE CTCF ChIA-PET环，改善边界AUROC和环AP，且不损失SCC。» H3：预训练加少样本适应在四个留出细胞系上优于从头训练。测试使用对237个一兆碱基测试块的配对自助法（单侧α = 0.025）。试点数据。» 验证。基准目标、窗口坐标和网络等变性已验证。» 位点共享参考。复制其他细胞系在同一基因座测量的图，在基准SCC上与已发表的Akita匹配（0.227 vs. 0.230）。» SCC加权。两种常用加权以相反方向加权距离分层，仅中等一致（ρ = 0.54）。» 比较规则。在基于试点数据校准的模拟中，针对多个基线的逐块最佳比较没有功效。因此我们针对每个基线进行测试，当模型间相关性≥ 0.95时，在真实增益为0.02时给出≥ 90%的功效。» H2阳性对照。在验证窗口上，观测图恢复独立边界（AUROC 0.61 − 0.91）和环（0.86 − 0.90）。这固定了绝缘窗口，并表明这些注释在细胞类型间 largely共享。",
+      "date": "2026-10-30"
+    },
+    {
+      "id": "pubmed:42960724",
+      "title": "CTCF contributes with alpha-satellite and satellite 2 expression in cancer cells: implications for centromeric chromatin organisation.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42960724/index.html",
+      "meta": [
+        "Del Castillo Falconi, Victor M; Soto-Reyes Solis, Ernesto; Castillo-Gonzalez, Michelle; Ochoa, Carlos; Silva Diaz, Violeta Guadalupe; Delgado-Arzate, Ana Laura; Herrera, Luis A; Diaz-Chavez, Jose; Gonzalez-Barrios, Rodrigo",
+        "Epigenomics",
+        "2026-10-30"
+      ],
+      "tags": [],
+      "summary": "该文研究CTCF调控着丝粒/近着丝粒非编码RNA表达及染色质状态，与cpcdh基因家族无直接关联，但涉及着丝粒染色质调控机制，可作边缘参考。",
+      "abstract": "BACKGROUND: The centromeric and pericentromeric regions of chromosomes are essential for genome stability. Beyond their structural role, noncoding RNAs (ncRNAs) transcribed from these regions have been implicated in kinetochore assembly. In cancer, reduced centromeric heterochromatin and deregulated ncRNA expression have been associated with chromosome instability. RESEARCH DESIGN AND METHODS: Centromeric and pericentromeric ncRNA expression was compared between the non-transformed WI-38 cell line and the colorectal cancer cell line HCT116. CTCF and H3K9me3 occupancy were evaluated by chromatin immunoprecipitation. Cells were treated with Trichostatin A (TSA), and CTCF function was assessed by pharmacological inhibition and shRNA-mediated depletion. RESULTS: Cancer cells exhibited elevated ncRNA levels, accompanied by reduced H3K9me3 enrichment and differential CTCF occupancy. Functional inactivation or depletion of CTCF markedly decreased ncRNA transcription, supporting a role for CTCF in regulating centromeric and pericentromeric ncRNAs. CONCLUSIONS: These findings support an association between chromatin state, CTCF occupancy, and ncRNA transcription at centromeric regions, and provide insight into epigenetic patterns associated with genome stability in cancer cells. Our results further suggest that centromeric chromatin operates within constrained transcriptional states compatible with chromosome stability. 背景：染色体的着丝粒区和着丝粒周围区对基因组稳定性至关重要。除其结构作用外，从这些区域转录的非编码RNA（ncRNAs）已被认为参与动粒组装。在癌症中，着丝粒异染色质减少和ncRNA表达失调与染色体不稳定性相关。研究设计与方法：比较了非转化WI-38细胞系和结直肠癌细胞系HCT116之间着丝粒和着丝粒周围ncRNA的表达。通过染色质免疫沉淀评估了CTCF和H3K9me3的占据情况。细胞经曲古抑菌素A（TSA）处理，并通过药理学抑制和shRNA介导的耗竭评估CTCF功能。结果：癌细胞表现出升高的ncRNA水平，伴随H3K9me3富集减少和CTCF占据差异。CTCF的功能失活或耗竭显著降低了ncRNA转录，支持CTCF在调控着丝粒和着丝粒周围ncRNA中的作用。结论：这些发现支持着丝粒区域染色质状态、CTCF占据和ncRNA转录之间的关联，并为癌细胞中与基因组稳定性相关的表观遗传模式提供了见解。我们的结果进一步表明，着丝粒染色质在受限的转录状态下运作，该状态与染色体稳定性相容。",
+      "date": "2026-10-30"
+    },
+    {
+      "id": "pubmed:42962015",
+      "title": "PDS5A and TOP2B cooperate for chromatin recruitment via CTCF.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42962015/index.html",
+      "meta": [
+        "Gonzalez-Buendia, Edgar; Ortabozkoyun, Havva; Reinberg, Danny",
+        "Science advances",
+        "2026-10-30"
+      ],
+      "tags": [],
+      "summary": "该文研究PDS5A与TOP2B在CTCF位点的协同作用，与cpcdh基因家族无关。",
+      "abstract": "PDS5A, a cohesin regulatory subunit, and topoisomerase IIB (TOP2B), an enzyme resolving DNA topological problems, interact with CTCF and regulate transcription and genome organization. We ascertained that PDS5A and TOP2B are recruited to CTCF-bound chromatin cooperatively and that catalytically active TOP2B increases PDS5A occupancy genome wide. Notably, the amino-terminal 95 to 116 amino acids of CTCF interacts with PDS5A, giving rise to CTCF-PDS5A-TOP2B interaction in vitro and to PDS5A chromatin enrichment via active TOP2B in vivo. PDS5A-TOP2B function together in moderating the resultant gene expression and genome organization. Loss of CTCF (95 to 116 amino acids) led to dysregulated gene expression and mildly reduced chromatin loops. In gliomas, PDS5A and TOP2B expression levels vary, but correlate, contributing to distinctive gene expression patterns. Inducible PDS5A knockdown led to reduced TOP2B occupancy and altered gene expression. Furthermore, PDS5A mediated sensitivity to TOP2 cancer drugs in glioma cells. This functional interaction between PDS5A and TOP2B at CTCF boundaries expands upon the mechanisms affecting gene regulation through genome organization, with implications for glioma therapeutics. PDS5A，一种黏连蛋白调节亚基，以及拓扑异构酶IIB（TOP2B），一种解决DNA拓扑问题的酶，与CTCF相互作用并调节转录和基因组组织。我们确认PDS5A和TOP2B被协同招募至CTCF结合的染色质上，且具有催化活性的TOP2B在全基因组范围内增加PDS5A的占据率。值得注意的是，CTCF的氨基末端第95至116个氨基酸与PDS5A相互作用，在体外形成CTCF-PDS5A-TOP2B复合物，并在体内通过活性TOP2B促进PDS5A在染色质上的富集。PDS5A-TOP2B共同作用以调节由此产生的基因表达和基因组组织。CTCF（第95至116个氨基酸）的缺失导致基因表达失调和染色质环轻度减少。在胶质瘤中，PDS5A和TOP2B的表达水平存在差异，但相互关联，促成独特的基因表达模式。诱导性PDS5A敲低导致TOP2B占据率降低和基因表达改变。此外，PDS5A介导了胶质瘤细胞对TOP2癌症药物的敏感性。PDS5A与TOP2B在CTCF边界处的这种功能性相互作用扩展了通过基因组组织影响基因调控的机制，对胶质瘤治疗具有潜在意义。",
+      "date": "2026-10-30"
+    },
+    {
+      "id": "biorxiv:10.64898/2026.10.27.762200",
+      "title": "A CTCF-LDHB axis converts nuclear lactate availability into an H3K18 acylation switch that directs alternative splicing in hypoxic breast cancer",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/biorxiv/10.64898_2026.10.27.762200/index.html",
+      "meta": [
+        "Kakani P; Brahma A; Jithin B; Peter RM; Panda A; Bansal A; Kumar OP; Niyati K; Sahu A; Samaiya A; Shukla S",
+        "bioRxiv",
+        "2026-10-29"
+      ],
+      "tags": [],
+      "summary": "该文揭示CTCF-LDHB轴通过调控核内乳酸水平影响组蛋白H3K18酰化，进而决定乳腺癌缺氧条件下的可变剪接，与cpcdh基因家族在代谢-表观遗传调控中的功能高度相关。",
+      "abstract": "Lactate accumulating in hypoxic tumours lactylates histones, coupling metabolic state to chromatin. Why it differs between tumours of comparable glycolytic rate has remained unresolved. Here we show that nuclear, rather than total intracellular, lactate availability determines histone H3K18 lactylation in breast cancer, and that CCCTC-binding factor (CTCF) and lactate dehydrogenase B ( LDHB ) jointly set it. CTCF sustains glycolytic gene expression under hypoxia and drives LDHB in triple-negative breast cancer (TNBC), whereas a CTCF-ERα complex represses LDHB in non-TNBC. LDHB consumes lactate favouring H3K18 acetylation; where LDHB is low, CTCF-dependent MCT1 delivers lactate into the nucleus and sustains lactylation. At a CTCF site downstream of TACC3 exon 3, an invariant polymerase II pause couples kinetic and adaptor control of splicing, with the mark deciding the outcome: H3K18la recruits SMARCA4 and hnRNPA1 to skip the exon, generating an isoform that drives EMT, whereas H3K18ac recruits TRIM33 and SRSF10 to include it, generating one that confers stemness. Inhibiting LDHB restores exon skipping and suppresses tumour growth in vivo. Nuclear lactate availability therefore acts as a metabolic switch that converts hypoxic stress into subtype-specific splicing decisions and identifies LDHB as a tractable target in TNBC. 缺氧肿瘤中积累的乳酸使组蛋白发生乳酰化，将代谢状态与染色质偶联。为何在糖酵解速率相当的肿瘤之间这一过程存在差异，此前仍未得到解决。在此我们表明，在乳腺癌中，决定组蛋白H3K18乳酰化的是核内而非总细胞内乳酸的可用性，并且CCCTC结合因子（CTCF）和乳酸脱氢酶B（LDHB）共同设定这一水平。CTCF在缺氧条件下维持糖酵解基因表达，并在三阴性乳腺癌（TNBC）中驱动LDHB，而CTCF-ERα复合物在非TNBC中抑制LDHB。LDHB消耗乳酸，有利于H3K18乙酰化；在LDHB低表达处，CTCF依赖的MCT1将乳酸转运至核内并维持乳酰化。在TACC3外显子3下游的一个CTCF位点，一个恒定的聚合酶II暂停将剪接的动力学和适配器控制偶联起来，该标记决定结果：H3K18la招募SMARCA4和hnRNPA1以跳过外显子，生成驱动上皮-间质转化（EMT）的异构体，而H3K18ac招募TRIM33和SRSF10以包含外显子，生成赋予干性的异构体。抑制LDHB在体内恢复外显子跳过并抑制肿瘤生长。因此，核内乳酸可用性充当代谢开关，将缺氧应激转化为亚型特异性剪接决策，并将LDHB确定为TNBC中一个可靶向的靶点。",
+      "date": "2026-10-29"
+    },
+    {
+      "id": "pubmed:42951962",
+      "title": "SWI/SNF complexes shape 3D chromatin architecture through CTCF and cohesin.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42951962/index.html",
+      "meta": [
+        "Debek, Sonia; Meydan, Cem; Chin, Christopher R; Yu, Jiali; Durmaz, Ceyda; Tsialta, Ioanna; Pelzer, Benedikt; Maurer, Constance; Ou, Arnold; Laguillo-Diego, Alejandra; Scourzic, Laurianne; Tumuluru, Sravya; Teater, Matt; Wu, Rui; Darsow, Brian; Rivas, Martin A; Marin-Rubio, Jose Luis; Stadtfeld, Matthias; Apostolou, Effie; Mason, Christopher E; Elenitoba-Johnson, Kojo S J; Risca, Viviana I; Melnick, Ari; Barisic, Darko",
+        "Nature",
+        "2026-10-29"
+      ],
+      "tags": [],
+      "summary": "该文研究SWI/SNF复合物通过CTCF和cohesin调控3D染色质结构，与cpcdh基因家族无直接关联，但涉及染色质调控机制可作背景参考。",
+      "abstract": "The BAF (also known as mammalian SWI/SNF) chromatin remodelling complexes are essential regulators of nucleosome positioning and transcription factor binding(1,2). Loss-of-function (LOF) mutations in genes encoding components of the BAF complexes are among the most frequent across cancer types(3). However, a unifying mechanism that explains their widespread disruption remains unclear. Here we disrupted BAF function through pharmacological inhibition and ARID1A deletion across various mammalian cell types and tissues and observed a conserved chromatin response: increased accessibility at CTCF-binding sites. ARID1A LOF alone was sufficient to drive these changes, which demonstrates that canonical BAF (cBAF) disruption is the key driver of CTCF gain. Genomic profiling showed increased CTCF and SMC3 occupancy, which reveals an antagonistic relationship between cBAF and CTCF-cohesin complexes. Furthermore, cBAF loss restructured 3D genome organization, which led to a strengthening of topologically associating domain boundaries and subdivision of large domains into smaller insulated structures. Long-range enhancer-promoter loops were replaced by shorter, promoter-proximal loops anchored at CTCF-enriched sites. To determine how CTCF function is enabled following cBAF loss, we profiled CTCF-interacting cofactors and found that CTCF binds directly to fully assembled PBAF. After cBAF depletion, PBAF was recruited to sites of increased CTCF occupancy, which demonstrates that there is an antagonistic switch between SWI/SNF subcomplexes. In vivo, conditional Arid1a deletion in primary mouse cells resulted in the expansion of a highly proliferative population marked by elevated accessibility at CTCF sites. This phenotype was fully reversed by either Ctcf or Pbrm1 deletion, which establishes that cBAF and the activity of CTCF and PBAF have contrasting roles. BAF（也称为哺乳动物SWI/SNF）染色质重塑复合物是核小体定位和转录因子结合的关键调控因子(1,2)。编码BAF复合物组分的基因中的功能缺失（LOF）突变在多种癌症类型中最为常见(3)。然而，解释其广泛破坏的统一机制仍不清楚。在此，我们通过药理学抑制和ARID1A缺失在多种哺乳动物细胞类型和组织中破坏BAF功能，并观察到一种保守的染色质响应：CTCF结合位点的可及性增加。仅ARID1A LOF就足以驱动这些变化，这表明经典BAF（cBAF）的破坏是CTCF增益的关键驱动因素。基因组分析显示CTCF和SMC3占有率增加，揭示了cBAF与CTCF-cohesin复合物之间的拮抗关系。此外，cBAF缺失重构了3D基因组组织，导致拓扑关联结构域边界增强，并将大结构域细分为更小的绝缘结构。长程增强子-启动子环被较短的、启动子近端且锚定于CTCF富集位点的环所取代。为确定cBAF缺失后CTCF功能如何被启用，我们分析了CTCF相互作用辅因子，发现CTCF直接结合于完全组装的PBAF。在cBAF耗竭后，PBAF被招募至CTCF占有率增加的位点，这表明SWI/SNF亚复合物之间存在拮抗性转换。在体内，原代小鼠细胞中的条件性Arid1a缺失导致以CTCF位点可及性升高为特征的高度增殖群体的扩增。该表型可通过Ctcf或Pbrm1缺失完全逆转，这确立了cBAF与CTCF及PBAF活性具有相反作用。",
+      "date": "2026-10-29"
+    },
+    {
+      "id": "biorxiv:10.64898/2026.10.26.761423",
+      "title": "Histone modifications define distinct nucleosome positions in cell-free DNA",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/biorxiv/10.64898_2026.10.26.761423/index.html",
+      "meta": [
+        "Ou Y; Gulati GS; Tyndall CF; Pandey M; Seo J; Zhang Z; Jin Z; Lee GG; Nawfal R; Hoggood TA; Shahbazi SD; Ludwig J; Zhang Z; Ibrahim E; Nafeh G; Berchuck JE; Sowalsky AG; Karzai F; Freedman ML; Takeda DY; Baca SC",
+        "bioRxiv",
+        "2026-10-28"
+      ],
+      "tags": [],
+      "summary": "该文利用cfDNA核小体定位揭示组蛋白修饰状态，虽未直接研究cpcdh基因家族，但其方法学（cfChIP-seq和MAP分析）可借鉴用于cpcdh基因家族的表观遗传调控研究。",
+      "abstract": "<h4>ABSTRACT</h4> Circulating cell-free DNA (cfDNA) fragmentation patterns reflect nucleosome positioning. We asked whether variation in nucleosome positions in cfDNA can reveal chromatin states and associated histone modifications. Using cell-free chromatin immunoprecipitation sequencing (cfChIP-seq) in plasma from patients with prostate cancer, we identified 35,120 modification-associated positions (MAPs), loci where nucleosomes bearing active (H3K4me2) and repressive (H3K9me3) histone marks occupy reproducibly offset positions. These offsets recurred across histone marks, an independent cfChIP-seq cohort, and nuclease-digested chromatin from cell lines. MAPs were enriched in transcribed genes but depleted near transcription start sites and CTCF-binding sites where nucleosome positioning is constrained. Across 2,535 cfDNA sequencing datasets, nucleosome protection at a subset of MAPs correlated with tumor fraction (TF), reflecting differences in histone modification status between cancer-derived and non-malignant chromatin. In targeted sequencing panels, a 50-MAP model using fragments from < 0.001% of the genome distinguished samples with tumor fractions ≥3% vs 0% (AUCs = 0.91-0.96 across prostate, breast, and lung cancers) and outperformed a state-of-the-art fragmentomics-based tumor fraction predictor. MAP-derived estimates correlated with reference TFs ( r = 0.89) and longitudinal changes in TF ( r = 0.91). MAP protection at ASCL1 binding sites identified neuroendocrine transformation of prostate cancer from cfDNA. These findings establish histone-modification-associated nucleosome positioning as a mutation-independent readout of tumor fraction and cancer state from routine cfDNA sequencing. <h4>摘要</h4> 循环游离DNA（cfDNA）的片段化模式反映了核小体定位。我们探究了cfDNA中核小体位置的变异是否能揭示染色质状态及相关的组蛋白修饰。通过对前列腺癌患者血浆中的游离染色质免疫沉淀测序（cfChIP-seq），我们识别出35,120个修饰相关位置（MAPs），这些位点上携带活性（H3K4me2）和抑制性（H3K9me3）组蛋白标记的核小体占据可重复的偏移位置。这些偏移在组蛋白标记、独立的cfChIP-seq队列以及细胞系中核酸酶消化的染色质中反复出现。MAPs在转录基因中富集，但在转录起始位点和CTCF结合位点附近减少，这些区域的核小体定位受到约束。在2,535个cfDNA测序数据集中，MAPs子集的核小体保护与肿瘤分数（TF）相关，反映了癌症来源与非恶性染色质之间组蛋白修饰状态的差异。在靶向测序面板中，一个使用基因组<0.001%片段的50-MAP模型区分了肿瘤分数≥3%与0%的样本（前列腺癌、乳腺癌和肺癌的AUCs = 0.91-0.96），并优于基于片段组学的先进肿瘤分数预测器。MAP衍生的估计值与参考TF（r = 0.89）及TF的纵向变化（r = 0.91）相关。ASCL1结合位点的MAP保护识别了前列腺癌从cfDNA的神经内分泌转化。这些发现确立了组蛋白修饰相关核小体定位作为从常规cfDNA测序中获取的肿瘤分数和癌症状态的突变独立读数。",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "biorxiv:10.64898/2026.10.27.762201",
+      "title": "Engineered Tn5 Variants Enhance CUT&Tag Fidelity for Transcription Factors",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/biorxiv/10.64898_2026.10.27.762201/index.html",
+      "meta": [
+        "Piper L; Baird E; Ashbaugh HJ; Pentecost OA; Nowinski SM; Janssens DH",
+        "bioRxiv",
+        "2026-10-28"
+      ],
+      "tags": [],
+      "summary": "该文通过改造Tn5变体提升CUT&Tag对转录因子（如GATA2、CTCF、MyoG、Pax7）的检测保真度，属于染色质 profiling 方法学，与cpcdh基因家族无直接关联。",
+      "abstract": "The CUT&Tag method performs exceptionally well for profiling histone modifications, but mapping sequence-specific transcription factors (TFs) is complicated by intrinsic Tn5 activity at accessible DNA, and the high-salt washes used to suppress this activity can destabilize TF-chromatin interactions. We engineered the Tn5 DNA-binding channel to attenuate target-DNA engagement by replacing individual positively charged amino acids with neutral amino acids. We identified a “Goldilocks” variant (K160A) with intermediate attenuation that improved recovery of GATA2 motif-containing sites under low-salt CUT&Tag and KCl-based DynaTag conditions. A second variant (K249A) had improved performance for profiling CTCF over less accessible sites characterized by sharply focused short-fragment enrichment. By comparing the K160A and K249A variants, this TF-CUT&Tag assay provides a physical readout of the local chromatin environment at TF binding sites. Applying K160A TF-CUT&Tag to pluripotency-associated TFs in mouse embryonic stem cells increased recovery across their genomic binding landscapes while preserving factor-specific motif architectures. During skeletal muscle differentiation, TF-CUT&Tag improved recovery of MyoG and Pax7 occupancy relative to standard CUT&Tag, revealing strongly motif-enriched MyoG binding and a shift in Pax7 binding from CpG-rich promoters in progenitors toward Pax7 motif-enriched sites during differentiation. Together, these results show that TF-CUT&Tag captures distinct modes of TF– chromatin interaction, including motif-directed binding sites and more salt-sensitive sites that may depend on lower-affinity DNA recognition or protein–protein interactions and are difficult to predict from DNA sequence alone. CUT&Tag方法在组蛋白修饰分析中表现优异，但绘制序列特异性转录因子（TFs）图谱时，可及DNA上的固有Tn5活性会带来干扰，而用于抑制该活性的高盐洗涤可能破坏TF-染色质相互作用。我们通过将单个带正电荷的氨基酸替换为中性氨基酸，工程化改造了Tn5 DNA结合通道，以减弱靶标DNA的结合。我们鉴定出一个“金发姑娘”变体（K160A），其具有中等程度的减弱效应，在低盐CUT&Tag和基于KCl的DynaTag条件下，提高了含GATA2基序位点的回收率。另一个变体（K249A）在分析CTCF于可及性较低位点（其特征为尖锐聚焦的短片段富集）时表现出更优性能。通过比较K160A和K249A变体，这种TF-CUT&Tag检测提供了TF结合位点局部染色质环境的物理读数。将K160A TF-CUT&Tag应用于小鼠胚胎干细胞中多能性相关TF，增加了其基因组结合图谱的回收率，同时保留了因子特异性基序结构。在骨骼肌分化过程中，与标准CUT&Tag相比，TF-CUT&Tag提高了MyoG和Pax7占据的回收率，揭示了强基序富集的MyoG结合，以及Pax7结合从祖细胞中CpG富集启动子向分化过程中Pax7基序富集位点的转变。综合这些结果表明，TF-CUT&Tag捕获了TF-染色质相互作用的多种模式，包括基序导向的结合位点，以及可能依赖于较低亲和力DNA识别或蛋白质-蛋白质相互作用、且难以仅从DNA序列预测的更盐敏感位点。",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "pubmed:42939444",
+      "title": "DNA-Encoded Binding Affinity Shapes Robust CTCF Occupancy Across Cellular Contexts.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42939444/index.html",
+      "meta": [
+        "Yin, Zihang; Wang, Yefan; Zhang, Zhiyu; Wang, Wuming; Guo, Ya",
+        "Biology",
+        "2026-10-27"
+      ],
+      "tags": [],
+      "summary": "该文研究CTCF蛋白的DNA结合亲和力对基因组占据和3D结构的影响，与cpcdh基因家族无关。",
+      "abstract": "CCCTC-binding factor (CTCF) is an architectural protein that organizes 3D genome architecture by binding to tens of thousands of genomic loci in a typical human cell type. Although DNA-binding affinity contributes to CTCF occupancy in vivo, the principles distinguishing robust from context-dependent occupancy remain incompletely understood. Here, we integrated quantitative measurements of CTCF-DNA binding affinity with genome-wide occupancy profiles. Using synthetic tandem arrays of CTCF sites with defined affinity levels, we experimentally tested whether DNA-encoded affinity establishes a predictable hierarchy of CTCF occupancy in vivo. We identified two CTCF-DNA binding affinity thresholds defining three distinct CTCF occupancy regimes. High-affinity sites were more frequently and consistently occupied across diverse cellular contexts and chromatin environments, whereas intermediate- and low-affinity sites showed greater context dependence. Synthetic arrays further revealed a reproducible occupancy hierarchy that was maintained across different motif arrangements. High-affinity sites were preferentially associated with strong chromatin loops and TAD boundaries, and flanking CTCF motifs that contribute to binding affinity were enriched at strong loop anchors. Together, these findings establish a quantitative framework in which CTCF-DNA binding affinity links sequence-encoded binding properties to the robustness and context dependence of CTCF occupancy and to features of CTCF-mediated 3D genome organization. CCCTC结合因子（CTCF）是一种结构蛋白，通过结合典型人类细胞类型中数万个基因组位点来组织三维基因组结构。尽管DNA结合亲和力有助于CTCF在体内的占据，但区分稳健占据与背景依赖性占据的原理仍未完全阐明。在此，我们整合了CTCF-DNA结合亲和力的定量测量与全基因组占据谱。利用具有确定亲和力水平的CTCF位点合成串联阵列，我们实验测试了DNA编码的亲和力是否在体内建立可预测的CTCF占据层级。我们识别出两个CTCF-DNA结合亲和力阈值，定义了三种不同的CTCF占据模式。高亲和力位点在多种细胞背景和染色质环境中更频繁且一致地被占据，而中低亲和力位点则表现出更大的背景依赖性。合成阵列进一步揭示了一种可重复的占据层级，该层级在不同基序排列中得以维持。高亲和力位点优先与强染色质环和TAD边界相关，且有助于结合亲和力的侧翼CTCF基序在强环锚点处富集。综合来看，这些发现建立了一个定量框架，其中CTCF-DNA结合亲和力将序列编码的结合特性与CTCF占据的稳健性和背景依赖性以及CTCF介导的三维基因组组织特征联系起来。",
+      "date": "2026-10-27"
+    },
+    {
+      "id": "pubmed:42944041",
+      "title": "How Does HTLV-1 Persist in the Host?",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42944041/index.html",
+      "meta": [
+        "Bangham, Charles R M",
+        "Viruses",
+        "2026-10-27"
+      ],
+      "tags": [],
+      "summary": "该文探讨HTLV-1病毒在宿主中的持续存在机制，与cpcdh基因家族课题无关。",
+      "abstract": "HTLV-1 resists clearance from its host by the strong HTLV-1-specific immune response and by drugs. The tactics and strategies by which it does so illustrate the exquisite adaptation to the host that HTLV-1 has made in its tens of thousands of years of stable co-existence with humans. This adaptation contrasts strongly with the biology of HIV-1, which has established widespread infection in humans for only around a century. The mode of persistence of HTLV-1 makes it less pathogenic than HIV-1, despite causing serious malignant and inflammatory diseases in a proportion of people with the virus, but at the same time makes HTLV-1 harder to treat and eradicate. In this article I outline the different means that HTLV-1 has evolved to persist in the host. HTLV-1通过强烈的HTLV-1特异性免疫应答和药物作用抵抗从宿主中的清除。其采取的策略和手段展示了HTLV-1在与人类数万年稳定共存过程中对宿主的精妙适应。这种适应与HIV-1的生物学特性形成鲜明对比，后者仅在大约一个世纪内就在人类中建立了广泛感染。HTLV-1的持续存在方式使其致病性低于HIV-1，尽管它在一部分感染者中会引发严重的恶性及炎症性疾病，但同时也使HTLV-1更难治疗和根除。在本文中，我概述了HTLV-1进化出的在宿主中持续存在的不同机制。",
+      "date": "2026-10-27"
+    },
+    {
+      "id": "pubmed:42945383",
+      "title": "An extensible deep learning framework for multi-type chromatin interaction prediction through hierarchical adaptation strategies.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42945383/index.html",
+      "meta": [
+        "Wang, Shuaibin; Chen, Tong; Liu, Weixu; Zheng, Xuejie; Yang, Zhongxin; Liang, Zhen; Shen, Yin",
+        "PLoS computational biology",
+        "2026-10-27"
+      ],
+      "tags": [],
+      "summary": "该文提出多类型染色质相互作用预测的深度学习框架UniLoopNet，聚焦三维基因组互作而非cpcdh基因家族，与课题无关。",
+      "abstract": "Three-dimensional chromatin interactions play essential roles in gene regulation, yet computational prediction of diverse interaction types remains largely dependent on specialized, single-task models. Here, we present UniLoopNet, a multi-task deep learning framework that predicts multiple types of chromatin interactions including enhancer-promoter interactions, enhancer-enhancer interactions, CTCF-mediated loops, and stripe-associated interactions from DNA sequences. UniLoopNet employs a shared encoder-decoder architecture with hierarchical adaptation strategies, integrating multi-task, transfer, and continual learning based on task semantic similarity. Comprehensive benchmarking across multiple cell lines demonstrates that UniLoopNet outperforms existing specialized and multi-task approaches, with AUROCs exceeding 0.90 in most tasks. Under stringent evaluation settings, including chromosome-matched, distance-matched, realistic imbalanced, and locus-disjoint tests, AUROCs range from 0.8934 to 0.9366. In the realistic 1:5 class-imbalance setting, the AUPRCs for enhancer-promoter and enhancer-enhancer interaction prediction are 0.7956 and 0.6935, respectively. Cross-cell-line transfer experiments further show that applying UniLoopNet to another cell line requires adaptation by supervised fine-tuning on target-cell-line data, after which performance is comparable to that of within-cell-line training. Notably, the framework exhibits data efficiency in experiments with substantially reduced training data. Interpretability analyses reveal that the learned sequence features are associated with known transcription factor binding sites and uncover differential regulatory effects of disease-associated variants. UniLoopNet provides a versatile and data-efficient framework for sequence-based prediction and interpretation of diverse 3D genome interactions, complementing existing sequence-to-map approaches while improving the understanding of sequence-encoded regulatory potential. 三维染色质相互作用在基因调控中发挥重要作用，然而对不同相互作用类型的计算预测仍主要依赖于专门的单任务模型。在此，我们提出UniLoopNet，一种多任务深度学习框架，可从DNA序列预测多种类型的染色质相互作用，包括增强子-启动子相互作用、增强子-增强子相互作用、CTCF介导的环以及条纹相关相互作用。UniLoopNet采用共享编码器-解码器架构，并结合层次化适应策略，基于任务语义相似性整合多任务学习、迁移学习和持续学习。跨多个细胞系的综合基准测试表明，UniLoopNet优于现有专门方法和多任务方法，在大多数任务中AUROC超过0.90。在严格评估设置下，包括染色体匹配、距离匹配、现实不平衡和位点不相交测试，AUROC范围从0.8934到0.9366。在现实的1:5类别不平衡设置中，增强子-启动子和增强子-增强子相互作用预测的AUPRC分别为0.7956和0.6935。跨细胞系迁移实验进一步表明，将UniLoopNet应用于另一细胞系需要通过目标细胞系数据的监督微调进行适应，之后性能与细胞系内训练相当。值得注意的是，该框架在训练数据大幅减少的实验中表现出数据效率。可解释性分析揭示，学习到的序列特征与已知转录因子结合位点相关，并发现疾病相关变异的差异调控效应。UniLoopNet为基于序列的多种3D基因组相互作用预测和解释提供了一个通用且数据高效的框架，补充了现有序列到图谱方法，同时增进了对序列编码调控潜力的理解。",
+      "date": "2026-10-27"
+    },
+    {
+      "id": "pubmed:42945616",
+      "title": "Layered regulation of plant 3D chromatin architecture by histone marks, transcription factors and cohesin‑mediated loops.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42945616/index.html",
+      "meta": [
+        "Su, Zezhao; Wang, Zhidan; Latrasse, David; Liu, Chang; Benhamed, Moussa",
+        "Current opinion in plant biology",
+        "2026-10-27"
+      ],
+      "tags": [],
+      "summary": "该文综述植物3D染色质结构的分层调控机制，虽未直接涉及cpcdh基因家族，但其对组蛋白修饰、转录因子和cohesin介导环的讨论可为研究cpcdh家族在染色质调控中的潜在作用提供借鉴。",
+      "abstract": "The three-dimensional (3D) organization of the genome has emerged as a central layer of gene regulation in eukaryotes. In plants, chromatin architecture displays both conserved features and lineage-specific characteristics, reflecting differences in genome composition, epigenetic landscapes and regulatory strategies. Recent evolutionary analyses suggest that plants preferentially adopt a chromosome-scale \"global folding\" strategy distinct from the compartmentalized architecture observed in animals, which raises an important question: how is regulatory information coordinated in plants in the absence of canonical architectural proteins such as CCCTC-binding factor (CTCF) and strong compartmental domains? Here, we discuss evidence supporting a model in which plant 3D genome organization arises from the interplay between three major regulatory layers: chromatin states defined by histone modifications, transcription factor-mediated regulatory interactions, and cohesin-dependent chromatin extrusion. We further propose that these mechanisms operate within a global folding framework that balances structural stability with regulatory plasticity. 基因组的三维（3D）组织已成为真核生物基因调控的核心层级。在植物中，染色质结构既表现出保守特征，也展现出谱系特异性特点，反映了基因组组成、表观遗传景观和调控策略的差异。近期进化分析表明，植物倾向于采用一种染色体尺度的“全局折叠”策略，区别于动物中观察到的区室化结构，这引发了一个重要问题：在缺乏典型结构蛋白如CCCTC结合因子（CTCF）和强区室结构域的情况下，植物如何协调调控信息？在此，我们讨论了支持一种模型的证据，该模型认为植物三维基因组组织源于三个主要调控层之间的相互作用：由组蛋白修饰定义的染色质状态、转录因子介导的调控相互作用，以及黏连蛋白依赖的染色质挤压。我们进一步提出，这些机制在一种平衡结构稳定性与调控可塑性的全局折叠框架内运作。",
+      "date": "2026-10-27"
+    },
+    {
+      "id": "pubmed:42929871",
+      "title": "Genome-Wide Chromatin Structure Changes During Caste Differentiation in Honeybees.",
+      "subtitle": "",
+      "url": "/Daily-Paper-Agent-ZNF263/papers/pubmed/42929871/index.html",
+      "meta": [
+        "Zhang, Xinru; Lu, Hanbing; Qu, Xinying; Xin, Lingjun; Wang, Rongshen; Liang, Chongbo; Liu, Xiaopeng; Chen, Xiao",
+        "Cells",
+        "2026-10-26"
+      ],
+      "tags": [],
+      "summary": "该文研究蜜蜂级型分化中的全基因组染色质结构变化，涉及基因表达和甲基化调控，但未涉及cpcdh基因家族，仅可作为表观遗传调控机制的借鉴。",
+      "abstract": "Three-dimensional (3D) chromatin architecture is an important transcription regulator which is linked to gene expression regulation and correct developmental programs, yet little is known that the 3D chromatin architecture within honeybees and how it influences gene expression and methylation in caste differentiation. Here, we report that larvae at 96 h after hatching (L5) contain the highest number of known caste differentiation genes, and that constitutes the critical window determining the final phenotypic outcomes. We also show that DNA methylation pattern is conserved and gene body methylation is thought to contribute to phenotypic plasticity. Then, we determine the 3D organization of honey bee chromosomes at 5 kb resolution. Although almost 87% regions remained in the same compartments, TAD boundary insulation increased during larvae development, especially in worker larvae at 96 h after hatching (WL5). The insulator protein, CP190, CTCF-L and vtd/Rad21 appear to be indispensable in defining these topologically associating domain boundaries. Furthermore, Mrjp1, a member of the MRJP/yellow family, is also involved in regulating larval development. These results provide key insights into caste differentiation and establish a fundamental dataset for the future in-depth characterization of epigenetic features. 三维（3D）染色质结构是重要的转录调控因子，与基因表达调控和正确的发育程序相关，然而关于蜜蜂体内的3D染色质结构及其如何影响 caste differentiation 中的基因表达和甲基化，目前知之甚少。在此，我们报道，孵化后96小时（L5）的幼虫含有最多已知的 caste differentiation 基因，这构成了决定最终表型结果的关键窗口。我们还表明，DNA甲基化模式是保守的，且基因体甲基化被认为有助于表型可塑性。随后，我们以5 kb分辨率确定了蜜蜂染色体的3D组织。尽管几乎87%的区域保持在相同的 compartments 中，但TAD边界绝缘在幼虫发育过程中增加，尤其是在孵化后96小时的工蜂幼虫（WL5）中。绝缘体蛋白CP190、CTCF-L和vtd/Rad21似乎在定义这些拓扑关联结构域边界中不可或缺。此外，Mrjp1，MRJP/yellow家族的一员，也参与调控幼虫发育。这些结果为 caste differentiation 提供了关键见解，并为未来深入表征表观遗传特征建立了基础数据集。",
+      "date": "2026-10-26"
+    },
+    {
       "id": "pubmed:42924589",
       "title": "Integrative Transcriptomics and Machine Learning Identify Temporal Stress Signatures and Astrocytic Neurocan Associated With Hypothalamic Injury.",
       "subtitle": "",

@@ -1,0 +1,106 @@
+{
+  "identity": {
+    "pmid": "42944041",
+    "doi": "10.3390/v18101121",
+    "title": "How Does HTLV-1 Persist in the Host?"
+  },
+  "content": {
+    "abstract": "HTLV-1 resists clearance from its host by the strong HTLV-1-specific immune response and by drugs. The tactics and strategies by which it does so illustrate the exquisite adaptation to the host that HTLV-1 has made in its tens of thousands of years of stable co-existence with humans. This adaptation contrasts strongly with the biology of HIV-1, which has established widespread infection in humans for only around a century. The mode of persistence of HTLV-1 makes it less pathogenic than HIV-1, despite causing serious malignant and inflammatory diseases in a proportion of people with the virus, but at the same time makes HTLV-1 harder to treat and eradicate. In this article I outline the different means that HTLV-1 has evolved to persist in the host.",
+    "keywords": [
+      "CTCF",
+      "HTLV-1",
+      "clonality",
+      "retrovirus",
+      "virological synapse"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Human T-lymphotropic virus 1/physiology/genetics/pathogenicity/immunology",
+      "*HTLV-I Infections/virology/immunology",
+      "*Host-Pathogen Interactions",
+      "Animals",
+      "*Persistent Infection/virology"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bangham, Charles R M"
+      ],
+      "short_names": [
+        "Bangham CRM"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2624-3599"
+      ],
+      "affiliations": [
+        "Department of Infectious Disease, Faculty of Medicine, Imperial College London, London SW7 2AZ, UK."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bangham, Charles R M",
+        "short_name": "Bangham CRM",
+        "identifiers": [
+          "0000-0003-2624-3599"
+        ],
+        "affiliations": [
+          "Department of Infectious Disease, Faculty of Medicine, Imperial College London, London SW7 2AZ, UK."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Viruses"
+    ],
+    "journal_abbrev": [
+      "Viruses"
+    ],
+    "pub_date": "2026 Oct 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-02 07:43:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42944041"
+    ],
+    "review": [
+      "42944041"
+    ],
+    "pmc": [
+      "13709952"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=v18101121",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42944041/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

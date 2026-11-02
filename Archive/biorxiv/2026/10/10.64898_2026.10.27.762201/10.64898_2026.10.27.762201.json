@@ -1,0 +1,132 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.27.762201",
+  "title": "Engineered Tn5 Variants Enhance CUT&Tag Fidelity for Transcription Factors",
+  "doi": "10.64898/2026.10.27.762201",
+  "abstract": "The CUT&Tag method performs exceptionally well for profiling histone modifications, but mapping sequence-specific transcription factors (TFs) is complicated by intrinsic Tn5 activity at accessible DNA, and the high-salt washes used to suppress this activity can destabilize TF-chromatin interactions. We engineered the Tn5 DNA-binding channel to attenuate target-DNA engagement by replacing individual positively charged amino acids with neutral amino acids. We identified a “Goldilocks” variant (K160A) with intermediate attenuation that improved recovery of GATA2 motif-containing sites under low-salt CUT&Tag and KCl-based DynaTag conditions. A second variant (K249A) had improved performance for profiling CTCF over less accessible sites characterized by sharply focused short-fragment enrichment. By comparing the K160A and K249A variants, this TF-CUT&Tag assay provides a physical readout of the local chromatin environment at TF binding sites. Applying K160A TF-CUT&Tag to pluripotency-associated TFs in mouse embryonic stem cells increased recovery across their genomic binding landscapes while preserving factor-specific motif architectures. During skeletal muscle differentiation, TF-CUT&Tag improved recovery of MyoG and Pax7 occupancy relative to standard CUT&Tag, revealing strongly motif-enriched MyoG binding and a shift in Pax7 binding from CpG-rich promoters in progenitors toward Pax7 motif-enriched sites during differentiation. Together, these results show that TF-CUT&Tag captures distinct modes of TF– chromatin interaction, including motif-directed binding sites and more salt-sensitive sites that may depend on lower-affinity DNA recognition or protein–protein interactions and are difficult to predict from DNA sequence alone.",
+  "authors": [
+    "Piper L",
+    "Baird E",
+    "Ashbaugh HJ",
+    "Pentecost OA",
+    "Nowinski SM",
+    "Janssens DH"
+  ],
+  "published_date": "2026-10-28",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762201",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762201.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1352349",
+    "raw_record": {
+      "id": "PPR1352349",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.27.762201",
+      "title": "Engineered Tn5 Variants Enhance CUT&Tag Fidelity for Transcription Factors",
+      "authorString": "Piper L, Baird E, Ashbaugh HJ, Pentecost OA, Nowinski SM, Janssens DH.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Piper L",
+            "lastName": "Piper",
+            "firstName": "Lola",
+            "initials": "L"
+          },
+          {
+            "fullName": "Baird E",
+            "lastName": "Baird",
+            "firstName": "Emma",
+            "initials": "E"
+          },
+          {
+            "fullName": "Ashbaugh HJ",
+            "lastName": "Ashbaugh",
+            "firstName": "Harry",
+            "initials": "HJ"
+          },
+          {
+            "fullName": "Pentecost OA",
+            "lastName": "Pentecost",
+            "firstName": "Olivia",
+            "initials": "OA"
+          },
+          {
+            "fullName": "Nowinski SM",
+            "lastName": "Nowinski",
+            "firstName": "Sara",
+            "initials": "SM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4744-6101"
+            }
+          },
+          {
+            "fullName": "Janssens DH",
+            "lastName": "Janssens",
+            "firstName": "Derek",
+            "initials": "DH"
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4744-6101"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "The CUT&Tag method performs exceptionally well for profiling histone modifications, but mapping sequence-specific transcription factors (TFs) is complicated by intrinsic Tn5 activity at accessible DNA, and the high-salt washes used to suppress this activity can destabilize TF-chromatin interactions. We engineered the Tn5 DNA-binding channel to attenuate target-DNA engagement by replacing individual positively charged amino acids with neutral amino acids. We identified a “Goldilocks” variant (K160A) with intermediate attenuation that improved recovery of GATA2 motif-containing sites under low-salt CUT&Tag and KCl-based DynaTag conditions. A second variant (K249A) had improved performance for profiling CTCF over less accessible sites characterized by sharply focused short-fragment enrichment. By comparing the K160A and K249A variants, this TF-CUT&Tag assay provides a physical readout of the local chromatin environment at TF binding sites. Applying K160A TF-CUT&Tag to pluripotency-associated TFs in mouse embryonic stem cells increased recovery across their genomic binding landscapes while preserving factor-specific motif architectures. During skeletal muscle differentiation, TF-CUT&Tag improved recovery of MyoG and Pax7 occupancy relative to standard CUT&Tag, revealing strongly motif-enriched MyoG binding and a shift in Pax7 binding from CpG-rich promoters in progenitors toward Pax7 motif-enriched sites during differentiation. Together, these results show that TF-CUT&Tag captures distinct modes of TF– chromatin interaction, including motif-directed binding sites and more salt-sensitive sites that may depend on lower-affinity DNA recognition or protein–protein interactions and are difficult to predict from DNA sequence alone.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.27.762201"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-29",
+      "firstPublicationDate": "2026-10-28",
+      "firstIndexDate": "2026-10-29",
+      "hasEvaluations": "N"
+    }
+  }
+}

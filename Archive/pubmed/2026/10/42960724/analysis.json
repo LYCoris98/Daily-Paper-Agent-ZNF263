@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42960724",
+  "title": "CTCF contributes with alpha-satellite and satellite 2 expression in cancer cells: implications for centromeric chromatin organisation.",
+  "authors": "Del Castillo Falconi, Victor M; Soto-Reyes Solis, Ernesto; Castillo-Gonzalez, Michelle; Ochoa, Carlos; Silva Diaz, Violeta Guadalupe; Delgado-Arzate, Ana Laura; Herrera, Luis A; Diaz-Chavez, Jose; Gonzalez-Barrios, Rodrigo",
+  "journal": "Epigenomics",
+  "published_date": "2026-10-30",
+  "window": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "score": 4,
+  "one_liner_zh": "该文研究CTCF调控着丝粒/近着丝粒非编码RNA表达及染色质状态，与cpcdh基因家族无直接关联，但涉及着丝粒染色质调控机制，可作边缘参考。",
+  "abstract": "BACKGROUND: The centromeric and pericentromeric regions of chromosomes are essential for genome stability. Beyond their structural role, noncoding RNAs (ncRNAs) transcribed from these regions have been implicated in kinetochore assembly. In cancer, reduced centromeric heterochromatin and deregulated ncRNA expression have been associated with chromosome instability. RESEARCH DESIGN AND METHODS: Centromeric and pericentromeric ncRNA expression was compared between the non-transformed WI-38 cell line and the colorectal cancer cell line HCT116. CTCF and H3K9me3 occupancy were evaluated by chromatin immunoprecipitation. Cells were treated with Trichostatin A (TSA), and CTCF function was assessed by pharmacological inhibition and shRNA-mediated depletion. RESULTS: Cancer cells exhibited elevated ncRNA levels, accompanied by reduced H3K9me3 enrichment and differential CTCF occupancy. Functional inactivation or depletion of CTCF markedly decreased ncRNA transcription, supporting a role for CTCF in regulating centromeric and pericentromeric ncRNAs. CONCLUSIONS: These findings support an association between chromatin state, CTCF occupancy, and ncRNA transcription at centromeric regions, and provide insight into epigenetic patterns associated with genome stability in cancer cells. Our results further suggest that centromeric chromatin operates within constrained transcriptional states compatible with chromosome stability.",
+  "abstract_zh": "背景：染色体的着丝粒区和着丝粒周围区对基因组稳定性至关重要。除其结构作用外，从这些区域转录的非编码RNA（ncRNAs）已被认为参与动粒组装。在癌症中，着丝粒异染色质减少和ncRNA表达失调与染色体不稳定性相关。研究设计与方法：比较了非转化WI-38细胞系和结直肠癌细胞系HCT116之间着丝粒和着丝粒周围ncRNA的表达。通过染色质免疫沉淀评估了CTCF和H3K9me3的占据情况。细胞经曲古抑菌素A（TSA）处理，并通过药理学抑制和shRNA介导的耗竭评估CTCF功能。结果：癌细胞表现出升高的ncRNA水平，伴随H3K9me3富集减少和CTCF占据差异。CTCF的功能失活或耗竭显著降低了ncRNA转录，支持CTCF在调控着丝粒和着丝粒周围ncRNA中的作用。结论：这些发现支持着丝粒区域染色质状态、CTCF占据和ncRNA转录之间的关联，并为癌细胞中与基因组稳定性相关的表观遗传模式提供了见解。我们的结果进一步表明，着丝粒染色质在受限的转录状态下运作，该状态与染色体稳定性相容。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42960724/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42960724/",
+  "paper_page_path": "papers/pubmed/42960724/index.html"
+}

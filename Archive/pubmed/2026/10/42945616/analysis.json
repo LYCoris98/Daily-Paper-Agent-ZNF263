@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42945616",
+  "title": "Layered regulation of plant 3D chromatin architecture by histone marks, transcription factors and cohesin‑mediated loops.",
+  "authors": "Su, Zezhao; Wang, Zhidan; Latrasse, David; Liu, Chang; Benhamed, Moussa",
+  "journal": "Current opinion in plant biology",
+  "published_date": "2026-10-27",
+  "window": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "score": 5,
+  "one_liner_zh": "该文综述植物3D染色质结构的分层调控机制，虽未直接涉及cpcdh基因家族，但其对组蛋白修饰、转录因子和cohesin介导环的讨论可为研究cpcdh家族在染色质调控中的潜在作用提供借鉴。",
+  "abstract": "The three-dimensional (3D) organization of the genome has emerged as a central layer of gene regulation in eukaryotes. In plants, chromatin architecture displays both conserved features and lineage-specific characteristics, reflecting differences in genome composition, epigenetic landscapes and regulatory strategies. Recent evolutionary analyses suggest that plants preferentially adopt a chromosome-scale \"global folding\" strategy distinct from the compartmentalized architecture observed in animals, which raises an important question: how is regulatory information coordinated in plants in the absence of canonical architectural proteins such as CCCTC-binding factor (CTCF) and strong compartmental domains? Here, we discuss evidence supporting a model in which plant 3D genome organization arises from the interplay between three major regulatory layers: chromatin states defined by histone modifications, transcription factor-mediated regulatory interactions, and cohesin-dependent chromatin extrusion. We further propose that these mechanisms operate within a global folding framework that balances structural stability with regulatory plasticity.",
+  "abstract_zh": "基因组的三维（3D）组织已成为真核生物基因调控的核心层级。在植物中，染色质结构既表现出保守特征，也展现出谱系特异性特点，反映了基因组组成、表观遗传景观和调控策略的差异。近期进化分析表明，植物倾向于采用一种染色体尺度的“全局折叠”策略，区别于动物中观察到的区室化结构，这引发了一个重要问题：在缺乏典型结构蛋白如CCCTC结合因子（CTCF）和强区室结构域的情况下，植物如何协调调控信息？在此，我们讨论了支持一种模型的证据，该模型认为植物三维基因组组织源于三个主要调控层之间的相互作用：由组蛋白修饰定义的染色质状态、转录因子介导的调控相互作用，以及黏连蛋白依赖的染色质挤压。我们进一步提出，这些机制在一种平衡结构稳定性与调控可塑性的全局折叠框架内运作。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42945616/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42945616/",
+  "paper_page_path": "papers/pubmed/42945616/index.html"
+}

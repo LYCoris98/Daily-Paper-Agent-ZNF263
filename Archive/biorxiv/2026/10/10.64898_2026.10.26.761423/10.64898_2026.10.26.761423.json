@@ -1,0 +1,275 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.26.761423",
+  "title": "Histone modifications define distinct nucleosome positions in cell-free DNA",
+  "doi": "10.64898/2026.10.26.761423",
+  "abstract": "<h4>ABSTRACT</h4> Circulating cell-free DNA (cfDNA) fragmentation patterns reflect nucleosome positioning. We asked whether variation in nucleosome positions in cfDNA can reveal chromatin states and associated histone modifications. Using cell-free chromatin immunoprecipitation sequencing (cfChIP-seq) in plasma from patients with prostate cancer, we identified 35,120 modification-associated positions (MAPs), loci where nucleosomes bearing active (H3K4me2) and repressive (H3K9me3) histone marks occupy reproducibly offset positions. These offsets recurred across histone marks, an independent cfChIP-seq cohort, and nuclease-digested chromatin from cell lines. MAPs were enriched in transcribed genes but depleted near transcription start sites and CTCF-binding sites where nucleosome positioning is constrained. Across 2,535 cfDNA sequencing datasets, nucleosome protection at a subset of MAPs correlated with tumor fraction (TF), reflecting differences in histone modification status between cancer-derived and non-malignant chromatin. In targeted sequencing panels, a 50-MAP model using fragments from < 0.001% of the genome distinguished samples with tumor fractions ≥3% vs 0% (AUCs = 0.91-0.96 across prostate, breast, and lung cancers) and outperformed a state-of-the-art fragmentomics-based tumor fraction predictor. MAP-derived estimates correlated with reference TFs ( r = 0.89) and longitudinal changes in TF ( r = 0.91). MAP protection at ASCL1 binding sites identified neuroendocrine transformation of prostate cancer from cfDNA. These findings establish histone-modification-associated nucleosome positioning as a mutation-independent readout of tumor fraction and cancer state from routine cfDNA sequencing.",
+  "authors": [
+    "Ou Y",
+    "Gulati GS",
+    "Tyndall CF",
+    "Pandey M",
+    "Seo J",
+    "Zhang Z",
+    "Jin Z",
+    "Lee GG",
+    "Nawfal R",
+    "Hoggood TA",
+    "Shahbazi SD",
+    "Ludwig J",
+    "Zhang Z",
+    "Ibrahim E",
+    "Nafeh G",
+    "Berchuck JE",
+    "Sowalsky AG",
+    "Karzai F",
+    "Freedman ML",
+    "Takeda DY",
+    "Baca SC"
+  ],
+  "published_date": "2026-10-28",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761423",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761423.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1352309",
+    "raw_record": {
+      "id": "PPR1352309",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.26.761423",
+      "title": "Histone modifications define distinct nucleosome positions in cell-free DNA",
+      "authorString": "Ou Y, Gulati GS, Tyndall CF, Pandey M, Seo J, Zhang Z, Jin Z, Lee GG, Nawfal R, Hoggood TA, Shahbazi SD, Ludwig J, Zhang Z, Ibrahim E, Nafeh G, Berchuck JE, Sowalsky AG, Karzai F, Freedman ML, Takeda DY, Baca SC.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Ou Y",
+            "lastName": "Ou",
+            "firstName": "Yukun",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Gulati GS",
+            "lastName": "Gulati",
+            "firstName": "Gunsagar",
+            "initials": "GS"
+          },
+          {
+            "fullName": "Tyndall CF",
+            "lastName": "Tyndall",
+            "firstName": "Caroline",
+            "initials": "CF"
+          },
+          {
+            "fullName": "Pandey M",
+            "lastName": "Pandey",
+            "firstName": "Medha",
+            "initials": "M"
+          },
+          {
+            "fullName": "Seo J",
+            "lastName": "Seo",
+            "firstName": "Ji-Heui",
+            "initials": "J"
+          },
+          {
+            "fullName": "Zhang Z",
+            "lastName": "Zhang",
+            "firstName": "Ze",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Jin Z",
+            "lastName": "Jin",
+            "firstName": "Zhenjie",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Lee GG",
+            "lastName": "Lee",
+            "firstName": "Garyoung Gary",
+            "initials": "GG"
+          },
+          {
+            "fullName": "Nawfal R",
+            "lastName": "Nawfal",
+            "firstName": "Rashad",
+            "initials": "R"
+          },
+          {
+            "fullName": "Hoggood TA",
+            "lastName": "Hoggood",
+            "firstName": "Taylor",
+            "initials": "TA"
+          },
+          {
+            "fullName": "Shahbazi SD",
+            "lastName": "Shahbazi",
+            "firstName": "Sadia",
+            "initials": "SD"
+          },
+          {
+            "fullName": "Ludwig J",
+            "lastName": "Ludwig",
+            "firstName": "John",
+            "initials": "J"
+          },
+          {
+            "fullName": "Zhang Z",
+            "lastName": "Zhang",
+            "firstName": "Ziwei",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Ibrahim E",
+            "lastName": "Ibrahim",
+            "firstName": "Elio",
+            "initials": "E"
+          },
+          {
+            "fullName": "Nafeh G",
+            "lastName": "Nafeh",
+            "firstName": "Gaelle",
+            "initials": "G"
+          },
+          {
+            "fullName": "Berchuck JE",
+            "lastName": "Berchuck",
+            "firstName": "Jacob",
+            "initials": "JE"
+          },
+          {
+            "fullName": "Sowalsky AG",
+            "lastName": "Sowalsky",
+            "firstName": "Adam",
+            "initials": "AG"
+          },
+          {
+            "fullName": "Karzai F",
+            "lastName": "Karzai",
+            "firstName": "Fatima",
+            "initials": "F"
+          },
+          {
+            "fullName": "Freedman ML",
+            "lastName": "Freedman",
+            "firstName": "Matthew",
+            "initials": "ML"
+          },
+          {
+            "fullName": "Takeda DY",
+            "lastName": "Takeda",
+            "firstName": "David",
+            "initials": "DY"
+          },
+          {
+            "fullName": "Baca SC",
+            "lastName": "Baca",
+            "firstName": "Sylvan",
+            "initials": "SC"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>ABSTRACT</h4>  Circulating cell-free DNA (cfDNA) fragmentation patterns reflect nucleosome positioning. We asked whether variation in nucleosome positions in cfDNA can reveal chromatin states and associated histone modifications. Using cell-free chromatin immunoprecipitation sequencing (cfChIP-seq) in plasma from patients with prostate cancer, we identified 35,120 modification-associated positions (MAPs), loci where nucleosomes bearing active (H3K4me2) and repressive (H3K9me3) histone marks occupy reproducibly offset positions. These offsets recurred across histone marks, an independent cfChIP-seq cohort, and nuclease-digested chromatin from cell lines. MAPs were enriched in transcribed genes but depleted near transcription start sites and CTCF-binding sites where nucleosome positioning is constrained. Across 2,535 cfDNA sequencing datasets, nucleosome protection at a subset of MAPs correlated with tumor fraction (TF), reflecting differences in histone modification status between cancer-derived and non-malignant chromatin. In targeted sequencing panels, a 50-MAP model using fragments from < 0.001% of the genome distinguished samples with tumor fractions ≥3% vs 0% (AUCs = 0.91-0.96 across prostate, breast, and lung cancers) and outperformed a state-of-the-art fragmentomics-based tumor fraction predictor. MAP-derived estimates correlated with reference TFs (  r = 0.89) and longitudinal changes in TF (  r = 0.91). MAP protection at ASCL1 binding sites identified neuroendocrine transformation of prostate cancer from cfDNA. These findings establish histone-modification-associated nucleosome positioning as a mutation-independent readout of tumor fraction and cancer state from routine cfDNA sequencing.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Fund for Innovation in Cancer Informatics",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Institutes of Health",
+            "grantId": "1U01CA296432-01",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Cancer Institute",
+            "grantId": "ZIABC011965",
+            "orderIn": 0
+          },
+          {
+            "agency": "United States Department of Defense",
+            "grantId": "W81XWH-21-1-0358",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Cancer Institute",
+            "grantId": "ZIABC011838",
+            "orderIn": 0
+          },
+          {
+            "agency": "Damon Runyon Cancer Research Foundation",
+            "orderIn": 0
+          },
+          {
+            "agency": "Lubin Family Foundation",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Cancer Institute",
+            "grantId": "ZIABC011680",
+            "orderIn": 0
+          },
+          {
+            "agency": "National Cancer Institute",
+            "grantId": "T32CA009172",
+            "orderIn": 0
+          },
+          {
+            "agency": "Prostate Cancer Research Foundation",
+            "orderIn": 0
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.26.761423"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by-nc-nd",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-29",
+      "firstPublicationDate": "2026-10-28",
+      "firstIndexDate": "2026-10-29",
+      "hasEvaluations": "N"
+    }
+  }
+}

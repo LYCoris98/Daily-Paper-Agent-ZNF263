@@ -1,0 +1,124 @@
+{
+  "identity": {
+    "pmid": "42945616",
+    "doi": "10.1016/j.pbi.2026.102990",
+    "title": "Layered regulation of plant 3D chromatin architecture by histone marks, transcription factors and cohesin‑mediated loops."
+  },
+  "content": {
+    "abstract": "The three-dimensional (3D) organization of the genome has emerged as a central layer of gene regulation in eukaryotes. In plants, chromatin architecture displays both conserved features and lineage-specific characteristics, reflecting differences in genome composition, epigenetic landscapes and regulatory strategies. Recent evolutionary analyses suggest that plants preferentially adopt a chromosome-scale \"global folding\" strategy distinct from the compartmentalized architecture observed in animals, which raises an important question: how is regulatory information coordinated in plants in the absence of canonical architectural proteins such as CCCTC-binding factor (CTCF) and strong compartmental domains? Here, we discuss evidence supporting a model in which plant 3D genome organization arises from the interplay between three major regulatory layers: chromatin states defined by histone modifications, transcription factor-mediated regulatory interactions, and cohesin-dependent chromatin extrusion. We further propose that these mechanisms operate within a global folding framework that balances structural stability with regulatory plasticity.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Su, Zezhao",
+        "Wang, Zhidan",
+        "Latrasse, David",
+        "Liu, Chang",
+        "Benhamed, Moussa"
+      ],
+      "short_names": [
+        "Su Z",
+        "Wang Z",
+        "Latrasse D",
+        "Liu C",
+        "Benhamed M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Universite Paris-Saclay, CNRS, INRAE, Univ Evry, Institute of Plant Sciences Paris-Saclay (IPS2), Orsay, 91405, France.",
+        "Department of Epigenetics, Institute of Biology, University of Hohenheim, Garbenstrasse 30, Stuttgart, Germany.",
+        "Universite Paris-Saclay, CNRS, INRAE, Univ Evry, Institute of Plant Sciences Paris-Saclay (IPS2), Orsay, 91405, France.",
+        "Department of Epigenetics, Institute of Biology, University of Hohenheim, Garbenstrasse 30, Stuttgart, Germany; Cluster of Excellence GreenRobust, University of Hohenheim, 70599, Stuttgart, Germany. Electronic address: chang.liu@uni-hohenheim.de.",
+        "Universite Paris-Saclay, CNRS, INRAE, Univ Evry, Institute of Plant Sciences Paris-Saclay (IPS2), Orsay, 91405, France; Universite de Paris Cite, Institute of Plant Sciences Paris-Saclay (IPS2), F-91190, Gif-sur-Yvette, France; Institut Universitaire de France (IUF), Orsay, 91405, France. Electronic address: moussa.benhamed@universite-paris-saclay.fr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Su, Zezhao",
+        "short_name": "Su Z",
+        "identifiers": [],
+        "affiliations": [
+          "Université Paris-Saclay, CNRS, INRAE, Univ Evry, Institute of Plant Sciences Paris-Saclay (IPS2), Orsay, 91405, France."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhidan",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Epigenetics, Institute of Biology, University of Hohenheim, Garbenstrasse 30, Stuttgart, Germany."
+        ]
+      },
+      {
+        "full_name": "Latrasse, David",
+        "short_name": "Latrasse D",
+        "identifiers": [],
+        "affiliations": [
+          "Université Paris-Saclay, CNRS, INRAE, Univ Evry, Institute of Plant Sciences Paris-Saclay (IPS2), Orsay, 91405, France."
+        ]
+      },
+      {
+        "full_name": "Liu, Chang",
+        "short_name": "Liu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Epigenetics, Institute of Biology, University of Hohenheim, Garbenstrasse 30, Stuttgart, Germany; Cluster of Excellence GreenRobust, University of Hohenheim, 70599, Stuttgart, Germany. Electronic address: chang.liu@uni-hohenheim.de."
+        ]
+      },
+      {
+        "full_name": "Benhamed, Moussa",
+        "short_name": "Benhamed M",
+        "identifiers": [],
+        "affiliations": [
+          "Université Paris-Saclay, CNRS, INRAE, Univ Evry, Institute of Plant Sciences Paris-Saclay (IPS2), Orsay, 91405, France; Université de Paris Cité, Institute of Plant Sciences Paris-Saclay (IPS2), F-91190, Gif-sur-Yvette, France; Institut Universitaire de France (IUF), Orsay, 91405, France. Electronic address: moussa.benhamed@universite-paris-saclay.fr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current opinion in plant biology"
+    ],
+    "journal_abbrev": [
+      "Curr Opin Plant Biol"
+    ],
+    "pub_date": "2026 Oct 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 23:28",
+    "fetched_at": "2026-11-02 07:43:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42945616"
+    ],
+    "review": [
+      "42945616"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1369-5266(26)00133-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

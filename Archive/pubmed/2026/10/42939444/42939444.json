@@ -1,0 +1,155 @@
+{
+  "identity": {
+    "pmid": "42939444",
+    "doi": "10.3390/biology15201843",
+    "title": "DNA-Encoded Binding Affinity Shapes Robust CTCF Occupancy Across Cellular Contexts."
+  },
+  "content": {
+    "abstract": "CCCTC-binding factor (CTCF) is an architectural protein that organizes 3D genome architecture by binding to tens of thousands of genomic loci in a typical human cell type. Although DNA-binding affinity contributes to CTCF occupancy in vivo, the principles distinguishing robust from context-dependent occupancy remain incompletely understood. Here, we integrated quantitative measurements of CTCF-DNA binding affinity with genome-wide occupancy profiles. Using synthetic tandem arrays of CTCF sites with defined affinity levels, we experimentally tested whether DNA-encoded affinity establishes a predictable hierarchy of CTCF occupancy in vivo. We identified two CTCF-DNA binding affinity thresholds defining three distinct CTCF occupancy regimes. High-affinity sites were more frequently and consistently occupied across diverse cellular contexts and chromatin environments, whereas intermediate- and low-affinity sites showed greater context dependence. Synthetic arrays further revealed a reproducible occupancy hierarchy that was maintained across different motif arrangements. High-affinity sites were preferentially associated with strong chromatin loops and TAD boundaries, and flanking CTCF motifs that contribute to binding affinity were enriched at strong loop anchors. Together, these findings establish a quantitative framework in which CTCF-DNA binding affinity links sequence-encoded binding properties to the robustness and context dependence of CTCF occupancy and to features of CTCF-mediated 3D genome organization.",
+    "keywords": [
+      "A/B compartments",
+      "CTCF",
+      "DNA-encoded affinity",
+      "TADs",
+      "cell-type specificity",
+      "chromatin loops",
+      "chromatin occupancy",
+      "genome organization"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yin, Zihang",
+        "Wang, Yefan",
+        "Zhang, Zhiyu",
+        "Wang, Wuming",
+        "Guo, Ya"
+      ],
+      "short_names": [
+        "Yin Z",
+        "Wang Y",
+        "Zhang Z",
+        "Wang W",
+        "Guo Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0945-1997",
+        "ORCID: 0000-0001-5350-266X"
+      ],
+      "affiliations": [
+        "Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Joint International Research Laboratory of Metabolic and Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Pudong New Area People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 201299, China.",
+        "Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Joint International Research Laboratory of Metabolic and Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Pudong New Area People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 201299, China.",
+        "Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Joint International Research Laboratory of Metabolic and Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Pudong New Area People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 201299, China.",
+        "School of Biomedical Sciences, Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong, China.",
+        "Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Joint International Research Laboratory of Metabolic and Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+        "Shanghai Pudong New Area People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 201299, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yin, Zihang",
+        "short_name": "Yin Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Joint International Research Laboratory of Metabolic and Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+          "Shanghai Pudong New Area People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 201299, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yefan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Joint International Research Laboratory of Metabolic and Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+          "Shanghai Pudong New Area People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 201299, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhiyu",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Joint International Research Laboratory of Metabolic and Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+          "Shanghai Pudong New Area People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 201299, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wuming",
+        "short_name": "Wang W",
+        "identifiers": [
+          "0000-0002-0945-1997"
+        ],
+        "affiliations": [
+          "School of Biomedical Sciences, Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Ya",
+        "short_name": "Guo Y",
+        "identifiers": [
+          "0000-0001-5350-266X"
+        ],
+        "affiliations": [
+          "Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Joint International Research Laboratory of Metabolic and Developmental Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China.",
+          "Shanghai Pudong New Area People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 201299, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biology"
+    ],
+    "journal_abbrev": [
+      "Biology (Basel)"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/27 11:32",
+    "fetched_at": "2026-11-02 07:43:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42939444"
+    ],
+    "review": [
+      "42939444"
+    ],
+    "pmc": [
+      "13701538"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=biology15201843",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42939444/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

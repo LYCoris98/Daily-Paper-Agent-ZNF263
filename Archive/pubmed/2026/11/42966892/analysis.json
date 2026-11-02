@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42966892",
+  "title": "NDFIP2 Suppresses Colorectal Cancer Metastasis Through DDX3X-Dependent R-Loop Remodeling and GNG13 Transcriptional Activation.",
+  "authors": "Zhang, Enjian; Li, Yanfang; Shu, Jiaxin; Xu, Shang; Lv, Heng; Zhang, Chong; Zhang, Pengbo; Wu, Nai; Gong, Shuai; Zhang, Xiuzhong; Ren, Zeqiang; Zhang, Yi; Liu, Xin",
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "published_date": "2026-11-01",
+  "window": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "score": 0,
+  "one_liner_zh": "该文研究NDFIP2在结直肠癌转移中的作用机制，与cpcdh基因家族无关。",
+  "abstract": "Distant metastasis remains the leading cause of colorectal cancer (CRC) mortality, yet the underlying molecular mechanisms remain incompletely defined. Integrating RNA sequencing (RNA-seq) profiling and clinical validation, we identified NDFIP2 as significantly downregulated in metastatic CRC. Functionally, NDFIP2 loss drove epithelial-mesenchymal transition (EMT), stemness, and metastasis via PI3K/AKT hyperactivation. Mechanistically, NDFIP2 serves as an adaptor recruiting the E3 ligase NEDD4 to induce K48-linked polyubiquitination and proteasomal degradation of DDX3X. Unrestrained DDX3X resolves R-loops at the GNG13 promoter and recruits the transcription factor CTCF, synergistically enhancing GNG13 transcription to amplify PI3K/AKT signaling. Targeting this vulnerability, we engineered a cell-permeable NDFIP2-derived iRGD-conjugated peptide (ND-iRGD). In vivo administration of this construct suppressed DDX3X/GNG13/PI3K/AKT signaling, thereby attenuating distant metastasis and prolonging murine survival. Collectively, NDFIP2 acts as a critical metastasis suppressor via the DDX3X/R-loop/GNG13 axis, presenting the ND-iRGD peptide as a promising translatable therapeutic strategy for metastatic CRC.",
+  "abstract_zh": "远处转移仍是结直肠癌（colorectal cancer, CRC）死亡的主要原因，但其潜在的分子机制仍未完全阐明。通过整合RNA测序（RNA-seq）图谱分析和临床验证，我们发现NDFIP2在转移性CRC中显著下调。在功能上，NDFIP2缺失通过PI3K/AKT过度激活驱动上皮-间质转化（epithelial-mesenchymal transition, EMT）、干性和转移。在机制上，NDFIP2作为衔接蛋白招募E3连接酶NEDD4，诱导DDX3X的K48连接多泛素化和蛋白酶体降解。失控的DDX3X在GNG13启动子处解析R-loop并招募转录因子CTCF，协同增强GNG13转录以放大PI3K/AKT信号传导。针对这一脆弱性，我们设计了一种细胞可渗透的NDFIP2衍生iRGD偶联肽（ND-iRGD）。在体内给予该构建体可抑制DDX3X/GNG13/PI3K/AKT信号传导，从而减弱远处转移并延长小鼠生存期。总之，NDFIP2通过DDX3X/R-loop/GNG13轴作为关键的转移抑制因子，将ND-iRGD肽呈现为一种有前景的可转化治疗策略用于转移性CRC。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42966892/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42966892/",
+  "paper_page_path": "papers/pubmed/42966892/index.html"
+}

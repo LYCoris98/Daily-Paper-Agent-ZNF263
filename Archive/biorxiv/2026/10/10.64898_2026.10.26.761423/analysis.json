@@ -1,0 +1,24 @@
+{
+  "source": "biorxiv",
+  "id": "10.64898/2026.10.26.761423",
+  "title": "Histone modifications define distinct nucleosome positions in cell-free DNA",
+  "authors": "Ou Y; Gulati GS; Tyndall CF; Pandey M; Seo J; Zhang Z; Jin Z; Lee GG; Nawfal R; Hoggood TA; Shahbazi SD; Ludwig J; Zhang Z; Ibrahim E; Nafeh G; Berchuck JE; Sowalsky AG; Karzai F; Freedman ML; Takeda DY; Baca SC",
+  "journal": "bioRxiv",
+  "published_date": "2026-10-28",
+  "window": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "score": 6,
+  "one_liner_zh": "该文利用cfDNA核小体定位揭示组蛋白修饰状态，虽未直接研究cpcdh基因家族，但其方法学（cfChIP-seq和MAP分析）可借鉴用于cpcdh基因家族的表观遗传调控研究。",
+  "abstract": "<h4>ABSTRACT</h4> Circulating cell-free DNA (cfDNA) fragmentation patterns reflect nucleosome positioning. We asked whether variation in nucleosome positions in cfDNA can reveal chromatin states and associated histone modifications. Using cell-free chromatin immunoprecipitation sequencing (cfChIP-seq) in plasma from patients with prostate cancer, we identified 35,120 modification-associated positions (MAPs), loci where nucleosomes bearing active (H3K4me2) and repressive (H3K9me3) histone marks occupy reproducibly offset positions. These offsets recurred across histone marks, an independent cfChIP-seq cohort, and nuclease-digested chromatin from cell lines. MAPs were enriched in transcribed genes but depleted near transcription start sites and CTCF-binding sites where nucleosome positioning is constrained. Across 2,535 cfDNA sequencing datasets, nucleosome protection at a subset of MAPs correlated with tumor fraction (TF), reflecting differences in histone modification status between cancer-derived and non-malignant chromatin. In targeted sequencing panels, a 50-MAP model using fragments from < 0.001% of the genome distinguished samples with tumor fractions ≥3% vs 0% (AUCs = 0.91-0.96 across prostate, breast, and lung cancers) and outperformed a state-of-the-art fragmentomics-based tumor fraction predictor. MAP-derived estimates correlated with reference TFs ( r = 0.89) and longitudinal changes in TF ( r = 0.91). MAP protection at ASCL1 binding sites identified neuroendocrine transformation of prostate cancer from cfDNA. These findings establish histone-modification-associated nucleosome positioning as a mutation-independent readout of tumor fraction and cancer state from routine cfDNA sequencing.",
+  "abstract_zh": "<h4>摘要</h4> 循环游离DNA（cfDNA）的片段化模式反映了核小体定位。我们探究了cfDNA中核小体位置的变异是否能揭示染色质状态及相关的组蛋白修饰。通过对前列腺癌患者血浆中的游离染色质免疫沉淀测序（cfChIP-seq），我们识别出35,120个修饰相关位置（MAPs），这些位点上携带活性（H3K4me2）和抑制性（H3K9me3）组蛋白标记的核小体占据可重复的偏移位置。这些偏移在组蛋白标记、独立的cfChIP-seq队列以及细胞系中核酸酶消化的染色质中反复出现。MAPs在转录基因中富集，但在转录起始位点和CTCF结合位点附近减少，这些区域的核小体定位受到约束。在2,535个cfDNA测序数据集中，MAPs子集的核小体保护与肿瘤分数（TF）相关，反映了癌症来源与非恶性染色质之间组蛋白修饰状态的差异。在靶向测序面板中，一个使用基因组<0.001%片段的50-MAP模型区分了肿瘤分数≥3%与0%的样本（前列腺癌、乳腺癌和肺癌的AUCs = 0.91-0.96），并优于基于片段组学的先进肿瘤分数预测器。MAP衍生的估计值与参考TF（r = 0.89）及TF的纵向变化（r = 0.91）相关。ASCL1结合位点的MAP保护识别了前列腺癌从cfDNA的神经内分泌转化。这些发现确立了组蛋白修饰相关核小体定位作为从常规cfDNA测序中获取的肿瘤分数和癌症状态的突变独立读数。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761423",
+  "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761423",
+  "paper_page_path": "papers/biorxiv/10.64898_2026.10.26.761423/index.html"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42944041",
+  "title": "How Does HTLV-1 Persist in the Host?",
+  "authors": "Bangham, Charles R M",
+  "journal": "Viruses",
+  "published_date": "2026-10-27",
+  "window": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "score": 0,
+  "one_liner_zh": "该文探讨HTLV-1病毒在宿主中的持续存在机制，与cpcdh基因家族课题无关。",
+  "abstract": "HTLV-1 resists clearance from its host by the strong HTLV-1-specific immune response and by drugs. The tactics and strategies by which it does so illustrate the exquisite adaptation to the host that HTLV-1 has made in its tens of thousands of years of stable co-existence with humans. This adaptation contrasts strongly with the biology of HIV-1, which has established widespread infection in humans for only around a century. The mode of persistence of HTLV-1 makes it less pathogenic than HIV-1, despite causing serious malignant and inflammatory diseases in a proportion of people with the virus, but at the same time makes HTLV-1 harder to treat and eradicate. In this article I outline the different means that HTLV-1 has evolved to persist in the host.",
+  "abstract_zh": "HTLV-1通过强烈的HTLV-1特异性免疫应答和药物作用抵抗从宿主中的清除。其采取的策略和手段展示了HTLV-1在与人类数万年稳定共存过程中对宿主的精妙适应。这种适应与HIV-1的生物学特性形成鲜明对比，后者仅在大约一个世纪内就在人类中建立了广泛感染。HTLV-1的持续存在方式使其致病性低于HIV-1，尽管它在一部分感染者中会引发严重的恶性及炎症性疾病，但同时也使HTLV-1更难治疗和根除。在本文中，我概述了HTLV-1进化出的在宿主中持续存在的不同机制。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42944041/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42944041/",
+  "paper_page_path": "papers/pubmed/42944041/index.html"
+}

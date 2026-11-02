@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42951962",
+  "title": "SWI/SNF complexes shape 3D chromatin architecture through CTCF and cohesin.",
+  "authors": "Debek, Sonia; Meydan, Cem; Chin, Christopher R; Yu, Jiali; Durmaz, Ceyda; Tsialta, Ioanna; Pelzer, Benedikt; Maurer, Constance; Ou, Arnold; Laguillo-Diego, Alejandra; Scourzic, Laurianne; Tumuluru, Sravya; Teater, Matt; Wu, Rui; Darsow, Brian; Rivas, Martin A; Marin-Rubio, Jose Luis; Stadtfeld, Matthias; Apostolou, Effie; Mason, Christopher E; Elenitoba-Johnson, Kojo S J; Risca, Viviana I; Melnick, Ari; Barisic, Darko",
+  "journal": "Nature",
+  "published_date": "2026-10-29",
+  "window": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "score": 2,
+  "one_liner_zh": "该文研究SWI/SNF复合物通过CTCF和cohesin调控3D染色质结构，与cpcdh基因家族无直接关联，但涉及染色质调控机制可作背景参考。",
+  "abstract": "The BAF (also known as mammalian SWI/SNF) chromatin remodelling complexes are essential regulators of nucleosome positioning and transcription factor binding(1,2). Loss-of-function (LOF) mutations in genes encoding components of the BAF complexes are among the most frequent across cancer types(3). However, a unifying mechanism that explains their widespread disruption remains unclear. Here we disrupted BAF function through pharmacological inhibition and ARID1A deletion across various mammalian cell types and tissues and observed a conserved chromatin response: increased accessibility at CTCF-binding sites. ARID1A LOF alone was sufficient to drive these changes, which demonstrates that canonical BAF (cBAF) disruption is the key driver of CTCF gain. Genomic profiling showed increased CTCF and SMC3 occupancy, which reveals an antagonistic relationship between cBAF and CTCF-cohesin complexes. Furthermore, cBAF loss restructured 3D genome organization, which led to a strengthening of topologically associating domain boundaries and subdivision of large domains into smaller insulated structures. Long-range enhancer-promoter loops were replaced by shorter, promoter-proximal loops anchored at CTCF-enriched sites. To determine how CTCF function is enabled following cBAF loss, we profiled CTCF-interacting cofactors and found that CTCF binds directly to fully assembled PBAF. After cBAF depletion, PBAF was recruited to sites of increased CTCF occupancy, which demonstrates that there is an antagonistic switch between SWI/SNF subcomplexes. In vivo, conditional Arid1a deletion in primary mouse cells resulted in the expansion of a highly proliferative population marked by elevated accessibility at CTCF sites. This phenotype was fully reversed by either Ctcf or Pbrm1 deletion, which establishes that cBAF and the activity of CTCF and PBAF have contrasting roles.",
+  "abstract_zh": "BAF（也称为哺乳动物SWI/SNF）染色质重塑复合物是核小体定位和转录因子结合的关键调控因子(1,2)。编码BAF复合物组分的基因中的功能缺失（LOF）突变在多种癌症类型中最为常见(3)。然而，解释其广泛破坏的统一机制仍不清楚。在此，我们通过药理学抑制和ARID1A缺失在多种哺乳动物细胞类型和组织中破坏BAF功能，并观察到一种保守的染色质响应：CTCF结合位点的可及性增加。仅ARID1A LOF就足以驱动这些变化，这表明经典BAF（cBAF）的破坏是CTCF增益的关键驱动因素。基因组分析显示CTCF和SMC3占有率增加，揭示了cBAF与CTCF-cohesin复合物之间的拮抗关系。此外，cBAF缺失重构了3D基因组组织，导致拓扑关联结构域边界增强，并将大结构域细分为更小的绝缘结构。长程增强子-启动子环被较短的、启动子近端且锚定于CTCF富集位点的环所取代。为确定cBAF缺失后CTCF功能如何被启用，我们分析了CTCF相互作用辅因子，发现CTCF直接结合于完全组装的PBAF。在cBAF耗竭后，PBAF被招募至CTCF占有率增加的位点，这表明SWI/SNF亚复合物之间存在拮抗性转换。在体内，原代小鼠细胞中的条件性Arid1a缺失导致以CTCF位点可及性升高为特征的高度增殖群体的扩增。该表型可通过Ctcf或Pbrm1缺失完全逆转，这确立了cBAF与CTCF及PBAF活性具有相反作用。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951962/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42951962/",
+  "paper_page_path": "papers/pubmed/42951962/index.html"
+}

@@ -1,0 +1,189 @@
+{
+  "identity": {
+    "pmid": "42960724",
+    "doi": "10.1080/17501911.2026.2751852",
+    "title": "CTCF contributes with alpha-satellite and satellite 2 expression in cancer cells: implications for centromeric chromatin organisation."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The centromeric and pericentromeric regions of chromosomes are essential for genome stability. Beyond their structural role, noncoding RNAs (ncRNAs) transcribed from these regions have been implicated in kinetochore assembly. In cancer, reduced centromeric heterochromatin and deregulated ncRNA expression have been associated with chromosome instability. RESEARCH DESIGN AND METHODS: Centromeric and pericentromeric ncRNA expression was compared between the non-transformed WI-38 cell line and the colorectal cancer cell line HCT116. CTCF and H3K9me3 occupancy were evaluated by chromatin immunoprecipitation. Cells were treated with Trichostatin A (TSA), and CTCF function was assessed by pharmacological inhibition and shRNA-mediated depletion. RESULTS: Cancer cells exhibited elevated ncRNA levels, accompanied by reduced H3K9me3 enrichment and differential CTCF occupancy. Functional inactivation or depletion of CTCF markedly decreased ncRNA transcription, supporting a role for CTCF in regulating centromeric and pericentromeric ncRNAs. CONCLUSIONS: These findings support an association between chromatin state, CTCF occupancy, and ncRNA transcription at centromeric regions, and provide insight into epigenetic patterns associated with genome stability in cancer cells. Our results further suggest that centromeric chromatin operates within constrained transcriptional states compatible with chromosome stability.",
+    "keywords": [
+      "CTCF",
+      "H3K9me3",
+      "TSA",
+      "centromere",
+      "ncRNA",
+      "satellite 2",
+      "alpha-satellite"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Del Castillo Falconi, Victor M",
+        "Soto-Reyes Solis, Ernesto",
+        "Castillo-Gonzalez, Michelle",
+        "Ochoa, Carlos",
+        "Silva Diaz, Violeta Guadalupe",
+        "Delgado-Arzate, Ana Laura",
+        "Herrera, Luis A",
+        "Diaz-Chavez, Jose",
+        "Gonzalez-Barrios, Rodrigo"
+      ],
+      "short_names": [
+        "Del Castillo Falconi VM",
+        "Soto-Reyes Solis E",
+        "Castillo-Gonzalez M",
+        "Ochoa C",
+        "Silva Diaz VG",
+        "Delgado-Arzate AL",
+        "Herrera LA",
+        "Diaz-Chavez J",
+        "Gonzalez-Barrios R"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Subdireccion de Investigacion Basica, Unidad de Genotipificacion, PCR Digital, Genomica y Bioinformatica, Instituto Nacional de Cancerologia (INCAN), Ciudad de Mexico, Mexico.",
+        "Departamento de Ciencias Naturales, Unidad Cuajimalpa, Universidad Autonoma Metropolitana. Avenida Vasco de Quiroga 4871, Colonia Santa Fe Cuajimalpa, Ciudad de Mexico, Mexico.",
+        "Departamento de Biologia Celular, Facultad de Ciencias UNAM, Ciudad de Mexico, Mexico.",
+        "Laboratorio de Regulacion de la cromatina y genomica, Instituto Nacional de Cancerologia (INCAN), Ciudad de Mexico, Mexico.",
+        "Departamento de Biologia Evolutiva, Facultad de Ciencias UNAM, Ciudad de Mexico, Mexico.",
+        "Departamento de Ciencias Naturales, Unidad Cuajimalpa, Universidad Autonoma Metropolitana. Avenida Vasco de Quiroga 4871, Colonia Santa Fe Cuajimalpa, Ciudad de Mexico, Mexico.",
+        "Departamento de Biologia Celular, Facultad de Ciencias UNAM, Ciudad de Mexico, Mexico.",
+        "Laboratorio de Regulacion de la cromatina y genomica, Instituto Nacional de Cancerologia (INCAN), Ciudad de Mexico, Mexico.",
+        "Tecnologico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Ciudad de Mexico, Mexico.",
+        "Tecnologico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Ciudad de Mexico, Mexico.",
+        "Laboratorio de Oncologia Molecular y Biomarcadores, Instituto Nacional de Cancerologia (INCAN), Ciudad de Mexico, Mexico.",
+        "Departamento de Biologia Celular, Facultad de Ciencias UNAM, Ciudad de Mexico, Mexico.",
+        "Laboratorio de Regulacion de la cromatina y genomica, Instituto Nacional de Cancerologia (INCAN), Ciudad de Mexico, Mexico."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Del Castillo Falconi, Victor M",
+        "short_name": "Del Castillo Falconi VM",
+        "identifiers": [],
+        "affiliations": [
+          "Subdirección de Investigación Básica, Unidad de Genotipificación, PCR Digital, Genómica y Bioinformática, Instituto Nacional de Cancerología (INCAN), Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "Soto-Reyes Solis, Ernesto",
+        "short_name": "Soto-Reyes Solis E",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Ciencias Naturales, Unidad Cuajimalpa, Universidad Autónoma Metropolitana. Avenida Vasco de Quiroga 4871, Colonia Santa Fe Cuajimalpa, Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "Castillo-González, Michelle",
+        "short_name": "Castillo-González M",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Biología Celular, Facultad de Ciencias UNAM, Ciudad de México, México.",
+          "Laboratorio de Regulación de la cromatina y genómica, Instituto Nacional de Cancerología (INCAN), Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "Ochoa, Carlos",
+        "short_name": "Ochoa C",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Biología Evolutiva, Facultad de Ciencias UNAM, Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "Silva Díaz, Violeta Guadalupe",
+        "short_name": "Silva Díaz VG",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Ciencias Naturales, Unidad Cuajimalpa, Universidad Autónoma Metropolitana. Avenida Vasco de Quiroga 4871, Colonia Santa Fe Cuajimalpa, Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "Delgado-Arzate, Ana Laura",
+        "short_name": "Delgado-Arzate AL",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Biología Celular, Facultad de Ciencias UNAM, Ciudad de México, México.",
+          "Laboratorio de Regulación de la cromatina y genómica, Instituto Nacional de Cancerología (INCAN), Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "Herrera, Luis A",
+        "short_name": "Herrera LA",
+        "identifiers": [],
+        "affiliations": [
+          "Tecnológico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "Díaz-Chávez, José",
+        "short_name": "Díaz-Chávez J",
+        "identifiers": [],
+        "affiliations": [
+          "Tecnológico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Ciudad de México, México.",
+          "Laboratorio de Oncología Molecular y Biomarcadores, Instituto Nacional de Cancerología (INCAN), Ciudad de México, México."
+        ]
+      },
+      {
+        "full_name": "González-Barrios, Rodrigo",
+        "short_name": "González-Barrios R",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Biología Celular, Facultad de Ciencias UNAM, Ciudad de México, México.",
+          "Laboratorio de Regulación de la cromatina y genómica, Instituto Nacional de Cancerología (INCAN), Ciudad de México, México."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Epigenomics"
+    ],
+    "journal_abbrev": [
+      "Epigenomics"
+    ],
+    "pub_date": "2026 Oct 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 11:41",
+    "fetched_at": "2026-11-02 07:43:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42960724"
+    ],
+    "review": [
+      "42960724"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/17501911.2026.2751852?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PRDX2-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

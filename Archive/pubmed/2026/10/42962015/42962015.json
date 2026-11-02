@@ -1,0 +1,140 @@
+{
+  "identity": {
+    "pmid": "42962015",
+    "doi": "10.1126/sciadv.aeg2830",
+    "title": "PDS5A and TOP2B cooperate for chromatin recruitment via CTCF."
+  },
+  "content": {
+    "abstract": "PDS5A, a cohesin regulatory subunit, and topoisomerase IIB (TOP2B), an enzyme resolving DNA topological problems, interact with CTCF and regulate transcription and genome organization. We ascertained that PDS5A and TOP2B are recruited to CTCF-bound chromatin cooperatively and that catalytically active TOP2B increases PDS5A occupancy genome wide. Notably, the amino-terminal 95 to 116 amino acids of CTCF interacts with PDS5A, giving rise to CTCF-PDS5A-TOP2B interaction in vitro and to PDS5A chromatin enrichment via active TOP2B in vivo. PDS5A-TOP2B function together in moderating the resultant gene expression and genome organization. Loss of CTCF (95 to 116 amino acids) led to dysregulated gene expression and mildly reduced chromatin loops. In gliomas, PDS5A and TOP2B expression levels vary, but correlate, contributing to distinctive gene expression patterns. Inducible PDS5A knockdown led to reduced TOP2B occupancy and altered gene expression. Furthermore, PDS5A mediated sensitivity to TOP2 cancer drugs in glioma cells. This functional interaction between PDS5A and TOP2B at CTCF boundaries expands upon the mechanisms affecting gene regulation through genome organization, with implications for glioma therapeutics.",
+    "keywords": [],
+    "mesh_terms": [
+      "*CCCTC-Binding Factor/metabolism/genetics/chemistry",
+      "*DNA Topoisomerases, Type II/metabolism/genetics",
+      "Humans",
+      "*Chromatin/metabolism/genetics",
+      "*Poly-ADP-Ribose Binding Proteins/metabolism/genetics",
+      "Protein Binding",
+      "*DNA-Binding Proteins/metabolism/genetics",
+      "Cell Line, Tumor"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gonzalez-Buendia, Edgar",
+        "Ortabozkoyun, Havva",
+        "Reinberg, Danny"
+      ],
+      "short_names": [
+        "Gonzalez-Buendia E",
+        "Ortabozkoyun H",
+        "Reinberg D"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0938-0869",
+        "ORCID: 0000-0001-5377-2010",
+        "ORCID: 0000-0003-4288-2016"
+      ],
+      "affiliations": [
+        "Howard Hughes Medical Institute, University of Miami, Miami, FL 33136, USA.",
+        "Department of Human Genetics, Miller School of Medicine, University of Miami, Miami, FL 33136, USA.",
+        "Sylvester Comprehensive Cancer Center, Miller School of Medicine, University of Miami, Miami, FL 33136, USA.",
+        "Howard Hughes Medical Institute, University of Miami, Miami, FL 33136, USA.",
+        "Department of Human Genetics, Miller School of Medicine, University of Miami, Miami, FL 33136, USA.",
+        "Sylvester Comprehensive Cancer Center, Miller School of Medicine, University of Miami, Miami, FL 33136, USA.",
+        "Howard Hughes Medical Institute, University of Miami, Miami, FL 33136, USA.",
+        "Department of Human Genetics, Miller School of Medicine, University of Miami, Miami, FL 33136, USA.",
+        "Sylvester Comprehensive Cancer Center, Miller School of Medicine, University of Miami, Miami, FL 33136, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gonzalez-Buendia, Edgar",
+        "short_name": "Gonzalez-Buendia E",
+        "identifiers": [
+          "0000-0002-0938-0869"
+        ],
+        "affiliations": [
+          "Howard Hughes Medical Institute, University of Miami, Miami, FL 33136, USA.",
+          "Department of Human Genetics, Miller School of Medicine, University of Miami, Miami, FL 33136, USA.",
+          "Sylvester Comprehensive Cancer Center, Miller School of Medicine, University of Miami, Miami, FL 33136, USA."
+        ]
+      },
+      {
+        "full_name": "Ortabozkoyun, Havva",
+        "short_name": "Ortabozkoyun H",
+        "identifiers": [
+          "0000-0001-5377-2010"
+        ],
+        "affiliations": [
+          "Howard Hughes Medical Institute, University of Miami, Miami, FL 33136, USA.",
+          "Department of Human Genetics, Miller School of Medicine, University of Miami, Miami, FL 33136, USA.",
+          "Sylvester Comprehensive Cancer Center, Miller School of Medicine, University of Miami, Miami, FL 33136, USA."
+        ]
+      },
+      {
+        "full_name": "Reinberg, Danny",
+        "short_name": "Reinberg D",
+        "identifiers": [
+          "0000-0003-4288-2016"
+        ],
+        "affiliations": [
+          "Howard Hughes Medical Institute, University of Miami, Miami, FL 33136, USA.",
+          "Department of Human Genetics, Miller School of Medicine, University of Miami, Miami, FL 33136, USA.",
+          "Sylvester Comprehensive Cancer Center, Miller School of Medicine, University of Miami, Miami, FL 33136, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/30 17:43",
+    "fetched_at": "2026-11-02 07:43:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42962015"
+    ],
+    "review": [
+      "42962015"
+    ],
+    "pmc": [
+      "13721987"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aeg2830?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1187",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

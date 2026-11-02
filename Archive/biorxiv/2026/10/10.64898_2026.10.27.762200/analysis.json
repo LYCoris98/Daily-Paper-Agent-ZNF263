@@ -1,0 +1,24 @@
+{
+  "source": "biorxiv",
+  "id": "10.64898/2026.10.27.762200",
+  "title": "A CTCF-LDHB axis converts nuclear lactate availability into an H3K18 acylation switch that directs alternative splicing in hypoxic breast cancer",
+  "authors": "Kakani P; Brahma A; Jithin B; Peter RM; Panda A; Bansal A; Kumar OP; Niyati K; Sahu A; Samaiya A; Shukla S",
+  "journal": "bioRxiv",
+  "published_date": "2026-10-29",
+  "window": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "score": 8,
+  "one_liner_zh": "该文揭示CTCF-LDHB轴通过调控核内乳酸水平影响组蛋白H3K18酰化，进而决定乳腺癌缺氧条件下的可变剪接，与cpcdh基因家族在代谢-表观遗传调控中的功能高度相关。",
+  "abstract": "Lactate accumulating in hypoxic tumours lactylates histones, coupling metabolic state to chromatin. Why it differs between tumours of comparable glycolytic rate has remained unresolved. Here we show that nuclear, rather than total intracellular, lactate availability determines histone H3K18 lactylation in breast cancer, and that CCCTC-binding factor (CTCF) and lactate dehydrogenase B ( LDHB ) jointly set it. CTCF sustains glycolytic gene expression under hypoxia and drives LDHB in triple-negative breast cancer (TNBC), whereas a CTCF-ERα complex represses LDHB in non-TNBC. LDHB consumes lactate favouring H3K18 acetylation; where LDHB is low, CTCF-dependent MCT1 delivers lactate into the nucleus and sustains lactylation. At a CTCF site downstream of TACC3 exon 3, an invariant polymerase II pause couples kinetic and adaptor control of splicing, with the mark deciding the outcome: H3K18la recruits SMARCA4 and hnRNPA1 to skip the exon, generating an isoform that drives EMT, whereas H3K18ac recruits TRIM33 and SRSF10 to include it, generating one that confers stemness. Inhibiting LDHB restores exon skipping and suppresses tumour growth in vivo. Nuclear lactate availability therefore acts as a metabolic switch that converts hypoxic stress into subtype-specific splicing decisions and identifies LDHB as a tractable target in TNBC.",
+  "abstract_zh": "缺氧肿瘤中积累的乳酸使组蛋白发生乳酰化，将代谢状态与染色质偶联。为何在糖酵解速率相当的肿瘤之间这一过程存在差异，此前仍未得到解决。在此我们表明，在乳腺癌中，决定组蛋白H3K18乳酰化的是核内而非总细胞内乳酸的可用性，并且CCCTC结合因子（CTCF）和乳酸脱氢酶B（LDHB）共同设定这一水平。CTCF在缺氧条件下维持糖酵解基因表达，并在三阴性乳腺癌（TNBC）中驱动LDHB，而CTCF-ERα复合物在非TNBC中抑制LDHB。LDHB消耗乳酸，有利于H3K18乙酰化；在LDHB低表达处，CTCF依赖的MCT1将乳酸转运至核内并维持乳酰化。在TACC3外显子3下游的一个CTCF位点，一个恒定的聚合酶II暂停将剪接的动力学和适配器控制偶联起来，该标记决定结果：H3K18la招募SMARCA4和hnRNPA1以跳过外显子，生成驱动上皮-间质转化（EMT）的异构体，而H3K18ac招募TRIM33和SRSF10以包含外显子，生成赋予干性的异构体。抑制LDHB在体内恢复外显子跳过并抑制肿瘤生长。因此，核内乳酸可用性充当代谢开关，将缺氧应激转化为亚型特异性剪接决策，并将LDHB确定为TNBC中一个可靶向的靶点。",
+  "has_fulltext": true,
+  "fulltext_source": "europepmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762200",
+  "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.27.762200",
+  "paper_page_path": "papers/biorxiv/10.64898_2026.10.27.762200/index.html"
+}

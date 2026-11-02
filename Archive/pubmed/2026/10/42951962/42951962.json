@@ -1,0 +1,407 @@
+{
+  "identity": {
+    "pmid": "42951962",
+    "doi": "10.1038/s41586-026-11197-w",
+    "title": "SWI/SNF complexes shape 3D chromatin architecture through CTCF and cohesin."
+  },
+  "content": {
+    "abstract": "The BAF (also known as mammalian SWI/SNF) chromatin remodelling complexes are essential regulators of nucleosome positioning and transcription factor binding(1,2). Loss-of-function (LOF) mutations in genes encoding components of the BAF complexes are among the most frequent across cancer types(3). However, a unifying mechanism that explains their widespread disruption remains unclear. Here we disrupted BAF function through pharmacological inhibition and ARID1A deletion across various mammalian cell types and tissues and observed a conserved chromatin response: increased accessibility at CTCF-binding sites. ARID1A LOF alone was sufficient to drive these changes, which demonstrates that canonical BAF (cBAF) disruption is the key driver of CTCF gain. Genomic profiling showed increased CTCF and SMC3 occupancy, which reveals an antagonistic relationship between cBAF and CTCF-cohesin complexes. Furthermore, cBAF loss restructured 3D genome organization, which led to a strengthening of topologically associating domain boundaries and subdivision of large domains into smaller insulated structures. Long-range enhancer-promoter loops were replaced by shorter, promoter-proximal loops anchored at CTCF-enriched sites. To determine how CTCF function is enabled following cBAF loss, we profiled CTCF-interacting cofactors and found that CTCF binds directly to fully assembled PBAF. After cBAF depletion, PBAF was recruited to sites of increased CTCF occupancy, which demonstrates that there is an antagonistic switch between SWI/SNF subcomplexes. In vivo, conditional Arid1a deletion in primary mouse cells resulted in the expansion of a highly proliferative population marked by elevated accessibility at CTCF sites. This phenotype was fully reversed by either Ctcf or Pbrm1 deletion, which establishes that cBAF and the activity of CTCF and PBAF have contrasting roles.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Debek, Sonia",
+        "Meydan, Cem",
+        "Chin, Christopher R",
+        "Yu, Jiali",
+        "Durmaz, Ceyda",
+        "Tsialta, Ioanna",
+        "Pelzer, Benedikt",
+        "Maurer, Constance",
+        "Ou, Arnold",
+        "Laguillo-Diego, Alejandra",
+        "Scourzic, Laurianne",
+        "Tumuluru, Sravya",
+        "Teater, Matt",
+        "Wu, Rui",
+        "Darsow, Brian",
+        "Rivas, Martin A",
+        "Marin-Rubio, Jose Luis",
+        "Stadtfeld, Matthias",
+        "Apostolou, Effie",
+        "Mason, Christopher E",
+        "Elenitoba-Johnson, Kojo S J",
+        "Risca, Viviana I",
+        "Melnick, Ari",
+        "Barisic, Darko"
+      ],
+      "short_names": [
+        "Debek S",
+        "Meydan C",
+        "Chin CR",
+        "Yu J",
+        "Durmaz C",
+        "Tsialta I",
+        "Pelzer B",
+        "Maurer C",
+        "Ou A",
+        "Laguillo-Diego A",
+        "Scourzic L",
+        "Tumuluru S",
+        "Teater M",
+        "Wu R",
+        "Darsow B",
+        "Rivas MA",
+        "Marin-Rubio JL",
+        "Stadtfeld M",
+        "Apostolou E",
+        "Mason CE",
+        "Elenitoba-Johnson KSJ",
+        "Risca VI",
+        "Melnick A",
+        "Barisic D"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9267-603X",
+        "ORCID: 0000-0002-0663-6216",
+        "ORCID: 0000-0002-2140-3197",
+        "ORCID: 0009-0004-5666-775X",
+        "ORCID: 0000-0002-9720-0118",
+        "ORCID: 0000-0003-2724-7890",
+        "ORCID: 0000-0003-2875-1642",
+        "ORCID: 0000-0002-4956-470X",
+        "ORCID: 0000-0002-9603-6897",
+        "ORCID: 0000-0002-7682-0190",
+        "ORCID: 0000-0002-5852-9906",
+        "ORCID: 0000-0002-8111-0863",
+        "ORCID: 0000-0002-1850-1642",
+        "ORCID: 0000-0003-2670-8704",
+        "ORCID: 0000-0002-8074-2287",
+        "ORCID: 0000-0001-7007-9138"
+      ],
+      "affiliations": [
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA. cem2009@med.cornell.edu.",
+        "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA. cem2009@med.cornell.edu.",
+        "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Al-Saud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA. cem2009@med.cornell.edu.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+        "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Graduate Program of Physiology, Biophysics and Systems Biology, Weill Cornell Medicine, New York, NY, USA.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Barts Cancer Institute, John Vane Science Centre, Queen Mary University of London, London, UK.",
+        "Laboratory of Genome Architecture and Dynamics, The Rockefeller University, New York, NY, USA.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "University of Miami, Sylvester Comprehensive Cancer Center, Miami, FL, USA.",
+        "Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+        "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA.",
+        "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+        "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Al-Saud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA.",
+        "Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Laboratory of Genome Architecture and Dynamics, The Rockefeller University, New York, NY, USA.",
+        "Josep Carreras Leukaemia Research Institute, Barcelona, Spain. amelnick@carrerasresearch.org.",
+        "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA. dab2078@med.cornell.edu.",
+        "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA. dab2078@med.cornell.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Debek, Sonia",
+        "short_name": "Debek S",
+        "identifiers": [
+          "0000-0001-9267-603X"
+        ],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Meydan, Cem",
+        "short_name": "Meydan C",
+        "identifiers": [
+          "0000-0002-0663-6216"
+        ],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA. cem2009@med.cornell.edu.",
+          "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA. cem2009@med.cornell.edu.",
+          "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Al-Saud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA. cem2009@med.cornell.edu."
+        ]
+      },
+      {
+        "full_name": "Chin, Christopher R",
+        "short_name": "Chin CR",
+        "identifiers": [
+          "0000-0002-2140-3197"
+        ],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+          "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+          "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Yu, Jiali",
+        "short_name": "Yu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Durmaz, Ceyda",
+        "short_name": "Durmaz C",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Program of Physiology, Biophysics and Systems Biology, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Tsialta, Ioanna",
+        "short_name": "Tsialta I",
+        "identifiers": [
+          "0009-0004-5666-775X"
+        ],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Pelzer, Benedikt",
+        "short_name": "Pelzer B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Maurer, Constance",
+        "short_name": "Maurer C",
+        "identifiers": [
+          "0000-0002-9720-0118"
+        ],
+        "affiliations": [
+          "Barts Cancer Institute, John Vane Science Centre, Queen Mary University of London, London, UK."
+        ]
+      },
+      {
+        "full_name": "Ou, Arnold",
+        "short_name": "Ou A",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Genome Architecture and Dynamics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Laguillo-Diego, Alejandra",
+        "short_name": "Laguillo-Diego A",
+        "identifiers": [
+          "0000-0003-2724-7890"
+        ],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+          "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Scourzic, Laurianne",
+        "short_name": "Scourzic L",
+        "identifiers": [
+          "0000-0003-2875-1642"
+        ],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+          "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Tumuluru, Sravya",
+        "short_name": "Tumuluru S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Teater, Matt",
+        "short_name": "Teater M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Rui",
+        "short_name": "Wu R",
+        "identifiers": [
+          "0000-0002-4956-470X"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Darsow, Brian",
+        "short_name": "Darsow B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Rivas, Martin A",
+        "short_name": "Rivas MA",
+        "identifiers": [
+          "0000-0002-9603-6897"
+        ],
+        "affiliations": [
+          "University of Miami, Sylvester Comprehensive Cancer Center, Miami, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Marin-Rubio, Jose Luis",
+        "short_name": "Marin-Rubio JL",
+        "identifiers": [
+          "0000-0002-7682-0190"
+        ],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Stadtfeld, Matthias",
+        "short_name": "Stadtfeld M",
+        "identifiers": [
+          "0000-0002-5852-9906"
+        ],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+          "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Apostolou, Effie",
+        "short_name": "Apostolou E",
+        "identifiers": [
+          "0000-0002-8111-0863"
+        ],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA.",
+          "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Mason, Christopher E",
+        "short_name": "Mason CE",
+        "identifiers": [
+          "0000-0002-1850-1642"
+        ],
+        "affiliations": [
+          "Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+          "The HRH Prince Alwaleed Bin Talal Bin Abdulaziz Al-Saud Institute for Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Elenitoba-Johnson, Kojo S J",
+        "short_name": "Elenitoba-Johnson KSJ",
+        "identifiers": [],
+        "affiliations": [
+          "Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Risca, Viviana I",
+        "short_name": "Risca VI",
+        "identifiers": [
+          "0000-0003-2670-8704"
+        ],
+        "affiliations": [
+          "Laboratory of Genome Architecture and Dynamics, The Rockefeller University, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Melnick, Ari",
+        "short_name": "Melnick A",
+        "identifiers": [
+          "0000-0002-8074-2287"
+        ],
+        "affiliations": [
+          "Josep Carreras Leukaemia Research Institute, Barcelona, Spain. amelnick@carrerasresearch.org."
+        ]
+      },
+      {
+        "full_name": "Barisic, Darko",
+        "short_name": "Barisic D",
+        "identifiers": [
+          "0000-0001-7007-9138"
+        ],
+        "affiliations": [
+          "Department of Medicine, Weill Cornell Medicine, Cornell University, New York, NY, USA. dab2078@med.cornell.edu.",
+          "Meyer Cancer Center, Weill Cornell Medical College, New York, NY, USA. dab2078@med.cornell.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/29 05:30",
+    "fetched_at": "2026-11-02 07:43:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42951962"
+    ],
+    "review": [
+      "42951962"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-11197-w",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1006",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Does a map-level insulation constraint improve sequence-based prediction of 3D genome folding? A Stage 1 Registered Report with a reverse-complement-equivariant state-space model (HiFold-Mamba) · PCDH gene</title>
+  <link rel="stylesheet" href="/Daily-Paper-Agent-ZNF263/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/Daily-Paper-Agent-ZNF263/">PCDH gene</a>
+    <nav>
+      <a href="/Daily-Paper-Agent-ZNF263/">本周</a>
+      <a href="/Daily-Paper-Agent-ZNF263/archive.html">归档</a>
+      <a href="/Daily-Paper-Agent-ZNF263/search.html">搜索</a>
+    </nav>
+  </header>
+  <main>
+<article class="paper">
+  <div class="paper-head">
+    <span class="score score-low">2</span>
+    <div>
+      <h1>Does a map-level insulation constraint improve sequence-based prediction of 3D genome folding? A Stage 1 Registered Report with a reverse-complement-equivariant state-space model (HiFold-Mamba)</h1>
+      <div class="meta">Malekpouri M; Lotfi S</div>
+      <div class="meta muted">
+        
+        <span class="journal">bioRxiv</span> <span class="preprint-badge">预印本</span>
+        · 2026-10-30
+         · 全文(europepmc)
+         · <a href="https://www.biorxiv.org/content/10.64898/2026.10.24.761502">原文</a>
+      </div>
+      <p class="one-liner">该文提出HiFold-Mamba序列到接触图预测模型并预注册绝缘约束损失假设，属于3D基因组折叠预测方法，与cpcdh基因家族无直接关联。</p>
+    </div>
+  </div>
+  
+  <section>
+    <h2>摘要</h2>
+    <div class="md">&lt;h4&gt;Background: &lt;/h4&gt; Sequence-to-contact-map models are trained with pixel-wise losses, although the features of interest (insulation, domain boundaries, loops) are summaries of the map. Insulationbased losses help Hi-C resolution enhancement. No pre-specified test has asked whether they improve sequence-based prediction, judged against annotations independent of the training data. Proposed study. HiFold-Mamba predicts 448 × 448 maps at 2,048 bp from 1,048,576 bp of DNA on the DNALongBench contact-map task. Every component is reverse-complement-equivariant: convolutional tower, bidirectional Mamba blocks, multi-scale mixer and symmetric pairwise head. We pre-register three hypotheses: » H1: it exceeds each of three trained baselines (reproduced Akita, a parameter-matched Transformer and a parameter-matched CNN) by ≥0.01 stratum-adjusted correlation (SCC). » H2: an insulation and boundary loss, computed from the predicted map with the operator used on the observed map, improves boundary AUROC and loop AP against independent 4DN boundary calls and ENCODE CTCF ChIA-PET loops, at equal training steps and without loss of SCC. » H3: pretraining plus few-shot adaptation beats training from scratch on four held-out cell lines.Tests use a paired bootstrap over 237 one-megabase test blocks (one-sided α = 0.025). Pilot data. » Verification. The benchmark target, the window coordinates and the networks equivariance were verified. » Locus-shared reference. Copying other cell lines measured maps at the same locus matches published Akita on the benchmarks SCC (0.227 vs. 0.230). » SCC weightings. Two weightings in common use weight distance strata in opposite directions and agree only moderately (ρ = 0.54). » Comparison rule. In simulations calibrated on the pilot data, a per-block-best comparison against several baselines has no power. We therefore test against each baseline, which gives ≥ 90 % power at a true gain of 0.02 when between-model correlation is ≥ 0.95. » H2 positive control. On validation windows, observed maps recover the independent boundaries (AUROC 0.61 − 0.91) and loops (0.86 − 0.90). This fixed the insulation window and showed that these annotations are largely shared across cell types.</div>
+  </section>
+  
+  
+  <section>
+    <h2>摘要翻译</h2>
+    <div class="md">&lt;h4&gt;背景：&lt;/h4&gt; 序列到接触图（sequence-to-contact-map）模型使用逐像素损失进行训练，尽管所关注的特征（绝缘、结构域边界、环）是图的汇总。基于绝缘的损失有助于Hi-C分辨率增强。尚无预先设定的测试检验它们是否改善基于序列的预测，且以独立于训练数据的注释为评判标准。拟议研究。HiFold-Mamba在DNALongBench接触图任务上，从1,048,576 bp的DNA预测2,048 bp分辨率的448 × 448图。每个组件都是反向互补等变的：卷积塔、双向Mamba块、多尺度混合器和对称成对头。我们预注册三个假设：» H1：它超过三个训练基线（复现的Akita、参数匹配的Transformer和参数匹配的CNN）中的每一个至少0.01的分层调整相关性（SCC）。» H2：使用与观测图相同算子从预测图计算的绝缘和边界损失，在相同训练步数下，针对独立的4DN边界调用和ENCODE CTCF ChIA-PET环，改善边界AUROC和环AP，且不损失SCC。» H3：预训练加少样本适应在四个留出细胞系上优于从头训练。测试使用对237个一兆碱基测试块的配对自助法（单侧α = 0.025）。试点数据。» 验证。基准目标、窗口坐标和网络等变性已验证。» 位点共享参考。复制其他细胞系在同一基因座测量的图，在基准SCC上与已发表的Akita匹配（0.227 vs. 0.230）。» SCC加权。两种常用加权以相反方向加权距离分层，仅中等一致（ρ = 0.54）。» 比较规则。在基于试点数据校准的模拟中，针对多个基线的逐块最佳比较没有功效。因此我们针对每个基线进行测试，当模型间相关性≥ 0.95时，在真实增益为0.02时给出≥ 90%的功效。» H2阳性对照。在验证窗口上，观测图恢复独立边界（AUROC 0.61 − 0.91）和环（0.86 − 0.90）。这固定了绝缘窗口，并表明这些注释在细胞类型间 largely共享。</div>
+  </section>
+  
+  
+  
+</article>
+</main>
+</body>
+</html>

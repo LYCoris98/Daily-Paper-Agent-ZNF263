@@ -1,0 +1,110 @@
+{
+  "identity": {
+    "pmid": "42964601",
+    "doi": "10.3389/ftox.2026.1893084",
+    "title": "Exploring long noncoding RNAs as a molecular connection between immune response and autism spectrum disorder."
+  },
+  "content": {
+    "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental condition increasingly linked to immune dysregulation, with long noncoding RNAs (lncRNAs) emerging as potential regulators of both neural and immune processes. This study commenced by analyzing ten unique lncRNAs and integrated ASD whole-blood datasets using the online platform GTex to identify expression of lncRNAs in various tissues. Moreover, the platform Network Analyst was utilized to assess differentially expressed lncRNAs and associated transcriptomic networks. A total of 93 upregulated and 51 downregulated lncRNAs were identified in people with ASD with tissue specific enrichment observed for MSNP1AS and LNC01238 in immune related systems. The transcription factor CEBPA was shown to interact with the upregulated lncRNA MALAT1, which influenced immune cell differentiation, inflammation and cytokine signaling. Intriguingly CEBPA simultaneously interacted with downregulated lnc RNA MIR22HG. Comparatively, downregulated lncRNAs were associated with the transcription factors TEAD2, CEBPA, CTCF, E2F4, TFAP2C, HIF1A, ETS1, HNF4A, SNAPC4, STAT1, STAT2, TEAD2, FOXC1, BRCA1, AR, E2F4, EOMES, SPI1, DACH1, E2F1, TP63, HMAP1, KLF9, HDGF, and MAZ. Overall, the findings support a role for lncRNAs in ASD pathophysiology and immune dysregulation, pointing to their potential as biomarkers and potential therapeutic targets for future research.",
+    "keywords": [
+      "autism",
+      "autism spectrum disorder",
+      "brain",
+      "immune",
+      "lncRNA",
+      "long noncoding RNA"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Roschyk, Anaya",
+        "Campbell, Daniel B"
+      ],
+      "short_names": [
+        "Roschyk A",
+        "Campbell DB"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Human Medicine, Michigan State University, East Lansing, MI, United States.",
+        "College of Human Medicine, Michigan State University, East Lansing, MI, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Roschyk, Anaya",
+        "short_name": "Roschyk A",
+        "identifiers": [],
+        "affiliations": [
+          "College of Human Medicine, Michigan State University, East Lansing, MI, United States."
+        ]
+      },
+      {
+        "full_name": "Campbell, Daniel B",
+        "short_name": "Campbell DB",
+        "identifiers": [],
+        "affiliations": [
+          "College of Human Medicine, Michigan State University, East Lansing, MI, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in toxicology"
+    ],
+    "journal_abbrev": [
+      "Front Toxicol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/31 23:24",
+    "fetched_at": "2026-11-02 07:43:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42964601"
+    ],
+    "review": [
+      "42964601"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-STAT1-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1273",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/ftox.2026.1893084",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

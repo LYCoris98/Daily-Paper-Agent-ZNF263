@@ -1,0 +1,242 @@
+{
+  "identity": {
+    "pmid": "42966892",
+    "doi": "10.1002/advs.78466",
+    "title": "NDFIP2 Suppresses Colorectal Cancer Metastasis Through DDX3X-Dependent R-Loop Remodeling and GNG13 Transcriptional Activation."
+  },
+  "content": {
+    "abstract": "Distant metastasis remains the leading cause of colorectal cancer (CRC) mortality, yet the underlying molecular mechanisms remain incompletely defined. Integrating RNA sequencing (RNA-seq) profiling and clinical validation, we identified NDFIP2 as significantly downregulated in metastatic CRC. Functionally, NDFIP2 loss drove epithelial-mesenchymal transition (EMT), stemness, and metastasis via PI3K/AKT hyperactivation. Mechanistically, NDFIP2 serves as an adaptor recruiting the E3 ligase NEDD4 to induce K48-linked polyubiquitination and proteasomal degradation of DDX3X. Unrestrained DDX3X resolves R-loops at the GNG13 promoter and recruits the transcription factor CTCF, synergistically enhancing GNG13 transcription to amplify PI3K/AKT signaling. Targeting this vulnerability, we engineered a cell-permeable NDFIP2-derived iRGD-conjugated peptide (ND-iRGD). In vivo administration of this construct suppressed DDX3X/GNG13/PI3K/AKT signaling, thereby attenuating distant metastasis and prolonging murine survival. Collectively, NDFIP2 acts as a critical metastasis suppressor via the DDX3X/R-loop/GNG13 axis, presenting the ND-iRGD peptide as a promising translatable therapeutic strategy for metastatic CRC.",
+    "keywords": [
+      "DDX3X",
+      "NDFIP2",
+      "PI3K/AKT signaling",
+      "R-loop",
+      "colorectal cancer",
+      "iRGD",
+      "metastasis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Enjian",
+        "Li, Yanfang",
+        "Shu, Jiaxin",
+        "Xu, Shang",
+        "Lv, Heng",
+        "Zhang, Chong",
+        "Zhang, Pengbo",
+        "Wu, Nai",
+        "Gong, Shuai",
+        "Zhang, Xiuzhong",
+        "Ren, Zeqiang",
+        "Zhang, Yi",
+        "Liu, Xin"
+      ],
+      "short_names": [
+        "Zhang E",
+        "Li Y",
+        "Shu J",
+        "Xu S",
+        "Lv H",
+        "Zhang C",
+        "Zhang P",
+        "Wu N",
+        "Gong S",
+        "Zhang X",
+        "Ren Z",
+        "Zhang Y",
+        "Liu X"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8519-3125",
+        "ORCID: 0000-0001-9357-1205",
+        "ORCID: 0009-0004-5586-5148"
+      ],
+      "affiliations": [
+        "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Jiangsu Key Laboratory of Organ Transplantation and Transplant Immunology, Xuzhou Medical University, Xuzhou, China.",
+        "Technology Innovation and Public Service Center, Huaihai Medical Science and Technology Innovation Center, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Jiangsu Key Laboratory of Organ Transplantation and Transplant Immunology, Xuzhou Medical University, Xuzhou, China.",
+        "Technology Innovation and Public Service Center, Huaihai Medical Science and Technology Innovation Center, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Jiangsu Key Laboratory of Organ Transplantation and Transplant Immunology, Xuzhou Medical University, Xuzhou, China.",
+        "Technology Innovation and Public Service Center, Huaihai Medical Science and Technology Innovation Center, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Jiangsu Key Laboratory of Organ Transplantation and Transplant Immunology, Xuzhou Medical University, Xuzhou, China.",
+        "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Jiangsu Key Laboratory of Organ Transplantation and Transplant Immunology, Xuzhou Medical University, Xuzhou, China.",
+        "Technology Innovation and Public Service Center, Huaihai Medical Science and Technology Innovation Center, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Department of Epigenetics and Molecular Carcinogenesis, University of Texas MD Anderson Cancer Center, Houston, Texas, USA.",
+        "Department of Endocrinology, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+        "Department of Biology and Biochemistry, Center For Nuclear Receptors and Cell Signaling, University of Houston, Houston, Texas, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Enjian",
+        "short_name": "Zhang E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+          "Jiangsu Key Laboratory of Organ Transplantation and Transplant Immunology, Xuzhou Medical University, Xuzhou, China.",
+          "Technology Innovation and Public Service Center, Huaihai Medical Science and Technology Innovation Center, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yanfang",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+          "Jiangsu Key Laboratory of Organ Transplantation and Transplant Immunology, Xuzhou Medical University, Xuzhou, China.",
+          "Technology Innovation and Public Service Center, Huaihai Medical Science and Technology Innovation Center, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Shu, Jiaxin",
+        "short_name": "Shu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+          "Jiangsu Key Laboratory of Organ Transplantation and Transplant Immunology, Xuzhou Medical University, Xuzhou, China.",
+          "Technology Innovation and Public Service Center, Huaihai Medical Science and Technology Innovation Center, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Shang",
+        "short_name": "Xu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+          "Jiangsu Key Laboratory of Organ Transplantation and Transplant Immunology, Xuzhou Medical University, Xuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Lv, Heng",
+        "short_name": "Lv H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chong",
+        "short_name": "Zhang C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Pengbo",
+        "short_name": "Zhang P",
+        "identifiers": [
+          "0000-0002-8519-3125"
+        ],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Nai",
+        "short_name": "Wu N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Gong, Shuai",
+        "short_name": "Gong S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xiuzhong",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Zeqiang",
+        "short_name": "Ren Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yi",
+        "short_name": "Zhang Y",
+        "identifiers": [
+          "0000-0001-9357-1205"
+        ],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+          "Jiangsu Key Laboratory of Organ Transplantation and Transplant Immunology, Xuzhou Medical University, Xuzhou, China.",
+          "Technology Innovation and Public Service Center, Huaihai Medical Science and Technology Innovation Center, The Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+          "Department of Epigenetics and Molecular Carcinogenesis, University of Texas MD Anderson Cancer Center, Houston, Texas, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Xin",
+        "short_name": "Liu X",
+        "identifiers": [
+          "0009-0004-5586-5148"
+        ],
+        "affiliations": [
+          "Department of Endocrinology, Affiliated Hospital of Xuzhou Medical University, Xuzhou, China.",
+          "Department of Biology and Biochemistry, Center For Nuclear Receptors and Cell Signaling, University of Houston, Houston, Texas, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Oct 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/01 07:29",
+    "fetched_at": "2026-11-02 07:43:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42966892"
+    ],
+    "review": [
+      "42966892"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

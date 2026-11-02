@@ -1,0 +1,191 @@
+{
+  "identity": {
+    "pmid": "42929871",
+    "doi": "10.3390/cells15201899",
+    "title": "Genome-Wide Chromatin Structure Changes During Caste Differentiation in Honeybees."
+  },
+  "content": {
+    "abstract": "Three-dimensional (3D) chromatin architecture is an important transcription regulator which is linked to gene expression regulation and correct developmental programs, yet little is known that the 3D chromatin architecture within honeybees and how it influences gene expression and methylation in caste differentiation. Here, we report that larvae at 96 h after hatching (L5) contain the highest number of known caste differentiation genes, and that constitutes the critical window determining the final phenotypic outcomes. We also show that DNA methylation pattern is conserved and gene body methylation is thought to contribute to phenotypic plasticity. Then, we determine the 3D organization of honey bee chromosomes at 5 kb resolution. Although almost 87% regions remained in the same compartments, TAD boundary insulation increased during larvae development, especially in worker larvae at 96 h after hatching (WL5). The insulator protein, CP190, CTCF-L and vtd/Rad21 appear to be indispensable in defining these topologically associating domain boundaries. Furthermore, Mrjp1, a member of the MRJP/yellow family, is also involved in regulating larval development. These results provide key insights into caste differentiation and establish a fundamental dataset for the future in-depth characterization of epigenetic features.",
+    "keywords": [
+      "Apis mellifera",
+      "Caste differentiation",
+      "Hi-C",
+      "Mrjp1",
+      "RNA-seq",
+      "WGBS"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Bees/genetics/growth & development",
+      "*Chromatin/genetics/metabolism/chemistry",
+      "DNA Methylation/genetics",
+      "Larva/genetics",
+      "*Cell Differentiation/genetics",
+      "Gene Expression Regulation, Developmental",
+      "*Genome, Insect",
+      "Insect Proteins/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Xinru",
+        "Lu, Hanbing",
+        "Qu, Xinying",
+        "Xin, Lingjun",
+        "Wang, Rongshen",
+        "Liang, Chongbo",
+        "Liu, Xiaopeng",
+        "Chen, Xiao"
+      ],
+      "short_names": [
+        "Zhang X",
+        "Lu H",
+        "Qu X",
+        "Xin L",
+        "Wang R",
+        "Liang C",
+        "Liu X",
+        "Chen X"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-1712-1537",
+        "ORCID: 0009-0009-5355-8538",
+        "ORCID: 0000-0001-9126-5263"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Resource Insects, Institute of Apicultural Research, Chinese Academy of Agricultural Sciences, Beijing 100193, China.",
+        "State Key Laboratory of Resource Insects, Institute of Apicultural Research, Chinese Academy of Agricultural Sciences, Beijing 100193, China.",
+        "State Key Laboratory of Resource Insects, Institute of Apicultural Research, Chinese Academy of Agricultural Sciences, Beijing 100193, China.",
+        "College of Bioscience and Resource Environment, Beijing University of Agriculture, Beijing 102206, China.",
+        "Shijiazhuang Animal Disease Prevention and Control Center, Shijiazhuang 050026, China.",
+        "Beijing Municipal Landscape and Greening Industry Promotion Center (Beijing Edible Forest Products Quality and Safety Center), Beijing 101118, China.",
+        "Gansu Provincial Apiculture Technology Extension Station, Tianshui 741020, China.",
+        "State Key Laboratory of Resource Insects, Institute of Apicultural Research, Chinese Academy of Agricultural Sciences, Beijing 100193, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Xinru",
+        "short_name": "Zhang X",
+        "identifiers": [
+          "0009-0007-1712-1537"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Resource Insects, Institute of Apicultural Research, Chinese Academy of Agricultural Sciences, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Hanbing",
+        "short_name": "Lu H",
+        "identifiers": [
+          "0009-0009-5355-8538"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Resource Insects, Institute of Apicultural Research, Chinese Academy of Agricultural Sciences, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Qu, Xinying",
+        "short_name": "Qu X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Resource Insects, Institute of Apicultural Research, Chinese Academy of Agricultural Sciences, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Xin, Lingjun",
+        "short_name": "Xin L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Bioscience and Resource Environment, Beijing University of Agriculture, Beijing 102206, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Rongshen",
+        "short_name": "Wang R",
+        "identifiers": [],
+        "affiliations": [
+          "Shijiazhuang Animal Disease Prevention and Control Center, Shijiazhuang 050026, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Chongbo",
+        "short_name": "Liang C",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Municipal Landscape and Greening Industry Promotion Center (Beijing Edible Forest Products Quality and Safety Center), Beijing 101118, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiaopeng",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Gansu Provincial Apiculture Technology Extension Station, Tianshui 741020, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xiao",
+        "short_name": "Chen X",
+        "identifiers": [
+          "0000-0001-9126-5263"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Resource Insects, Institute of Apicultural Research, Chinese Academy of Agricultural Sciences, Beijing 100193, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cells"
+    ],
+    "journal_abbrev": [
+      "Cells"
+    ],
+    "pub_date": "2026 Oct 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/26 11:29",
+    "fetched_at": "2026-11-02 07:43:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42929871"
+    ],
+    "review": [
+      "42929871"
+    ],
+    "pmc": [
+      "13702978"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=cells15201899",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42929871/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
