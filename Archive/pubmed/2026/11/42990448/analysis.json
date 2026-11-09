@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42990448",
+  "title": "Engineered Tn5 Variants Enhance CUT&Tag Fidelity for Transcription Factors.",
+  "authors": "Piper, Lola; Baird, Emma; Ashbaugh, Harry J; Pentecost, Olivia A; Nowinski, Sara M; Janssens, Derek H",
+  "journal": "bioRxiv : the preprint server for biology",
+  "published_date": "2026-11-06",
+  "window": {
+    "start": "2026-11-02",
+    "end": "2026-11-08"
+  },
+  "score": 1,
+  "one_liner_zh": "该文研究Tn5变体优化CUT&Tag技术用于转录因子定位，与cpcdh基因家族无直接关联，仅涉及染色质技术方法，可借鉴性低。",
+  "abstract": "The CUT&Tag method performs exceptionally well for profiling histone modifications, but mapping sequence-specific transcription factors (TFs) is complicated by intrinsic Tn5 activity at accessible DNA, and the high-salt washes used to suppress this activity can destabilize TF-chromatin interactions. We engineered the Tn5 DNA-binding channel to attenuate target-DNA engagement by replacing individual positively charged amino acids with neutral amino acids. We identified a \"Goldilocks\" variant (K160A) with intermediate attenuation that improved recovery of GATA2 motif-containing sites under low-salt CUT&Tag and KCl-based DynaTag conditions. A second variant (K249A) had improved performance for profiling CTCF over less accessible sites characterized by sharply focused short-fragment enrichment. By comparing the K160A and K249A variants, this TF-CUT&Tag assay provides a physical readout of the local chromatin environment at TF binding sites. Applying K160A TF-CUT&Tag to pluripotency-associated TFs in mouse embryonic stem cells increased recovery across their genomic binding landscapes while preserving factor-specific motif architectures. During skeletal muscle differentiation, TF-CUT&Tag improved recovery of MyoG and Pax7 occupancy relative to standard CUT&Tag, revealing strongly motif-enriched MyoG binding and a shift in Pax7 binding from CpG-rich promoters in progenitors toward Pax7 motif-enriched sites during differentiation. Together, these results show that TF-CUT&Tag captures distinct modes of TF- chromatin interaction, including motif-directed binding sites and more salt-sensitive sites that may depend on lower-affinity DNA recognition or protein-protein interactions and are difficult to predict from DNA sequence alone.",
+  "abstract_zh": "CUT&Tag方法在组蛋白修饰分析中表现尤为出色，但绘制序列特异性转录因子（TFs）图谱时，可及DNA上的固有Tn5活性会带来复杂性，而用于抑制该活性的高盐洗涤可能破坏TF-染色质相互作用的稳定性。我们通过将单个带正电荷的氨基酸替换为中性氨基酸，工程化改造了Tn5 DNA结合通道，以减弱靶标DNA的结合。我们鉴定出一个“金发姑娘”变体（K160A），其具有中等程度的减弱效应，在低盐CUT&Tag和基于KCl的DynaTag条件下，提高了含GATA2基序位点的回收率。另一个变体（K249A）在分析CTCF于可及性较低位点（其特征为尖锐聚焦的短片段富集）上的表现时，具有更优性能。通过比较K160A和K249A变体，这种TF-CUT&Tag检测提供了TF结合位点处局部染色质环境的物理读数。将K160A TF-CUT&Tag应用于小鼠胚胎干细胞中多能性相关TF，提高了其基因组结合图谱的回收率，同时保留了因子特异性的基序结构。在骨骼肌分化过程中，与标准CUT&Tag相比，TF-CUT&Tag提高了MyoG和Pax7占据的回收率，揭示了强烈基序富集的MyoG结合，以及Pax7结合从祖细胞中CpG富集启动子向分化过程中Pax7基序富集位点的转变。综合来看，这些结果表明TF-CUT&Tag捕获了TF-染色质相互作用的不同模式，包括基序导向的结合位点，以及更依赖低亲和力DNA识别或蛋白质-蛋白质相互作用、且难以仅从DNA序列预测的盐敏感性位点。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42990448/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42990448/",
+  "paper_page_path": "papers/pubmed/42990448/index.html"
+}

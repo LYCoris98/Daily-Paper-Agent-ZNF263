@@ -1,0 +1,161 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.03.763895",
+  "title": "Local chromatin, 3D genome folding and transposon cargo shape Sleeping Beauty transposition",
+  "doi": "10.64898/2026.11.03.763895",
+  "abstract": "The cut-and-paste DNA transposon Sleeping Beauty (SB) is widely used for genome engineering, mutagenesis and gene delivery. When mobilized from a genomic donor position (“launch site”), SB preferentially reintegrates locally (< 2 Mb), but factors governing its transposition from genomic sites remain incompletely understood. Here we analysed local transposition experiments in mouse embryonic stem cells to determine the influence of chromatin context and transposon cargo on SB transposition. Transposons in launch sites with transcriptionally active, accessible chromatin showed lower transposition efficiency. Large cargo and cargo with higher transcriptional activity also result in reduced transposition efficiency. After excision, local reintegration patterns closely resembled 3D contact frequencies of the launch site. This indicates that chromosome folding is a major determinant of the transposition pattern. Surprisingly, we did not detect any effect of the destination chromatin composition on reintegration efficiency. Cargo sequence modified the reintegration patterns: promoter-containing cargo increased both very proximal (<10kb) and interchromosomal transpositions, while CTCF binding sites in the cargo increased reintegration on the launch chromosome. Together, these results define key determinants of SB transposition in chromosomes and inform the design of SB-based genome engineering strategies.",
+  "authors": [
+    "Moene CJ",
+    "Eder M",
+    "Dauban L",
+    "Yáñez-Cuna JO",
+    "Kocher AA",
+    "Eschauzier L",
+    "Verkuilen M",
+    "Franceschini-Santos VH",
+    "van Steensel B"
+  ],
+  "published_date": "2026-11-03",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763895",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763895.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1357401",
+    "raw_record": {
+      "id": "PPR1357401",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.03.763895",
+      "title": "Local chromatin, 3D genome folding and transposon cargo shape Sleeping Beauty transposition",
+      "authorString": "Moene CJ, Eder M, Dauban L, Yáñez-Cuna JO, Kocher AA, Eschauzier L, Verkuilen M, Franceschini-Santos VH, van Steensel B.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Moene CJ",
+            "lastName": "Moene",
+            "firstName": "Christina J.I.",
+            "initials": "CJ"
+          },
+          {
+            "fullName": "Eder M",
+            "lastName": "Eder",
+            "firstName": "Mathias",
+            "initials": "M"
+          },
+          {
+            "fullName": "Dauban L",
+            "lastName": "Dauban",
+            "firstName": "Lise",
+            "initials": "L"
+          },
+          {
+            "fullName": "Yáñez-Cuna JO",
+            "lastName": "Yáñez-Cuna",
+            "firstName": "Omar",
+            "initials": "JO"
+          },
+          {
+            "fullName": "Kocher AA",
+            "lastName": "Kocher",
+            "firstName": "Acadia",
+            "initials": "AA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0009-4034-9876"
+            }
+          },
+          {
+            "fullName": "Eschauzier L",
+            "lastName": "Eschauzier",
+            "firstName": "Laurens",
+            "initials": "L"
+          },
+          {
+            "fullName": "Verkuilen M",
+            "lastName": "Verkuilen",
+            "firstName": "Martijn",
+            "initials": "M"
+          },
+          {
+            "fullName": "Franceschini-Santos VH",
+            "lastName": "Franceschini-Santos",
+            "firstName": "Vinícius",
+            "initials": "VH"
+          },
+          {
+            "fullName": "van Steensel B",
+            "lastName": "van Steensel",
+            "firstName": "Bas",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0284-0404"
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0284-0404"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0009-4034-9876"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "The cut-and-paste DNA transposon Sleeping Beauty (SB) is widely used for genome engineering, mutagenesis and gene delivery. When mobilized from a genomic donor position (“launch site”), SB preferentially reintegrates locally (< 2 Mb), but factors governing its transposition from genomic sites remain incompletely understood. Here we analysed local transposition experiments in mouse embryonic stem cells to determine the influence of chromatin context and transposon cargo on SB transposition. Transposons in launch sites with transcriptionally active, accessible chromatin showed lower transposition efficiency. Large cargo and cargo with higher transcriptional activity also result in reduced transposition efficiency. After excision, local reintegration patterns closely resembled 3D contact frequencies of the launch site. This indicates that chromosome folding is a major determinant of the transposition pattern. Surprisingly, we did not detect any effect of the destination chromatin composition on reintegration efficiency. Cargo sequence modified the reintegration patterns: promoter-containing cargo increased both very proximal (<10kb) and interchromosomal transpositions, while CTCF binding sites in the cargo increased reintegration on the launch chromosome. Together, these results define key determinants of SB transposition in chromosomes and inform the design of SB-based genome engineering strategies.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.11.03.763895"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-11-04",
+      "firstPublicationDate": "2026-11-03",
+      "firstIndexDate": "2026-11-04",
+      "hasEvaluations": "N"
+    }
+  }
+}

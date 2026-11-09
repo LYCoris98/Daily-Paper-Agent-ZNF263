@@ -1,0 +1,155 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.29.762969",
+  "title": "Molecular dissection of the ChAHP complex subunits Adnp and Chd4 reveals common and divergent functions in retinal development",
+  "doi": "10.64898/2026.10.29.762969",
+  "abstract": "Epigenetic remodelling is thought to regulate the progression of competence states in neural progenitor cells. Here, we examined the functions of the ChAHP chromatin remodelling complex during retinal development. ChAHP consists of the ATP-dependent nucleosome remodeller CHD4, the zinc finger and homeodomain transcription factor ADNP, and the HP1 heterochromatin proteins (Cbx1/3/5). Notably, both CHD4 and ADNP are genetically associated with neurodevelopmental disorders (NDDs), but ChAHP functions in neural development are not fully understood. In the retina, we found that both ADNP and CHD4 proteins were co-expressed ubiquitously in each cell type throughout development, and the two proteins formed a complex in vivo . Next, we generated retina-specific conditional knockouts (cKOs) to both Adnp and Chd4 using the Chx10-Cre driver. We observed phenotypic correspondence and divergence. Developmentally, we observed elevated cell death in both Adnp and Chd4 cKOs, but Adnp cKOs also exhibited deficits in progenitor numbers and proliferation. As a result, mature Adnp cKOs were hypoplastic with reductions in each cell type. We previously described a more complex phenotype in Chd4 cKOs, where cell fates were imbalanced and progenitor proliferation was prolonged, but these features were absent from the Adnp cKO. To understand how ChAHP regulates gene expression, we compared Adnp and Chd4 cKOs via scRNA-seq, which revealed common transcriptional signatures. However, Chd4 cKOs exhibited more severe effects on gene expression in line with its stronger effects on cell fate. We then performed cut&run-seq, which suggested that Adnp and Chd4 are recruited to the same genomic loci – many of which are also occupied by the Ctcf transcription factor. Taken together, our data suggest that ChAHP regulates retinal growth, but that CHD4 has additional ChAHP-independent functions in regulating progenitor fate decisions. These findings point to the idea that during neurogenesis, some brain regions may have greater dependence on ChAHP, and therefore greater vulnerability to genetic mutation. <h4>Summary Statement</h4> To investigate epigenetic processes in retinal development, we conditionally ablated the Adnp and Chd4 subunits of the ChAHP chromatin remodelling complex. Genomic, transcriptomic, and histological analyses reveal that Adnp cooperates with the nucleosome remodeller Chd4 to regulate retinal growth.",
+  "authors": [
+    "Medisetti S",
+    "Kalinina A",
+    "Shah S",
+    "Fayaz MA",
+    "Clémot-Dupont S",
+    "Picketts DJ",
+    "Mattar P"
+  ],
+  "published_date": "2026-11-02",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762969",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762969.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1355749",
+    "raw_record": {
+      "id": "PPR1355749",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.29.762969",
+      "title": "Molecular dissection of the ChAHP complex subunits Adnp and Chd4 reveals common and divergent functions in retinal development",
+      "authorString": "Medisetti S, Kalinina A, Shah S, Fayaz MA, Clémot-Dupont S, Picketts DJ, Mattar P.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Medisetti S",
+            "lastName": "Medisetti",
+            "firstName": "Suma",
+            "initials": "S"
+          },
+          {
+            "fullName": "Kalinina A",
+            "lastName": "Kalinina",
+            "firstName": "Alena",
+            "initials": "A"
+          },
+          {
+            "fullName": "Shah S",
+            "lastName": "Shah",
+            "firstName": "Sujay",
+            "initials": "S"
+          },
+          {
+            "fullName": "Fayaz MA",
+            "lastName": "Fayaz",
+            "firstName": "Mohammad Amin",
+            "initials": "MA"
+          },
+          {
+            "fullName": "Clémot-Dupont S",
+            "lastName": "Clémot-Dupont",
+            "firstName": "Samuel",
+            "initials": "S"
+          },
+          {
+            "fullName": "Picketts DJ",
+            "lastName": "Picketts",
+            "firstName": "David",
+            "initials": "DJ"
+          },
+          {
+            "fullName": "Mattar P",
+            "lastName": "Mattar",
+            "firstName": "Pierre",
+            "initials": "P"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Epigenetic remodelling is thought to regulate the progression of competence states in neural progenitor cells. Here, we examined the functions of the ChAHP chromatin remodelling complex during retinal development. ChAHP consists of the ATP-dependent nucleosome remodeller CHD4, the zinc finger and homeodomain transcription factor ADNP, and the HP1 heterochromatin proteins (Cbx1/3/5). Notably, both  CHD4 and  ADNP are genetically associated with neurodevelopmental disorders (NDDs), but ChAHP functions in neural development are not fully understood. In the retina, we found that both ADNP and CHD4 proteins were co-expressed ubiquitously in each cell type throughout development, and the two proteins formed a complex  in vivo . Next, we generated retina-specific conditional knockouts (cKOs) to both  Adnp and  Chd4 using the  Chx10-Cre driver. We observed phenotypic correspondence and divergence. Developmentally, we observed elevated cell death in both  Adnp and  Chd4 cKOs, but  Adnp cKOs also exhibited deficits in progenitor numbers and proliferation. As a result, mature  Adnp cKOs were hypoplastic with reductions in each cell type. We previously described a more complex phenotype in  Chd4 cKOs, where cell fates were imbalanced and progenitor proliferation was prolonged, but these features were absent from the  Adnp cKO. To understand how ChAHP regulates gene expression, we compared  Adnp and  Chd4 cKOs via scRNA-seq, which revealed common transcriptional signatures. However,  Chd4 cKOs exhibited more severe effects on gene expression in line with its stronger effects on cell fate. We then performed cut&run-seq, which suggested that Adnp and Chd4 are recruited to the same genomic loci – many of which are also occupied by the Ctcf transcription factor. Taken together, our data suggest that ChAHP regulates retinal growth, but that CHD4 has additional ChAHP-independent functions in regulating progenitor fate decisions. These findings point to the idea that during neurogenesis, some brain regions may have greater dependence on ChAHP, and therefore greater vulnerability to genetic mutation.  <h4>Summary Statement</h4>  To investigate epigenetic processes in retinal development, we conditionally ablated the Adnp and Chd4 subunits of the ChAHP chromatin remodelling complex. Genomic, transcriptomic, and histological analyses reveal that Adnp cooperates with the nucleosome remodeller Chd4 to regulate retinal growth.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "New Frontiers in Research Fund",
+            "grantId": "NFRFT-2022-00327",
+            "orderIn": 0
+          },
+          {
+            "agency": "Azrieli Research Program on Neurovascular Development",
+            "orderIn": 0
+          },
+          {
+            "agency": "Canadian Institutes of Health Research",
+            "grantId": "PJT-166032",
+            "orderIn": 0
+          },
+          {
+            "agency": "Eagle’s Foundation for Autism Research",
+            "grantId": "Deciphering the role of chromatin remodelling complexes in ASD etiology",
+            "orderIn": 0
+          },
+          {
+            "agency": "Natural Sciences and Engineering Research Council of Canada",
+            "grantId": "RGPIN-2026-05722",
+            "orderIn": 0
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.29.762969"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by-nc-nd",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-11-03",
+      "firstPublicationDate": "2026-11-02",
+      "firstIndexDate": "2026-11-03",
+      "hasEvaluations": "N"
+    }
+  }
+}

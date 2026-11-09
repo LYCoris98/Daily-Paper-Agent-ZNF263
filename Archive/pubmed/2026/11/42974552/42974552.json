@@ -1,0 +1,184 @@
+{
+  "identity": {
+    "pmid": "42974552",
+    "doi": "10.1093/noajnl/vdag260",
+    "title": "Bromodomain and extra-terminal motif (BET) inhibition induces coordinated repression of the stem cell-related HOX signature in glioblastoma uncovering an epigenetic vulnerability."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Glioblastoma (GB) is the most aggressive primary brain tumor, characterized by therapy resistance, attributed to a multitude of epigenetic changes resulting in phenotypic plasticity with altered cell states. To uncover druggable epigenetic vulnerabilities, we disturbed GB-derived spheres with an inhibitor of Bromodomain and extra-terminal motif proteins (BETi) and observed coordinated repression of the aberrantly activated hemopoietic stem-like cell signature, dominated by HOXA genes. This signature has been associated with poor prognosis and resistance to therapy in GB. Here we investigate the deregulated epigenetic landscape and potential vulnerabilities in high-HOX GB. METHODS: GB-derived spheres (GS) were treated with the BETi (JQ1) or transduced with inducible constructs to genetically modulate HOXA10 expression short-hairpin (sh)RNA for knockdown, ectopic HOXA10). Functional effects were evaluated through proliferation, neurosphere formation, and senescence assays. Epigenomic profiling incorporated RNA-seq, Chromatin Immuno Precipitation sequencing (ChIP-seq), Assay for Transposase-Accessible Chromatin sequencing (ATAC-seq), promoter capture MicroC, and DNA methylation. RESULTS: BETi-mediated rapid, coordinated downregulation of the HOX-signature suggested direct transcriptional regulation. Knockdown of HOXA10 alone yielded similar effects, decreasing expression of HOXA genes, reducing proliferation, self-renewal capacity, and triggering senescence. Conversely, ectopic HOXA10 expression failed to reactivate the HOXA cluster or reverse BETi-mediated biological effects. Integrative epigenomic analysis of high-HOX-GS revealed concerted activation of the HOXA region, with broad domains of H3K27ac/H3K4me3 associated with super-enhancer activity, open chromatin (ATAC), and focal DNA hypomethylation. Architectural changes included altered CCCTC-binding factor (CTCF) interactions and increased promoter-anchored looping. CONCLUSION: These results position the HOX-signature as a potential therapeutic target and offer a mechanistic rationale for disrupting BET-dependent transcriptional regulation in high-HOX GB.",
+    "keywords": [
+      "HOX-signature",
+      "drugability",
+      "epigenetic vulnerability",
+      "glioblastoma",
+      "super-enhancer"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chiesi, Davide",
+        "Bady, Pierre",
+        "Xirouchakis, Mihalis V",
+        "Mendes Ferreira, Carla",
+        "Mohammed, Kedir S",
+        "Hegi, Monika E"
+      ],
+      "short_names": [
+        "Chiesi D",
+        "Bady P",
+        "Xirouchakis MV",
+        "Mendes Ferreira C",
+        "Mohammed KS",
+        "Hegi ME"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4757-6982",
+        "ORCID: 0000-0003-1398-4689",
+        "ORCID: 0009-0007-9956-8091",
+        "ORCID: 0009-0006-0678-6317",
+        "ORCID: 0000-0003-0855-6495"
+      ],
+      "affiliations": [
+        "Neuroscience Research Center and Service of Neurosurgery, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "L. Lundin and Family Brain Tumor Research Center, Department of Oncology, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "L. Lundin and Family Brain Tumor Research Center, Department of Clinical Neurosciences, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "Neuroscience Research Center and Service of Neurosurgery, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "L. Lundin and Family Brain Tumor Research Center, Department of Oncology, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "L. Lundin and Family Brain Tumor Research Center, Department of Clinical Neurosciences, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "Translational Data Science & Biomedical Data Science Center, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland.",
+        "Neuroscience Research Center and Service of Neurosurgery, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "Neuroscience Research Center and Service of Neurosurgery, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "L. Lundin and Family Brain Tumor Research Center, Department of Oncology, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "L. Lundin and Family Brain Tumor Research Center, Department of Clinical Neurosciences, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "Neuroscience Research Center and Service of Neurosurgery, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "Neuroscience Research Center and Service of Neurosurgery, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "L. Lundin and Family Brain Tumor Research Center, Department of Oncology, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+        "L. Lundin and Family Brain Tumor Research Center, Department of Clinical Neurosciences, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chiesi, Davide",
+        "short_name": "Chiesi D",
+        "identifiers": [
+          "0000-0003-4757-6982"
+        ],
+        "affiliations": [
+          "Neuroscience Research Center and Service of Neurosurgery, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+          "L. Lundin and Family Brain Tumor Research Center, Department of Oncology, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+          "L. Lundin and Family Brain Tumor Research Center, Department of Clinical Neurosciences, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Bady, Pierre",
+        "short_name": "Bady P",
+        "identifiers": [
+          "0000-0003-1398-4689"
+        ],
+        "affiliations": [
+          "Neuroscience Research Center and Service of Neurosurgery, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+          "L. Lundin and Family Brain Tumor Research Center, Department of Oncology, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+          "L. Lundin and Family Brain Tumor Research Center, Department of Clinical Neurosciences, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+          "Translational Data Science & Biomedical Data Science Center, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+          "SIB Swiss Institute of Bioinformatics, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Xirouchakis, Mihalis V",
+        "short_name": "Xirouchakis MV",
+        "identifiers": [
+          "0009-0007-9956-8091"
+        ],
+        "affiliations": [
+          "Neuroscience Research Center and Service of Neurosurgery, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Mendes Ferreira, Carla",
+        "short_name": "Mendes Ferreira C",
+        "identifiers": [],
+        "affiliations": [
+          "Neuroscience Research Center and Service of Neurosurgery, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+          "L. Lundin and Family Brain Tumor Research Center, Department of Oncology, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+          "L. Lundin and Family Brain Tumor Research Center, Department of Clinical Neurosciences, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Mohammed, Kedir S",
+        "short_name": "Mohammed KS",
+        "identifiers": [
+          "0009-0006-0678-6317"
+        ],
+        "affiliations": [
+          "Neuroscience Research Center and Service of Neurosurgery, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Hegi, Monika E",
+        "short_name": "Hegi ME",
+        "identifiers": [
+          "0000-0003-0855-6495"
+        ],
+        "affiliations": [
+          "Neuroscience Research Center and Service of Neurosurgery, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+          "L. Lundin and Family Brain Tumor Research Center, Department of Oncology, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland.",
+          "L. Lundin and Family Brain Tumor Research Center, Department of Clinical Neurosciences, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Neuro-oncology advances"
+    ],
+    "journal_abbrev": [
+      "Neurooncol Adv"
+    ],
+    "pub_date": "2026 Jan-Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 12:05",
+    "fetched_at": "2026-11-09 08:02:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42974552"
+    ],
+    "review": [
+      "42974552"
+    ],
+    "pmc": [
+      "13726806"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42974552/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/noa/article-lookup/doi/10.1093/noajnl/vdag260",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

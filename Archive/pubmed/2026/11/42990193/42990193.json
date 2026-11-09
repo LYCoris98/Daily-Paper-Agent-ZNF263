@@ -1,0 +1,394 @@
+{
+  "identity": {
+    "pmid": "42990193",
+    "doi": "10.64898/2026.10.26.761423",
+    "title": "Histone modifications define distinct nucleosome positions in cell-free DNA."
+  },
+  "content": {
+    "abstract": "Circulating cell-free DNA (cfDNA) fragmentation patterns reflect nucleosome positioning. We asked whether variation in nucleosome positions in cfDNA can reveal chromatin states and associated histone modifications. Using cell-free chromatin immunoprecipitation sequencing (cfChIP-seq) in plasma from patients with prostate cancer, we identified 35,120 modification-associated positions (MAPs), loci where nucleosomes bearing active (H3K4me2) and repressive (H3K9me3) histone marks occupy reproducibly offset positions. These offsets recurred across histone marks, an independent cfChIP-seq cohort, and nuclease-digested chromatin from cell lines. MAPs were enriched in transcribed genes but depleted near transcription start sites and CTCF-binding sites where nucleosome positioning is constrained. Across 2,535 cfDNA sequencing datasets, nucleosome protection at a subset of MAPs correlated with tumor fraction (TF), reflecting differences in histone modification status between cancer-derived and non-malignant chromatin. In targeted sequencing panels, a 50-MAP model using fragments from < 0.001% of the genome distinguished samples with tumor fractions >/=3% vs 0% (AUCs = 0.91-0.96 across prostate, breast, and lung cancers) and outperformed a state-of-the-art fragmentomics-based tumor fraction predictor. MAP-derived estimates correlated with reference TFs (r = 0.89) and longitudinal changes in TF (r = 0.91). MAP protection at ASCL1 binding sites identified neuroendocrine transformation of prostate cancer from cfDNA. These findings establish histone-modification-associated nucleosome positioning as a mutation-independent readout of tumor fraction and cancer state from routine cfDNA sequencing.",
+    "keywords": [
+      "H3K4me2",
+      "H3K9me3",
+      "breast cancer",
+      "cell-free DNA",
+      "cfChIP-seq",
+      "fragmentomics",
+      "hybrid capture",
+      "liquid biopsy",
+      "lung cancer",
+      "neuroendocrine prostate cancer",
+      "nucleosome positioning",
+      "prostate cancer",
+      "tumor fraction"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ou, Yukun",
+        "Gulati, Gunsagar S",
+        "Tyndall, Caroline F",
+        "Pandey, Medha",
+        "Seo, Ji-Heui",
+        "Zhang, Ze",
+        "Jin, Zhenjie",
+        "Lee, Garyoung Gary",
+        "Nawfal, Rashad",
+        "Hoggood, Taylor A",
+        "Shahbazi, Sadia D",
+        "Ludwig, John",
+        "Zhang, Ziwei",
+        "Ibrahim, Elio",
+        "Nafeh, Gaelle",
+        "Berchuck, Jacob E",
+        "Sowalsky, Adam G",
+        "Karzai, Fatima",
+        "Freedman, Matthew L",
+        "Takeda, David Y",
+        "Baca, Sylvan C"
+      ],
+      "short_names": [
+        "Ou Y",
+        "Gulati GS",
+        "Tyndall CF",
+        "Pandey M",
+        "Seo JH",
+        "Zhang Z",
+        "Jin Z",
+        "Lee GG",
+        "Nawfal R",
+        "Hoggood TA",
+        "Shahbazi SD",
+        "Ludwig J",
+        "Zhang Z",
+        "Ibrahim E",
+        "Nafeh G",
+        "Berchuck JE",
+        "Sowalsky AG",
+        "Karzai F",
+        "Freedman ML",
+        "Takeda DY",
+        "Baca SC"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Medical School, Boston, MA, USA.",
+        "Genitourinary Malignancies Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Medical School, Boston, MA, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Medical School, Boston, MA, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Medical School, Boston, MA, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Medical School, Boston, MA, USA.",
+        "Winship Cancer Institute of Emory University, Atlanta, GA, USA.",
+        "Winship Cancer Institute of Emory University, Atlanta, GA, USA.",
+        "Winship Cancer Institute of Emory University, Atlanta, GA, USA.",
+        "Harvard T.H. Chan School of Public Health, Boston, MA, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Medical School, Boston, MA, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Medical School, Boston, MA, USA.",
+        "Winship Cancer Institute of Emory University, Atlanta, GA, USA.",
+        "Genitourinary Malignancies Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA.",
+        "Genitourinary Malignancies Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Medical School, Boston, MA, USA.",
+        "Lank Center for Genitourinary Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Genitourinary Malignancies Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA.",
+        "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+        "Harvard Medical School, Boston, MA, USA.",
+        "Lank Center for Genitourinary Oncology, Dana-Farber Cancer Institute, Boston, MA, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ou, Yukun",
+        "short_name": "Ou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Gulati, Gunsagar S",
+        "short_name": "Gulati GS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Tyndall, Caroline F",
+        "short_name": "Tyndall CF",
+        "identifiers": [],
+        "affiliations": [
+          "Genitourinary Malignancies Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Pandey, Medha",
+        "short_name": "Pandey M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Seo, Ji-Heui",
+        "short_name": "Seo JH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ze",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Jin, Zhenjie",
+        "short_name": "Jin Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Lee, Garyoung Gary",
+        "short_name": "Lee GG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Nawfal, Rashad",
+        "short_name": "Nawfal R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Hoggood, Taylor A",
+        "short_name": "Hoggood TA",
+        "identifiers": [],
+        "affiliations": [
+          "Winship Cancer Institute of Emory University, Atlanta, GA, USA."
+        ]
+      },
+      {
+        "full_name": "Shahbazi, Sadia D",
+        "short_name": "Shahbazi SD",
+        "identifiers": [],
+        "affiliations": [
+          "Winship Cancer Institute of Emory University, Atlanta, GA, USA."
+        ]
+      },
+      {
+        "full_name": "Ludwig, John",
+        "short_name": "Ludwig J",
+        "identifiers": [],
+        "affiliations": [
+          "Winship Cancer Institute of Emory University, Atlanta, GA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ziwei",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Harvard T.H. Chan School of Public Health, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Ibrahim, Elio",
+        "short_name": "Ibrahim E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Nafeh, Gaelle",
+        "short_name": "Nafeh G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Medical School, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Berchuck, Jacob E",
+        "short_name": "Berchuck JE",
+        "identifiers": [],
+        "affiliations": [
+          "Winship Cancer Institute of Emory University, Atlanta, GA, USA."
+        ]
+      },
+      {
+        "full_name": "Sowalsky, Adam G",
+        "short_name": "Sowalsky AG",
+        "identifiers": [],
+        "affiliations": [
+          "Genitourinary Malignancies Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Karzai, Fatima",
+        "short_name": "Karzai F",
+        "identifiers": [],
+        "affiliations": [
+          "Genitourinary Malignancies Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Freedman, Matthew L",
+        "short_name": "Freedman ML",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Medical School, Boston, MA, USA.",
+          "Lank Center for Genitourinary Oncology, Dana-Farber Cancer Institute, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Takeda, David Y",
+        "short_name": "Takeda DY",
+        "identifiers": [],
+        "affiliations": [
+          "Genitourinary Malignancies Branch, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Baca, Sylvan C",
+        "short_name": "Baca SC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Center for Functional Cancer Epigenetics, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.",
+          "Harvard Medical School, Boston, MA, USA.",
+          "Lank Center for Genitourinary Oncology, Dana-Farber Cancer Institute, Boston, MA, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 11:33",
+    "fetched_at": "2026-11-09 08:02:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42990193"
+    ],
+    "review": [
+      "42990193"
+    ],
+    "pmc": [
+      "13733833"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42990193/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.10.26.761423",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

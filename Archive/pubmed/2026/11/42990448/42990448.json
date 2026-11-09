@@ -1,0 +1,151 @@
+{
+  "identity": {
+    "pmid": "42990448",
+    "doi": "10.64898/2026.10.27.762201",
+    "title": "Engineered Tn5 Variants Enhance CUT&Tag Fidelity for Transcription Factors."
+  },
+  "content": {
+    "abstract": "The CUT&Tag method performs exceptionally well for profiling histone modifications, but mapping sequence-specific transcription factors (TFs) is complicated by intrinsic Tn5 activity at accessible DNA, and the high-salt washes used to suppress this activity can destabilize TF-chromatin interactions. We engineered the Tn5 DNA-binding channel to attenuate target-DNA engagement by replacing individual positively charged amino acids with neutral amino acids. We identified a \"Goldilocks\" variant (K160A) with intermediate attenuation that improved recovery of GATA2 motif-containing sites under low-salt CUT&Tag and KCl-based DynaTag conditions. A second variant (K249A) had improved performance for profiling CTCF over less accessible sites characterized by sharply focused short-fragment enrichment. By comparing the K160A and K249A variants, this TF-CUT&Tag assay provides a physical readout of the local chromatin environment at TF binding sites. Applying K160A TF-CUT&Tag to pluripotency-associated TFs in mouse embryonic stem cells increased recovery across their genomic binding landscapes while preserving factor-specific motif architectures. During skeletal muscle differentiation, TF-CUT&Tag improved recovery of MyoG and Pax7 occupancy relative to standard CUT&Tag, revealing strongly motif-enriched MyoG binding and a shift in Pax7 binding from CpG-rich promoters in progenitors toward Pax7 motif-enriched sites during differentiation. Together, these results show that TF-CUT&Tag captures distinct modes of TF- chromatin interaction, including motif-directed binding sites and more salt-sensitive sites that may depend on lower-affinity DNA recognition or protein-protein interactions and are difficult to predict from DNA sequence alone.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Piper, Lola",
+        "Baird, Emma",
+        "Ashbaugh, Harry J",
+        "Pentecost, Olivia A",
+        "Nowinski, Sara M",
+        "Janssens, Derek H"
+      ],
+      "short_names": [
+        "Piper L",
+        "Baird E",
+        "Ashbaugh HJ",
+        "Pentecost OA",
+        "Nowinski SM",
+        "Janssens DH"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-4275-2385",
+        "ORCID: 0009-0007-1002-7580",
+        "ORCID: 0009-0000-8015-8331",
+        "ORCID: 0009-0003-7643-792X",
+        "ORCID: 0000-0002-4744-6101",
+        "ORCID: 0000-0003-1079-9525"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Piper, Lola",
+        "short_name": "Piper L",
+        "identifiers": [
+          "0009-0002-4275-2385"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Baird, Emma",
+        "short_name": "Baird E",
+        "identifiers": [
+          "0009-0007-1002-7580"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ashbaugh, Harry J",
+        "short_name": "Ashbaugh HJ",
+        "identifiers": [
+          "0009-0000-8015-8331"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Pentecost, Olivia A",
+        "short_name": "Pentecost OA",
+        "identifiers": [
+          "0009-0003-7643-792X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nowinski, Sara M",
+        "short_name": "Nowinski SM",
+        "identifiers": [
+          "0000-0002-4744-6101"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Janssens, Derek H",
+        "short_name": "Janssens DH",
+        "identifiers": [
+          "0000-0003-1079-9525"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 11:33",
+    "fetched_at": "2026-11-09 08:02:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42990448"
+    ],
+    "review": [
+      "42990448"
+    ],
+    "pmc": [
+      "13733980"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42990448/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1157",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.10.27.762201",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

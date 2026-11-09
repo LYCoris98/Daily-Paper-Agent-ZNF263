@@ -1,0 +1,183 @@
+{
+  "identity": {
+    "pmid": "42999202",
+    "doi": "10.64898/2026.10.14.759128",
+    "title": "Guanine content in the CTCF motif encodes a vulnerability to persistent, alcohol-induced redistribution."
+  },
+  "content": {
+    "abstract": "Alcohol consumption is a leading contributor to the global disease burden, yet its molecular consequences remain incompletely understood. Ethanol's first metabolite, acetaldehyde, modifies guanine to form DNA adducts and DNA-protein crosslinks that block elongating RNA polymerase II. Because acetaldehyde acts specifically on guanine, we hypothesized that chromatin features would be disrupted in a sequence-dependent rather than stochastic manner. Here we confirm that alcohol exposure displaces elongating RNA polymerase II (RNAPIIs2p) from gene bodies, relocating to promoters. In addition to this confirmation, we found that RNAPIIs2p also relocates to discrete guanine-rich intergenic CTCF sites. Loci with high guanine content at the CTCF motif's zinc finger 5 (ZF5) binding position showed the largest increase in both CTCF and cohesin (RAD21), with CTCF occupancy changes persisting even six days after alcohol withdrawal. Surprisingly, using Hi-C, we found that these changes to CTCF and cohesin do not impact the pronounced structural CTCF loops, but are instead primarily associated with altered guanine-rich enhancer-promoter contacts that connect to lasting changes to gene expression. Beyond our cell-line model, the same sequence rule accounts for altered CTCF occupancy in a mouse starvation (metabolic stress) model and in the placentae after paternal alcohol exposure. Together these findings link alcohol exposure to sequence-directed changes to chromatin whose rules are conserved in alcohol-associated disease.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nolan, Ben",
+        "Puspo, Joynob A",
+        "Querry-Peterson, Iesha M",
+        "Maurina, Stephanie",
+        "Wright, Rebecca A",
+        "Schmitz, Allyson",
+        "Jacobsen, Lauren E",
+        "Ortiz, Coralmarie",
+        "Reznicek, Timothy E",
+        "Ethell, Alexander",
+        "Harris, Hannah L",
+        "Cummings, Christopher T",
+        "Rowley, M Jordan"
+      ],
+      "short_names": [
+        "Nolan B",
+        "Puspo JA",
+        "Querry-Peterson IM",
+        "Maurina S",
+        "Wright RA",
+        "Schmitz A",
+        "Jacobsen LE",
+        "Ortiz C",
+        "Reznicek TE",
+        "Ethell A",
+        "Harris HL",
+        "Cummings CT",
+        "Rowley MJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6084-7647",
+        "ORCID: 0000-0001-8324-178X",
+        "ORCID: 0009-0007-3630-2886",
+        "ORCID: 0000-0002-6047-4115",
+        "ORCID: 0000-0002-2978-2494",
+        "ORCID: 0000-0002-5135-9596"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Nolan, Ben",
+        "short_name": "Nolan B",
+        "identifiers": [
+          "0000-0002-6084-7647"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Puspo, Joynob A",
+        "short_name": "Puspo JA",
+        "identifiers": [
+          "0000-0001-8324-178X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Querry-Peterson, Iesha M",
+        "short_name": "Querry-Peterson IM",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Maurina, Stephanie",
+        "short_name": "Maurina S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wright, Rebecca A",
+        "short_name": "Wright RA",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Schmitz, Allyson",
+        "short_name": "Schmitz A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jacobsen, Lauren E",
+        "short_name": "Jacobsen LE",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ortiz, Coralmarie",
+        "short_name": "Ortiz C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Reznicek, Timothy E",
+        "short_name": "Reznicek TE",
+        "identifiers": [
+          "0009-0007-3630-2886"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ethell, Alexander",
+        "short_name": "Ethell A",
+        "identifiers": [
+          "0000-0002-6047-4115"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Harris, Hannah L",
+        "short_name": "Harris HL",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cummings, Christopher T",
+        "short_name": "Cummings CT",
+        "identifiers": [
+          "0000-0002-2978-2494"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Rowley, M Jordan",
+        "short_name": "Rowley MJ",
+        "identifiers": [
+          "0000-0002-5135-9596"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/08 10:33",
+    "fetched_at": "2026-11-09 08:02:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42999202"
+    ],
+    "review": [
+      "42999202"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

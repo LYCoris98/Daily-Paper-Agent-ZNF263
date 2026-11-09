@@ -1,0 +1,24 @@
+{
+  "source": "biorxiv",
+  "id": "10.64898/2026.10.29.762969",
+  "title": "Molecular dissection of the ChAHP complex subunits Adnp and Chd4 reveals common and divergent functions in retinal development",
+  "authors": "Medisetti S; Kalinina A; Shah S; Fayaz MA; Clémot-Dupont S; Picketts DJ; Mattar P",
+  "journal": "bioRxiv",
+  "published_date": "2026-11-02",
+  "window": {
+    "start": "2026-11-02",
+    "end": "2026-11-08"
+  },
+  "score": 7,
+  "one_liner_zh": "该文通过视网膜条件敲除解析ChAHP复合物亚基Adnp和Chd4的共性与差异功能，虽非直接研究cpcdh基因家族，但其染色质重塑与神经发育机制可为本课题提供借鉴。",
+  "abstract": "Epigenetic remodelling is thought to regulate the progression of competence states in neural progenitor cells. Here, we examined the functions of the ChAHP chromatin remodelling complex during retinal development. ChAHP consists of the ATP-dependent nucleosome remodeller CHD4, the zinc finger and homeodomain transcription factor ADNP, and the HP1 heterochromatin proteins (Cbx1/3/5). Notably, both CHD4 and ADNP are genetically associated with neurodevelopmental disorders (NDDs), but ChAHP functions in neural development are not fully understood. In the retina, we found that both ADNP and CHD4 proteins were co-expressed ubiquitously in each cell type throughout development, and the two proteins formed a complex in vivo . Next, we generated retina-specific conditional knockouts (cKOs) to both Adnp and Chd4 using the Chx10-Cre driver. We observed phenotypic correspondence and divergence. Developmentally, we observed elevated cell death in both Adnp and Chd4 cKOs, but Adnp cKOs also exhibited deficits in progenitor numbers and proliferation. As a result, mature Adnp cKOs were hypoplastic with reductions in each cell type. We previously described a more complex phenotype in Chd4 cKOs, where cell fates were imbalanced and progenitor proliferation was prolonged, but these features were absent from the Adnp cKO. To understand how ChAHP regulates gene expression, we compared Adnp and Chd4 cKOs via scRNA-seq, which revealed common transcriptional signatures. However, Chd4 cKOs exhibited more severe effects on gene expression in line with its stronger effects on cell fate. We then performed cut&run-seq, which suggested that Adnp and Chd4 are recruited to the same genomic loci – many of which are also occupied by the Ctcf transcription factor. Taken together, our data suggest that ChAHP regulates retinal growth, but that CHD4 has additional ChAHP-independent functions in regulating progenitor fate decisions. These findings point to the idea that during neurogenesis, some brain regions may have greater dependence on ChAHP, and therefore greater vulnerability to genetic mutation. <h4>Summary Statement</h4> To investigate epigenetic processes in retinal development, we conditionally ablated the Adnp and Chd4 subunits of the ChAHP chromatin remodelling complex. Genomic, transcriptomic, and histological analyses reveal that Adnp cooperates with the nucleosome remodeller Chd4 to regulate retinal growth.",
+  "abstract_zh": "表观遗传重塑被认为调控神经祖细胞能力状态的进程。在此，我们研究了ChAHP染色质重塑复合物在视网膜发育中的功能。ChAHP由ATP依赖性核小体重塑因子CHD4、锌指和同源域转录因子ADNP，以及HP1异染色质蛋白（Cbx1/3/5）组成。值得注意的是，CHD4和ADNP均与神经发育障碍（NDDs）存在遗传关联，但ChAHP在神经发育中的功能尚未完全阐明。在视网膜中，我们发现ADNP和CHD4蛋白在发育过程中各细胞类型中普遍共表达，且这两种蛋白在体内形成复合物。接下来，我们利用Chx10-Cre驱动因子生成了针对Adnp和Chd4的视网膜特异性条件敲除（cKOs）。我们观察到表型的一致性与差异性。在发育方面，我们在Adnp和Chd4 cKOs中均观察到细胞死亡增加，但Adnp cKOs还表现出祖细胞数量和增殖的缺陷。因此，成熟的Adnp cKOs表现为发育不全，各细胞类型均减少。我们先前描述了Chd4 cKOs中更复杂的表型，其中细胞命运失衡且祖细胞增殖延长，但这些特征在Adnp cKO中缺失。为了理解ChAHP如何调控基因表达，我们通过scRNA-seq比较了Adnp和Chd4 cKOs，揭示了共同的转录特征。然而，Chd4 cKOs对基因表达的影响更为严重，与其对细胞命运的更强效应一致。随后，我们进行了cut&run-seq，结果表明Adnp和Chd4被招募到相同的基因组位点——其中许多位点也被Ctcf转录因子占据。综合来看，我们的数据表明ChAHP调控视网膜生长，但CHD4在调控祖细胞命运决定中具有额外的ChAHP非依赖性功能。这些发现提示，在神经发生过程中，某些脑区可能对ChAHP有更大的依赖性，因此对基因突变更为脆弱。<h4>摘要声明</h4>为研究视网膜发育中的表观遗传过程，我们条件性敲除了ChAHP染色质重塑复合物的Adnp和Chd4亚基。基因组、转录组和组织学分析揭示，Adnp与核小体重塑因子Chd4协同调控视网膜生长。",
+  "has_fulltext": true,
+  "fulltext_source": "europepmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762969",
+  "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762969",
+  "paper_page_path": "papers/biorxiv/10.64898_2026.10.29.762969/index.html"
+}

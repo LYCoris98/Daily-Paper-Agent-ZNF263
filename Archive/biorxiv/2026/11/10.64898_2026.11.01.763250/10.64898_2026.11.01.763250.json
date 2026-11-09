@@ -1,0 +1,250 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.01.763250",
+  "title": "NAD Metabolism Drives CTCF-Cohesin Chromatin Regulation in EBV-Transformed B-Cells",
+  "doi": "10.64898/2026.11.01.763250",
+  "abstract": "<h4>Summary</h4> Chromatin architecture regulates gene expression, and it is maintained by architectural proteins such as CTCF and the cohesin complex. In Epstein–Barr virus infected cells, viral chromatin organization is stabilized through the interaction between PARP1 and CTCF, ensuring maintenance of latent gene expression. EBV⁺ B cells exhibit elevated PARP1 activity, which imposes a substantial metabolic burden due to NAD⁺ consumption by PARP1 itself. We demonstrate that efficient EBV infection and B-cell transformation rely on the NAD salvage pathway to sustain PARP1 activity and CTCF-cohesin chromatin folding. Pharmacologic inhibition of the rate-limiting enzyme NAMPT with FK866 phenocopies the chromatin architectural disruption induced by PARP1 and changes in NAD levels affects CTCF/cohesin chromatin architectural remodeling and loop extrusion. Moreover, NAMPT inhibition reduces tumor burden in EBV⁺ xenograft models. These findings identify a critical metabolic dependency linking NAD⁺ homeostasis to CTCF/cohesin mediated chromatin architecture and reveal a therapeutic vulnerability in EBV-associated malignancies.",
+  "authors": [
+    "Maestri D",
+    "Sklutuis R",
+    "Caruso LB",
+    "Preston-Alp S",
+    "Gatto M",
+    "Soldan SS",
+    "Park P",
+    "Melick L",
+    "Corveleyn L",
+    "Sidoli S",
+    "Kossenkov A",
+    "Goldman AR",
+    "Zhang W",
+    "Tang H",
+    "Napoletani G",
+    "Liao Y",
+    "Lieberman PM",
+    "Gewurz BE",
+    "Tempera I"
+  ],
+  "published_date": "2026-11-02",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763250",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.01.763250.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1357807",
+    "raw_record": {
+      "id": "PPR1357807",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.01.763250",
+      "title": "NAD Metabolism Drives CTCF-Cohesin Chromatin Regulation in EBV-Transformed B-Cells",
+      "authorString": "Maestri D, Sklutuis R, Caruso LB, Preston-Alp S, Gatto M, Soldan SS, Park P, Melick L, Corveleyn L, Sidoli S, Kossenkov A, Goldman AR, Zhang W, Tang H, Napoletani G, Liao Y, Lieberman PM, Gewurz BE, Tempera I.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Maestri D",
+            "lastName": "Maestri",
+            "firstName": "Davide",
+            "initials": "D"
+          },
+          {
+            "fullName": "Sklutuis R",
+            "lastName": "Sklutuis",
+            "firstName": "Rachel",
+            "initials": "R"
+          },
+          {
+            "fullName": "Caruso LB",
+            "lastName": "Caruso",
+            "firstName": "Lisa Beatrice",
+            "initials": "LB"
+          },
+          {
+            "fullName": "Preston-Alp S",
+            "lastName": "Preston-Alp",
+            "firstName": "Sarah",
+            "initials": "S"
+          },
+          {
+            "fullName": "Gatto M",
+            "lastName": "Gatto",
+            "firstName": "Martina",
+            "initials": "M"
+          },
+          {
+            "fullName": "Soldan SS",
+            "lastName": "Soldan",
+            "firstName": "Samantha",
+            "initials": "SS"
+          },
+          {
+            "fullName": "Park P",
+            "lastName": "Park",
+            "firstName": "Pyounghwa",
+            "initials": "P"
+          },
+          {
+            "fullName": "Melick L",
+            "lastName": "Melick",
+            "firstName": "Lauren",
+            "initials": "L"
+          },
+          {
+            "fullName": "Corveleyn L",
+            "lastName": "Corveleyn",
+            "firstName": "Laura",
+            "initials": "L"
+          },
+          {
+            "fullName": "Sidoli S",
+            "lastName": "Sidoli",
+            "firstName": "Simone",
+            "initials": "S"
+          },
+          {
+            "fullName": "Kossenkov A",
+            "lastName": "Kossenkov",
+            "firstName": "Andrew",
+            "initials": "A"
+          },
+          {
+            "fullName": "Goldman AR",
+            "lastName": "Goldman",
+            "firstName": "Aaron",
+            "initials": "AR"
+          },
+          {
+            "fullName": "Zhang W",
+            "lastName": "Zhang",
+            "firstName": "Wujuan",
+            "initials": "W"
+          },
+          {
+            "fullName": "Tang H",
+            "lastName": "Tang",
+            "firstName": "Hsin-Yao",
+            "initials": "H"
+          },
+          {
+            "fullName": "Napoletani G",
+            "lastName": "Napoletani",
+            "firstName": "Giorgia",
+            "initials": "G"
+          },
+          {
+            "fullName": "Liao Y",
+            "lastName": "Liao",
+            "firstName": "Yifei",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Lieberman PM",
+            "lastName": "Lieberman",
+            "firstName": "Paul",
+            "initials": "PM"
+          },
+          {
+            "fullName": "Gewurz BE",
+            "lastName": "Gewurz",
+            "firstName": "Benjamin",
+            "initials": "BE"
+          },
+          {
+            "fullName": "Tempera I",
+            "lastName": "Tempera",
+            "firstName": "Italo",
+            "initials": "I"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Summary</h4>  Chromatin architecture regulates gene expression, and it is maintained by architectural proteins such as CTCF and the cohesin complex. In Epstein–Barr virus infected cells, viral chromatin organization is stabilized through the interaction between PARP1 and CTCF, ensuring maintenance of latent gene expression. EBV⁺ B cells exhibit elevated PARP1 activity, which imposes a substantial metabolic burden due to NAD⁺ consumption by PARP1 itself. We demonstrate that efficient EBV infection and B-cell transformation rely on the NAD salvage pathway to sustain PARP1 activity and CTCF-cohesin chromatin folding. Pharmacologic inhibition of the rate-limiting enzyme NAMPT with FK866 phenocopies the chromatin architectural disruption induced by PARP1 and changes in NAD levels affects CTCF/cohesin chromatin architectural remodeling and loop extrusion. Moreover, NAMPT inhibition reduces tumor burden in EBV⁺ xenograft models. These findings identify a critical metabolic dependency linking NAD⁺ homeostasis to CTCF/cohesin mediated chromatin architecture and reveal a therapeutic vulnerability in EBV-associated malignancies.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "NIH",
+            "grantId": "R01AI130209",
+            "orderIn": 0
+          },
+          {
+            "agency": "NIH",
+            "grantId": "R01DE033907",
+            "orderIn": 0
+          },
+          {
+            "agency": "NIH",
+            "grantId": "P01CA269043",
+            "orderIn": 0
+          },
+          {
+            "agency": "NIH",
+            "grantId": "P30CA010815",
+            "orderIn": 0
+          },
+          {
+            "agency": "NIH",
+            "grantId": "T32CA009171",
+            "orderIn": 0
+          },
+          {
+            "agency": "NIH",
+            "grantId": "R50CA221838",
+            "orderIn": 0
+          },
+          {
+            "agency": "NIH Office of Director",
+            "grantId": "S10OD030286",
+            "orderIn": 0
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.11.01.763250"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-11-04",
+      "firstPublicationDate": "2026-11-02",
+      "firstIndexDate": "2026-11-04",
+      "hasEvaluations": "N"
+    }
+  }
+}

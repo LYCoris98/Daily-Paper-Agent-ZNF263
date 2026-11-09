@@ -1,0 +1,141 @@
+{
+  "identity": {
+    "pmid": "42976863",
+    "doi": "10.1016/j.molcel.2026.10.009",
+    "title": "An SMN2 splicing-correcting antisense oligonucleotide promotes gene looping and transcription activation."
+  },
+  "content": {
+    "abstract": "We have previously proposed a combined therapy for spinal muscular atrophy based on the upregulation of exon 7 (E7) inclusion into SMN2 mRNA by the antisense oligonucleotide nusinersen (ASO1) together with histone deacetylase inhibitors (HDACi). Using a CRISPR-deadCas-based strategy in a human cell line, we show here that targeting histone acetylation at the SMN2 E7 region duplicates the HDACi effect, which overcomes pleiotropic effects. Most noticeably, targeted acetylation at the E7 region causes acetylation and activation of the 30-kbp-distant promoter. Since the nusinersen target site maps near the SMN2 gene 3' end, this crosstalk between the two ends of the gene prompted us to use chromosome conformation analysis (3C) to find that ASO1 promotes gene looping. This unpredicted property of ASOs in modulating chromatin 3D configuration depends on cohesin, CTCF, cleavage/polyadenylation factors, and a canonical poly(A) signal and causes promoter activation at a long distance, which expands the therapeutic potential of splicing-correcting ASOs.",
+    "keywords": [
+      "alternative splicing",
+      "antisense oligonucleotide therapy",
+      "chromatin 3D structure",
+      "cleavage/polyadenylation factors",
+      "gene looping",
+      "spinal muscular atrophy",
+      "transcriptional activation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Stigliano, Jose N",
+        "Haberfeld, Emilia",
+        "Marasco, Luciano E",
+        "Fiszbein, Ana",
+        "Proudfoot, Nick J",
+        "Kornblihtt, Alberto R"
+      ],
+      "short_names": [
+        "Stigliano JN",
+        "Haberfeld E",
+        "Marasco LE",
+        "Fiszbein A",
+        "Proudfoot NJ",
+        "Kornblihtt AR"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Fisiologia, Biologia Molecular y Celular, 1428 Buenos Aires, Argentina; CONICET-Universidad de Buenos Aires, Instituto de Fisiologia, Biologia Molecular y Neurociencias (IFIBYNE), 1428 Buenos Aires, Argentina.",
+        "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Fisiologia, Biologia Molecular y Celular, 1428 Buenos Aires, Argentina; CONICET-Universidad de Buenos Aires, Instituto de Fisiologia, Biologia Molecular y Neurociencias (IFIBYNE), 1428 Buenos Aires, Argentina.",
+        "Sir William Dunn School of Pathology, University of Oxford, Oxford OX13RE, UK.",
+        "Biology Department, Boston University, Boston, MA 02215, USA.",
+        "Sir William Dunn School of Pathology, University of Oxford, Oxford OX13RE, UK.",
+        "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Fisiologia, Biologia Molecular y Celular, 1428 Buenos Aires, Argentina; CONICET-Universidad de Buenos Aires, Instituto de Fisiologia, Biologia Molecular y Neurociencias (IFIBYNE), 1428 Buenos Aires, Argentina. Electronic address: ark@fbmc.fcen.uba.ar."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Stigliano, Jose N",
+        "short_name": "Stigliano JN",
+        "identifiers": [],
+        "affiliations": [
+          "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Fisiología, Biología Molecular y Celular, 1428 Buenos Aires, Argentina; CONICET-Universidad de Buenos Aires, Instituto de Fisiología, Biología Molecular y Neurociencias (IFIBYNE), 1428 Buenos Aires, Argentina."
+        ]
+      },
+      {
+        "full_name": "Haberfeld, Emilia",
+        "short_name": "Haberfeld E",
+        "identifiers": [],
+        "affiliations": [
+          "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Fisiología, Biología Molecular y Celular, 1428 Buenos Aires, Argentina; CONICET-Universidad de Buenos Aires, Instituto de Fisiología, Biología Molecular y Neurociencias (IFIBYNE), 1428 Buenos Aires, Argentina."
+        ]
+      },
+      {
+        "full_name": "Marasco, Luciano E",
+        "short_name": "Marasco LE",
+        "identifiers": [],
+        "affiliations": [
+          "Sir William Dunn School of Pathology, University of Oxford, Oxford OX13RE, UK."
+        ]
+      },
+      {
+        "full_name": "Fiszbein, Ana",
+        "short_name": "Fiszbein A",
+        "identifiers": [],
+        "affiliations": [
+          "Biology Department, Boston University, Boston, MA 02215, USA."
+        ]
+      },
+      {
+        "full_name": "Proudfoot, Nick J",
+        "short_name": "Proudfoot NJ",
+        "identifiers": [],
+        "affiliations": [
+          "Sir William Dunn School of Pathology, University of Oxford, Oxford OX13RE, UK."
+        ]
+      },
+      {
+        "full_name": "Kornblihtt, Alberto R",
+        "short_name": "Kornblihtt AR",
+        "identifiers": [],
+        "affiliations": [
+          "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Fisiología, Biología Molecular y Celular, 1428 Buenos Aires, Argentina; CONICET-Universidad de Buenos Aires, Instituto de Fisiología, Biología Molecular y Neurociencias (IFIBYNE), 1428 Buenos Aires, Argentina. Electronic address: ark@fbmc.fcen.uba.ar."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular cell"
+    ],
+    "journal_abbrev": [
+      "Mol Cell"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/03 23:27",
+    "fetched_at": "2026-11-09 08:02:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42976863"
+    ],
+    "review": [
+      "42976863"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1097-2765(26)00714-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

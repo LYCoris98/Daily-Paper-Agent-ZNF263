@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42989074",
+  "title": "G‑quadruplexes as regulatory platforms for human transcription factors: insights from ChIP-seq data.",
+  "authors": "Drapalova, Karolina; Dobrovolna, Michaela; Kledus, Filip; Mergny, Jean-Louis; Brazda, Vaclav",
+  "journal": "BMC genomics",
+  "published_date": "2026-11-06",
+  "window": {
+    "start": "2026-11-02",
+    "end": "2026-11-08"
+  },
+  "score": 4,
+  "one_liner_zh": "该文研究G-四链体与转录因子的相互作用，与cpcdh基因家族无直接关联，但涉及基因调控机制，可作边缘参考。",
+  "abstract": "BACKGROUND: G-quadruplexes (G4s) are non-canonical DNA structures with important regulatory functions. While several transcription factors have been shown to interact with G4s, a comprehensive understanding of this interaction network remains elusive. RESULTS: Here, we integrated genome-wide predictions of highly stable G-quadruplex sequences with 32,817 ChIP-seq datasets from ChIP-Atlas to systematically map transcription factors and transcription-associated chromatin proteins linked to G4-rich regions in the human genome. Highly stable G4 motifs are non-randomly distributed, showing strong enrichment in gene-dense chromosomes, at promoters, regulatory regions, and repeat elements. Integration with transcription factor binding profiles revealed a broad spectrum of G4-associated proteins, including established interactors such as STAT3, TP53 and CTCF, and the transcription-associated chromatin regulator BRD4, as well as previously unrecognized candidates such as REST, NR3C1, FLI1, and HSF1. Unexpectedly, only a minority of transcription factors were consistently depleted from G4 regions. CONCLUSIONS: Our results indicate that G-quadruplex-prone sequences represent a common genomic feature associated with a number of human transcription factors and chromatin-associated regulatory proteins and support a model in which G4-rich regions act as selective regulatory scaffolds shaping transcription factor occupancy and gene regulation.",
+  "abstract_zh": "背景：G-四链体（G-quruplexes, G4s）是非经典DNA结构，具有重要的调控功能。尽管已有多种转录因子被证明与G4s相互作用，但对该相互作用网络的全面理解仍不明确。结果：在此，我们整合了高稳定性G-四链体序列的全基因组预测与来自ChIP-Atlas的32,817个ChIP-seq数据集，系统性地绘制了与人类基因组中G4富集区域相关的转录因子及转录相关染色质蛋白图谱。高稳定性G4基序并非随机分布，而是在基因密集染色体、启动子、调控区域及重复元件中表现出显著富集。与转录因子结合谱的整合揭示了一系列广泛的G4相关蛋白，包括已知相互作用因子如STAT3、TP53和CTCF，以及转录相关染色质调控因子BRD4，还包括先前未识别的候选因子如REST、NR3C1、FLI1和HSF1。出乎意料的是，仅少数转录因子在G4区域中持续缺失。结论：我们的结果表明，易形成G-四链体的序列代表了与多种人类转录因子及染色质相关调控蛋白相关的常见基因组特征，并支持一个模型，即G4富集区域作为选择性调控支架，塑造转录因子占据和基因调控。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42989074/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42989074/",
+  "paper_page_path": "papers/pubmed/42989074/index.html"
+}

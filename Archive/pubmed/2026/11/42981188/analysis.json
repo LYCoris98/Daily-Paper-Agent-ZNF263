@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42981188",
+  "title": "Hyperosmotic stress induces rewiring of 3D chromatin interactions.",
+  "authors": "Flores, J P; Perreault, Andrea A; Drum, Zachary A; Xu, Chenxi; Alonso, Doris Cruz; Rashid, Tooba; Burgess, Jeremy D; Fox, Geoffrey C; Petros, Gelila; Wu, Yijia; Quiroga-Barber, Ivana Y; Kim, HyunAh; Sahasrabudhe, Isha; Lee, Ye Jin; Black, Ethan; Li, Yihuan; Demmerle, Justin; Strahl, Brian D; Dowen, Jill M; Wang, Gang Greg; Cai, Danfeng; Phanstiel, Douglas H",
+  "journal": "Cell reports",
+  "published_date": "2026-11-04",
+  "window": {
+    "start": "2026-11-02",
+    "end": "2026-11-08"
+  },
+  "score": 4,
+  "one_liner_zh": "该文研究高渗胁迫下3D染色质结构重编程，与cpcdh基因家族无直接关联，但涉及胁迫响应和染色质调控，可借鉴其机制研究方法。",
+  "abstract": "Cells continually face environmental stressors that challenge homeostasis, yet how three-dimensional (3D) chromatin structure contributes to these stress responses remains unclear under hyperosmotic conditions. To investigate this, we map 3D chromatin structure, its molecular drivers, and transcriptional outcomes during sorbitol-induced hyperosmotic stress. Within 1 hour of sorbitol treatment, pre-existing loops and domains collapse, while several hundred de novo sorbitol-induced loops emerge. These loops are punctate, longer-range, and transient. 3D chromatin structure largely returns to baseline conditions by 24 hours. Loop reorganization is consistent across cell types and hyperosmotic stimuli. Sorbitol-induced loops require cohesin but not CTCF, and anchors are enriched at active promoters harboring GC-rich transcription factor motifs. Genes at these anchors show delayed activation following loop formation, consistent with loops acting upstream of transcription. Together, hyperosmotic stress triggers rapid, reversible, CTCF-independent chromatin reorganization that correlates with transcriptional adaptation.",
+  "abstract_zh": "细胞持续面临挑战稳态的环境压力，然而在超渗透条件下，三维（3D）染色质结构如何参与这些应激反应仍不清楚。为探究此问题，我们在山梨醇诱导的超渗透应激期间，绘制了3D染色质结构、其分子驱动因素及转录结果。山梨醇处理1小时内，预先存在的环和结构域发生塌缩，同时出现数百个新生的山梨醇诱导环。这些环呈点状、长距离且短暂存在。至24小时，3D染色质结构大体恢复至基线状态。环的重组在不同细胞类型和超渗透刺激中表现一致。山梨醇诱导的环需要黏连蛋白（cohesin）但不需要CTCF，其锚定区域富集于含有GC-rich转录因子基序的活性启动子。这些锚定区域的基因在环形成后表现出延迟激活，与环在转录上游发挥作用一致。综上，超渗透应激触发快速、可逆、不依赖CTCF的染色质重组，该重组与转录适应相关联。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42981188/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42981188/",
+  "paper_page_path": "papers/pubmed/42981188/index.html"
+}

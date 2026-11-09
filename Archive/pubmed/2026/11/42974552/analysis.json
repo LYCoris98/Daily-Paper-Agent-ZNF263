@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42974552",
+  "title": "Bromodomain and extra-terminal motif (BET) inhibition induces coordinated repression of the stem cell-related HOX signature in glioblastoma uncovering an epigenetic vulnerability.",
+  "authors": "Chiesi, Davide; Bady, Pierre; Xirouchakis, Mihalis V; Mendes Ferreira, Carla; Mohammed, Kedir S; Hegi, Monika E",
+  "journal": "Neuro-oncology advances",
+  "published_date": "2026-11-03",
+  "window": {
+    "start": "2026-11-02",
+    "end": "2026-11-08"
+  },
+  "score": 6,
+  "one_liner_zh": "该文研究BET抑制剂在胶质母细胞瘤中抑制HOX干细胞样信号的表观遗传机制，虽不直接涉及cpcdh基因家族，但其表观遗传调控和基因家族分析方法可借鉴。",
+  "abstract": "BACKGROUND: Glioblastoma (GB) is the most aggressive primary brain tumor, characterized by therapy resistance, attributed to a multitude of epigenetic changes resulting in phenotypic plasticity with altered cell states. To uncover druggable epigenetic vulnerabilities, we disturbed GB-derived spheres with an inhibitor of Bromodomain and extra-terminal motif proteins (BETi) and observed coordinated repression of the aberrantly activated hemopoietic stem-like cell signature, dominated by HOXA genes. This signature has been associated with poor prognosis and resistance to therapy in GB. Here we investigate the deregulated epigenetic landscape and potential vulnerabilities in high-HOX GB. METHODS: GB-derived spheres (GS) were treated with the BETi (JQ1) or transduced with inducible constructs to genetically modulate HOXA10 expression short-hairpin (sh)RNA for knockdown, ectopic HOXA10). Functional effects were evaluated through proliferation, neurosphere formation, and senescence assays. Epigenomic profiling incorporated RNA-seq, Chromatin Immuno Precipitation sequencing (ChIP-seq), Assay for Transposase-Accessible Chromatin sequencing (ATAC-seq), promoter capture MicroC, and DNA methylation. RESULTS: BETi-mediated rapid, coordinated downregulation of the HOX-signature suggested direct transcriptional regulation. Knockdown of HOXA10 alone yielded similar effects, decreasing expression of HOXA genes, reducing proliferation, self-renewal capacity, and triggering senescence. Conversely, ectopic HOXA10 expression failed to reactivate the HOXA cluster or reverse BETi-mediated biological effects. Integrative epigenomic analysis of high-HOX-GS revealed concerted activation of the HOXA region, with broad domains of H3K27ac/H3K4me3 associated with super-enhancer activity, open chromatin (ATAC), and focal DNA hypomethylation. Architectural changes included altered CCCTC-binding factor (CTCF) interactions and increased promoter-anchored looping. CONCLUSION: These results position the HOX-signature as a potential therapeutic target and offer a mechanistic rationale for disrupting BET-dependent transcriptional regulation in high-HOX GB.",
+  "abstract_zh": "背景：胶质母细胞瘤（Glioblastoma, GB）是最具侵袭性的原发性脑肿瘤，其特征为治疗耐药性，这归因于大量表观遗传改变导致表型可塑性和细胞状态变化。为发现可靶向的表观遗传弱点，我们用溴结构域和末端外基序蛋白抑制剂（BETi）处理GB来源的球体，观察到异常激活的造血干细胞样特征（以HOXA基因主导）被协同抑制。该特征与GB的不良预后和治疗耐药性相关。本研究探讨高HOX GB中失调的表观遗传景观及潜在弱点。方法：用BETi（JQ1）处理GB来源球体（GS），或转导诱导型构建体以基因调控HOXA10表达（短发夹RNA（shRNA）敲低、异位HOXA10）。通过增殖、神经球形成和衰老实验评估功能效应。表观基因组分析包括RNA-seq、染色质免疫沉淀测序（ChIP-seq）、转座酶可及染色质测序（ATAC-seq）、启动子捕获MicroC和DNA甲基化。结果：BETi介导的HOX特征快速协同下调提示直接转录调控。单独敲低HOXA10产生类似效应，降低HOXA基因表达、减少增殖和自我更新能力，并触发衰老。相反，异位HOXA10表达未能重新激活HOXA簇或逆转BETi介导的生物学效应。高HOX-GS的整合表观基因组分析揭示HOXA区域的协同激活，伴有H3K27ac/H3K4me3广泛结构域与超级增强子活性、开放染色质（ATAC）和局灶性DNA低甲基化相关。结构变化包括CCCTC结合因子（CTCF）相互作用改变和启动子锚定环化增加。结论：这些结果将HOX特征定位为潜在治疗靶点，并为破坏高HOX GB中BET依赖性转录调控提供机制依据。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42974552/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42974552/",
+  "paper_page_path": "papers/pubmed/42974552/index.html"
+}

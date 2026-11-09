@@ -1,0 +1,176 @@
+{
+  "identity": {
+    "pmid": "42989074",
+    "doi": "10.1186/s12864-026-13217-5",
+    "title": "G‑quadruplexes as regulatory platforms for human transcription factors: insights from ChIP-seq data."
+  },
+  "content": {
+    "abstract": "BACKGROUND: G-quadruplexes (G4s) are non-canonical DNA structures with important regulatory functions. While several transcription factors have been shown to interact with G4s, a comprehensive understanding of this interaction network remains elusive. RESULTS: Here, we integrated genome-wide predictions of highly stable G-quadruplex sequences with 32,817 ChIP-seq datasets from ChIP-Atlas to systematically map transcription factors and transcription-associated chromatin proteins linked to G4-rich regions in the human genome. Highly stable G4 motifs are non-randomly distributed, showing strong enrichment in gene-dense chromosomes, at promoters, regulatory regions, and repeat elements. Integration with transcription factor binding profiles revealed a broad spectrum of G4-associated proteins, including established interactors such as STAT3, TP53 and CTCF, and the transcription-associated chromatin regulator BRD4, as well as previously unrecognized candidates such as REST, NR3C1, FLI1, and HSF1. Unexpectedly, only a minority of transcription factors were consistently depleted from G4 regions. CONCLUSIONS: Our results indicate that G-quadruplex-prone sequences represent a common genomic feature associated with a number of human transcription factors and chromatin-associated regulatory proteins and support a model in which G4-rich regions act as selective regulatory scaffolds shaping transcription factor occupancy and gene regulation.",
+    "keywords": [
+      "ChIP-Atlas",
+      "ChIP-seq",
+      "G-quadruplex",
+      "Gene regulation",
+      "Genome-wide analysis",
+      "transcription factors"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*G-Quadruplexes",
+      "*Transcription Factors/metabolism/genetics",
+      "*Chromatin Immunoprecipitation Sequencing",
+      "Genome, Human",
+      "Chromatin/metabolism",
+      "Promoter Regions, Genetic",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Drapalova, Karolina",
+        "Dobrovolna, Michaela",
+        "Kledus, Filip",
+        "Mergny, Jean-Louis",
+        "Brazda, Vaclav"
+      ],
+      "short_names": [
+        "Drapalova K",
+        "Dobrovolna M",
+        "Kledus F",
+        "Mergny JL",
+        "Brazda V"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-8671-5700",
+        "ORCID: 0000-0003-2837-4226"
+      ],
+      "affiliations": [
+        "Institute of Biophysics, Czech Academy of Sciences, Kralovopolska 135, Brno, 612 00, Czech Republic.",
+        "Faculty of Chemistry, Brno University of Technology, Purkynova 118, Brno, 612 00, Czech Republic.",
+        "Institute of Biophysics, Czech Academy of Sciences, Kralovopolska 135, Brno, 612 00, Czech Republic.",
+        "Faculty of Chemistry, Brno University of Technology, Purkynova 118, Brno, 612 00, Czech Republic.",
+        "Institute of Biophysics, Czech Academy of Sciences, Kralovopolska 135, Brno, 612 00, Czech Republic.",
+        "National Centre for Biomolecular Research, Faculty of Science, Masaryk University, Kamenice 5, Brno, 62500, Czech Republic.",
+        "Laboratoire d'Optique et Biosciences, Ecole Polytechnique, CNRS, Inserm, Institut Polytechnique de Paris, Palaiseau, 91120, France.",
+        "Institute of Biophysics, Czech Academy of Sciences, Kralovopolska 135, Brno, 612 00, Czech Republic. vaclav@ibp.cz.",
+        "Faculty of Chemistry, Brno University of Technology, Purkynova 118, Brno, 612 00, Czech Republic. vaclav@ibp.cz."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Drápalová, Karolína",
+        "short_name": "Drápalová K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biophysics, Czech Academy of Sciences, Královopolská 135, Brno, 612 00, Czech Republic.",
+          "Faculty of Chemistry, Brno University of Technology, Purkyňova 118, Brno, 612 00, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Dobrovolná, Michaela",
+        "short_name": "Dobrovolná M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biophysics, Czech Academy of Sciences, Královopolská 135, Brno, 612 00, Czech Republic.",
+          "Faculty of Chemistry, Brno University of Technology, Purkyňova 118, Brno, 612 00, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Kledus, Filip",
+        "short_name": "Kledus F",
+        "identifiers": [
+          "0009-0003-8671-5700"
+        ],
+        "affiliations": [
+          "Institute of Biophysics, Czech Academy of Sciences, Královopolská 135, Brno, 612 00, Czech Republic.",
+          "National Centre for Biomolecular Research, Faculty of Science, Masaryk University, Kamenice 5, Brno, 62500, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Mergny, Jean-Louis",
+        "short_name": "Mergny JL",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratoire d'Optique et Biosciences, Ecole Polytechnique, CNRS, Inserm, Institut Polytechnique de Paris, Palaiseau, 91120, France."
+        ]
+      },
+      {
+        "full_name": "Brázda, Václav",
+        "short_name": "Brázda V",
+        "identifiers": [
+          "0000-0003-2837-4226"
+        ],
+        "affiliations": [
+          "Institute of Biophysics, Czech Academy of Sciences, Královopolská 135, Brno, 612 00, Czech Republic. vaclav@ibp.cz.",
+          "Faculty of Chemistry, Brno University of Technology, Purkyňova 118, Brno, 612 00, Czech Republic. vaclav@ibp.cz."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "BMC genomics"
+    ],
+    "journal_abbrev": [
+      "BMC Genomics"
+    ],
+    "pub_date": "2026 Jul 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/06 07:12",
+    "fetched_at": "2026-11-09 08:02:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42989074"
+    ],
+    "review": [
+      "42989074"
+    ],
+    "pmc": [
+      "13737716"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-026-13217-5",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42989074/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TP53-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1275",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

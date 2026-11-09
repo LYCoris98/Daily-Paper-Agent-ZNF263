@@ -1,0 +1,329 @@
+{
+  "identity": {
+    "pmid": "42981188",
+    "doi": "10.1016/j.celrep.2026.118253",
+    "title": "Hyperosmotic stress induces rewiring of 3D chromatin interactions."
+  },
+  "content": {
+    "abstract": "Cells continually face environmental stressors that challenge homeostasis, yet how three-dimensional (3D) chromatin structure contributes to these stress responses remains unclear under hyperosmotic conditions. To investigate this, we map 3D chromatin structure, its molecular drivers, and transcriptional outcomes during sorbitol-induced hyperosmotic stress. Within 1 hour of sorbitol treatment, pre-existing loops and domains collapse, while several hundred de novo sorbitol-induced loops emerge. These loops are punctate, longer-range, and transient. 3D chromatin structure largely returns to baseline conditions by 24 hours. Loop reorganization is consistent across cell types and hyperosmotic stimuli. Sorbitol-induced loops require cohesin but not CTCF, and anchors are enriched at active promoters harboring GC-rich transcription factor motifs. Genes at these anchors show delayed activation following loop formation, consistent with loops acting upstream of transcription. Together, hyperosmotic stress triggers rapid, reversible, CTCF-independent chromatin reorganization that correlates with transcriptional adaptation.",
+    "keywords": [
+      "3D chromatin structure",
+      "CP: Genomics",
+      "CP: molecular biology",
+      "chromatin looping",
+      "cohesin",
+      "ctcf",
+      "environmental stress response",
+      "genome organization",
+      "genome plasticity",
+      "hyperosmotic stress",
+      "loop extrusion",
+      "transcriptional regulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Flores, J P",
+        "Perreault, Andrea A",
+        "Drum, Zachary A",
+        "Xu, Chenxi",
+        "Alonso, Doris Cruz",
+        "Rashid, Tooba",
+        "Burgess, Jeremy D",
+        "Fox, Geoffrey C",
+        "Petros, Gelila",
+        "Wu, Yijia",
+        "Quiroga-Barber, Ivana Y",
+        "Kim, HyunAh",
+        "Sahasrabudhe, Isha",
+        "Lee, Ye Jin",
+        "Black, Ethan",
+        "Li, Yihuan",
+        "Demmerle, Justin",
+        "Strahl, Brian D",
+        "Dowen, Jill M",
+        "Wang, Gang Greg",
+        "Cai, Danfeng",
+        "Phanstiel, Douglas H"
+      ],
+      "short_names": [
+        "Flores JP",
+        "Perreault AA",
+        "Drum ZA",
+        "Xu C",
+        "Alonso DC",
+        "Rashid T",
+        "Burgess JD",
+        "Fox GC",
+        "Petros G",
+        "Wu Y",
+        "Quiroga-Barber IY",
+        "Kim H",
+        "Sahasrabudhe I",
+        "Lee YJ",
+        "Black E",
+        "Li Y",
+        "Demmerle J",
+        "Strahl BD",
+        "Dowen JM",
+        "Wang GG",
+        "Cai D",
+        "Phanstiel DH"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Curriculum in Bioinformatics & Computational Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA.",
+        "Department of Biology, Elon University, Elon, NC, 27244, USA.",
+        "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA.",
+        "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC 27710, USA.",
+        "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA.",
+        "Curriculum in Bioinformatics & Computational Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA.",
+        "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA.",
+        "Curriculum in Genetics & Molecular Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA.",
+        "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA.",
+        "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA.",
+        "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA.",
+        "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA.",
+        "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA.",
+        "Department of Biochemistry and Molecular Biology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA.",
+        "Department of Biochemistry and Molecular Biology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA.",
+        "Department of Biochemistry and Molecular Biology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA.",
+        "Department of Biochemistry and Molecular Biology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA.",
+        "Curriculum in Genetics & Molecular Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA; Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC 27599, USA; Department of Biochemistry & Biophysics, University of North Carolina, Chapel Hill, NC, USA.",
+        "Curriculum in Genetics & Molecular Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA; Integrative Program for Biological and Genome Sciences, University of North Carolina, Chapel Hill, NC 27599, USA; Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC 27599, USA; Department of Biology, University of North Carolina, Chapel Hill, NC 27599, USA; Department of Biochemistry & Biophysics, University of North Carolina, Chapel Hill, NC, USA.",
+        "Department of Biochemistry & Biophysics, University of North Carolina, Chapel Hill, NC, USA; Duke Cancer Institute, Duke University School of Medicine, Durham, NC 27710, USA; Department of Pathology, Duke University School of Medicine, Durham, NC 27710, USA.",
+        "Department of Biochemistry and Molecular Biology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA; Department of Oncology, Johns Hopkins School of Medicine, Baltimore, MD 21205, USA; Department of Biophysics and Biophysical Chemistry, Johns Hopkins School of Medicine, Baltimore, MD 21205, USA. Electronic address: danfeng.cai@jhu.edu.",
+        "Curriculum in Bioinformatics & Computational Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA; Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA; Curriculum in Genetics & Molecular Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA; Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC 27599, USA; Department of Cell Biology and Physiology, University of North Carolina, Chapel Hill, NC 27599, USA. Electronic address: douglas_phanstiel@med.unc.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Flores, J P",
+        "short_name": "Flores JP",
+        "identifiers": [],
+        "affiliations": [
+          "Curriculum in Bioinformatics & Computational Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA."
+        ]
+      },
+      {
+        "full_name": "Perreault, Andrea A",
+        "short_name": "Perreault AA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Elon University, Elon, NC, 27244, USA."
+        ]
+      },
+      {
+        "full_name": "Drum, Zachary A",
+        "short_name": "Drum ZA",
+        "identifiers": [],
+        "affiliations": [
+          "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA."
+        ]
+      },
+      {
+        "full_name": "Xu, Chenxi",
+        "short_name": "Xu C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Cancer Biology, Duke University School of Medicine, Durham, NC 27710, USA."
+        ]
+      },
+      {
+        "full_name": "Alonso, Doris Cruz",
+        "short_name": "Alonso DC",
+        "identifiers": [],
+        "affiliations": [
+          "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA."
+        ]
+      },
+      {
+        "full_name": "Rashid, Tooba",
+        "short_name": "Rashid T",
+        "identifiers": [],
+        "affiliations": [
+          "Curriculum in Bioinformatics & Computational Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA."
+        ]
+      },
+      {
+        "full_name": "Burgess, Jeremy D",
+        "short_name": "Burgess JD",
+        "identifiers": [],
+        "affiliations": [
+          "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA."
+        ]
+      },
+      {
+        "full_name": "Fox, Geoffrey C",
+        "short_name": "Fox GC",
+        "identifiers": [],
+        "affiliations": [
+          "Curriculum in Genetics & Molecular Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA."
+        ]
+      },
+      {
+        "full_name": "Petros, Gelila",
+        "short_name": "Petros G",
+        "identifiers": [],
+        "affiliations": [
+          "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Yijia",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA."
+        ]
+      },
+      {
+        "full_name": "Quiroga-Barber, Ivana Y",
+        "short_name": "Quiroga-Barber IY",
+        "identifiers": [],
+        "affiliations": [
+          "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA."
+        ]
+      },
+      {
+        "full_name": "Kim, HyunAh",
+        "short_name": "Kim H",
+        "identifiers": [],
+        "affiliations": [
+          "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA."
+        ]
+      },
+      {
+        "full_name": "Sahasrabudhe, Isha",
+        "short_name": "Sahasrabudhe I",
+        "identifiers": [],
+        "affiliations": [
+          "Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA."
+        ]
+      },
+      {
+        "full_name": "Lee, Ye Jin",
+        "short_name": "Lee YJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA."
+        ]
+      },
+      {
+        "full_name": "Black, Ethan",
+        "short_name": "Black E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Yihuan",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA."
+        ]
+      },
+      {
+        "full_name": "Demmerle, Justin",
+        "short_name": "Demmerle J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA."
+        ]
+      },
+      {
+        "full_name": "Strahl, Brian D",
+        "short_name": "Strahl BD",
+        "identifiers": [],
+        "affiliations": [
+          "Curriculum in Genetics & Molecular Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA; Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC 27599, USA; Department of Biochemistry & Biophysics, University of North Carolina, Chapel Hill, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Dowen, Jill M",
+        "short_name": "Dowen JM",
+        "identifiers": [],
+        "affiliations": [
+          "Curriculum in Genetics & Molecular Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA; Integrative Program for Biological and Genome Sciences, University of North Carolina, Chapel Hill, NC 27599, USA; Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC 27599, USA; Department of Biology, University of North Carolina, Chapel Hill, NC 27599, USA; Department of Biochemistry & Biophysics, University of North Carolina, Chapel Hill, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Gang Greg",
+        "short_name": "Wang GG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry & Biophysics, University of North Carolina, Chapel Hill, NC, USA; Duke Cancer Institute, Duke University School of Medicine, Durham, NC 27710, USA; Department of Pathology, Duke University School of Medicine, Durham, NC 27710, USA."
+        ]
+      },
+      {
+        "full_name": "Cai, Danfeng",
+        "short_name": "Cai D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA; Department of Oncology, Johns Hopkins School of Medicine, Baltimore, MD 21205, USA; Department of Biophysics and Biophysical Chemistry, Johns Hopkins School of Medicine, Baltimore, MD 21205, USA. Electronic address: danfeng.cai@jhu.edu."
+        ]
+      },
+      {
+        "full_name": "Phanstiel, Douglas H",
+        "short_name": "Phanstiel DH",
+        "identifiers": [],
+        "affiliations": [
+          "Curriculum in Bioinformatics & Computational Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA; Thurston Arthritis Research Center, University of North Carolina, Chapel Hill, NC 27599, USA; USA; Curriculum in Genetics & Molecular Biology, Department of Genetics, University of North Carolina, Chapel Hill, NC 27599, USA; Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC 27599, USA; Department of Cell Biology and Physiology, University of North Carolina, Chapel Hill, NC 27599, USA. Electronic address: douglas_phanstiel@med.unc.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports"
+    ],
+    "journal_abbrev": [
+      "Cell Rep"
+    ],
+    "pub_date": "2026 Nov 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/04 17:31",
+    "fetched_at": "2026-11-09 08:02:19"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42981188"
+    ],
+    "review": [
+      "42981188"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(26)01332-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-660",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,83 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims and conclusions as stated in the abstract; no methods, figures, or statistical details were available for evaluation
+- **Shared manuscript claim summary** The authors report that CIZ1, a nuclear matrix protein overexpressed in cancer cells, coordinates DNA replication licensing through direct interactions with ORC, CDC6, and Cyclin E/A-CDK2. They further claim that CIZ1 depletion impairs MCM loading, reduces DNA synthesis, delays S-phase, inhibits proliferation, and that cancer cells overexpressing CIZ1 show enhanced dependency on it. CRISPR tiling screens implicate the C-terminal regulatory region as essential. Acute degradation of CIZ1 is reported to affect CTCF occupancy and transcriptional programs. Xenograft studies show suppressed colorectal tumor growth upon CIZ1 depletion.
+- **Visible evidence base** Abstract text only; no figures, tables, methods, or statistical analyses provided
+- **Missing materials affecting confidence** Full manuscript, all figures and tables, experimental methods, statistical details, cell lines and models used, CRISPR screen design, degradation system details, xenograft data, and any supplementary information
+
+## Reviewer
+- **Overall assessment** The abstract presents a broad and potentially significant set of findings linking CIZ1 to DNA replication licensing, cell-cycle control, chromatin organization, and tumor growth. The scope is ambitious and the potential relevance to cancer biology is clear. However, the abstract alone provides insufficient detail to evaluate the rigor of the experimental support for the central claims. Several claims are stated as established conclusions without visible quantitative evidence, and the mechanistic model connecting the various functions of CIZ1 remains somewhat diffuse. The work could be of considerable interest if the full data support the claims, but the current evidence base does not allow verification of the core conclusions.
+- **Who would be interested in the results, and why** Cell-cycle biologists studying replication licensing and origin regulation; cancer researchers interested in replication stress and dependency factors in tumors; chromatin biologists working on CTCF and genome organization; and investigators studying nuclear matrix proteins and their scaffolding functions. The potential link between replication licensing and higher-order chromatin architecture would also attract readers interested in the intersection of DNA replication and epigenome maintenance.
+- **Major strengths** The abstract identifies a novel and potentially important function for CIZ1 in replication licensing, a process not previously associated with this protein. The proposed mechanism involving direct interactions with ORC1, CDC6, and Cyclin-CDK complexes is mechanistically plausible and testable. The use of multiple complementary approaches (depletion, acute degradation, CRISPR tiling, xenograft models) suggests a comprehensive experimental strategy. The connection between CIZ1, CTCF occupancy, and transcriptional programs is an unexpected and potentially high-impact finding.
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Evidence sufficiency
+  - **Claim pointer** "CIZ1 depletion impaired MCM loading, reduced DNA synthesis, delayed S-phase progression and inhibited cell proliferation"
+  - **Evidence pointer** location not provided
+  - **Concern** The abstract states these functional outcomes as established facts, but no quantitative data, effect sizes, or statistical measures are visible. It is unclear how MCM loading was measured, to what extent DNA synthesis was reduced, how S-phase delay was quantified, and in which cell types these effects were observed.
+  - **Why it matters** These are the central functional claims of the paper. Without visible quantitative support, the reader cannot assess the magnitude or robustness of the phenotypes, nor whether they are consistent across cell lines or conditions.
+  - **Resolution test** Provide the relevant figures with quantitative measurements, statistical tests, and clear descriptions of the assays used for each phenotype.
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Mechanistic support
+  - **Claim pointer** "The C-terminal zinc finger region of CIZ1 mediates binding to the cyclin-binding motifs of ORC1 and CDC6, and Cyclin-CDK-dependent phosphorylation regulates these interactions"
+  - **Evidence pointer** location not provided
+  - **Concern** The abstract asserts a specific molecular mechanism, but no binding data, mutagenesis results, or phosphorylation experiments are visible. It is unclear whether the interactions were demonstrated by co-immunoprecipitation, pull-down, or other methods, and whether the phosphorylation regulation was shown directly or inferred.
+  - **Why it matters** This is the proposed mechanistic basis for CIZ1 function in licensing. If the binding and phosphorylation claims are not rigorously supported, the entire model is weakened.
+  - **Resolution test** Show the relevant biochemical data, including binding assays with wild-type and mutant constructs, and phosphorylation experiments with Cyclin-CDK complexes.
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Functional specificity
+  - **Claim pointer** "Acute degradation of CIZ1 further revealed an unexpected role in maintaining CTCF occupancy at specific genomic loci and regulating transcriptional programs associated with cell adhesion and migration"
+  - **Evidence pointer** location not provided
+  - **Concern** This is a striking claim that connects CIZ1 to chromatin architecture and transcription. However, no details are provided on how CTCF occupancy was measured, which loci were affected, how many loci changed, or whether the transcriptional changes were direct or secondary. The link between CIZ1 degradation and CTCF occupancy could be indirect and needs careful dissection.
+  - **Why it matters** This claim substantially broadens the scope of the paper and could be the most novel aspect. If not rigorously supported, it risks overinterpretation and could undermine the credibility of the whole manuscript.
+  - **Resolution test** Provide genome-wide CTCF ChIP-seq data with clear statistics, identification of affected loci, and evidence that the transcriptional changes are functionally linked to CTCF loss rather than to replication defects.
+  - **Concern ID** R1-M4
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** Translational relevance
+  - **Claim pointer** "Depletion of CIZ1 significantly suppressed colorectal tumor growth in xenograft models"
+  - **Evidence pointer** location not provided
+  - **Concern** The xenograft result is presented as a single sentence with no visible tumor growth curves, sample sizes, statistical analysis, or details on the depletion method used in vivo.
+  - **Why it matters** This is the key translational claim and would be of interest to a broad cancer audience. Without visible data, the strength of the effect and its reproducibility cannot be assessed.
+  - **Resolution test** Provide tumor growth curves, statistical comparisons, and details of the in vivo depletion strategy.
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Clarity
+  - **Affected element** Title
+  - **Evidence pointer** Title
+  - **Issue** The title is long and somewhat unwieldy, and the phrase "A role for CIZ1... in Controlling the Initiation of DNA Replication" is broad given that the abstract also reports effects on CTCF occupancy and transcription.
+  - **Required correction** Consider a more concise title that reflects the full scope of the findings, or focus the title on the replication licensing function if that remains the central message.
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Terminology
+  - **Affected element** "nuclear matrix scaffold protein"
+  - **Evidence pointer** Abstract, first sentence
+  - **Issue** The term "nuclear matrix" is historically controversial, and the abstract does not clarify whether CIZ1 is a bona fide nuclear matrix protein or simply associates with the nuclear scaffold.
+  - **Required correction** Clarify the operational definition of "nuclear matrix" used in this study, or use a more neutral term such as "nuclear scaffold-associated protein."
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Integration
+  - **Affected element** Overall model
+  - **Evidence pointer** Abstract, final sentence
+  - **Issue** The abstract concludes that CIZ1 is a "multifunctional scaffold that integrates DNA replication licensing, Cyclin-CDK signaling, and chromatin architecture," but the mechanistic connection between these three functions is not explicitly articulated.
+  - **Required correction** Add a sentence in the abstract that explains how the replication licensing function and the CTCF/chromatin function are mechanistically linked, or state clearly that they are independent functions.
+- **Technical failings that need to be addressed before the case is established** R1-M1, R1-M2, R1-M3. The core functional phenotypes, the proposed molecular mechanism, and the chromatin-related claims all require visible experimental evidence before the central conclusions can be considered established.
+- **Assessment against Nature-style criteria** Originality: high. The proposed role of CIZ1 in replication licensing is novel and not previously reported. Scientific importance: potentially high, given the connection to cancer cell proliferation and the possible link between licensing and chromatin architecture. Interdisciplinary readership: the findings would appeal to cell-cycle biologists, cancer researchers, and chromatin biologists, which is a broad and appropriate audience. Technical soundness: cannot be assessed from the abstract alone; the claims require rigorous biochemical, cell biological, and genomic evidence that is not visible. Readability for nonspecialists: the abstract is generally clear, though the density of claims and the breadth of functions attributed to CIZ1 may be challenging for readers outside the immediate field.
+- **Recommendation posture** Currently not established from the provided evidence. The abstract presents a compelling and potentially important set of findings, but the absence of visible data prevents verification of the central claims. A full evaluation of the manuscript is required before a supportive recommendation can be considered.
+
+## Risk / unsupported claims
+- The claim that CIZ1 directly interacts with ORC1, CDC6, and Cyclin E/A-CDK2 is unverifiable from the abstract alone.
+- The claim that Cyclin-CDK-dependent phosphorylation regulates CIZ1 interactions is unverifiable.
+- The functional phenotypes (impaired MCM loading, reduced DNA synthesis, delayed S-phase, inhibited proliferation) are stated without quantitative support.
+- The claim that cancer cells overexpressing CIZ1 exhibit enhanced dependency is stated without data.
+- The CRISPR tiling screen results are mentioned but no details are provided.
+- The claim that CIZ1 maintains CTCF occupancy at specific loci is unverifiable without genome-wide data.
+- The claim that CIZ1 depletion suppresses colorectal tumor growth in xenografts is unverifiable without tumor growth data.
+- The overall model of CIZ1 as a multifunctional scaffold integrating replication, signaling, and chromatin architecture is an interpretation that extends beyond the visible evidence.

@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "42976863",
+  "title": "An SMN2 splicing-correcting antisense oligonucleotide promotes gene looping and transcription activation.",
+  "authors": "Stigliano, Jose N; Haberfeld, Emilia; Marasco, Luciano E; Fiszbein, Ana; Proudfoot, Nick J; Kornblihtt, Alberto R",
+  "journal": "Molecular cell",
+  "published_date": "2026-11-03",
+  "window": {
+    "start": "2026-11-02",
+    "end": "2026-11-08"
+  },
+  "score": 0,
+  "one_liner_zh": "该文研究SMN2基因剪接校正反义寡核苷酸对基因环化和转录激活的作用，与cpcdh基因家族无关。",
+  "abstract": "We have previously proposed a combined therapy for spinal muscular atrophy based on the upregulation of exon 7 (E7) inclusion into SMN2 mRNA by the antisense oligonucleotide nusinersen (ASO1) together with histone deacetylase inhibitors (HDACi). Using a CRISPR-deadCas-based strategy in a human cell line, we show here that targeting histone acetylation at the SMN2 E7 region duplicates the HDACi effect, which overcomes pleiotropic effects. Most noticeably, targeted acetylation at the E7 region causes acetylation and activation of the 30-kbp-distant promoter. Since the nusinersen target site maps near the SMN2 gene 3' end, this crosstalk between the two ends of the gene prompted us to use chromosome conformation analysis (3C) to find that ASO1 promotes gene looping. This unpredicted property of ASOs in modulating chromatin 3D configuration depends on cohesin, CTCF, cleavage/polyadenylation factors, and a canonical poly(A) signal and causes promoter activation at a long distance, which expands the therapeutic potential of splicing-correcting ASOs.",
+  "abstract_zh": "我们此前曾提出一种针对脊髓性肌萎缩症（spinal muscular atrophy）的联合疗法，该疗法基于反义寡核苷酸nusinersen（ASO1）上调SMN2 mRNA外显子7（E7）的包含，并结合组蛋白去乙酰化酶抑制剂（HDACi）。利用CRISPR-deadCas策略在人类细胞系中，我们在此表明，靶向SMN2 E7区域的组蛋白乙酰化可复制HDACi效应，从而克服多效性效应。最显著的是，E7区域的靶向乙酰化导致30-kbp远距离启动子的乙酰化和激活。由于nusinersen靶位点位于SMN2基因3'端附近，这种基因两端之间的串扰促使我们使用染色体构象分析（3C）发现ASO1促进基因环化。ASO在调节染色质三维构象中的这一未预见特性依赖于cohesin、CTCF、切割/多聚腺苷酸化因子以及一个经典poly(A)信号，并导致长距离启动子激活，这扩展了剪接校正ASO的治疗潜力。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42976863/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42976863/",
+  "paper_page_path": "papers/pubmed/42976863/index.html"
+}
