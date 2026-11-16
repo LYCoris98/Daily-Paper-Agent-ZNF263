@@ -1,0 +1,91 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.10.765814",
+  "title": "Interplay of diffusive and active motion governs cohesin extrusion and CTCF barrier function",
+  "doi": "10.64898/2026.11.10.765814",
+  "abstract": "Cohesin-mediated loop extrusion constitutes a crucial process for the regulation of chromosome folding and gene expression. A rapidly-growing body of in vitro experiments suggests that cohesin molecular motor activity is finely modulated by both chemical and mechanical cues, whose interplay holds important implications in living cells for development and disease. Yet, biophysical models capable of accurately and efficiently capturing the breadth of reported cohesin behaviors, along with their impacts on DNA spatio-temporal organisation, remain lacking. Here, building on multiple experimental observations of single-cohesin dynamics, we introduce a mesoscale description of cohesin based on the general framework of jump-diffusion processes. We show that the finite stall force of cohesin naturally emerges from the conjunction of active, directional extrusion moves with passive, stochastic drift. The tension-dependent competition between these two orthogonal modes of motion gives rise to highly-heterogeneous cohesin kinetics featuring extrusion, translocation, and loop slipping phases, as observed in vitro. These behaviors are predicted to depend sensitively on both buffer composition and nucleosomal content, reconciling the surprising variability of cohesin kinetics reported across experimental conditions. This jump-diffusion model (JDM) is fully parametrized using available single-molecule measurements and bridges the timescale gap between microscopic stepping events and cohesin regulator association, thus providing mechanistic insights into how CTCF impedes extrusion. Hence, the JDM quantitatively describes force-dependent extrusion in both DNA curtain assays in vitro and in the context of native chromatin for genome folding predictions in nucleo, bridging these previously disparate contexts under a unified numerical and theoretical formalism.",
+  "authors": [
+    "Tortora MM",
+    "Fudenberg G"
+  ],
+  "published_date": "2026-11-12",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765814",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765814.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1366128",
+    "raw_record": {
+      "id": "PPR1366128",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.10.765814",
+      "title": "Interplay of diffusive and active motion governs cohesin extrusion and CTCF barrier function",
+      "authorString": "Tortora MM, Fudenberg G.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Tortora MM",
+            "lastName": "Tortora",
+            "firstName": "Maxime M.C.",
+            "initials": "MM"
+          },
+          {
+            "fullName": "Fudenberg G",
+            "lastName": "Fudenberg",
+            "firstName": "Geoffrey",
+            "initials": "G"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Cohesin-mediated loop extrusion constitutes a crucial process for the regulation of chromosome folding and gene expression. A rapidly-growing body of in vitro experiments suggests that cohesin molecular motor activity is finely modulated by both chemical and mechanical cues, whose interplay holds important implications in living cells for development and disease. Yet, biophysical models capable of accurately and efficiently capturing the breadth of reported cohesin behaviors, along with their impacts on DNA spatio-temporal organisation, remain lacking. Here, building on multiple experimental observations of single-cohesin dynamics, we introduce a mesoscale description of cohesin based on the general framework of jump-diffusion processes. We show that the finite stall force of cohesin naturally emerges from the conjunction of active, directional extrusion moves with passive, stochastic drift. The tension-dependent competition between these two orthogonal modes of motion gives rise to highly-heterogeneous cohesin kinetics featuring extrusion, translocation, and loop slipping phases, as observed in vitro. These behaviors are predicted to depend sensitively on both buffer composition and nucleosomal content, reconciling the surprising variability of cohesin kinetics reported across experimental conditions. This jump-diffusion model (JDM) is fully parametrized using available single-molecule measurements and bridges the timescale gap between microscopic stepping events and cohesin regulator association, thus providing mechanistic insights into how CTCF impedes extrusion. Hence, the JDM quantitatively describes force-dependent extrusion in both DNA curtain assays in vitro and in the context of native chromatin for genome folding predictions in nucleo, bridging these previously disparate contexts under a unified numerical and theoretical formalism.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.11.10.765814"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-11-13",
+      "firstPublicationDate": "2026-11-12",
+      "firstIndexDate": "2026-11-13",
+      "hasEvaluations": "N"
+    }
+  }
+}

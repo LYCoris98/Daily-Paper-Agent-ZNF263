@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43011607",
+  "title": "Lamin A regulates chromatin structure and function in cardiac myocytes in a mouse model of lamin-cardiomyopathy.",
+  "authors": "Gurha, Priyatansh; Wang, Weiyue; Cathcart, Benjamin; Rouhi, Leila; Marian, Ali J",
+  "journal": "NAR molecular medicine",
+  "published_date": "2026-11-11",
+  "window": {
+    "start": "2026-11-09",
+    "end": "2026-11-15"
+  },
+  "score": 4,
+  "one_liner_zh": "该文研究LMNA缺失对心肌细胞染色质结构和基因表达的影响，与cpcdh基因家族无直接关联，但涉及染色质调控机制，可借鉴其研究方法。",
+  "abstract": "Mutations in the LMNA gene, encoding lamin A (LMNA), cause laminopathies. Cardiac involvement is common and a major cause of mortality and morbidity in laminopathies. LMNA interacts with chromatin through lamin-associated domains (LADs) and regulates gene expression. We report that LMNA deficiency increased genome-wide CTCF occupancy, predominantly outside of the constitutive LAD (cLAD) regions. CTCF occupancy was associated with increased gene expression and enrichment of double-stranded breaks (DSBs). LMNA deficiency had a modest effect on chromatin compartments but led to mergers, splitting, and shifting boundaries of one-third of the topologically associated domains (TADs) without affecting gene expression significantly. LMNA deficiency led to a gain of  approximately 600 and a loss of  approximately 1000 loops, which were associated with increased and decreased transcript levels, respectively. Reorganization of chromatin loops affected  approximately 25% of the differentially expressed genes in the LMNA-deficient cardiac myocytes. In multivariate analysis, CTCF-binding sites, chromatin loops, and cLADs were independent predictors of gene expression in the LMNA-deficient cardiac myocytes, whereas TADs and chromatin compartments were not. Thus, LMNA deficiency changes genome-wide CTCF occupancy and loop organization, which affect gene expression in cardiac myocytes. The findings provide new insights into the pathogenesis of cardiac involvement in laminopathies.",
+  "abstract_zh": "LMNA基因（编码lamin A）的突变导致核纤层蛋白病（laminopathies）。心脏受累在核纤层蛋白病中常见，且是死亡和发病的主要原因。LMNA通过核纤层相关结构域（lamin-associated domains, LADs）与染色质相互作用，并调控基因表达。我们报道，LMNA缺失增加了全基因组范围内的CTCF占据，主要发生在组成型LAD（cLAD）区域之外。CTCF占据与基因表达增加及双链断裂（double-stranded breaks, DSBs）富集相关。LMNA缺失对染色质区室影响较小，但导致三分之一拓扑关联结构域（topologically associated domains, TADs）的合并、分裂和边界移位，而未显著影响基因表达。LMNA缺失导致约600个环的获得和约1000个环的丢失，这些分别与转录水平的上调和下调相关。染色质环的重组影响了LMNA缺陷心肌细胞中约25%的差异表达基因。在多变量分析中，CTCF结合位点、染色质环和cLADs是LMNA缺陷心肌细胞中基因表达的独立预测因子，而TADs和染色质区室则不是。因此，LMNA缺失改变全基因组CTCF占据和环组织，从而影响心肌细胞中的基因表达。这些发现为核纤层蛋白病中心脏受累的发病机制提供了新见解。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43011607/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43011607/",
+  "paper_page_path": "papers/pubmed/43011607/index.html"
+}

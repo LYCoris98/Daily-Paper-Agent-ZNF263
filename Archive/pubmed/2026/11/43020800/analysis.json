@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43020800",
+  "title": "Uhrf1 loss disrupts CTCF-associated chromatin organization during early mouse embryogenesis.",
+  "authors": "Kurowski, Agata; Zhu, Bohan; Sun, Yifei; Sargunas, Paul; Jain, Nimisha; Chan, Ashley; Hadri, Lahouaria; Shi, Yi; Walsh, Martin J; Ma, Sai",
+  "journal": "Nature communications",
+  "published_date": "2026-11-13",
+  "window": {
+    "start": "2026-11-09",
+    "end": "2026-11-15"
+  },
+  "score": 2,
+  "one_liner_zh": "该文研究Uhrf1在胚胎发育中调控DNA甲基化与染色质结构，与cpcdh基因家族无直接关联，仅涉及表观遗传机制可借鉴。",
+  "abstract": "UHRF1 is a chromatin-binding protein essential for maintaining DNA methylation and histone modification states, yet its integrated role in vivo remains incompletely understood. To define its function, we generated conditional Uhrf1 knockout embryonic stem cells (ESCs) and embryos. Uhrf1(-)(/)(-) ESCs exhibited near-complete loss of 5mC and 5hmC but maintained pluripotency, whereas Uhrf1-null embryos developed normally until E8.5 and then failed to develop further by E9.5, phenocopying Dnmt1 loss. Single-cell multi-omic (ME-seq) profiling of E8.5 embryos revealed impaired lineage stabilization, widespread hypomethylation, and disrupted chromatin architecture. Uhrf1 loss was associated with altered CTCF-associated chromatin signal, broad remodeling of chromatin contacts, altered cis-regulatory relationships, and reduced predicted BMP-related ligand-receptor communication, particularly within neural crest populations. These findings identify Uhrf1 as a central regulator that tightly couples DNA methylation maintenance to 3D genome organization during gastrulation, thereby, directing early lineage specification and positioning Uhrf1 as a pivotal mediator of epigenetic information transfer during early embryogenesis.",
+  "abstract_zh": "UHRF1是一种染色质结合蛋白，对维持DNA甲基化和组蛋白修饰状态至关重要，但其在体内的整体作用尚未完全阐明。为明确其功能，我们生成了条件性Uhrf1敲除胚胎干细胞（ESCs）和胚胎。Uhrf1(-)(/)(-) ESCs表现出5mC和5hmC近乎完全缺失，但维持了多能性，而Uhrf1缺失胚胎在E8.5前发育正常，至E9.5时则无法进一步发育，表型复制了Dnmt1缺失。对E8.5胚胎的单细胞多组学（ME-seq）分析揭示了谱系稳定化受损、广泛低甲基化及染色质结构破坏。Uhrf1缺失与CTCF相关染色质信号改变、染色质接触广泛重塑、顺式调控关系变化以及预测的BMP相关配体-受体通讯减少相关，尤其在神经嵴细胞群体中。这些发现将Uhrf1鉴定为在原肠胚形成期间紧密耦合DNA甲基化维持与三维基因组组织的核心调控因子，从而指导早期谱系特化，并将Uhrf1定位为早期胚胎发生过程中表观遗传信息传递的关键中介因子。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43020800/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43020800/",
+  "paper_page_path": "papers/pubmed/43020800/index.html"
+}

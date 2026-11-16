@@ -1,0 +1,101 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.11.12.766027",
+  "title": "Chromatin accessibility predictions reveal lineage-structured effects of noncoding variants across hematopoiesis",
+  "doi": "10.64898/2026.11.12.766027",
+  "abstract": "<h4>Background: </h4> Noncoding variants account for over 90% of genome-wide association study (GWAS) findings, but their mechanisms are often unclear. Sequence-to-function models provide one approach to variant interpretation by predicting the effects of genetic variation on molecular phenotypes. ChromBPNet predicts variant effects on chromatin accessibility, but how these predictions are organized across differentiation hierarchies and relate to orthogonal predictions remains unclear. Results. We trained ChromBPNet models for 17 hematopoietic cell types and scored 302,830 variants. Of 242,307 variants accessible in at least one cell type, 5.6% were predicted to alter chromatin accessibility. Variants active in more cell types had larger predicted effects. Predicted effects also reflected hematopoietic lineage structure, with sharing declining with lineage distance while effect direction was preserved in 99.6% of parent-child comparisons. ChromBPNet predictions agreed with GWAS fine-mapping but largely identified distinct variants. Fine-mapping-only variants were enriched for coding and transcript-associated variation, whereas ChromBPNet-only variants were enriched for regulatory elements, accessible chromatin, and trait-relevant activity. In K562 CRISPRi datasets, predicted accessibility gain showed limited association with target-gene validation. Regulatory elements containing CTCF motifs were less likely to have validated target genes, consistent with a role in chromatin organization rather than gene activation. Conclusions. ChromBPNet and fine-mapping provide complementary information about variant function. Predicted accessibility effects identify the cell types in which noncoding variants are likely to act and capture relationships across the hematopoietic hierarchy, but provide limited information about the genes they regulate. All predictions are available at: https://bloodnnet.ccbr.utoronto.ca/.",
+  "authors": [
+    "Kazemi M",
+    "Morris JA"
+  ],
+  "published_date": "2026-11-13",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766027",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766027.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"CTCF\")",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1367413",
+    "raw_record": {
+      "id": "PPR1367413",
+      "source": "PPR",
+      "doi": "10.64898/2026.11.12.766027",
+      "title": "Chromatin accessibility predictions reveal lineage-structured effects of noncoding variants across hematopoiesis",
+      "authorString": "Kazemi M, Morris JA.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Kazemi M",
+            "lastName": "Kazemi",
+            "firstName": "Mehrdad",
+            "initials": "M"
+          },
+          {
+            "fullName": "Morris JA",
+            "lastName": "Morris",
+            "firstName": "John",
+            "initials": "JA"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Background: </h4> Noncoding variants account for over 90% of genome-wide association study (GWAS) findings, but their mechanisms are often unclear. Sequence-to-function models provide one approach to variant interpretation by predicting the effects of genetic variation on molecular phenotypes. ChromBPNet predicts variant effects on chromatin accessibility, but how these predictions are organized across differentiation hierarchies and relate to orthogonal predictions remains unclear.  Results. We trained ChromBPNet models for 17 hematopoietic cell types and scored 302,830 variants. Of 242,307 variants accessible in at least one cell type, 5.6% were predicted to alter chromatin accessibility. Variants active in more cell types had larger predicted effects. Predicted effects also reflected hematopoietic lineage structure, with sharing declining with lineage distance while effect direction was preserved in 99.6% of parent-child comparisons. ChromBPNet predictions agreed with GWAS fine-mapping but largely identified distinct variants. Fine-mapping-only variants were enriched for coding and transcript-associated variation, whereas ChromBPNet-only variants were enriched for regulatory elements, accessible chromatin, and trait-relevant activity. In K562 CRISPRi datasets, predicted accessibility gain showed limited association with target-gene validation. Regulatory elements containing CTCF motifs were less likely to have validated target genes, consistent with a role in chromatin organization rather than gene activation.  Conclusions. ChromBPNet and fine-mapping provide complementary information about variant function. Predicted accessibility effects identify the cell types in which noncoding variants are likely to act and capture relationships across the hematopoietic hierarchy, but provide limited information about the genes they regulate. All predictions are available at: https://bloodnnet.ccbr.utoronto.ca/.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "J.A.M. was supported by the University of Toronto and research infrastructure funded by the Canada Foundation for Innovation John R. Evans Leaders Fund and the Ontario Research Fund Small Infrastructure Fund",
+            "grantId": "46612",
+            "orderIn": 0
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.11.12.766027"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-11-14",
+      "firstPublicationDate": "2026-11-13",
+      "firstIndexDate": "2026-11-14",
+      "hasEvaluations": "N"
+    }
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "identity": {
+    "pmid": "43025571",
+    "doi": "10.1016/j.ijbiomac.2026.155299",
+    "title": "CTCF-regulated miR-646 suppresses colorectal cancer progression through Wnt/beta-catenin signaling pathway by targeting WNT2B."
+  },
+  "content": {
+    "abstract": "Colorectal cancer (CRC) is a common malignancy associated with Wnt/beta-catenin pathway dysregulation. While miRNAs are known to influence cancer, miR-646's role in CRC remains unclear. This study employed qPCR, Western blot, IHC, CCK-8, and Transwell assays to assess miR-646 expression, protein levels, and CRC cell functions. Wnt/beta-catenin activation was analyzed using IF, TOP/FOP reporter assays, and gene interactions were examined through ChIP and dual-luciferase systems. Nude mouse models and clinical samples were used to further evaluate the biological and clinical relevance of miR-646 in CRC. Results showed miR-646 was downregulated in CRC. Its upregulation suppressed CRC cell proliferation, migration, and invasion by inhibiting WNT2B and Wnt/beta-catenin activation. CTCF negatively regulated miR-646 expression, potentially through its binding to the miR-646 promoter. In vivo, miR-646 knockdown promoted CRC xenograft tumor growth, accompanied by increased WNT2B expression and enhanced Wnt/beta-catenin signaling. Additionally, higher miR-646 expression was associated with a better prognosis in patients with CRC. These findings support a role for miR-646 in regulating WNT2B/Wnt/beta-catenin signaling in CRC and demonstrate its negative regulation by CTCF, suggesting the potential of miR-646 as a prognostic biomarker and therapeutic target.",
+    "keywords": [
+      "CTCF",
+      "Colorectal cancer",
+      "Tumor suppressor",
+      "WNT2B",
+      "Wnt/beta-catenin",
+      "miR-646"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Gao-Min",
+        "Song, Xiao-Hang",
+        "Ding, Yi-Han",
+        "Dong, Yi",
+        "Chen, Bo-Jian",
+        "Yang, Xiao",
+        "Yu, Wen-Han",
+        "Zhang, Kai",
+        "Zhang, Xin-Er",
+        "Zhang, Run-Qi",
+        "Tang, Ya-Nan",
+        "Lei, Xue-Tao",
+        "Liao, Yi-Jun",
+        "Chen, Jing-Song"
+      ],
+      "short_names": [
+        "Chen GM",
+        "Song XH",
+        "Ding YH",
+        "Dong Y",
+        "Chen BJ",
+        "Yang X",
+        "Yu WH",
+        "Zhang K",
+        "Zhang XE",
+        "Zhang RQ",
+        "Tang YN",
+        "Lei XT",
+        "Liao YJ",
+        "Chen JS"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China.",
+        "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China. Electronic address: hychenjs@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Gao-Min",
+        "short_name": "Chen GM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Song, Xiao-Hang",
+        "short_name": "Song XH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Ding, Yi-Han",
+        "short_name": "Ding YH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Dong, Yi",
+        "short_name": "Dong Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Chen, Bo-Jian",
+        "short_name": "Chen BJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xiao",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Yu, Wen-Han",
+        "short_name": "Yu WH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Kai",
+        "short_name": "Zhang K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xin-Er",
+        "short_name": "Zhang XE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Run-Qi",
+        "short_name": "Zhang RQ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Tang, Ya-Nan",
+        "short_name": "Tang YN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Lei, Xue-Tao",
+        "short_name": "Lei XT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liao, Yi-Jun",
+        "short_name": "Liao YJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jing-Song",
+        "short_name": "Chen JS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510120, People's Republic of China. Electronic address: hychenjs@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of biological macromolecules"
+    ],
+    "journal_abbrev": [
+      "Int J Biol Macromol"
+    ],
+    "pub_date": "2026 Nov 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 01:35",
+    "fetched_at": "2026-11-16 08:02:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43025571"
+    ],
+    "review": [
+      "43025571"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0141-8130(26)05253-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "identity": {
+    "pmid": "43020800",
+    "doi": "10.1038/s41467-026-78565-y",
+    "title": "Uhrf1 loss disrupts CTCF-associated chromatin organization during early mouse embryogenesis."
+  },
+  "content": {
+    "abstract": "UHRF1 is a chromatin-binding protein essential for maintaining DNA methylation and histone modification states, yet its integrated role in vivo remains incompletely understood. To define its function, we generated conditional Uhrf1 knockout embryonic stem cells (ESCs) and embryos. Uhrf1(-)(/)(-) ESCs exhibited near-complete loss of 5mC and 5hmC but maintained pluripotency, whereas Uhrf1-null embryos developed normally until E8.5 and then failed to develop further by E9.5, phenocopying Dnmt1 loss. Single-cell multi-omic (ME-seq) profiling of E8.5 embryos revealed impaired lineage stabilization, widespread hypomethylation, and disrupted chromatin architecture. Uhrf1 loss was associated with altered CTCF-associated chromatin signal, broad remodeling of chromatin contacts, altered cis-regulatory relationships, and reduced predicted BMP-related ligand-receptor communication, particularly within neural crest populations. These findings identify Uhrf1 as a central regulator that tightly couples DNA methylation maintenance to 3D genome organization during gastrulation, thereby, directing early lineage specification and positioning Uhrf1 as a pivotal mediator of epigenetic information transfer during early embryogenesis.",
+    "keywords": [],
+    "mesh_terms": [
+      "Animals",
+      "DNA Methylation",
+      "Mice",
+      "Ubiquitin-Protein Ligases",
+      "*CCCTC-Binding Factor/metabolism",
+      "*Chromatin/metabolism",
+      "*Embryonic Development/genetics",
+      "Mice, Knockout",
+      "Gene Expression Regulation, Developmental",
+      "*CCAAT-Enhancer-Binding Proteins/genetics/metabolism",
+      "DNA (Cytosine-5-)-Methyltransferase 1",
+      "Embryonic Stem Cells/metabolism",
+      "Mouse Embryonic Stem Cells/metabolism",
+      "Embryo, Mammalian/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kurowski, Agata",
+        "Zhu, Bohan",
+        "Sun, Yifei",
+        "Sargunas, Paul",
+        "Jain, Nimisha",
+        "Chan, Ashley",
+        "Hadri, Lahouaria",
+        "Shi, Yi",
+        "Walsh, Martin J",
+        "Ma, Sai"
+      ],
+      "short_names": [
+        "Kurowski A",
+        "Zhu B",
+        "Sun Y",
+        "Sargunas P",
+        "Jain N",
+        "Chan A",
+        "Hadri L",
+        "Shi Y",
+        "Walsh MJ",
+        "Ma S"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0502-571X",
+        "ORCID: 0009-0003-9823-8630",
+        "ORCID: 0000-0001-8108-7993",
+        "ORCID: 0000-0001-8339-8285",
+        "ORCID: 0000-0002-9785-7929"
+      ],
+      "affiliations": [
+        "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "The Mount Sinai Center for RNA Biology and Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Dermatology, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "The Mount Sinai Center for RNA Biology and Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Cardiology, CVRI, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+        "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. martin.walsh@mssm.edu.",
+        "The Mount Sinai Center for RNA Biology and Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, USA. martin.walsh@mssm.edu.",
+        "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. martin.walsh@mssm.edu.",
+        "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. sai.ma2@mssm.edu.",
+        "Institute of Genomic Health, Icahn School of Medicine at Mount Sinai, New York, NY, USA. sai.ma2@mssm.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kurowski, Agata",
+        "short_name": "Kurowski A",
+        "identifiers": [
+          "0000-0003-0502-571X"
+        ],
+        "affiliations": [
+          "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+          "The Mount Sinai Center for RNA Biology and Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+          "Department of Dermatology, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Zhu, Bohan",
+        "short_name": "Zhu B",
+        "identifiers": [
+          "0009-0003-9823-8630"
+        ],
+        "affiliations": [
+          "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Sun, Yifei",
+        "short_name": "Sun Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+          "The Mount Sinai Center for RNA Biology and Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+          "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Sargunas, Paul",
+        "short_name": "Sargunas P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Jain, Nimisha",
+        "short_name": "Jain N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Chan, Ashley",
+        "short_name": "Chan A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Hadri, Lahouaria",
+        "short_name": "Hadri L",
+        "identifiers": [
+          "0000-0001-8108-7993"
+        ],
+        "affiliations": [
+          "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA.",
+          "Department of Cardiology, CVRI, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Shi, Yi",
+        "short_name": "Shi Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Walsh, Martin J",
+        "short_name": "Walsh MJ",
+        "identifiers": [
+          "0000-0001-8339-8285"
+        ],
+        "affiliations": [
+          "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. martin.walsh@mssm.edu.",
+          "The Mount Sinai Center for RNA Biology and Medicine, Icahn School of Medicine at Mount Sinai, New York, NY, USA. martin.walsh@mssm.edu.",
+          "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. martin.walsh@mssm.edu."
+        ]
+      },
+      {
+        "full_name": "Ma, Sai",
+        "short_name": "Ma S",
+        "identifiers": [
+          "0000-0002-9785-7929"
+        ],
+        "affiliations": [
+          "Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA. sai.ma2@mssm.edu.",
+          "Institute of Genomic Health, Icahn School of Medicine at Mount Sinai, New York, NY, USA. sai.ma2@mssm.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 05:35",
+    "fetched_at": "2026-11-16 08:02:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43020800"
+    ],
+    "review": [
+      "43020800"
+    ],
+    "pmc": [
+      "13759496"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78565-y",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43020800/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

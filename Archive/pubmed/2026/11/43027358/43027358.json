@@ -1,0 +1,153 @@
+{
+  "identity": {
+    "pmid": "43027358",
+    "doi": "10.3390/cells15212001",
+    "title": "BORIS in Hormone-Driven Cancers: Epigenetic Reprogramming, Transcriptional Plasticity, and Therapeutic Implications."
+  },
+  "content": {
+    "abstract": "Hormone-driven cancers, including prostate, breast, endometrial and ovarian cancers, are a leading cause of cancer-related mortality. Endocrine therapies targeting androgen receptor and oestrogen receptor/progesterone receptor signalling have improved outcomes, but acquired resistance arising through genetic and epigenetic mechanisms that bypass receptor dependence remains a major challenge. BORIS (Brother of the Regulator of Imprinted Sites), a CTCF paralogue, is a germline-restricted regulator that becomes aberrantly reactivated in cancer through promoter hypomethylation, p53 loss, and loss of CTCF-mediated repression. Once expressed, BORIS occupies CTCF sites, displacing or co-occupying them with CTCF, and reprograms clustered sites into alternative transcriptional start sites through SRCAP-mediated H2A.Z deposition, activating germline genes that sustain proliferation, and therapeutic resistance. BORIS expression correlates with poor prognosis in ovarian and endometrial cancers, associates with ER/PR levels in breast cancer, and correlates with Gleason score in prostate cancer. BORIS represses AR signalling in ovarian cancer and inversely correlates with receptor expression in endometrial cancer. Its cancer-testis antigen properties position BORIS as an immunotherapy target, with preclinical vaccine efficacy demonstrated in breast cancer models. This review synthesises the disease-specific evidence positioning BORIS as a driver of transcriptional reprogramming and endocrine resistance, identifies current knowledge gaps, and discusses translational implications of targeting this pathway.",
+    "keywords": [
+      "BORIS",
+      "androgen receptor",
+      "cancer-testis antigen",
+      "chromatin remodelling",
+      "endocrine therapy resistance",
+      "epigenetic reprogramming",
+      "hormone-driven cancers"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Epigenesis, Genetic",
+      "*DNA-Binding Proteins/metabolism/genetics",
+      "Animals",
+      "*Neoplasms/genetics/metabolism",
+      "*Transcription, Genetic",
+      "Gene Expression Regulation, Neoplastic",
+      "*Hormones/metabolism",
+      "Receptors, Androgen/metabolism",
+      "*Cellular Reprogramming/genetics"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Saleem, Sara",
+        "Gaughan, Luke",
+        "Robson, Craig N"
+      ],
+      "short_names": [
+        "Saleem S",
+        "Gaughan L",
+        "Robson CN"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-2524-5657",
+        "ORCID: 0000-0002-9628-6669"
+      ],
+      "affiliations": [
+        "Newcastle University Centre for Cancer, Paul O'Gorman Building, Newcastle upon Tyne NE2 4AD, UK.",
+        "Faculty of Biomedical Sciences, University of Benghazi, Benghazi, Libya.",
+        "Newcastle University Centre for Cancer, Paul O'Gorman Building, Newcastle upon Tyne NE2 4AD, UK.",
+        "Newcastle University Centre for Cancer, Paul O'Gorman Building, Newcastle upon Tyne NE2 4AD, UK."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Saleem, Sara",
+        "short_name": "Saleem S",
+        "identifiers": [
+          "0009-0009-2524-5657"
+        ],
+        "affiliations": [
+          "Newcastle University Centre for Cancer, Paul O'Gorman Building, Newcastle upon Tyne NE2 4AD, UK.",
+          "Faculty of Biomedical Sciences, University of Benghazi, Benghazi, Libya."
+        ]
+      },
+      {
+        "full_name": "Gaughan, Luke",
+        "short_name": "Gaughan L",
+        "identifiers": [],
+        "affiliations": [
+          "Newcastle University Centre for Cancer, Paul O'Gorman Building, Newcastle upon Tyne NE2 4AD, UK."
+        ]
+      },
+      {
+        "full_name": "Robson, Craig N",
+        "short_name": "Robson CN",
+        "identifiers": [
+          "0000-0002-9628-6669"
+        ],
+        "affiliations": [
+          "Newcastle University Centre for Cancer, Paul O'Gorman Building, Newcastle upon Tyne NE2 4AD, UK."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cells"
+    ],
+    "journal_abbrev": [
+      "Cells"
+    ],
+    "pub_date": "2026 Nov 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/14 05:32",
+    "fetched_at": "2026-11-16 08:02:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43027358"
+    ],
+    "review": [
+      "43027358"
+    ],
+    "pmc": [
+      "13761558"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=cells15212001",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/hormones.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Hormones"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PGR-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

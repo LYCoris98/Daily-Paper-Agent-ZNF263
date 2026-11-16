@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43027358",
+  "title": "BORIS in Hormone-Driven Cancers: Epigenetic Reprogramming, Transcriptional Plasticity, and Therapeutic Implications.",
+  "authors": "Saleem, Sara; Gaughan, Luke; Robson, Craig N",
+  "journal": "Cells",
+  "published_date": "2026-11-14",
+  "window": {
+    "start": "2026-11-09",
+    "end": "2026-11-15"
+  },
+  "score": 0,
+  "one_liner_zh": "该文综述BORIS在激素驱动癌症中的表观遗传重编程作用，与cpcdh基因家族无直接关联。",
+  "abstract": "Hormone-driven cancers, including prostate, breast, endometrial and ovarian cancers, are a leading cause of cancer-related mortality. Endocrine therapies targeting androgen receptor and oestrogen receptor/progesterone receptor signalling have improved outcomes, but acquired resistance arising through genetic and epigenetic mechanisms that bypass receptor dependence remains a major challenge. BORIS (Brother of the Regulator of Imprinted Sites), a CTCF paralogue, is a germline-restricted regulator that becomes aberrantly reactivated in cancer through promoter hypomethylation, p53 loss, and loss of CTCF-mediated repression. Once expressed, BORIS occupies CTCF sites, displacing or co-occupying them with CTCF, and reprograms clustered sites into alternative transcriptional start sites through SRCAP-mediated H2A.Z deposition, activating germline genes that sustain proliferation, and therapeutic resistance. BORIS expression correlates with poor prognosis in ovarian and endometrial cancers, associates with ER/PR levels in breast cancer, and correlates with Gleason score in prostate cancer. BORIS represses AR signalling in ovarian cancer and inversely correlates with receptor expression in endometrial cancer. Its cancer-testis antigen properties position BORIS as an immunotherapy target, with preclinical vaccine efficacy demonstrated in breast cancer models. This review synthesises the disease-specific evidence positioning BORIS as a driver of transcriptional reprogramming and endocrine resistance, identifies current knowledge gaps, and discusses translational implications of targeting this pathway.",
+  "abstract_zh": "激素驱动的癌症，包括前列腺癌、乳腺癌、子宫内膜癌和卵巢癌，是癌症相关死亡的主要原因。针对雄激素受体和雌激素受体/孕激素受体信号通路的内分泌治疗已改善预后，但通过遗传和表观遗传机制绕过受体依赖性而产生的获得性耐药仍是一个重大挑战。BORIS（印记位点调节因子的兄弟，Brother of the Regulator of Imprinted Sites），作为CTCF的旁系同源物，是一种种系限制性调节因子，在癌症中通过启动子低甲基化、p53缺失及CTCF介导的抑制丧失而异常重新激活。一旦表达，BORIS占据CTCF位点，取代或与CTCF共占据这些位点，并通过SRCAP介导的H2A.Z沉积将成簇位点重编程为替代转录起始位点，激活维持增殖和治疗耐药的种系基因。BORIS表达与卵巢癌和子宫内膜癌的不良预后相关，与乳腺癌中ER/PR水平相关联，并与前列腺癌中的Gleason评分相关。BORIS在卵巢癌中抑制AR信号通路，并在子宫内膜癌中与受体表达呈负相关。其癌-睾丸抗原特性使BORIS成为免疫治疗靶点，在乳腺癌模型中已证明临床前疫苗有效性。本综述综合了疾病特异性证据，将BORIS定位为转录重编程和内分泌耐药的驱动因素，识别当前知识空白，并讨论靶向该通路的转化意义。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43027358/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43027358/",
+  "paper_page_path": "papers/pubmed/43027358/index.html"
+}

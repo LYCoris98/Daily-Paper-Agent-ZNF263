@@ -1,0 +1,314 @@
+{
+  "identity": {
+    "pmid": "43024629",
+    "doi": "10.1371/journal.ppat.1014342",
+    "title": "CTCF regulates wild-type and recombinant AAV gene expression by shaping viral chromatin."
+  },
+  "content": {
+    "abstract": "Adeno-Associated Viruses (AAVs) are powerful platforms for delivering therapeutic transgenes via recombinant AAV (rAAV) vectors. However, a limited understanding of the regulation of AAV gene expression has narrowed the ability to efficiently express therapeutic transgenes from rAAV vectors. Since rAAVs retain only the wtAAV inverted terminal repeats (ITR), we hypothesized that regulatory elements outside the ITR that govern wild-type AAV (wtAAV) gene expression can be used to modify rAAV genomes to enhance vector performance. Through in silico analysis, biochemical pulldowns, and high-throughput sequencing, we have identified that the host architectural protein CCCTC-binding Factor (CTCF) associates with the wtAAV type 2 (wtAAV2) genome but is absent from rAAV vectors. Global knockdown and site-specific deletion revealed that the CTCF binding element (CBE) on the wtAAV2 genome, located upstream of the viral P5 promoter, regulates expression of the viral Rep68/78 genes. We have re-engineered new rAAV vectors expressing a GFP reporter transgene to contain the wtAAV2-CBE upstream of the vector promoter. Our results show that CTCF binding dramatically increased rAAV transduction efficiency and GFP expression by up to four-fold across multiple cell types. This enhancement was independent of the AAV capsid serotype used for packaging rAAV vectors. CUT&RUN analysis revealed that this CBE was necessary and sufficient to regulate the chromatin landscape of wtAAV2 and rAAV2. Finally, we observed that CTCF-mediated chromatin remodeling of rAAV2 led to increased production of nascent RNA transcripts from the vector genome. Based on our findings, we propose that CTCF supports wtAAV2/rAAV gene expression by shaping the local chromatin landscape.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Larsen, Clairine I S",
+        "Abrahams, Rhiannon R",
+        "Guertler, Rea",
+        "Wilion, Elliott M",
+        "Erata, Eda",
+        "Sykes, Zachary H",
+        "Stoica, Lorelei I",
+        "Thirumoorthy, Gopishankar",
+        "Sinha, Divya",
+        "Rai, Richa",
+        "Majumder, Joydeb",
+        "Hofer, Elizabeth K",
+        "Hart, Eleanor",
+        "Dissanayake, Eishika",
+        "Gern, James E",
+        "Gamm, David M",
+        "Murphy, William L",
+        "Fuller, Matthew S",
+        "Majumder, Kinjal"
+      ],
+      "short_names": [
+        "Larsen CIS",
+        "Abrahams RR",
+        "Guertler R",
+        "Wilion EM",
+        "Erata E",
+        "Sykes ZH",
+        "Stoica LI",
+        "Thirumoorthy G",
+        "Sinha D",
+        "Rai R",
+        "Majumder J",
+        "Hofer EK",
+        "Hart E",
+        "Dissanayake E",
+        "Gern JE",
+        "Gamm DM",
+        "Murphy WL",
+        "Fuller MS",
+        "Majumder K"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4704-572X",
+        "ORCID: 0000-0002-1898-8251"
+      ],
+      "affiliations": [
+        "Institute for Molecular Virology, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+        "McArdle Laboratory for Cancer Research, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+        "Institute for Molecular Virology, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+        "McArdle Laboratory for Cancer Research, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+        "Ultragenyx Pharmaceuticals, Somerville, Massachusetts, United States of America.",
+        "Ultragenyx Pharmaceuticals, Somerville, Massachusetts, United States of America.",
+        "Ultragenyx Pharmaceuticals, Somerville, Massachusetts, United States of America.",
+        "Ultragenyx Pharmaceuticals, Somerville, Massachusetts, United States of America.",
+        "Ultragenyx Pharmaceuticals, Somerville, Massachusetts, United States of America.",
+        "Department of Comparative Biosciences, University of Wisconsin School of Veterinary Medicine, Madison, Wisconsin, United States of America.",
+        "McPherson Eye Research Institute, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+        "Waisman Center, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+        "McPherson Eye Research Institute, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+        "Waisman Center, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+        "Department of Orthopedics and Rehabilitation, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+        "Institute for Molecular Virology, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+        "McArdle Laboratory for Cancer Research, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+        "Institute for Molecular Virology, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+        "McArdle Laboratory for Cancer Research, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+        "Department of Pediatrics, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+        "Department of Pediatrics, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+        "Department of Medicine, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+        "McPherson Eye Research Institute, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+        "Waisman Center, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+        "Department of Ophthalmology and Visual Sciences, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+        "Department of Orthopedics and Rehabilitation, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+        "Department of Biomedical Engineering, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+        "Ultragenyx Pharmaceuticals, Somerville, Massachusetts, United States of America.",
+        "Institute for Molecular Virology, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+        "McArdle Laboratory for Cancer Research, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+        "Human Cancer Virology Program, University of Wisconsin Carbone Cancer Center, Madison, Wisconsin, United States of America."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Larsen, Clairine I S",
+        "short_name": "Larsen CIS",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Molecular Virology, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+          "McArdle Laboratory for Cancer Research, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America."
+        ]
+      },
+      {
+        "full_name": "Abrahams, Rhiannon R",
+        "short_name": "Abrahams RR",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Molecular Virology, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+          "McArdle Laboratory for Cancer Research, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America."
+        ]
+      },
+      {
+        "full_name": "Guertler, Rea",
+        "short_name": "Guertler R",
+        "identifiers": [],
+        "affiliations": [
+          "Ultragenyx Pharmaceuticals, Somerville, Massachusetts, United States of America."
+        ]
+      },
+      {
+        "full_name": "Wilion, Elliott M",
+        "short_name": "Wilion EM",
+        "identifiers": [],
+        "affiliations": [
+          "Ultragenyx Pharmaceuticals, Somerville, Massachusetts, United States of America."
+        ]
+      },
+      {
+        "full_name": "Erata, Eda",
+        "short_name": "Erata E",
+        "identifiers": [],
+        "affiliations": [
+          "Ultragenyx Pharmaceuticals, Somerville, Massachusetts, United States of America."
+        ]
+      },
+      {
+        "full_name": "Sykes, Zachary H",
+        "short_name": "Sykes ZH",
+        "identifiers": [],
+        "affiliations": [
+          "Ultragenyx Pharmaceuticals, Somerville, Massachusetts, United States of America."
+        ]
+      },
+      {
+        "full_name": "Stoica, Lorelei I",
+        "short_name": "Stoica LI",
+        "identifiers": [],
+        "affiliations": [
+          "Ultragenyx Pharmaceuticals, Somerville, Massachusetts, United States of America."
+        ]
+      },
+      {
+        "full_name": "Thirumoorthy, Gopishankar",
+        "short_name": "Thirumoorthy G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Comparative Biosciences, University of Wisconsin School of Veterinary Medicine, Madison, Wisconsin, United States of America."
+        ]
+      },
+      {
+        "full_name": "Sinha, Divya",
+        "short_name": "Sinha D",
+        "identifiers": [],
+        "affiliations": [
+          "McPherson Eye Research Institute, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+          "Waisman Center, University of Wisconsin-Madison, Madison, Wisconsin, United States of America."
+        ]
+      },
+      {
+        "full_name": "Rai, Richa",
+        "short_name": "Rai R",
+        "identifiers": [],
+        "affiliations": [
+          "McPherson Eye Research Institute, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+          "Waisman Center, University of Wisconsin-Madison, Madison, Wisconsin, United States of America."
+        ]
+      },
+      {
+        "full_name": "Majumder, Joydeb",
+        "short_name": "Majumder J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics and Rehabilitation, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America."
+        ]
+      },
+      {
+        "full_name": "Hofer, Elizabeth K",
+        "short_name": "Hofer EK",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Molecular Virology, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+          "McArdle Laboratory for Cancer Research, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America."
+        ]
+      },
+      {
+        "full_name": "Hart, Eleanor",
+        "short_name": "Hart E",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Molecular Virology, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+          "McArdle Laboratory for Cancer Research, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America."
+        ]
+      },
+      {
+        "full_name": "Dissanayake, Eishika",
+        "short_name": "Dissanayake E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America."
+        ]
+      },
+      {
+        "full_name": "Gern, James E",
+        "short_name": "Gern JE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+          "Department of Medicine, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America."
+        ]
+      },
+      {
+        "full_name": "Gamm, David M",
+        "short_name": "Gamm DM",
+        "identifiers": [],
+        "affiliations": [
+          "McPherson Eye Research Institute, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+          "Waisman Center, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+          "Department of Ophthalmology and Visual Sciences, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America."
+        ]
+      },
+      {
+        "full_name": "Murphy, William L",
+        "short_name": "Murphy WL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Orthopedics and Rehabilitation, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+          "Department of Biomedical Engineering, University of Wisconsin-Madison, Madison, Wisconsin, United States of America."
+        ]
+      },
+      {
+        "full_name": "Fuller, Matthew S",
+        "short_name": "Fuller MS",
+        "identifiers": [
+          "0000-0002-4704-572X"
+        ],
+        "affiliations": [
+          "Ultragenyx Pharmaceuticals, Somerville, Massachusetts, United States of America."
+        ]
+      },
+      {
+        "full_name": "Majumder, Kinjal",
+        "short_name": "Majumder K",
+        "identifiers": [
+          "0000-0002-1898-8251"
+        ],
+        "affiliations": [
+          "Institute for Molecular Virology, University of Wisconsin-Madison, Madison, Wisconsin, United States of America.",
+          "McArdle Laboratory for Cancer Research, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, United States of America.",
+          "Human Cancer Virology Program, University of Wisconsin Carbone Cancer Center, Madison, Wisconsin, United States of America."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS pathogens"
+    ],
+    "journal_abbrev": [
+      "PLoS Pathog"
+    ],
+    "pub_date": "2026 Nov 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/13 17:33",
+    "fetched_at": "2026-11-16 08:02:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43024629"
+    ],
+    "review": [
+      "43024629"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.ppat.1014342",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-250",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

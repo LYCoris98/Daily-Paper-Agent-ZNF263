@@ -1,0 +1,146 @@
+{
+  "identity": {
+    "pmid": "43008484",
+    "doi": "10.1016/j.psj.2026.107996",
+    "title": "CTCF knockdown reduces ABCG2 expression and intracellular biliverdin accumulation in primary uterine epithelial cells of blue-shelled ducks."
+  },
+  "content": {
+    "abstract": "The blue eggshell phenotype in ducks is an important economic trait associated with enhanced shell strength, antioxidative capacity, and storage stability. Our previous study found that blue eggshell alleles enhanced ABCG2 expression through specific binding of the transcription factor CTCF. However, the mechanisms underlying this regulatory relationship remain unclear. In this study, ABCG2 overexpression and CTCF knockdown models were established in primary uterine epithelial cells derived from blue-shelled ducks, followed by intracellular biliverdin assays and whole-genome DNA methylation sequencing. Functional assays showed that CTCF knockdown significantly reduced ABCG2 expression and intracellular biliverdin accumulation, whereas ABCG2 overexpression increased intracellular biliverdin levels, supporting a functional association between CTCF, ABCG2 expression, and biliverdin accumulation. Genome-wide methylation profiling identified differentially methylated regions (DMRs) following CTCF knockdown, which were predominantly located in intronic and intergenic regions. However, no statistically significant difference was detected in methylation levels within the ABCG2 promoter region. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses of DMR-associated genes identified enrichment of terms centered on extracellular matrix organization, cell adhesion, and cytoskeletal regulation, with no significant enrichment of pigmentation-related or transporter pathways. These enrichment results provide exploratory insights into the molecular changes associated with CTCF knockdown, but their functional significance remains to be determined. Collectively, our findings indicate that CTCF knockdown is associated with reduced ABCG2 expression and intracellular biliverdin accumulation, while the accompanying genome-wide DNA methylation changes may represent broader molecular alterations whose specific functional roles require further investigation.",
+    "keywords": [
+      "ABCG2",
+      "Biliverdin",
+      "Blue eggshell",
+      "CTCF",
+      "DNA methylation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Dandan",
+        "Bao, Ying",
+        "Li, Bohong",
+        "Lu, Lizhi",
+        "Li, Pan",
+        "Chen, Li"
+      ],
+      "short_names": [
+        "Wang D",
+        "Bao Y",
+        "Li B",
+        "Lu L",
+        "Li P",
+        "Chen L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Animal Husbandry and Veterinary Science, Xianghu Laboratory, Zhejiang-Ukraine Joint Laboratory for Poultry Germplasm Resources Conservation, Exploitation and Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, 310021, China.",
+        "Institute of Animal Husbandry and Veterinary Science, Xianghu Laboratory, Zhejiang-Ukraine Joint Laboratory for Poultry Germplasm Resources Conservation, Exploitation and Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, 310021, China.",
+        "Institute of Animal Husbandry and Veterinary Science, Xianghu Laboratory, Zhejiang-Ukraine Joint Laboratory for Poultry Germplasm Resources Conservation, Exploitation and Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, 310021, China.",
+        "Institute of Animal Husbandry and Veterinary Science, Xianghu Laboratory, Zhejiang-Ukraine Joint Laboratory for Poultry Germplasm Resources Conservation, Exploitation and Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, 310021, China.",
+        "Institute of Animal Husbandry and Veterinary Science, Xianghu Laboratory, Zhejiang-Ukraine Joint Laboratory for Poultry Germplasm Resources Conservation, Exploitation and Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, 310021, China.",
+        "Institute of Animal Husbandry and Veterinary Science, Xianghu Laboratory, Zhejiang-Ukraine Joint Laboratory for Poultry Germplasm Resources Conservation, Exploitation and Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, 310021, China. Electronic address: chenli0429@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Dandan",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Animal Husbandry and Veterinary Science, Xianghu Laboratory, Zhejiang-Ukraine Joint Laboratory for Poultry Germplasm Resources Conservation, Exploitation and Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, 310021, China."
+        ]
+      },
+      {
+        "full_name": "Bao, Ying",
+        "short_name": "Bao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Animal Husbandry and Veterinary Science, Xianghu Laboratory, Zhejiang-Ukraine Joint Laboratory for Poultry Germplasm Resources Conservation, Exploitation and Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, 310021, China."
+        ]
+      },
+      {
+        "full_name": "Li, Bohong",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Animal Husbandry and Veterinary Science, Xianghu Laboratory, Zhejiang-Ukraine Joint Laboratory for Poultry Germplasm Resources Conservation, Exploitation and Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, 310021, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Lizhi",
+        "short_name": "Lu L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Animal Husbandry and Veterinary Science, Xianghu Laboratory, Zhejiang-Ukraine Joint Laboratory for Poultry Germplasm Resources Conservation, Exploitation and Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, 310021, China."
+        ]
+      },
+      {
+        "full_name": "Li, Pan",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Animal Husbandry and Veterinary Science, Xianghu Laboratory, Zhejiang-Ukraine Joint Laboratory for Poultry Germplasm Resources Conservation, Exploitation and Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, 310021, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Li",
+        "short_name": "Chen L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Animal Husbandry and Veterinary Science, Xianghu Laboratory, Zhejiang-Ukraine Joint Laboratory for Poultry Germplasm Resources Conservation, Exploitation and Utilization, Zhejiang Academy of Agricultural Sciences, Hangzhou, 310021, China. Electronic address: chenli0429@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Poultry science"
+    ],
+    "journal_abbrev": [
+      "Poult Sci"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/10 23:28",
+    "fetched_at": "2026-11-16 08:02:20"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43008484"
+    ],
+    "review": [
+      "43008484"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0032-5791(26)01630-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/ps/article-lookup/doi/10.1016/j.psj.2026.107996",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
