@@ -1,0 +1,352 @@
+{
+  "identity": {
+    "pmid": "43060098",
+    "doi": "10.64898/2026.11.01.763250",
+    "title": "NAD Metabolism Drives CTCF-Cohesin Chromatin Regulation in EBV-Transformed B-Cells."
+  },
+  "content": {
+    "abstract": "Chromatin architecture regulates gene expression, and it is maintained by architectural proteins such as CTCF and the cohesin complex. In Epstein-Barr virus infected cells, viral chromatin organization is stabilized through the interaction between PARP1 and CTCF, ensuring maintenance of latent gene expression. EBV(+) B cells exhibit elevated PARP1 activity, which imposes a substantial metabolic burden due to NAD(+) consumption by PARP1 itself. We demonstrate that efficient EBV infection and B-cell transformation rely on the NAD salvage pathway to sustain PARP1 activity and CTCF-cohesin chromatin folding. Pharmacologic inhibition of the rate-limiting enzyme NAMPT with FK866 phenocopies the chromatin architectural disruption induced by PARP1 and changes in NAD levels affects CTCF/cohesin chromatin architectural remodeling and loop extrusion. Moreover, NAMPT inhibition reduces tumor burden in EBV(+) xenograft models. These findings identify a critical metabolic dependency linking NAD(+) homeostasis to CTCF/cohesin mediated chromatin architecture and reveal a therapeutic vulnerability in EBV-associated malignancies.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Maestri, Davide",
+        "Sklutuis, Rachel",
+        "Caruso, Lisa Beatrice",
+        "Preston-Alp, Sarah",
+        "Gatto, Martina",
+        "Soldan, Samantha S",
+        "Park, Pyounghwa",
+        "Melick, Lauren",
+        "Corveleyn, Laura",
+        "Sidoli, Simone",
+        "Kossenkov, Andrew",
+        "Goldman, Aaron R",
+        "Zhang, Wujuan",
+        "Tang, Hsin-Yao",
+        "Napoletani, Giorgia",
+        "Liao, Yifei",
+        "Lieberman, Paul M",
+        "Gewurz, Benjamin E",
+        "Tempera, Italo"
+      ],
+      "short_names": [
+        "Maestri D",
+        "Sklutuis R",
+        "Caruso LB",
+        "Preston-Alp S",
+        "Gatto M",
+        "Soldan SS",
+        "Park P",
+        "Melick L",
+        "Corveleyn L",
+        "Sidoli S",
+        "Kossenkov A",
+        "Goldman AR",
+        "Zhang W",
+        "Tang HY",
+        "Napoletani G",
+        "Liao Y",
+        "Lieberman PM",
+        "Gewurz BE",
+        "Tempera I"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0081-9548",
+        "ORCID: 0000-0002-3935-9921",
+        "ORCID: 0000-0001-7893-2914"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Maestri, Davide",
+        "short_name": "Maestri D",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sklutuis, Rachel",
+        "short_name": "Sklutuis R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Caruso, Lisa Beatrice",
+        "short_name": "Caruso LB",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Preston-Alp, Sarah",
+        "short_name": "Preston-Alp S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gatto, Martina",
+        "short_name": "Gatto M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Soldan, Samantha S",
+        "short_name": "Soldan SS",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Park, Pyounghwa",
+        "short_name": "Park P",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Melick, Lauren",
+        "short_name": "Melick L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Corveleyn, Laura",
+        "short_name": "Corveleyn L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sidoli, Simone",
+        "short_name": "Sidoli S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kossenkov, Andrew",
+        "short_name": "Kossenkov A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Goldman, Aaron R",
+        "short_name": "Goldman AR",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhang, Wujuan",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tang, Hsin-Yao",
+        "short_name": "Tang HY",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Napoletani, Giorgia",
+        "short_name": "Napoletani G",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Liao, Yifei",
+        "short_name": "Liao Y",
+        "identifiers": [
+          "0000-0002-0081-9548"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Lieberman, Paul M",
+        "short_name": "Lieberman PM",
+        "identifiers": [
+          "0000-0002-3935-9921"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gewurz, Benjamin E",
+        "short_name": "Gewurz BE",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tempera, Italo",
+        "short_name": "Tempera I",
+        "identifiers": [
+          "0000-0001-7893-2914"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 09:10:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43060098",
+      "29976663",
+      "27440880",
+      "35039491",
+      "33208446",
+      "37243174",
+      "25703332",
+      "28456021",
+      "29118124",
+      "29029387",
+      "24257606",
+      "40598900",
+      "42925159",
+      "36744959",
+      "29593713",
+      "30395643",
+      "30996097",
+      "28490592",
+      "35456389",
+      "42146630",
+      "20730088",
+      "24335803",
+      "33545664",
+      "37889078",
+      "37076620",
+      "28467304",
+      "26376810",
+      "16731911",
+      "36622166",
+      "36696451",
+      "42427660",
+      "36129789",
+      "25081205",
+      "40425856",
+      "41841741",
+      "36728436",
+      "31666380",
+      "34197738",
+      "40657913",
+      "34321070",
+      "22072770",
+      "23760082",
+      "29467311",
+      "32631111",
+      "39988079",
+      "38781354",
+      "29367247",
+      "33801596",
+      "42283463",
+      "41980771",
+      "26468528",
+      "40374602",
+      "27147748",
+      "41254162",
+      "36460127",
+      "31019051",
+      "21550623",
+      "36371985",
+      "36949074",
+      "25056883",
+      "39979259",
+      "17409162",
+      "21454523",
+      "28228591",
+      "32847849",
+      "32065581",
+      "33109754",
+      "19369356",
+      "31941781",
+      "33497421",
+      "35440598",
+      "27233476",
+      "31530670",
+      "30021904",
+      "36286483",
+      "33255744",
+      "32680543",
+      "38766209",
+      "24415941",
+      "31937660",
+      "28794023",
+      "33692212",
+      "37961560",
+      "39709822",
+      "36182691",
+      "42476989",
+      "36011294",
+      "42135764",
+      "40452075",
+      "37603403",
+      "40060486",
+      "35180428",
+      "20219917",
+      "20133600",
+      "31204999",
+      "28737770",
+      "40011778",
+      "25948750",
+      "26559845",
+      "42968146"
+    ],
+    "review": [
+      "43060098",
+      "37243174",
+      "35456389",
+      "33545664",
+      "32631111",
+      "33801596",
+      "39709822",
+      "36011294"
+    ],
+    "pmc": [
+      "13780580"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43060098/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-556",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.11.01.763250",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

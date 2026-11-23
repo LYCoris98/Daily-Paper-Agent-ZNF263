@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "43060517",
+    "doi": "10.64898/2026.11.04.764356",
+    "title": "Optogenetic induction of TAD boundary pairing promotes gene activity."
+  },
+  "content": {
+    "abstract": "The genome folds inside the nucleus into distinct structures across multiple levels of organization. Topologically associating domains (TADs) are a ubiquitous architectural feature of genomes delineated by boundaries enriched in the CTCF protein and the cohesin complex. TADs are dynamic structures as their boundaries undergo continuous, short-lived pairing events. Whether the structural integrity of TADs contributes to regulation of the genes within the TAD is unclear. To directly test the structure-function relationship of TADs, we have developed OptoTet, an optogenetic tool to rapidly and directly manipulate chromatin contacts in a controlled fashion using light without the need for mutation or protein depletion. Using the TADs containing the ERRFI1 or MYC gene as model systems, we show that OptoTet promotes TAD boundary looping. When applied to probing the structure-function relationship of TADs, light-induced pairing of TAD boundaries promoted transcriptional activity of ERRFI1 as indicated by increased gene bursting. In contrast, bursting of MYC was insensitive to boundary pairing. Enhanced TAD boundary pairing also partially rescued the effect of depletion of cohesin components on ERRF1 but not on MYC . Our results suggest that TADs boundary pairing dynamics can contribute to gene regulation in a gene-specific manner.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Stortz, Martin",
+        "Palangat, Murali",
+        "Keizer, Veer",
+        "Chari, Raj",
+        "Larson, Daniel R",
+        "Misteli, Tom"
+      ],
+      "short_names": [
+        "Stortz M",
+        "Palangat M",
+        "Keizer V",
+        "Chari R",
+        "Larson DR",
+        "Misteli T"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9253-3055",
+        "ORCID: 0000-0003-3530-3020"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Stortz, Martin",
+        "short_name": "Stortz M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Palangat, Murali",
+        "short_name": "Palangat M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Keizer, Veer",
+        "short_name": "Keizer V",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chari, Raj",
+        "short_name": "Chari R",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Larson, Daniel R",
+        "short_name": "Larson DR",
+        "identifiers": [
+          "0000-0001-9253-3055"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Misteli, Tom",
+        "short_name": "Misteli T",
+        "identifiers": [
+          "0000-0003-3530-3020"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Nov 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/20 11:30",
+    "fetched_at": "2026-11-23 09:10:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43060517",
+      "41446082",
+      "41983545",
+      "40063813",
+      "33545030",
+      "42465397",
+      "39110491",
+      "33284803",
+      "29077530",
+      "39169755",
+      "39545685",
+      "31910870",
+      "40796890",
+      "28863138",
+      "37302180",
+      "35413815",
+      "32572210",
+      "33077913",
+      "32782014",
+      "34093998",
+      "35090532",
+      "26748519",
+      "38935071",
+      "30086749",
+      "27669308",
+      "35180428",
+      "38502563",
+      "41910071",
+      "36650052",
+      "36609218",
+      "41430607",
+      "28408976",
+      "28060558",
+      "41415375",
+      "41080543",
+      "41145704",
+      "35867573",
+      "40436628",
+      "34292939",
+      "39638559",
+      "28737770",
+      "33563719",
+      "42144428",
+      "35104223",
+      "32315832",
+      "37699887",
+      "39110499",
+      "40131313",
+      "29757144",
+      "32689928",
+      "36201625",
+      "39727192",
+      "27111891",
+      "42384731",
+      "28742097",
+      "42468531",
+      "42602395",
+      "39999165",
+      "26315910",
+      "40766525",
+      "38062027",
+      "31831055",
+      "28087711",
+      "40235997",
+      "32680543",
+      "28977568",
+      "35420890",
+      "39093600",
+      "31847870",
+      "31511252",
+      "42475469",
+      "31887284",
+      "34749781",
+      "40097199",
+      "29273679",
+      "29654311",
+      "26418477",
+      "25274727",
+      "31358994",
+      "26518482",
+      "34049493",
+      "40764590",
+      "38705995",
+      "39457417",
+      "40866611",
+      "29217591",
+      "27210764",
+      "34311045",
+      "36824960",
+      "37081156",
+      "32514124",
+      "41622199",
+      "40375066",
+      "37076620",
+      "34253239",
+      "41659666",
+      "40501564",
+      "40384625",
+      "31299961",
+      "32895530"
+    ],
+    "review": [
+      "43060517",
+      "29077530",
+      "39169755",
+      "37302180",
+      "27669308",
+      "41910071",
+      "28408976",
+      "28060558",
+      "27111891",
+      "42384731"
+    ],
+    "pmc": [
+      "13780752"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/43060517/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ERRFI1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1566",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.11.04.764356",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

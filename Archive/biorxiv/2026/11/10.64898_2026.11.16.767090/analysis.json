@@ -1,0 +1,24 @@
+{
+  "source": "biorxiv",
+  "id": "10.64898/2026.11.16.767090",
+  "title": "CTCF-anchored cohesin loops are a vertebrate-specific innovation",
+  "authors": "Aihara H; Narita T; Maskey E; Nguyen TBN; Higashijima Y; Yamaguchi Y; Krietenstein N; Choudhary C",
+  "journal": "bioRxiv",
+  "published_date": "2026-11-17",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 6,
+  "one_liner_zh": "该文研究CTCF锚定cohesin环的进化起源，虽不直接涉及cpcdh基因家族，但为理解染色质结构调控机制及基因家族可能参与的调控网络提供了重要背景和可借鉴的方法。",
+  "abstract": "<h4>Summary</h4> Animal genomes are organized into chromatin loops and topologically associating domains. Cohesin drives loop extrusion, and the architectural factor CTCF halts loop-extruding cohesin. CTCF-anchored loops facilitate interactions between distal cis-regulatory elements and regulate gene expression. However, when CTCF acquired its cohesin loop-halting function remains unclear. We performed interspecies domain-swap experiments, replacing the cohesin-interacting N-terminus of mouse CTCF with orthologous sequences from the fruit fly Drosophila (arthropod), Branchiostoma (chordate), and the inshore hagfish (jawless vertebrate). The hagfish N-terminus halted cohesin, whereas the invertebrate CTCF N-termini did not. Consistently, Micro-C maps from hagfish tissues revealed stripes associated with convergently oriented CTCF sites, a characteristic signature of cohesin-loop halting. Notably, cohesin enrichment at promoters and enhancers was more pronounced in hagfish than in jawed vertebrates. Our findings indicate that CTCF-mediated cohesin loop anchoring most likely evolved in the common ancestor of extant vertebrates and was further strengthened in jawed vertebrates.",
+  "abstract_zh": "<h4>摘要</h4> 动物基因组被组织成染色质环和拓扑关联结构域。黏连蛋白（cohesin）驱动环挤压，而结构因子CTCF阻止环挤压中的黏连蛋白。CTCF锚定的环促进远端顺式调控元件之间的相互作用并调节基因表达。然而，CTCF何时获得其黏连蛋白环阻滞功能仍不清楚。我们进行了跨物种结构域交换实验，将小鼠CTCF的黏连蛋白相互作用N端替换为来自果蝇（节肢动物）、文昌鱼（脊索动物）和近岸盲鳗（无颌脊椎动物）的直系同源序列。盲鳗的N端能阻滞黏连蛋白，而无脊椎动物的CTCF N端则不能。一致地，来自盲鳗组织的Micro-C图谱显示与汇聚取向CTCF位点相关的条纹，这是黏连蛋白环阻滞的特征性标志。值得注意的是，在盲鳗中，启动子和增强子处的黏连蛋白富集比有颌脊椎动物更为显著。我们的发现表明，CTCF介导的黏连蛋白环锚定很可能在现存脊椎动物的共同祖先中进化而来，并在有颌脊椎动物中得到进一步加强。",
+  "has_fulltext": true,
+  "fulltext_source": "europepmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767090",
+  "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767090",
+  "paper_page_path": "papers/biorxiv/10.64898_2026.11.16.767090/index.html"
+}

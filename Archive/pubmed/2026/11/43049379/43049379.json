@@ -1,0 +1,296 @@
+{
+  "identity": {
+    "pmid": "43049379",
+    "doi": "10.1128/jvi.01570-26",
+    "title": "Changes in the chromatin accessibility landscape during human adenovirus infection."
+  },
+  "content": {
+    "abstract": "Viral infections rewire the cellular environment, and this is often achieved through chromatin remodeling. Human adenovirus (HAdV) can directly modify specific cellular chromatin features; however, we still lack a global view of the changes in the cellular chromatin landscape induced during infection. To address how host chromatin accessibility changes during HAdV-C5 infection, we performed assay for transposase-accessible chromatin using sequencing (ATAC-seq) in growth-arrested diploid human lung fibroblast (IMR-90) cells at 48 and 72 h post-infection. We detected widespread changes in chromatin accessibility, with 7,055 and 10,736 differentially accessible regions (DARs) on host chromatin at 48 and 72 h post-infection, respectively. At both time points, these changes mostly occurred in enhancer/intergenic regions and intronic regions. Furthermore, the pattern of changes in accessibility differed between protein-coding and non-coding genes. Integration of the ATAC-seq data with RNA-seq data demonstrated that significant changes in chromatin accessibility coincided with significant changes in gene expression during infection. Additionally, we found that increased DARs were enriched for forkhead and TEA domain transcription factor family motifs, while decreased DARs were enriched for motifs from zinc finger and basic leucine zipper domain families. Pathway enrichment analysis revealed that Wnt signaling pathway genes displayed increased chromatin accessibility during infection. Inhibition of the Wnt signaling pathway reduced viral gene expression and infectious viral progeny production, suggesting that this pathway is important for productive infection. Together, these data demonstrate that cellular chromatin is extensively remodeled during HAdV infection and expand our understanding of host-cell transcriptional regulation by human adenovirus. IMPORTANCE: Human adenovirus-C5 (HAdV-C5) infection extensively modifies the cellular transcriptome and proteome. However, other important aspects of the cellular environment, such as global changes in chromatin accessibility, have yet to be fully characterized during infection. Here, we performed assay for transposase-accessible chromatin using sequencing (ATAC-seq) in infected growth-arrested diploid human lung fibroblast (IMR-90) cells at 48 and 72 h post-infection. We observed genome-wide changes in cellular chromatin accessibility and identified specific transcription factor motifs located in differentially accessible regions during infection. This work contributes another key piece to our understanding of how human adenovirus infection reprograms the host-cell environment and will inform future work directed toward specific chromatin modifications manipulated by HAdV that impact host-cell chromatin accessibility.",
+    "keywords": [
+      "ATAC-seq",
+      "CTCF",
+      "RNA-seq",
+      "Wnt signaling",
+      "adenovirus infection",
+      "chromatin accessibility",
+      "chromatin remodeling",
+      "genome organization",
+      "host genome",
+      "transcriptional regulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "MacNeil, Katelyn M",
+        "Hayer, Katharina E",
+        "Tessier, Tanner M",
+        "Karimi, Amir Hossein",
+        "Nichols, Anthony C",
+        "Weitzman, Matthew D",
+        "Mymryk, Joe S"
+      ],
+      "short_names": [
+        "MacNeil KM",
+        "Hayer KE",
+        "Tessier TM",
+        "Karimi AH",
+        "Nichols AC",
+        "Weitzman MD",
+        "Mymryk JS"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-6386-8315",
+        "ORCID: 0000-0002-1463-3111",
+        "ORCID: 0000-0002-5284-1691",
+        "ORCID: 0000-0002-0760-980X",
+        "ORCID: 0000-0001-9713-167X",
+        "ORCID: 0000-0002-3521-8005"
+      ],
+      "affiliations": [
+        "Department of Microbiology & Immunology, University of Western Ontario, London, Ontario, Canada. RINGGOLD: 6221. ROR: https://ror.org/02grkyz14",
+        "Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, USA. RINGGOLD: 6567. ROR: https://ror.org/01z7r7q48",
+        "Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, USA. RINGGOLD: 6567. ROR: https://ror.org/01z7r7q48",
+        "Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, USA. RINGGOLD: 6567. ROR: https://ror.org/01z7r7q48",
+        "Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, USA. RINGGOLD: 6572. ROR: https://ror.org/00b30xv10",
+        "Department of Pathology and Laboratory Medicine, University of Western Ontario, London, Ontario, Canada. RINGGOLD: 6221. ROR: https://ror.org/02grkyz14",
+        "Department of Otolaryngology-Head and Neck Surgery, University of Western Ontario, London, Ontario, Canada. RINGGOLD: 6221. ROR: https://ror.org/02grkyz14",
+        "Department of Otolaryngology-Head and Neck Surgery, University of Western Ontario, London, Ontario, Canada. RINGGOLD: 6221. ROR: https://ror.org/02grkyz14",
+        "Department of Oncology, University of Western Ontario, London, Ontario, Canada. RINGGOLD: 6221. ROR: https://ror.org/02grkyz14",
+        "Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, USA. RINGGOLD: 6567. ROR: https://ror.org/01z7r7q48",
+        "Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, USA. RINGGOLD: 6572. ROR: https://ror.org/00b30xv10",
+        "Penn Epigenetics Institute, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, USA. RINGGOLD: 6572. ROR: https://ror.org/00b30xv10",
+        "Department of Microbiology & Immunology, University of Western Ontario, London, Ontario, Canada. RINGGOLD: 6221. ROR: https://ror.org/02grkyz14",
+        "Department of Otolaryngology-Head and Neck Surgery, University of Western Ontario, London, Ontario, Canada. RINGGOLD: 6221. ROR: https://ror.org/02grkyz14",
+        "Department of Oncology, University of Western Ontario, London, Ontario, Canada. RINGGOLD: 6221. ROR: https://ror.org/02grkyz14"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "MacNeil, Katelyn M",
+        "short_name": "MacNeil KM",
+        "identifiers": [
+          "0009-0000-6386-8315"
+        ],
+        "affiliations": [
+          "Department of Microbiology & Immunology, University of Western Ontario, London, Ontario, Canada."
+        ]
+      },
+      {
+        "full_name": "Hayer, Katharina E",
+        "short_name": "Hayer KE",
+        "identifiers": [
+          "0000-0002-1463-3111"
+        ],
+        "affiliations": [
+          "Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, USA.",
+          "Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, USA."
+        ]
+      },
+      {
+        "full_name": "Tessier, Tanner M",
+        "short_name": "Tessier TM",
+        "identifiers": [
+          "0000-0002-5284-1691"
+        ],
+        "affiliations": [
+          "Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, USA.",
+          "Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, USA."
+        ]
+      },
+      {
+        "full_name": "Karimi, Amir Hossein",
+        "short_name": "Karimi AH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology and Laboratory Medicine, University of Western Ontario, London, Ontario, Canada.",
+          "Department of Otolaryngology-Head and Neck Surgery, University of Western Ontario, London, Ontario, Canada."
+        ]
+      },
+      {
+        "full_name": "Nichols, Anthony C",
+        "short_name": "Nichols AC",
+        "identifiers": [
+          "0000-0002-0760-980X"
+        ],
+        "affiliations": [
+          "Department of Otolaryngology-Head and Neck Surgery, University of Western Ontario, London, Ontario, Canada.",
+          "Department of Oncology, University of Western Ontario, London, Ontario, Canada."
+        ]
+      },
+      {
+        "full_name": "Weitzman, Matthew D",
+        "short_name": "Weitzman MD",
+        "identifiers": [
+          "0000-0001-9713-167X"
+        ],
+        "affiliations": [
+          "Department of Pathology and Laboratory Medicine, Children's Hospital of Philadelphia, Philadelphia, Pennsylvania, USA.",
+          "Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, USA.",
+          "Penn Epigenetics Institute, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, USA."
+        ]
+      },
+      {
+        "full_name": "Mymryk, Joe S",
+        "short_name": "Mymryk JS",
+        "identifiers": [
+          "0000-0002-3521-8005"
+        ],
+        "affiliations": [
+          "Department of Microbiology & Immunology, University of Western Ontario, London, Ontario, Canada.",
+          "Department of Otolaryngology-Head and Neck Surgery, University of Western Ontario, London, Ontario, Canada.",
+          "Department of Oncology, University of Western Ontario, London, Ontario, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of virology"
+    ],
+    "journal_abbrev": [
+      "J Virol"
+    ],
+    "pub_date": "2026 Nov 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 11:31",
+    "fetched_at": "2026-11-23 09:10:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43049379",
+      "41721429",
+      "42123704",
+      "39501301",
+      "41716379",
+      "41334930",
+      "41676133",
+      "35685361",
+      "42653105",
+      "42235720",
+      "39546200",
+      "42493808",
+      "37107573",
+      "40640964",
+      "41586517",
+      "41685901",
+      "40380227",
+      "36738683",
+      "30598689",
+      "40167783",
+      "40649857",
+      "41453673",
+      "36276837",
+      "40919947",
+      "39949772",
+      "35252200",
+      "36820061",
+      "36232500",
+      "33109274",
+      "35858748",
+      "39768207",
+      "32293531",
+      "29695423",
+      "32741307",
+      "40130876",
+      "39928726",
+      "39848509",
+      "33191916",
+      "34488759",
+      "35947334",
+      "42438676",
+      "36371985",
+      "26537675",
+      "26977395",
+      "41318386",
+      "43019993",
+      "35695574",
+      "31019051",
+      "35246225",
+      "41666561",
+      "35614386",
+      "34395436",
+      "32376693",
+      "37211599",
+      "41923161",
+      "34417498",
+      "38502176",
+      "41258712",
+      "35575489",
+      "33717140",
+      "38920660",
+      "41904529",
+      "39838410",
+      "38443979",
+      "42114111",
+      "42216123",
+      "42387369",
+      "41469554",
+      "38099192",
+      "36674828",
+      "39326643",
+      "37031175",
+      "37815204",
+      "31053165",
+      "40157266",
+      "39349998",
+      "30477572",
+      "37287538",
+      "34547403",
+      "37325470",
+      "37069576",
+      "33148793",
+      "31629814",
+      "34544361",
+      "37921032",
+      "42973683",
+      "35976093",
+      "42810219",
+      "32309280",
+      "32722537",
+      "37976599",
+      "41818350",
+      "34446036",
+      "40516868",
+      "35895229",
+      "38969365",
+      "33900108",
+      "38069369",
+      "39902331",
+      "33420376"
+    ],
+    "review": [
+      "43049379"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.asm.org/doi/10.1128/jvi.01570-26?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1108",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

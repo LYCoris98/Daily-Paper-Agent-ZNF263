@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43035561",
+  "title": "Protective effects of rs7315280 on hippocampal volume and cognitive decline in aging by its enhancer activity regulating TESC expression.",
+  "authors": "Suo, Xinjun; Feng, Quanzhi; Lu, Hao; Zhang, Jiajia; Gu, Lihua; Han, Tong",
+  "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+  "published_date": "2026-11-16",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 0,
+  "one_liner_zh": "该文研究rs7315280变异通过增强子调控TESC表达影响海马体积和认知衰退，与cpcdh基因家族无关。",
+  "abstract": "BACKGROUND: Hippocampal atrophy is a core biomarker of Alzheimer's disease (AD), yet the cognitive relevance and molecular function of its genetic determinants remain largely unknown. In this study, we aimed to bridge this critical gap by systematically identifying and functionally characterizing a key genetic determinant of hippocampal volume and its role in AD. METHODS: We performed a cross-cohort Genome-wide association studies (GWAS) meta-analysis using data from UK Biobank (n = 33,731) and ENIGMA (n = 26,814). Phenotypic associations were validated in the ADNI-1 cohort (n = 756), adjusting for polygenic risk scores (PRS). Functional characterization included in silico annotation (3DSNP/ENCODE), dual-luciferase reporter assays, and brain-specific eQTL analysis. RESULTS: We identified rs7315280 (A > G) as a lead genetic variant associated with hippocampal volume via meta-GWAS analysis (all P </= 1.37 x 10(-19)). In ADNI-1, G allele carriers had larger hippocampal volumes (P = 0.004), a lower AD conversion rate (3%), delayed disease onset (P = 0.015), and an odds ratio for AD of 0.663. rs7315280 localizes to hippocampal enhancer regions and binds 51 transcription factors (e.g., CTCF). The G allele enhanced transcriptional activity (P = 0.002), and rs7315280 was linked to TESC expression in the human prefrontal cortex (P = 1.30 x 10(-)(5)). CONCLUSIONS: Our findings suggest that rs7315280 may contribute to protection against AD by acting as an enhancer regulating TESC expression, identifying a potential novel genetic locus and a candidate therapeutic target for further investigation.",
+  "abstract_zh": "背景：海马萎缩是阿尔茨海默病（Alzheimer's disease, AD）的核心生物标志物，然而其遗传决定因素的认知相关性及分子功能在很大程度上仍属未知。在本研究中，我们旨在通过系统性地识别和功能表征海马体积的一个关键遗传决定因素及其在AD中的作用，来弥合这一关键空白。方法：我们使用来自UK Biobank（n = 33,731）和ENIGMA（n = 26,814）的数据进行了跨队列全基因组关联研究（Genome-wide association studies, GWAS）荟萃分析。表型关联在ADNI-1队列（n = 756）中进行了验证，并调整了多基因风险评分（polygenic risk scores, PRS）。功能表征包括计算机模拟注释（3DSNP/ENCODE）、双荧光素酶报告基因实验以及脑特异性eQTL分析。结果：我们通过meta-GWAS分析将rs7315280（A > G）识别为与海马体积相关的首要遗传变异（所有P </= 1.37 x 10(-19)）。在ADNI-1中，G等位基因携带者具有更大的海马体积（P = 0.004）、较低的AD转化率（3%）、延迟的疾病发作（P = 0.015），以及AD的比值比为0.663。rs7315280定位于海马增强子区域，并结合51个转录因子（如CTCF）。G等位基因增强了转录活性（P = 0.002），且rs7315280与人类前额叶皮层中的TESC表达相关联（P = 1.30 x 10(-)(5)）。结论：我们的研究结果表明，rs7315280可能通过作为调控TESC表达的增强子来发挥对AD的保护作用，识别出一个潜在的新型遗传位点及一个值得进一步研究的候选治疗靶点。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035561/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43035561/",
+  "paper_page_path": "papers/pubmed/43035561/index.html"
+}

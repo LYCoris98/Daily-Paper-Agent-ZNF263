@@ -1,0 +1,299 @@
+{
+  "identity": {
+    "pmid": "43035561",
+    "doi": "10.1007/s10072-026-09554-8",
+    "title": "Protective effects of rs7315280 on hippocampal volume and cognitive decline in aging by its enhancer activity regulating TESC expression."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Hippocampal atrophy is a core biomarker of Alzheimer's disease (AD), yet the cognitive relevance and molecular function of its genetic determinants remain largely unknown. In this study, we aimed to bridge this critical gap by systematically identifying and functionally characterizing a key genetic determinant of hippocampal volume and its role in AD. METHODS: We performed a cross-cohort Genome-wide association studies (GWAS) meta-analysis using data from UK Biobank (n = 33,731) and ENIGMA (n = 26,814). Phenotypic associations were validated in the ADNI-1 cohort (n = 756), adjusting for polygenic risk scores (PRS). Functional characterization included in silico annotation (3DSNP/ENCODE), dual-luciferase reporter assays, and brain-specific eQTL analysis. RESULTS: We identified rs7315280 (A > G) as a lead genetic variant associated with hippocampal volume via meta-GWAS analysis (all P </= 1.37 x 10(-19)). In ADNI-1, G allele carriers had larger hippocampal volumes (P = 0.004), a lower AD conversion rate (3%), delayed disease onset (P = 0.015), and an odds ratio for AD of 0.663. rs7315280 localizes to hippocampal enhancer regions and binds 51 transcription factors (e.g., CTCF). The G allele enhanced transcriptional activity (P = 0.002), and rs7315280 was linked to TESC expression in the human prefrontal cortex (P = 1.30 x 10(-)(5)). CONCLUSIONS: Our findings suggest that rs7315280 may contribute to protection against AD by acting as an enhancer regulating TESC expression, identifying a potential novel genetic locus and a candidate therapeutic target for further investigation.",
+    "keywords": [
+      "TESC",
+      "Alzheimer's disease",
+      "Enhancer",
+      "Hippocampal volume",
+      "Meta-analysis of genome-wide association study (meta-GWAS)",
+      "rs7315280"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Hippocampus/pathology",
+      "Genome-Wide Association Study",
+      "*Aging/genetics/pathology",
+      "Male",
+      "*Cognitive Dysfunction/genetics/pathology",
+      "Female",
+      "Polymorphism, Single Nucleotide",
+      "Aged",
+      "*Alzheimer Disease/genetics/pathology",
+      "*Enhancer Elements, Genetic",
+      "Aged, 80 and over",
+      "Cohort Studies",
+      "Organ Size"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Suo, Xinjun",
+        "Feng, Quanzhi",
+        "Lu, Hao",
+        "Zhang, Jiajia",
+        "Gu, Lihua",
+        "Han, Tong"
+      ],
+      "short_names": [
+        "Suo X",
+        "Feng Q",
+        "Lu H",
+        "Zhang J",
+        "Gu L",
+        "Han T"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3129-3702"
+      ],
+      "affiliations": [
+        "Department of Radiology, Tianjin Huanhu Hospital and Huanhu Hospital Affiliated to Tianjin Medical University, No. 6, Jizhao Road, Jinnan District, Tianjin, 300350, P.R. China. xinjunsuo_520@163.com.",
+        "Clinical College of Neurology, Neurosurgery and Neurorehabilitation, Tianjin Medical University, Tianjin, 300350, P.R. China. xinjunsuo_520@163.com.",
+        "Tianjin Key Laboratory of Cerebral Vascular and Neurodegenerative Diseases, Tianjin Huanhu Hospital, Tianjin, 300350, P.R. China. xinjunsuo_520@163.com.",
+        "Department of Radiology, Tianjin Huanhu Hospital and Huanhu Hospital Affiliated to Tianjin Medical University, No. 6, Jizhao Road, Jinnan District, Tianjin, 300350, P.R. China.",
+        "Clinical College of Neurology, Neurosurgery and Neurorehabilitation, Tianjin Medical University, Tianjin, 300350, P.R. China.",
+        "Tianjin Key Laboratory of Cerebral Vascular and Neurodegenerative Diseases, Tianjin Huanhu Hospital, Tianjin, 300350, P.R. China.",
+        "Department of Radiology, Tianjin Huanhu Hospital and Huanhu Hospital Affiliated to Tianjin Medical University, No. 6, Jizhao Road, Jinnan District, Tianjin, 300350, P.R. China.",
+        "Clinical College of Neurology, Neurosurgery and Neurorehabilitation, Tianjin Medical University, Tianjin, 300350, P.R. China.",
+        "Tianjin Key Laboratory of Cerebral Vascular and Neurodegenerative Diseases, Tianjin Huanhu Hospital, Tianjin, 300350, P.R. China.",
+        "Department of Radiology, Tianjin Huanhu Hospital and Huanhu Hospital Affiliated to Tianjin Medical University, No. 6, Jizhao Road, Jinnan District, Tianjin, 300350, P.R. China.",
+        "Tianjin Medical University, Tianjin, 300070, P.R. China.",
+        "Tianjin Key Laboratory of Cerebral Vascular and Neurodegenerative Diseases, Tianjin Huanhu Hospital, Tianjin, 300350, P.R. China. g714775808@126.com.",
+        "Department of Neurology, Tianjin Huanhu Hospital, Huanhu Hospital Affiliated to Tianjin Medical University and Tianjin University, Tianjin, 300350, P.R. China. g714775808@126.com.",
+        "Department of Radiology, Tianjin Huanhu Hospital and Huanhu Hospital Affiliated to Tianjin Medical University, No. 6, Jizhao Road, Jinnan District, Tianjin, 300350, P.R. China. hhyytgzy@outlook.com.",
+        "Clinical College of Neurology, Neurosurgery and Neurorehabilitation, Tianjin Medical University, Tianjin, 300350, P.R. China. hhyytgzy@outlook.com.",
+        "Tianjin Key Laboratory of Cerebral Vascular and Neurodegenerative Diseases, Tianjin Huanhu Hospital, Tianjin, 300350, P.R. China. hhyytgzy@outlook.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Suo, Xinjun",
+        "short_name": "Suo X",
+        "identifiers": [
+          "0000-0002-3129-3702"
+        ],
+        "affiliations": [
+          "Department of Radiology, Tianjin Huanhu Hospital and Huanhu Hospital Affiliated to Tianjin Medical University, No. 6, Jizhao Road, Jinnan District, Tianjin, 300350, P.R. China. xinjunsuo_520@163.com.",
+          "Clinical College of Neurology, Neurosurgery and Neurorehabilitation, Tianjin Medical University, Tianjin, 300350, P.R. China. xinjunsuo_520@163.com.",
+          "Tianjin Key Laboratory of Cerebral Vascular and Neurodegenerative Diseases, Tianjin Huanhu Hospital, Tianjin, 300350, P.R. China. xinjunsuo_520@163.com."
+        ]
+      },
+      {
+        "full_name": "Feng, Quanzhi",
+        "short_name": "Feng Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, Tianjin Huanhu Hospital and Huanhu Hospital Affiliated to Tianjin Medical University, No. 6, Jizhao Road, Jinnan District, Tianjin, 300350, P.R. China.",
+          "Clinical College of Neurology, Neurosurgery and Neurorehabilitation, Tianjin Medical University, Tianjin, 300350, P.R. China.",
+          "Tianjin Key Laboratory of Cerebral Vascular and Neurodegenerative Diseases, Tianjin Huanhu Hospital, Tianjin, 300350, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Lu, Hao",
+        "short_name": "Lu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, Tianjin Huanhu Hospital and Huanhu Hospital Affiliated to Tianjin Medical University, No. 6, Jizhao Road, Jinnan District, Tianjin, 300350, P.R. China.",
+          "Clinical College of Neurology, Neurosurgery and Neurorehabilitation, Tianjin Medical University, Tianjin, 300350, P.R. China.",
+          "Tianjin Key Laboratory of Cerebral Vascular and Neurodegenerative Diseases, Tianjin Huanhu Hospital, Tianjin, 300350, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jiajia",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, Tianjin Huanhu Hospital and Huanhu Hospital Affiliated to Tianjin Medical University, No. 6, Jizhao Road, Jinnan District, Tianjin, 300350, P.R. China.",
+          "Tianjin Medical University, Tianjin, 300070, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Gu, Lihua",
+        "short_name": "Gu L",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Key Laboratory of Cerebral Vascular and Neurodegenerative Diseases, Tianjin Huanhu Hospital, Tianjin, 300350, P.R. China. g714775808@126.com.",
+          "Department of Neurology, Tianjin Huanhu Hospital, Huanhu Hospital Affiliated to Tianjin Medical University and Tianjin University, Tianjin, 300350, P.R. China. g714775808@126.com."
+        ]
+      },
+      {
+        "full_name": "Han, Tong",
+        "short_name": "Han T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, Tianjin Huanhu Hospital and Huanhu Hospital Affiliated to Tianjin Medical University, No. 6, Jizhao Road, Jinnan District, Tianjin, 300350, P.R. China. hhyytgzy@outlook.com.",
+          "Clinical College of Neurology, Neurosurgery and Neurorehabilitation, Tianjin Medical University, Tianjin, 300350, P.R. China. hhyytgzy@outlook.com.",
+          "Tianjin Key Laboratory of Cerebral Vascular and Neurodegenerative Diseases, Tianjin Huanhu Hospital, Tianjin, 300350, P.R. China. hhyytgzy@outlook.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology"
+    ],
+    "journal_abbrev": [
+      "Neurol Sci"
+    ],
+    "pub_date": "2026 Nov 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Meta-Analysis"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/16 05:32",
+    "fetched_at": "2026-11-23 09:10:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43035561",
+      "39278373",
+      "28941407",
+      "41121378",
+      "25670335",
+      "26803496",
+      "39806094",
+      "29860282",
+      "29747637",
+      "32844198",
+      "40038788",
+      "19668339",
+      "22745009",
+      "33630843",
+      "42620948",
+      "32370229",
+      "27003218",
+      "40698900",
+      "33259984",
+      "40653482",
+      "25751166",
+      "33298155",
+      "31760383",
+      "30776473",
+      "42794823",
+      "41770485",
+      "33757599",
+      "23608917",
+      "42407430",
+      "41460672",
+      "32558014",
+      "39984543",
+      "27157680",
+      "25023145",
+      "32008518",
+      "41776730",
+      "41761294",
+      "31601890",
+      "26843008",
+      "26976043",
+      "42594416",
+      "26332608",
+      "26973105",
+      "41092763",
+      "29694964",
+      "42008214",
+      "25182741",
+      "28157104",
+      "27385740",
+      "38414085",
+      "41579487",
+      "41407844",
+      "42035106",
+      "31711042",
+      "24453132",
+      "38824563",
+      "35830443",
+      "23405083",
+      "21802369",
+      "42304519",
+      "33461566",
+      "42475469",
+      "43019187",
+      "25486118",
+      "40588577",
+      "20558387",
+      "34657885",
+      "39787209",
+      "42906069",
+      "31055733",
+      "22043314",
+      "31816319",
+      "24634832",
+      "24770881",
+      "29274321",
+      "40429951",
+      "31500627",
+      "24485897",
+      "31026619",
+      "28453482",
+      "29592889",
+      "40447488",
+      "38306043",
+      "25649652",
+      "35274129",
+      "38489180",
+      "24878738",
+      "30911569",
+      "26966274",
+      "30883345",
+      "41693594",
+      "22903471",
+      "32768867",
+      "40448161",
+      "28441426",
+      "40004442",
+      "41148349",
+      "40111762",
+      "38875006",
+      "32119112"
+    ],
+    "review": [
+      "43035561",
+      "23608917",
+      "24770881",
+      "35274129",
+      "30911569",
+      "22903471"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/olderadulthealth.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Older Adult Health"
+      },
+      {
+        "url": "https://link.springer.com/10.1007/s10072-026-09554-8",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-107",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43060517",
+  "title": "Optogenetic induction of TAD boundary pairing promotes gene activity.",
+  "authors": "Stortz, Martin; Palangat, Murali; Keizer, Veer; Chari, Raj; Larson, Daniel R; Misteli, Tom",
+  "journal": "bioRxiv : the preprint server for biology",
+  "published_date": "2026-11-20",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 1,
+  "one_liner_zh": "该文研究光遗传学诱导TAD边界配对对基因活性的影响，与cpcdh基因家族无直接关联，仅涉及染色质结构调控，可借鉴其技术方法但相关性低。",
+  "abstract": "The genome folds inside the nucleus into distinct structures across multiple levels of organization. Topologically associating domains (TADs) are a ubiquitous architectural feature of genomes delineated by boundaries enriched in the CTCF protein and the cohesin complex. TADs are dynamic structures as their boundaries undergo continuous, short-lived pairing events. Whether the structural integrity of TADs contributes to regulation of the genes within the TAD is unclear. To directly test the structure-function relationship of TADs, we have developed OptoTet, an optogenetic tool to rapidly and directly manipulate chromatin contacts in a controlled fashion using light without the need for mutation or protein depletion. Using the TADs containing the ERRFI1 or MYC gene as model systems, we show that OptoTet promotes TAD boundary looping. When applied to probing the structure-function relationship of TADs, light-induced pairing of TAD boundaries promoted transcriptional activity of ERRFI1 as indicated by increased gene bursting. In contrast, bursting of MYC was insensitive to boundary pairing. Enhanced TAD boundary pairing also partially rescued the effect of depletion of cohesin components on ERRF1 but not on MYC . Our results suggest that TADs boundary pairing dynamics can contribute to gene regulation in a gene-specific manner.",
+  "abstract_zh": "基因组在细胞核内折叠成多个组织层级上的不同结构。拓扑关联结构域（TADs）是基因组的一个普遍架构特征，由富含CTCF蛋白和cohesin复合物的边界划定。TADs是动态结构，其边界经历持续、短暂的配对事件。TADs的结构完整性是否有助于调控TAD内基因的表达尚不清楚。为直接测试TADs的结构-功能关系，我们开发了OptoTet，一种光遗传学工具，能够以受控方式利用光快速、直接地操纵染色质接触，无需突变或蛋白质耗竭。以包含ERRFI1或MYC基因的TADs作为模型系统，我们显示OptoTet促进TAD边界环化。当应用于探究TADs的结构-功能关系时，光诱导的TAD边界配对促进了ERRFI1的转录活性，表现为基因爆发频率增加。相反，MYC的爆发对边界配对不敏感。增强的TAD边界配对也部分挽救了cohesin组分耗竭对ERRF1的影响，但对MYC无此效果。我们的结果表明，TAD边界配对动态可以以基因特异性的方式促进基因调控。",
+  "has_fulltext": true,
+  "fulltext_source": "pmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43060517/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43060517/",
+  "paper_page_path": "papers/pubmed/43060517/index.html"
+}

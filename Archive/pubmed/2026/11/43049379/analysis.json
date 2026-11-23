@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43049379",
+  "title": "Changes in the chromatin accessibility landscape during human adenovirus infection.",
+  "authors": "MacNeil, Katelyn M; Hayer, Katharina E; Tessier, Tanner M; Karimi, Amir Hossein; Nichols, Anthony C; Weitzman, Matthew D; Mymryk, Joe S",
+  "journal": "Journal of virology",
+  "published_date": "2026-11-18",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 0,
+  "one_liner_zh": "该文研究人腺病毒感染期间宿主染色质可及性的变化，与cpcdh基因家族无关。",
+  "abstract": "Viral infections rewire the cellular environment, and this is often achieved through chromatin remodeling. Human adenovirus (HAdV) can directly modify specific cellular chromatin features; however, we still lack a global view of the changes in the cellular chromatin landscape induced during infection. To address how host chromatin accessibility changes during HAdV-C5 infection, we performed assay for transposase-accessible chromatin using sequencing (ATAC-seq) in growth-arrested diploid human lung fibroblast (IMR-90) cells at 48 and 72 h post-infection. We detected widespread changes in chromatin accessibility, with 7,055 and 10,736 differentially accessible regions (DARs) on host chromatin at 48 and 72 h post-infection, respectively. At both time points, these changes mostly occurred in enhancer/intergenic regions and intronic regions. Furthermore, the pattern of changes in accessibility differed between protein-coding and non-coding genes. Integration of the ATAC-seq data with RNA-seq data demonstrated that significant changes in chromatin accessibility coincided with significant changes in gene expression during infection. Additionally, we found that increased DARs were enriched for forkhead and TEA domain transcription factor family motifs, while decreased DARs were enriched for motifs from zinc finger and basic leucine zipper domain families. Pathway enrichment analysis revealed that Wnt signaling pathway genes displayed increased chromatin accessibility during infection. Inhibition of the Wnt signaling pathway reduced viral gene expression and infectious viral progeny production, suggesting that this pathway is important for productive infection. Together, these data demonstrate that cellular chromatin is extensively remodeled during HAdV infection and expand our understanding of host-cell transcriptional regulation by human adenovirus. IMPORTANCE: Human adenovirus-C5 (HAdV-C5) infection extensively modifies the cellular transcriptome and proteome. However, other important aspects of the cellular environment, such as global changes in chromatin accessibility, have yet to be fully characterized during infection. Here, we performed assay for transposase-accessible chromatin using sequencing (ATAC-seq) in infected growth-arrested diploid human lung fibroblast (IMR-90) cells at 48 and 72 h post-infection. We observed genome-wide changes in cellular chromatin accessibility and identified specific transcription factor motifs located in differentially accessible regions during infection. This work contributes another key piece to our understanding of how human adenovirus infection reprograms the host-cell environment and will inform future work directed toward specific chromatin modifications manipulated by HAdV that impact host-cell chromatin accessibility.",
+  "abstract_zh": "病毒感染会重塑细胞环境，这一过程通常通过染色质重塑实现。人腺病毒（HAdV）能直接修饰特定的细胞染色质特征；然而，我们仍缺乏对感染期间细胞染色质景观变化的全局视角。为探究HAdV-C5感染期间宿主染色质可及性如何变化，我们在感染后48小时和72小时，对生长停滞的二倍体人肺成纤维细胞（IMR-90）进行了转座酶可及性染色质测序（ATAC-seq）。我们检测到染色质可及性的广泛变化，在感染后48小时和72小时，宿主染色质上分别有7,055和10,736个差异可及区域（DARs）。在两个时间点，这些变化主要发生在增强子/基因间区域和内含子区域。此外，蛋白质编码基因与非编码基因的可及性变化模式有所不同。将ATAC-seq数据与RNA-seq数据整合分析表明，感染期间染色质可及性的显著变化与基因表达的显著变化相吻合。我们还发现，增加的DARs富集了叉头框和TEA结构域转录因子家族基序，而减少的DARs则富集了锌指和碱性亮氨酸拉链结构域家族基序。通路富集分析揭示，Wnt信号通路基因在感染期间表现出增加的染色质可及性。抑制Wnt信号通路可减少病毒基因表达和感染性病毒子代产生，表明该通路对有效感染至关重要。综合来看，这些数据表明，HAdV感染期间细胞染色质被广泛重塑，并扩展了我们对人腺病毒调控宿主细胞转录的理解。重要性：人腺病毒-C5（HAdV-C5）感染广泛修饰细胞转录组和蛋白质组。然而，细胞环境的其他重要方面，如染色质可及性的全局变化，在感染期间尚未被充分表征。在此，我们在感染后48小时和72小时，对受感染的生长停滞二倍体人肺成纤维细胞（IMR-90）进行了转座酶可及性染色质测序（ATAC-seq）。我们观察到细胞染色质可及性的全基因组变化，并识别了感染期间差异可及区域中特定的转录因子基序。这项工作为我们理解人腺病毒感染如何重编程宿主细胞环境增添了另一关键部分，并将为未来针对HAdV操纵的、影响宿主细胞染色质可及性的特定染色质修饰的研究提供信息。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43049379/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43049379/",
+  "paper_page_path": "papers/pubmed/43049379/index.html"
+}

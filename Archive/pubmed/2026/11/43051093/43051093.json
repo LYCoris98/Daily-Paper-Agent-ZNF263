@@ -1,0 +1,274 @@
+{
+  "identity": {
+    "pmid": "43051093",
+    "doi": "10.1016/j.neo.2026.101401",
+    "title": "Single-cell analysis of epithelial transcriptional states identifies stromal associations and candidate targets in colon cancer."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Colon cancer progression involves coordinated changes in epithelial cells and the tumor microenvironment, yet the transcriptional organization, associated regulatory programs and candidate vulnerabilities of epithelial cell states remain unclear. METHODS: Multi-cohort single-cell RNA sequencing data were integrated with inferred copy-number variation, pseudotime, regulon and spatial transcriptomic analyses. Ligand-receptor interactions were inferred to characterize state-associated communication. Geneformer-based in silico perturbation, virtual screening and molecular dynamics simulations were performed to nominate candidates for functional investigation. ZC3HC1 knockdown, overexpression and rescue were assessed in HCT 116 cells using EdU, cell-cycle, apoptosis and migration/invasion assays. Multiplex immunofluorescence examined epithelial and immune-marker distributions in tumor sections. An epithelial-state-informed prognostic model was developed using nested selection within TCGA-COAD and evaluated in GEO cohorts with fixed training-derived thresholds. RESULTS: Epithelial cells formed three transcriptional states with distinct expression and regulatory programs. State 3 was enriched for ILF2-, NFYB-, MLX-, CTCF- and HMGA1-associated regulons. Fibroblasts were the dominant signaling source, whereas T cells had the highest incoming communication strength and State 3 showed candidate CypA, COLLAGEN and CD99 expression associations; spatial analyses further showed co-occurrence of collagen ligands with SDC1, SDC4, CD44 and integrin receptor complexes. ZC3HC1 knockdown in HCT 116 cells reduced EdU incorporation, increased G0/G1 accumulation and apoptosis, and diminished migration and invasion; rescue partially restored these phenotypes. Multiplex staining illustrated contrasting myeloid and T-cell distributions around PanCK-positive regions. Virtual screening nominated DB12168 as a candidate ZC3HC1-interacting compound. The epithelial-state-informed risk model showed cohort-dependent prognostic performance, and its associations with immune exclusion and angiogenesis were exploratory. CONCLUSIONS: Epithelial transcriptional states in colon cancer are associated with distinct regulatory programs and stromal expression patterns. Functional assays implicated ZC3HC1 in HCT 116 cell phenotypes, and virtual screening nominated DB12168 for binding studies, while the epithelial-state-informed risk model provides a framework for retrospective prognostic evaluation.",
+    "keywords": [
+      "Colon cancer",
+      "Epithelial transcriptional states",
+      "Fibroblast-associated signaling",
+      "Tumor-stroma interactions",
+      "ZC3HC1"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shi, Xinlin",
+        "Cao, Xiwen",
+        "Guan, Bowen",
+        "Wu, Wanqiao",
+        "Zhu, Haizhen",
+        "Fu, Yuyin",
+        "Guo, Xiao",
+        "Wang, Tao"
+      ],
+      "short_names": [
+        "Shi X",
+        "Cao X",
+        "Guan B",
+        "Wu W",
+        "Zhu H",
+        "Fu Y",
+        "Guo X",
+        "Wang T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Clinical Medicine, Beihua University, Jilin, Jilin, 132000, China.",
+        "Affiliated Hospital of Beihua University, Jilin, Jilin, 132000, China.",
+        "College of Pharmacy, Beihua University, Jilin, Jilin, 132013, China.",
+        "College of Pharmacy, Beihua University, Jilin, Jilin, 132013, China.",
+        "Department of Oncology, Guizhou Provincial People's Hospital, Guiyang, Guizhou 550002, China.",
+        "Department of Clinical Laboratory, Guizhou Provincial People's Hospital, Guiyang, Guizhou 550002, China.",
+        "College of Pharmacy, Beihua University, Jilin, Jilin, 132013, China. Electronic address: guoxiao@beihua.edu.cn.",
+        "Research Laboratory Center, Guizhou Provincial People's Hospital, Guiyang, Guizhou 550002, China. Electronic address: wangtaoGPPH@gzu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shi, Xinlin",
+        "short_name": "Shi X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Clinical Medicine, Beihua University, Jilin, Jilin, 132000, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Xiwen",
+        "short_name": "Cao X",
+        "identifiers": [],
+        "affiliations": [
+          "Affiliated Hospital of Beihua University, Jilin, Jilin, 132000, China."
+        ]
+      },
+      {
+        "full_name": "Guan, Bowen",
+        "short_name": "Guan B",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Beihua University, Jilin, Jilin, 132013, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Wanqiao",
+        "short_name": "Wu W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Beihua University, Jilin, Jilin, 132013, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Haizhen",
+        "short_name": "Zhu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, Guizhou Provincial People's Hospital, Guiyang, Guizhou 550002, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Yuyin",
+        "short_name": "Fu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, Guizhou Provincial People's Hospital, Guiyang, Guizhou 550002, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Xiao",
+        "short_name": "Guo X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Beihua University, Jilin, Jilin, 132013, China. Electronic address: guoxiao@beihua.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Wang, Tao",
+        "short_name": "Wang T",
+        "identifiers": [],
+        "affiliations": [
+          "Research Laboratory Center, Guizhou Provincial People's Hospital, Guiyang, Guizhou 550002, China. Electronic address: wangtaoGPPH@gzu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Neoplasia (New York, N.Y.)"
+    ],
+    "journal_abbrev": [
+      "Neoplasia"
+    ],
+    "pub_date": "2026 Nov 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/18 23:29",
+    "fetched_at": "2026-11-23 09:10:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43051093",
+      "42923340",
+      "42928163",
+      "42169126",
+      "40616092",
+      "42558886",
+      "42317342",
+      "43054370",
+      "42486346",
+      "42991243",
+      "42212139",
+      "42625209",
+      "43053226",
+      "41485251",
+      "42591570",
+      "42724846",
+      "42839972",
+      "42206269",
+      "43011362",
+      "41807965",
+      "42891116",
+      "42614523",
+      "42287557",
+      "42870859",
+      "42609920",
+      "42798643",
+      "42723032",
+      "42769440",
+      "41567189",
+      "42707325",
+      "42972293",
+      "42617514",
+      "42792643",
+      "41716413",
+      "42653235",
+      "42625168",
+      "41656832",
+      "42643588",
+      "42143313",
+      "42035563",
+      "40496864",
+      "42370143",
+      "42902379",
+      "42868715",
+      "41836446",
+      "42495647",
+      "42606648",
+      "42819295",
+      "41246350",
+      "42806423",
+      "41710887",
+      "42263871",
+      "40705084",
+      "42547264",
+      "42572843",
+      "42920446",
+      "42651788",
+      "41613113",
+      "41685312",
+      "41761123",
+      "42088621",
+      "42172061",
+      "42860124",
+      "42936004",
+      "42667808",
+      "42695089",
+      "41351424",
+      "42822052",
+      "41201629",
+      "42990893",
+      "41035636",
+      "42997265",
+      "42142700",
+      "42639041",
+      "42756464",
+      "42625743",
+      "42836585",
+      "41923163",
+      "41371106",
+      "42759406",
+      "42164383",
+      "41948724",
+      "41694378",
+      "42840239",
+      "41436831",
+      "40374962",
+      "41836418",
+      "42801723",
+      "42491158",
+      "41898290",
+      "42702944",
+      "41715121",
+      "42605287",
+      "42136962",
+      "42418064",
+      "42906452",
+      "42698055",
+      "42556131",
+      "42317343",
+      "42534860"
+    ],
+    "review": [
+      "43051093"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1476-5586(26)00133-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-668",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S1476-5586(26)00133-8",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

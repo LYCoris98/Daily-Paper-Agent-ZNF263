@@ -1,0 +1,92 @@
+## Review setup
+- **Input scope** 全文（含摘要、引言、结果、方法、图注）
+- **Assessment boundary** 仅基于提供的稿件材料；未提供补充图表、原始数据或审阅中的图注细节
+- **Shared manuscript claim summary** 作者提出，CTCF介导的cohesin loop锚定是脊椎动物特有的创新。通过跨物种N端结构域交换实验、hagfish组织的ChIP-seq和Micro-C分析，作者认为该功能在现存脊椎动物共同祖先中演化，并在有颌脊椎动物中得到加强。
+- **Visible evidence base** 正文中引用的图1-5及补充图1-3；方法部分描述的ChIP-seq、Micro-C、AlphaFold 3建模和gkm-SVM分析
+- **Missing materials affecting confidence** 补充图1-3的具体内容未提供；图2-5的详细图注未提供；原始测序数据需通过GEO访问；hagfish基因组注释质量未评估；Micro-C数据的信噪比和文库复杂度未报告
+
+## Reviewer
+- **Overall assessment** 该稿件提出一个清晰且重要的演化生物学问题，并采用多学科方法（结构域交换、ChIP-seq、Micro-C、结构预测）进行探究。核心结论具有新颖性，但当前证据链存在若干薄弱环节，尤其是在hagfish体内数据的解读和跨物种N端功能比较的定量严谨性方面。结论的强度与部分证据的间接性不完全匹配。
+- **Who would be interested in the results, and why** 3D基因组学、演化发育生物学、染色质结构领域的 researchers。该工作为CTCF功能的演化起源提供了直接实验证据，对理解脊椎动物基因组调控架构的演化具有重要意义，也引发对无脊椎动物基因组组织机制的重新思考。
+- **Major strengths** 1) 问题明确且具有重要演化意义；2) 采用多种正交方法（功能交换、体内ChIP-seq、Micro-C、结构预测）交叉验证；3) 使用hagfish这一关键演化位置物种，填补了无颌脊椎动物的空白；4) 等位基因特异性降解系统设计精巧，允许在同一细胞中比较野生型和嵌合蛋白。
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** 结论强度与证据充分性
+  - **Claim pointer** "CTCF-mediated cohesin loop anchoring most likely evolved in the common ancestor of extant vertebrates"
+  - **Evidence pointer** Figure 2, Figure 5
+  - **Concern** 核心结论依赖于两个关键证据链：(1) 跨物种N端交换实验显示只有hagfish N端能支持cohesin富集；(2) hagfish组织的Micro-C显示convergent CTCF位点存在stripes。然而，对于证据链(1)，仅测试了三个物种（果蝇、文昌鱼、hagfish），且结果以相关性形式呈现（Figure 2C），缺乏对"hagfish N端功能弱于小鼠N端"这一差异的统计检验报告。对于证据链(2)，Micro-C数据来自组织而非纯化细胞类型，可能混合多种细胞类型的信号；且作者承认hagfish的focal dot较弱，这与其"hagfish CTCF能锚定loop"的结论存在一定张力。更关键的是，作者未提供系统发育上更广泛的无脊椎动物采样（如棘皮动物、半索动物），无法排除CTCF loop锚定功能在更古老节点出现后在多个后生动物谱系中丢失的可能性。
+  - **Why it matters** 该结论是稿件的核心主张，若证据不充分，将影响整个工作的科学贡献。当前采样和证据强度仅能支持"hagfish CTCF N端具有部分cohesin锚定能力"这一较弱结论，而非"该功能为脊椎动物特有"这一强结论。
+  - **Resolution test** 增加更多关键物种的N端交换实验（如海胆、被囊类）；对hagfish Micro-C数据进行更严格的统计检验（如与随机位点对照比较stripe强度）；报告hagfish CTCF N端与小鼠N端在cohesin富集效率上的定量差异及显著性；讨论并排除"该功能在更古老节点出现后在多个谱系中丢失"的替代假说。
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** 方法严谨性
+  - **Claim pointer** "CTCF N-Branchiostoma showed robust chromatin binding" (Results, 补充图1B)
+  - **Evidence pointer** 补充图1B, Methods "ChIP-seq"
+  - **Concern** 作者仅对CTCF N-Branchiostoma嵌合体进行了ChIP-seq验证DNA结合能力，但未对其他嵌合体（N-Drosophila、N-hagfish）进行同等验证。此外，未报告嵌合蛋白的表达水平是否与野生型相当，也未报告ChIP-seq的peak calling阈值和重复数。如果N-Drosophila或N-hagfish嵌合蛋白表达水平低或DNA结合能力受损，将直接影响对cohesin富集差异的解读。
+  - **Why it matters** 嵌合蛋白的表达和DNA结合是解释后续cohesin富集差异的前提。缺乏这些对照，无法排除"cohesin富集差异源于蛋白稳定性或DNA结合差异"的替代解释。
+  - **Resolution test** 对所有嵌合体进行表达水平和DNA结合的定量验证（如western blot和ChIP-qPCR/ChIP-seq），报告至少两次生物学重复的ChIP-seq相关性。
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** 数据解读
+  - **Claim pointer** "cohesin enrichment at promoters and enhancers was more pronounced in hagfish than in jawed vertebrates"
+  - **Evidence pointer** Figure 3C, 3D, 4A-4D
+  - **Concern** 该结论基于hagfish肝脏与小鼠ESC之间的跨组织、跨物种比较。肝脏和ESC的转录状态、增强子活性、cohesin负载水平均存在根本差异，这种比较可能引入混淆变量。作者未提供同一物种内不同细胞类型或同一细胞类型跨物种的直接比较。
+  - **Why it matters** 如果该差异主要反映组织/细胞类型差异而非物种差异，则"hagfish cohesin在增强子处富集更显著"这一结论将不成立，进而影响对脊椎动物cohesin功能演化的理解。
+  - **Resolution test** 在hagfish中分析另一种组织（如鳃或肾），或在有颌脊椎动物中分析肝脏组织，进行更匹配的比较；或明确讨论并限定该结论仅适用于所比较的具体组织。
+  - **Concern ID** R1-M4
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** 方法严谨性
+  - **Claim pointer** "AlphaFold 3-predicted structural models suggested that the YxF motif-containing region of mouse, Branchiostoma, and hagfish CTCF could interact with the conserved essential surface (CES) of RAD21-STAG2"
+  - **Evidence pointer** 补充图3A, Methods "Structure prediction"
+  - **Concern** AlphaFold 3预测的复合物结构仅以RMSD值（2.09-2.84 Å）作为评估指标，但未提供预测置信度（如ipTM/pTM分数）或与实验结构的直接比较。对于Drosophila，作者称"no motif contact"，但未展示该预测的置信度。此外，仅凭结构预测无法区分"能结合"与"在体内能有效锚定cohesin"。
+  - **Why it matters** 结构预测是该论证链条中解释物种差异的重要环节，但其证据强度有限。若预测置信度低，则无法为功能差异提供机制解释。
+  - **Resolution test** 报告AlphaFold 3的ipTM/pTM分数和每个残基的pLDDT；对Drosophila的"no contact"预测进行置信度评估；考虑使用分子动力学模拟或诱变实验验证关键残基的贡献。
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** 报告完整性
+  - **Affected element** 图2C的统计描述
+  - **Evidence pointer** Figure 2C
+  - **Issue** 相关性系数（Pearson r和Spearman ρ）已报告，但未报告用于比较不同细胞系间RAD21富集差异的显著性检验。
+  - **Required correction** 补充不同细胞系间RAD21富集差异的统计检验结果（如Mann-Whitney U检验的p值）。
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** 方法透明度
+  - **Affected element** Micro-C数据质量指标
+  - **Evidence pointer** Methods "Micro-C data analysis"
+  - **Issue** 未报告Micro-C文库的测序深度、有效读段比例、duplication rate或信噪比（如on-target/vs off-target reads）。
+  - **Required correction** 在方法或补充材料中报告Micro-C文库质量指标。
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** 表述准确性
+  - **Affected element** 摘要中"most likely evolved"的表述
+  - **Evidence pointer** Abstract
+  - **Issue** 摘要使用"most likely"这一表述，但正文结论部分未提供相应的不确定性讨论或替代假说的评估。
+  - **Required correction** 在讨论中明确列出替代假说（如更古老的起源+多次丢失）并解释为何当前证据支持脊椎动物特有起源。
+  - **Concern ID** R1-m4
+  - **Severity** Minor
+  - **Axis** 方法透明度
+  - **Affected element** 系统发育采样
+  - **Evidence pointer** Figure 1A, Methods "Phylogenetic distribution"
+  - **Issue** 系统发育分析包含527个物种，但正文未说明这些物种在各主要后生动物门类中的分布情况，也未报告CTCF在关键节点（如棘皮动物、半索动物）的N端基序状态。
+  - **Required correction** 在补充材料中提供物种列表和各门类CTCF基序状态的汇总表。
+- **Technical failings that need to be addressed before the case is established** R1-M1（核心结论的证据强度不足），R1-M2（嵌合体验证不完整）
+- **Assessment against Nature-style criteria** 
+  - **Originality** 较高。CTCF-cohesin loop锚定功能的演化起源此前未被直接实验检验，该工作填补了这一空白。
+  - **Scientific importance** 较高。该结论若成立，将改变对脊椎动物基因组调控架构演化的理解，并对无脊椎动物3D基因组组织机制提出新问题。
+  - **Interdisciplinary readership** 中等。主要吸引3D基因组学和演化发育生物学研究者，对更广泛的细胞生物学和基因组学读者也有一定吸引力。
+  - **Technical soundness** 中等。方法组合合理，但存在上述对照不完整和跨物种比较的混淆问题。
+  - **Readability for nonspecialists** 较好。摘要和引言清晰，但结果部分对非专业读者可能略显技术性。
+- **Recommendation posture** 目前证据尚不足以完全支撑"CTCF-anchored cohesin loops是脊椎动物特有创新"这一强结论。建议在补充更多关键物种的功能验证、完善嵌合体对照和跨物种比较设计后重新考虑。若作者能将结论强度调整至与当前证据匹配的水平，并解决上述方法学问题，该工作具有发表潜力。
+
+## Risk / unsupported claims
+- "CTCF-mediated cohesin loop anchoring most likely evolved in the common ancestor of extant vertebrates" 当前证据仅覆盖3个物种的N端交换实验和1个物种（hagfish）的体内数据，采样不足以排除更古老起源后多次丢失的假说。
+- "Invertebrate CTCF N-termini fail to restore robust cohesin binding" 仅测试了果蝇和文昌鱼两个物种，无法代表所有无脊椎动物。
+- "cohesin enrichment at promoters and enhancers was more pronounced in hagfish than in jawed vertebrates" 基于跨组织、跨物种比较，存在混淆变量。
+- "The considerable sequence differences in ZF3-7 imply that vertebrate and invertebrate CTCF may also differ in their DNA-binding sequence preferences" 该推测缺乏直接实验证据。
+- AlphaFold 3预测的"no motif contact"（Drosophila）未提供置信度评估，该阴性结果的可信度不可评估。

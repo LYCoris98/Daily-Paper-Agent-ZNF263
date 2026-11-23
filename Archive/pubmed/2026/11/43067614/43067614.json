@@ -1,0 +1,285 @@
+{
+  "identity": {
+    "pmid": "43067614",
+    "doi": "10.1038/s41437-026-00906-w",
+    "title": "Structure of the marsupial IGF2R locus."
+  },
+  "content": {
+    "abstract": "The insulin-like growth factor 2 receptor gene (IGF2R) is a maternally-expressed developmental regulator in therian mammals, eutherians and marsupials. In mice the paternal allele of Igf2r is silenced by transcriptional overlap from a ~108 kb antisense Igf2r RNA (Airn) expressed from a differentially methylated region (DMR) in intron 2. In tammar wallabies there is also an antisense transcript (ALID), but it is short, ~650 bp, and it is transcribed from a DMR in intron 12. Here, the structure of the IGF2R DMR and ALID was investigated to evaluate its evolutionary similarity across mammals. A lack of sequence similarity between the intragenic CpG island in eutherians (euCGI-2) and marsupials (maCGI-2) suggested independent acquisition in each lineage. In tammars, maCGI-2 had active histone marks and promoter activity. Transcription from maCGI-2 was complex, with multiple sense and antisense transcripts. Low-level detection of a long-ALID transcript supported a model in which IGF2R imprinting is achieved by transcriptional overlap in marsupials as in eutherians. The maCGI-2 had CTCF sites and was a boundary for 3D interactions with the IGF2R start site and a broader domain containing the maternally-expressed SLC22A3 gene ~250 kb away. These findings indicate that maCGI-2 is a site of complex transcriptional regulation and is a structurally important feature within IGF2R and the broader region.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Newman, Trent A C",
+        "Pride, Jenna",
+        "Gouil, Quentin",
+        "Xiao, Lucinda",
+        "Ayers, Katie",
+        "Ishihara, Teruhito",
+        "Shaw, Geoff",
+        "Renfree, Marilyn B"
+      ],
+      "short_names": [
+        "Newman TAC",
+        "Pride J",
+        "Gouil Q",
+        "Xiao L",
+        "Ayers K",
+        "Ishihara T",
+        "Shaw G",
+        "Renfree MB"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6767-1429",
+        "ORCID: 0009-0008-5324-2499",
+        "ORCID: 0000-0002-5142-7886",
+        "ORCID: 0009-0008-9956-3490",
+        "ORCID: 0000-0002-2207-2473",
+        "ORCID: 0000-0002-7421-7136",
+        "ORCID: 0000-0002-4589-0436"
+      ],
+      "affiliations": [
+        "School of BioSciences, The University of Melbourne, Parkville, VIC, Australia.",
+        "Peter MacCallum Cancer Centre, Melbourne, VIC, Australia.",
+        "School of BioSciences, The University of Melbourne, Parkville, VIC, Australia.",
+        "Genomic Medicine, Murdoch Children's Research Institute, Parkville, VIC, Australia.",
+        "Epigenetics and Development Division, Walter and Eliza Hall Institute of Medical Research, Parkville, VIC, Australia.",
+        "Olivia Newton-John Cancer Research Institute, Heidelberg, VIC, Australia.",
+        "School of Cancer Medicine, La Trobe University, Bundoora, VIC, Australia.",
+        "Epigenetics and Development Division, Walter and Eliza Hall Institute of Medical Research, Parkville, VIC, Australia.",
+        "Genomic Medicine, Murdoch Children's Research Institute, Parkville, VIC, Australia.",
+        "Department of Paediatrics, The University of Melbourne, Parkville, VIC, Australia.",
+        "School of BioSciences, The University of Melbourne, Parkville, VIC, Australia.",
+        "Epigenetics Programme, Babraham Institute, Cambridge, UK.",
+        "School of BioSciences, The University of Melbourne, Parkville, VIC, Australia.",
+        "School of BioSciences, The University of Melbourne, Parkville, VIC, Australia. m.renfree@unimelb.edu.au."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Newman, Trent A C",
+        "short_name": "Newman TAC",
+        "identifiers": [
+          "0000-0002-6767-1429"
+        ],
+        "affiliations": [
+          "School of BioSciences, The University of Melbourne, Parkville, VIC, Australia.",
+          "Peter MacCallum Cancer Centre, Melbourne, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Pride, Jenna",
+        "short_name": "Pride J",
+        "identifiers": [
+          "0009-0008-5324-2499"
+        ],
+        "affiliations": [
+          "School of BioSciences, The University of Melbourne, Parkville, VIC, Australia.",
+          "Genomic Medicine, Murdoch Children's Research Institute, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Gouil, Quentin",
+        "short_name": "Gouil Q",
+        "identifiers": [
+          "0000-0002-5142-7886"
+        ],
+        "affiliations": [
+          "Epigenetics and Development Division, Walter and Eliza Hall Institute of Medical Research, Parkville, VIC, Australia.",
+          "Olivia Newton-John Cancer Research Institute, Heidelberg, VIC, Australia.",
+          "School of Cancer Medicine, La Trobe University, Bundoora, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Xiao, Lucinda",
+        "short_name": "Xiao L",
+        "identifiers": [
+          "0009-0008-9956-3490"
+        ],
+        "affiliations": [
+          "Epigenetics and Development Division, Walter and Eliza Hall Institute of Medical Research, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Ayers, Katie",
+        "short_name": "Ayers K",
+        "identifiers": [],
+        "affiliations": [
+          "Genomic Medicine, Murdoch Children's Research Institute, Parkville, VIC, Australia.",
+          "Department of Paediatrics, The University of Melbourne, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Ishihara, Teruhito",
+        "short_name": "Ishihara T",
+        "identifiers": [
+          "0000-0002-2207-2473"
+        ],
+        "affiliations": [
+          "School of BioSciences, The University of Melbourne, Parkville, VIC, Australia.",
+          "Epigenetics Programme, Babraham Institute, Cambridge, UK."
+        ]
+      },
+      {
+        "full_name": "Shaw, Geoff",
+        "short_name": "Shaw G",
+        "identifiers": [
+          "0000-0002-7421-7136"
+        ],
+        "affiliations": [
+          "School of BioSciences, The University of Melbourne, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Renfree, Marilyn B",
+        "short_name": "Renfree MB",
+        "identifiers": [
+          "0000-0002-4589-0436"
+        ],
+        "affiliations": [
+          "School of BioSciences, The University of Melbourne, Parkville, VIC, Australia. m.renfree@unimelb.edu.au."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Heredity"
+    ],
+    "journal_abbrev": [
+      "Heredity (Edinb)"
+    ],
+    "pub_date": "2026 Nov 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/11/22 05:49",
+    "fetched_at": "2026-11-23 09:10:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "43067614",
+      "30268152",
+      "36030241",
+      "37925372",
+      "10198258",
+      "17998818",
+      "16575181",
+      "37952041",
+      "17976054",
+      "11108251",
+      "34971973",
+      "15294879",
+      "39342354",
+      "16037066",
+      "22396659",
+      "9338788",
+      "10802648",
+      "19754711",
+      "25918552",
+      "8824797",
+      "36721950",
+      "19141673",
+      "11562346",
+      "8462104",
+      "12906851",
+      "12975326",
+      "40563929",
+      "10882106",
+      "9722161",
+      "11438657",
+      "18454865",
+      "12853484",
+      "18510768",
+      "18789384",
+      "17432937",
+      "21854573",
+      "8595419",
+      "18587395",
+      "11311167",
+      "9535821",
+      "22899817",
+      "18805821",
+      "22503898",
+      "9482664",
+      "17126526",
+      "15652708",
+      "23468951",
+      "23444351",
+      "22848567",
+      "42767818",
+      "31329595",
+      "8565330",
+      "21575277",
+      "16204191",
+      "20610486",
+      "23239737",
+      "23764515",
+      "17967893",
+      "11479919",
+      "33319906",
+      "15352122",
+      "23166401",
+      "25482058",
+      "15590938",
+      "42475469",
+      "16815976",
+      "14654216",
+      "16702402",
+      "24140490",
+      "25447521",
+      "23874213",
+      "31301299",
+      "15777726",
+      "40418718",
+      "41146606",
+      "9892358",
+      "10924343",
+      "19008856",
+      "17684144",
+      "11438990",
+      "31388182",
+      "10729220",
+      "21160170",
+      "23227253",
+      "10369866",
+      "10393948",
+      "19917631",
+      "31073794",
+      "21854600",
+      "20301706",
+      "11845212",
+      "10890561",
+      "23593146",
+      "11726556",
+      "12554682",
+      "41117025",
+      "12095702",
+      "11532981",
+      "3298156",
+      "29931170"
+    ],
+    "review": [
+      "43067614",
+      "16575181",
+      "9722161",
+      "18805821",
+      "23166401",
+      "20301706"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

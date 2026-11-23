@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43067829",
+  "title": "The CTCF Paralog BORIS Contributes to the Ovarian Cancer Transcriptional Program by Relaxing CTCF-mediated 3D Genome Organization.",
+  "authors": "Bhatt, Dharmendra Nath; Scott, Arielle; Krymskaya, Ludmila; Markowitz, Tovah E; Price, Emma; Ji, Yon; Loukinov, Dmitri; Traver, Maria; Brzostowski, Joseph; Lobanenkov, Victor V; Pugacheva, Elena M",
+  "journal": "bioRxiv : the preprint server for biology",
+  "published_date": "2026-11-22",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 6,
+  "one_liner_zh": "该文研究CTCF旁系同源物BORIS在卵巢癌中通过削弱CTCF介导的染色质绝缘和3D基因组组织来重编程转录，虽非直接研究cpcdh基因家族，但其对CTCF/染色质结构调控的机制可为cpcdh家族功能研究提供借鉴。",
+  "abstract": "Disruption of three-dimensional genome architecture is a major driver of cancer initiation and progression, frequently arising from genetic and epigenetic alterations at CTCF- and cohesin-bound chromatin anchors. These same chromatin loop anchors can also be occupied by the germ cell-specific CTCF paralog CTCFL (BORIS), which is aberrantly activated in multiple malignancies. Here, we show that in ovarian cancer cells, BORIS activation establishes a distinct transcriptional program that collapses following loss of BORIS chromatin binding and is accompanied by widespread changes in CTCF and cohesin occupancy, histone modifications, and chromatin accessibility. These BORIS-dependent transcriptional alterations occur in long-range genomic clusters, resulting in the coordinated activation or repression of neighboring genes, including hormonally regulated gene families. BORIS loss also increases topologically associating domain (TAD) insulation, strengthens A/B compartment segregation and chromatin loop interactions, and results in a more compact and constrained chromatin architecture. Together, our findings suggest that aberrant BORIS activation promotes transcriptional reprogramming by weakening CTCF-mediated chromatin insulation and relaxing three-dimensional genome organization in ovarian cancer. SIGNIFICANCE: High-grade serous ovarian carcinoma, the most common subtype of ovarian cancer, remains one of the deadliest gynecological malignancies because of its late diagnosis, extensive genomic instability, and frequent therapeutic resistance. The lack of reliable biomarkers for early detection underscores the need to identify new molecular drivers of disease initiation and progression. Here, we show that the germline-specific gene CTCFL (BORIS) is aberrantly activated in high-grade serous ovarian carcinoma, where it remodels transcriptional, epigenetic, and three-dimensional genome organization by occupying CTCF-bound chromatin loop anchors and weakening CTCF-mediated chromatin insulation. These findings identify BORIS as a key regulator of transcriptional reprogramming in ovarian cancer and support its further investigation as both a prognostic biomarker and a potential therapeutic target.",
+  "abstract_zh": "三维基因组结构的破坏是癌症发生和进展的主要驱动因素，通常源于CTCF和cohesin结合的染色质锚点处的遗传和表观遗传改变。这些相同的染色质环锚点也可能被生殖细胞特异性的CTCF旁系同源物CTCFL（BORIS）占据，该蛋白在多种恶性肿瘤中异常激活。在此，我们展示在卵巢癌细胞中，BORIS激活建立了一个独特的转录程序，该程序在BORIS染色质结合丧失后崩溃，并伴随CTCF和cohesin占据、组蛋白修饰以及染色质可及性的广泛变化。这些BORIS依赖的转录改变发生在长距离基因组簇中，导致邻近基因的协同激活或抑制，包括激素调控的基因家族。BORIS缺失还增加了拓扑关联结构域（TAD）的绝缘性，增强了A/B区室分离和染色质环相互作用，并导致更紧凑和受限的染色质结构。总之，我们的发现表明，异常BORIS激活通过削弱CTCF介导的染色质绝缘和放松卵巢癌中的三维基因组组织来促进转录重编程。意义：高级别浆液性卵巢癌是卵巢癌最常见的亚型，由于其诊断晚、广泛的基因组不稳定性和频繁的治疗耐药性，仍然是最致命的妇科恶性肿瘤之一。缺乏可靠的早期检测生物标志物强调需要识别疾病发生和进展的新分子驱动因素。在此，我们展示生殖系特异性基因CTCFL（BORIS）在高级别浆液性卵巢癌中异常激活，通过占据CTCF结合的染色质环锚点并削弱CTCF介导的染色质绝缘，重塑转录、表观遗传和三维基因组组织。这些发现将BORIS确定为卵巢癌转录重编程的关键调节因子，并支持其作为预后生物标志物和潜在治疗靶点的进一步研究。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "paper-card.md",
+  "review_path": "review.md",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067829/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43067829/",
+  "paper_page_path": "papers/pubmed/43067829/index.html"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "biorxiv",
+  "id": "10.64898/2026.11.13.766380",
+  "title": "Somatic mutation probabilities learned from the DNA sequence",
+  "authors": "Aguilar-Herrador M; Müller YD; Sanabria M; Poetsch AR",
+  "journal": "bioRxiv",
+  "published_date": "2026-11-16",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 4,
+  "one_liner_zh": "该文用DNA语言模型预测体细胞突变概率，虽涉及序列上下文和基因组功能，但未聚焦cpcdh基因家族，仅可作为突变机制研究的边缘参考。",
+  "abstract": "<h4>Summary</h4> Somatic mutations distribute heterogeneously over genomes, dependent on immediate sequence context, function, and non-genetic factors. Mutations present the foundation for somatic genome evolution towards age-related diseases. Here, we present EAGLE-MUT, a group of DNA language models trained on sparse single base substitution data from esophageal adenocarcinoma (EAC) and melanoma (MELA) samples. In both cancer types, predicted mutation probabilities vary across several orders of magnitude, depending on sequence context. For example, T>G hotspots in EAC localize to A/T-rich ∼200 base pair DNA motifs, associated with nucleosome positioning. Coldspots localize to G/C-rich DNA, nucleosome linker DNA, CTCF binding sites, potential origins of replication, and intron-exon boundaries with a transcription strand bias. Fine-tuning EAGLE-MUT for individual patient samples leads to varying mutation distributions relative to genome elements and potential cancer driver mutations. EAGLE-MUT provides new links between DNA sequence, genome function, and stability in individual samples, a foundation for understanding somatic genome evolution, and more personalized strategies for risk-assessment, prevention, and treatment.",
+  "abstract_zh": "<h4>摘要</h4> 体细胞突变在基因组中分布不均，受即时序列背景、功能及非遗传因素影响。突变是体细胞基因组向年龄相关疾病演化的基础。在此，我们介绍EAGLE-MUT，一组基于食管腺癌（EAC）和黑色素瘤（MELA）样本中稀疏单碱基替换数据训练的DNA语言模型。在两种癌症类型中，预测的突变概率因序列背景不同而跨越多个数量级。例如，EAC中的T>G热点定位于富含A/T的约200碱基对DNA基序，与核小体定位相关。冷点则定位于富含G/C的DNA、核小体连接DNA、CTCF结合位点、潜在复制起点及具有转录链偏倚的内含子-外显子边界。针对个体患者样本对EAGLE-MUT进行微调，可导致相对于基因组元件及潜在癌症驱动突变的突变分布变化。EAGLE-MUT提供了DNA序列、基因组功能与个体样本稳定性之间的新联系，为理解体细胞基因组演化奠定基础，并为风险评估、预防和治疗提供更个性化的策略。",
+  "has_fulltext": true,
+  "fulltext_source": "europepmc",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766380",
+  "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.13.766380",
+  "paper_page_path": "papers/biorxiv/10.64898_2026.11.13.766380/index.html"
+}

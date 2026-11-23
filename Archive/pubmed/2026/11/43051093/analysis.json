@@ -1,0 +1,24 @@
+{
+  "source": "pubmed",
+  "id": "43051093",
+  "title": "Single-cell analysis of epithelial transcriptional states identifies stromal associations and candidate targets in colon cancer.",
+  "authors": "Shi, Xinlin; Cao, Xiwen; Guan, Bowen; Wu, Wanqiao; Zhu, Haizhen; Fu, Yuyin; Guo, Xiao; Wang, Tao",
+  "journal": "Neoplasia (New York, N.Y.)",
+  "published_date": "2026-11-18",
+  "window": {
+    "start": "2026-11-16",
+    "end": "2026-11-22"
+  },
+  "score": 3,
+  "one_liner_zh": "该研究通过单细胞分析结肠癌上皮转录状态及间质互作，但未涉及cpcdh基因家族，仅可作为肿瘤微环境分析方法参考。",
+  "abstract": "BACKGROUND: Colon cancer progression involves coordinated changes in epithelial cells and the tumor microenvironment, yet the transcriptional organization, associated regulatory programs and candidate vulnerabilities of epithelial cell states remain unclear. METHODS: Multi-cohort single-cell RNA sequencing data were integrated with inferred copy-number variation, pseudotime, regulon and spatial transcriptomic analyses. Ligand-receptor interactions were inferred to characterize state-associated communication. Geneformer-based in silico perturbation, virtual screening and molecular dynamics simulations were performed to nominate candidates for functional investigation. ZC3HC1 knockdown, overexpression and rescue were assessed in HCT 116 cells using EdU, cell-cycle, apoptosis and migration/invasion assays. Multiplex immunofluorescence examined epithelial and immune-marker distributions in tumor sections. An epithelial-state-informed prognostic model was developed using nested selection within TCGA-COAD and evaluated in GEO cohorts with fixed training-derived thresholds. RESULTS: Epithelial cells formed three transcriptional states with distinct expression and regulatory programs. State 3 was enriched for ILF2-, NFYB-, MLX-, CTCF- and HMGA1-associated regulons. Fibroblasts were the dominant signaling source, whereas T cells had the highest incoming communication strength and State 3 showed candidate CypA, COLLAGEN and CD99 expression associations; spatial analyses further showed co-occurrence of collagen ligands with SDC1, SDC4, CD44 and integrin receptor complexes. ZC3HC1 knockdown in HCT 116 cells reduced EdU incorporation, increased G0/G1 accumulation and apoptosis, and diminished migration and invasion; rescue partially restored these phenotypes. Multiplex staining illustrated contrasting myeloid and T-cell distributions around PanCK-positive regions. Virtual screening nominated DB12168 as a candidate ZC3HC1-interacting compound. The epithelial-state-informed risk model showed cohort-dependent prognostic performance, and its associations with immune exclusion and angiogenesis were exploratory. CONCLUSIONS: Epithelial transcriptional states in colon cancer are associated with distinct regulatory programs and stromal expression patterns. Functional assays implicated ZC3HC1 in HCT 116 cell phenotypes, and virtual screening nominated DB12168 for binding studies, while the epithelial-state-informed risk model provides a framework for retrospective prognostic evaluation.",
+  "abstract_zh": "背景：结肠癌进展涉及上皮细胞与肿瘤微环境的协调变化，然而上皮细胞状态的转录组织、相关调控程序及候选脆弱性仍不清楚。方法：多队列单细胞RNA测序数据与推断的拷贝数变异、伪时间、调控子及空间转录组分析相结合。推断配体-受体相互作用以表征状态相关通讯。基于Geneformer的计算机模拟扰动、虚拟筛选和分子动力学 (molecular dynamics) 模拟用于提名功能研究的候选对象。在HCT 116细胞中，通过EdU、细胞周期、凋亡及迁移/侵袭实验评估ZC3HC1敲低、过表达和拯救效应。多重免疫荧光检查肿瘤切片中上皮和免疫标志物分布。使用TCGA-COAD内的嵌套选择开发了基于上皮状态信息的预后模型，并在GEO队列中以固定训练衍生阈值进行评估。结果：上皮细胞形成三种转录状态，具有不同的表达和调控程序。状态3富集了ILF2-、NFYB-、MLX-、CTCF-和HMGA1相关调控子。成纤维细胞是主要信号来源，而T细胞具有最高的传入通讯强度，状态3显示候选CypA、COLLAGEN和CD99表达关联；空间分析进一步显示胶原配体与SDC1、SDC4、CD44和整合素受体复合物的共定位。HCT 116细胞中ZC3HC1敲低减少了EdU掺入，增加了G0/G1积累和凋亡，并减弱了迁移和侵袭；拯救部分恢复了这些表型。多重染色显示PanCK阳性区域周围髓系和T细胞分布的对比。虚拟筛选提名DB12168作为候选ZC3HC1相互作用化合物。基于上皮状态信息的风险模型显示队列依赖的预后性能，其与免疫排斥和血管生成的关联为探索性。结论：结肠癌中的上皮转录状态与不同的调控程序和基质表达模式相关。功能实验表明ZC3HC1参与HCT 116细胞表型，虚拟筛选提名DB12168用于结合研究，而基于上皮状态信息的风险模型为回顾性预后评估提供了框架。",
+  "has_fulltext": false,
+  "fulltext_source": "abstract",
+  "fulltext_path": "fulltext.md",
+  "paper_card_path": "",
+  "review_path": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43051093/",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/43051093/",
+  "paper_page_path": "papers/pubmed/43051093/index.html"
+}

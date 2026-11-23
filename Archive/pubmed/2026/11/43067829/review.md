@@ -1,0 +1,73 @@
+## Review setup
+- **Input scope** Abstract only
+- **Assessment boundary** Claims and conclusions as presented in the abstract; no evaluation of methods, data, or statistical rigor possible
+- **Shared manuscript claim summary** The authors report that in ovarian cancer cells, aberrant activation of the CTCF paralog BORIS (CTCFL) establishes a distinct transcriptional program. Loss of BORIS chromatin binding leads to collapse of this program, accompanied by changes in CTCF and cohesin occupancy, histone modifications, and chromatin accessibility. BORIS-dependent transcriptional changes occur in long-range genomic clusters affecting neighboring genes, including hormonally regulated gene families. BORIS loss increases TAD insulation, strengthens A/B compartment segregation and chromatin loop interactions, and produces a more compact chromatin architecture. The authors conclude that BORIS promotes transcriptional reprogramming by weakening CTCF-mediated insulation and relaxing 3D genome organization in ovarian cancer, and suggest BORIS merits investigation as a prognostic biomarker and therapeutic target.
+- **Visible evidence base** Abstract text only; no figures, tables, methods, or supplementary materials provided
+- **Missing materials affecting confidence** Full manuscript, all figures and tables, methods section, statistical details, sample sizes, cell line identities, genome-wide data processing and analysis pipelines, validation experiments, and any clinical or patient-derived data
+
+## Reviewer
+- **Overall assessment** The abstract presents a mechanistically coherent and potentially significant model linking aberrant BORIS activation to transcriptional reprogramming via relaxation of CTCF-mediated 3D genome organization in ovarian cancer. The findings, if fully supported by the underlying data, would be of considerable interest to the chromatin biology and cancer research communities. However, the abstract alone cannot substantiate the strength of the claims made. Several statements imply causal relationships and genome-wide conclusions that require rigorous experimental and computational validation. The significance statement extends the findings toward biomarker and therapeutic implications that are not directly evidenced in the abstract. The work appears promising but the case is not established from the provided material.
+- **Who would be interested in the results, and why** Chromatin biologists studying 3D genome organization and CTCF/cohesin biology; cancer researchers focused on ovarian cancer, particularly high-grade serous ovarian carcinoma; investigators interested in paralog functional divergence and aberrant developmental gene activation in cancer; researchers working on epigenetic deregulation and transcriptional reprogramming in malignancy. The potential biomarker and therapeutic angle would also interest translational oncology groups.
+- **Major strengths** The conceptual framework is compelling, linking a germ cell-specific CTCF paralog to cancer-specific 3D genome reorganization. The proposed mechanism, that BORIS competes with or displaces CTCF at loop anchors to weaken insulation, is mechanistically plausible and testable. The abstract describes a multi-layered analysis integrating transcription, chromatin occupancy, histone modifications, accessibility, and 3D architecture, suggesting a comprehensive approach. The focus on long-range coordinated gene regulation, including hormonally regulated gene families, provides biological context relevant to ovarian cancer biology.
+- **Major Concerns**
+  - **Concern ID** R1-M1
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Causal inference
+  - **Claim pointer** "BORIS activation establishes a distinct transcriptional program that collapses following loss of BORIS chromatin binding"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract states that BORIS activation "establishes" a transcriptional program and that this program "collapses" upon loss of BORIS binding. This implies a causal and necessary relationship. However, no information is provided about the experimental design used to test this, such as whether BORIS loss was achieved through genetic knockout, knockdown, or degron systems, whether the observed transcriptional changes are direct or indirect effects, and whether rescue experiments were performed to confirm specificity.
+  - **Why it matters** The central claim of the paper rests on this causal relationship. Without evidence that transcriptional changes are directly attributable to BORIS occupancy rather than secondary consequences of global chromatin reorganization or off-target effects, the mechanistic model is not established.
+  - **Resolution test** Provide experimental details demonstrating that BORIS loss leads to rapid, reversible, and specific transcriptional changes; include rescue experiments restoring BORIS function; show that transcriptional changes correlate with BORIS occupancy at associated regulatory elements.
+  - **Concern ID** R1-M2
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Mechanistic specificity
+  - **Claim pointer** "BORIS activation promotes transcriptional reprogramming by weakening CTCF-mediated chromatin insulation and relaxing three-dimensional genome organization"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract proposes that BORIS weakens CTCF-mediated insulation, but the mechanistic basis is not specified. Does BORIS compete with CTCF for the same binding sites, displace CTCF from chromatin, or alter CTCF's ability to recruit cofactors? The abstract reports "widespread changes in CTCF and cohesin occupancy" but does not clarify the direction or nature of these changes, nor whether they are causes or consequences of BORIS activity.
+  - **Why it matters** The proposed model depends on a specific mechanistic relationship between BORIS and CTCF. Without clarity on whether BORIS directly displaces CTCF or acts through an indirect pathway, the model remains underspecified and difficult to evaluate.
+  - **Resolution test** Provide genome-wide binding data showing BORIS and CTCF occupancy at shared sites before and after BORIS perturbation; demonstrate whether BORIS binding correlates with reduced CTCF occupancy at the same anchors; include biochemical or biophysical evidence of competition or displacement if claimed.
+  - **Concern ID** R1-M3
+  - **Severity** Major
+  - **Blocking** Yes
+  - **Axis** Generalizability and disease relevance
+  - **Claim pointer** "BORIS is aberrantly activated in high-grade serous ovarian carcinoma, where it remodels transcriptional, epigenetic, and three-dimensional genome organization"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** The abstract states that BORIS is aberrantly activated in HGSOC, but no data are presented on the frequency, extent, or clinical correlation of this activation. It is unclear whether this is a common event in HGSOC or restricted to a subset of cases, and whether the findings in cell lines reflect patient tumors.
+  - **Why it matters** The significance statement positions BORIS as a potential biomarker and therapeutic target. This requires evidence that BORIS activation is clinically relevant, recurrent, and associated with disease features in patient samples, not only in cultured cells.
+  - **Resolution test** Provide data on BORIS expression in primary HGSOC tumors versus normal tissue, correlation with clinical outcomes, and evidence that BORIS activation is a recurrent event in patient cohorts.
+  - **Concern ID** R1-M4
+  - **Severity** Major
+  - **Blocking** No
+  - **Axis** Quantitative support
+  - **Claim pointer** "BORIS loss also increases TAD insulation, strengthens A/B compartment segregation and chromatin loop interactions, and results in a more compact and constrained chromatin architecture"
+  - **Evidence pointer** Abstract; location not provided
+  - **Concern** These are strong quantitative claims about 3D genome architecture. The abstract provides no indication of the magnitude of these effects, the number of TADs or loops affected, the statistical significance, or whether these changes are genome-wide or restricted to specific loci.
+  - **Why it matters** The conclusion that BORIS "relaxes" 3D genome organization depends on the robustness and extent of these architectural changes. Without quantitative context, it is impossible to assess whether the effects are biologically meaningful or subtle.
+  - **Resolution test** Provide quantitative summaries of architectural changes, including effect sizes, statistical tests, and the proportion of the genome affected; show representative examples alongside genome-wide distributions.
+- **Minor Comments**
+  - **Concern ID** R1-m1
+  - **Severity** Minor
+  - **Axis** Clarity
+  - **Affected element** Terminology
+  - **Evidence pointer** Abstract; location not provided
+  - **Issue** The abstract uses "relaxing" and "weakening" to describe the effect on 3D genome organization and insulation. These terms are evocative but imprecise. It is unclear whether "relaxing" refers to reduced insulation, increased TAD boundary permeability, decreased loop stability, or a combination of these.
+  - **Required correction** Define the specific architectural parameters that change upon BORIS loss and use consistent terminology throughout.
+  - **Concern ID** R1-m2
+  - **Severity** Minor
+  - **Axis** Scope
+  - **Affected element** Model system description
+  - **Evidence pointer** Abstract; location not provided
+  - **Issue** The abstract refers to "ovarian cancer cells" without specifying which cell lines were used, how many, or whether they represent different molecular subtypes of ovarian cancer.
+  - **Required correction** Specify the cell lines used and their relevance to HGSOC.
+  - **Concern ID** R1-m3
+  - **Severity** Minor
+  - **Axis** Translational claim
+  - **Affected element** Significance statement
+  - **Evidence pointer** Abstract; location not provided
+  - **Issue** The significance statement suggests BORIS as a "prognostic biomarker and a potential therapeutic target," but the abstract provides no data on patient outcomes, survival correlations, or therapeutic intervention.
+  - **Required correction** Either temper the translational claims or provide supporting clinical or functional data.
+- **Technical failings that need to be addressed before the case is established** R1-M1, R1-M2, R1-M3. The causal relationship between BORIS and the transcriptional program, the mechanistic basis of BORIS-mediated insulation weakening, and the clinical relevance of BORIS activation in HGSOC are all essential to the paper's central claims and cannot be evaluated from the abstract alone.
+- **Assessment against Nature-style criteria** Originality: the concept of a CTCF paralog modulating 3D genome organization in cancer is novel and extends beyond previous work on CTCF mutations and methylation. Scientific importance: potentially high, as it identifies a new mechanism of transcriptional reprogramming in a deadly cancer with limited therapeutic options. Interdisciplinary readership: the work bridges chromatin biology, epigenomics, and cancer biology, which would appeal to a broad audience. Technical soundness: cannot be assessed from the abstract; the claims require genome-wide data of high quality and rigorous statistical analysis. Readability for nonspecialists: the abstract is well-written and accessible, though some terms such as "TAD insulation" and "A/B compartment segregation" may require background knowledge.
+- **Recommendation posture** Currently not established from the provided evidence. The conceptual framework is promising and the findings could be significant, but the abstract alone does not provide sufficient detail to evaluate the rigor of the experimental support. A full review of the manuscript would be required to determine whether the claims are substantiated.
